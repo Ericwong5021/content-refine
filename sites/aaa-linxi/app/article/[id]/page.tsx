@@ -22,6 +22,7 @@ function renderMarkdown(md: string, article: Article) {
   let key = 0;
 
   while (i < lines.length) {
+    const prevI = i;
     const line = lines[i];
 
     if (line.startsWith('# ') || line === '---' || line.startsWith('**来源') || line.startsWith('### 来源') || line.startsWith('- [')) {
@@ -33,8 +34,16 @@ function renderMarkdown(md: string, article: Article) {
       continue;
     }
 
-    if (line.startsWith('### ')) {
-      elements.push(<h2 key={key++} className="article-section-heading">{line.slice(4)}</h2>);
+    if (line.startsWith('## ') || line.startsWith('### ')) {
+      const headingText = line.replace(/^#{2,3}\s*/, '');
+      elements.push(<h2 key={key++} className="article-section-heading">{headingText}</h2>);
+      i++;
+      continue;
+    }
+
+    if (line.startsWith('#### ') || line.startsWith('##### ')) {
+      const headingText = line.replace(/^#{4,5}\s*/, '');
+      elements.push(<h3 key={key++} className="article-subsection-heading font-semibold text-lg mt-6 mb-3 text-foreground">{headingText}</h3>);
       i++;
       continue;
     }
@@ -90,6 +99,10 @@ function renderMarkdown(md: string, article: Article) {
         return <span key={pIdx}>{part}</span>;
       });
       elements.push(<p key={key++} className="article-paragraph">{rendered}</p>);
+    }
+
+    if (i === prevI) {
+      i++;
     }
   }
   return elements;

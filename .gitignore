@@ -52,7 +52,6 @@ pnpm-debug.log*
 *.webm
 *.flv
 *.wmv
-*.ts
 
 # Media directories & caches
 raw-audios/
