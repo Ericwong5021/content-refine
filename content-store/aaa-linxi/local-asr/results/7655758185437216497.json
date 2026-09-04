@@ -1,0 +1,16 @@
+{
+  "pipeline_schema_version": 2,
+  "aweme_id": "7655758185437216497",
+  "url": "https://www.douyin.com/video/7655758185437216497",
+  "title": "报志愿之前先选人生道路 如果你要开天辟地，就去人类竞技场的决赛圈；如果你不需要开天辟地，就做一个藩王，各有各的技能。 #高考 #报志愿 #人生道路自己走",
+  "status": "UNAVAILABLE",
+  "filter_detail": {
+    "aweme_id": "7655758185437216497",
+    "detail_msg": "因作品权限或已被删除，无法观看，去看看其他作品吧",
+    "filter_reason": "status_self_see",
+    "icon": "https://p3.douyinpic.com/aweme-server-static-resource/reflow_notice_icon1.png~tplv-obj.image",
+    "notice": "抱歉，作品不见了"
+  },
+  "source_response_path": "raw/7655758185437216497.json",
+  "completed_at": "2026-08-28T11:57:32+08:00"
+}

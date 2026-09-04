@@ -1,0 +1,1005 @@
+{
+  "schema_version": 1,
+  "generated_at": "2026-09-02T18:43:06+08:00",
+  "book_path": "data/发财兄弟｜聊赚钱/发财兄弟｜聊赚钱知识全景书.md",
+  "book_title": "发财兄弟｜聊赚钱知识全景书",
+  "book_sha256": "f73eb92dac03708f26c752dddb4166dd2cd834069727cfdaf31b22fa69e2224a",
+  "source_count": 35,
+  "unavailable_count": 0,
+  "chapter_counts": {
+    "self": 12,
+    "wealth": 4,
+    "entrepreneurship": 6,
+    "sales": 4,
+    "brand": 2,
+    "marketing": 1,
+    "management": 1,
+    "language": 0,
+    "philosophy": 5,
+    "other": 0
+  },
+  "classification": {
+    "7654179549300142577": {
+      "chapter_id": "brand",
+      "scores": {
+        "self": 1,
+        "wealth": 5,
+        "entrepreneurship": 5,
+        "sales": 11,
+        "brand": 13,
+        "marketing": 0,
+        "management": 5,
+        "language": 0,
+        "philosophy": 1,
+        "other": 0
+      }
+    },
+    "7654531452936558513": {
+      "chapter_id": "self",
+      "scores": {
+        "self": 11,
+        "wealth": 5,
+        "entrepreneurship": 0,
+        "sales": 4,
+        "brand": 6,
+        "marketing": 1,
+        "management": 0,
+        "language": 0,
+        "philosophy": 1,
+        "other": 0
+      }
+    },
+    "7654901151834025841": {
+      "chapter_id": "self",
+      "scores": {
+        "self": 5,
+        "wealth": 5,
+        "entrepreneurship": 1,
+        "sales": 2,
+        "brand": 4,
+        "marketing": 0,
+        "management": 0,
+        "language": 4,
+        "philosophy": 0,
+        "other": 0
+      }
+    },
+    "7655274883585125105": {
+      "chapter_id": "self",
+      "scores": {
+        "self": 7,
+        "wealth": 1,
+        "entrepreneurship": 5,
+        "sales": 2,
+        "brand": 4,
+        "marketing": 1,
+        "management": 1,
+        "language": 0,
+        "philosophy": 1,
+        "other": 0
+      }
+    },
+    "7655908443886254961": {
+      "chapter_id": "sales",
+      "scores": {
+        "self": 1,
+        "wealth": 5,
+        "entrepreneurship": 4,
+        "sales": 9,
+        "brand": 4,
+        "marketing": 1,
+        "management": 9,
+        "language": 1,
+        "philosophy": 5,
+        "other": 0
+      }
+    },
+    "7656351300968735097": {
+      "chapter_id": "entrepreneurship",
+      "scores": {
+        "self": 0,
+        "wealth": 5,
+        "entrepreneurship": 11,
+        "sales": 5,
+        "brand": 4,
+        "marketing": 5,
+        "management": 8,
+        "language": 0,
+        "philosophy": 7,
+        "other": 0
+      }
+    },
+    "7656968203495996325": {
+      "chapter_id": "wealth",
+      "scores": {
+        "self": 2,
+        "wealth": 5,
+        "entrepreneurship": 1,
+        "sales": 1,
+        "brand": 5,
+        "marketing": 2,
+        "management": 1,
+        "language": 0,
+        "philosophy": 5,
+        "other": 0
+      }
+    },
+    "7657135574184989819": {
+      "chapter_id": "self",
+      "scores": {
+        "self": 5,
+        "wealth": 1,
+        "entrepreneurship": 1,
+        "sales": 0,
+        "brand": 4,
+        "marketing": 0,
+        "management": 0,
+        "language": 5,
+        "philosophy": 5,
+        "other": 0
+      }
+    },
+    "7658139321783164017": {
+      "chapter_id": "self",
+      "scores": {
+        "self": 8,
+        "wealth": 1,
+        "entrepreneurship": 1,
+        "sales": 0,
+        "brand": 4,
+        "marketing": 1,
+        "management": 0,
+        "language": 0,
+        "philosophy": 7,
+        "other": 0
+      }
+    },
+    "7659257301753017841": {
+      "chapter_id": "self",
+      "scores": {
+        "self": 6,
+        "wealth": 0,
+        "entrepreneurship": 0,
+        "sales": 0,
+        "brand": 4,
+        "marketing": 0,
+        "management": 1,
+        "language": 1,
+        "philosophy": 5,
+        "other": 0
+      }
+    },
+    "7660381367155234427": {
+      "chapter_id": "philosophy",
+      "scores": {
+        "self": 8,
+        "wealth": 1,
+        "entrepreneurship": 7,
+        "sales": 2,
+        "brand": 4,
+        "marketing": 2,
+        "management": 1,
+        "language": 1,
+        "philosophy": 10,
+        "other": 0
+      }
+    },
+    "7662714363161201920": {
+      "chapter_id": "entrepreneurship",
+      "scores": {
+        "self": 1,
+        "wealth": 0,
+        "entrepreneurship": 14,
+        "sales": 4,
+        "brand": 4,
+        "marketing": 6,
+        "management": 3,
+        "language": 0,
+        "philosophy": 5,
+        "other": 0
+      }
+    },
+    "7663319413307190713": {
+      "chapter_id": "philosophy",
+      "scores": {
+        "self": 0,
+        "wealth": 4,
+        "entrepreneurship": 0,
+        "sales": 4,
+        "brand": 4,
+        "marketing": 1,
+        "management": 4,
+        "language": 0,
+        "philosophy": 10,
+        "other": 0
+      }
+    },
+    "7664832673282176229": {
+      "chapter_id": "entrepreneurship",
+      "scores": {
+        "self": 0,
+        "wealth": 0,
+        "entrepreneurship": 6,
+        "sales": 0,
+        "brand": 4,
+        "marketing": 1,
+        "management": 2,
+        "language": 0,
+        "philosophy": 4,
+        "other": 0
+      }
+    },
+    "7665591403229663674": {
+      "chapter_id": "self",
+      "scores": {
+        "self": 8,
+        "wealth": 6,
+        "entrepreneurship": 0,
+        "sales": 0,
+        "brand": 4,
+        "marketing": 0,
+        "management": 5,
+        "language": 4,
+        "philosophy": 4,
+        "other": 0
+      }
+    },
+    "7666315670322387889": {
+      "chapter_id": "sales",
+      "scores": {
+        "self": 2,
+        "wealth": 1,
+        "entrepreneurship": 0,
+        "sales": 5,
+        "brand": 4,
+        "marketing": 0,
+        "management": 1,
+        "language": 0,
+        "philosophy": 4,
+        "other": 0
+      }
+    },
+    "7667363328272210865": {
+      "chapter_id": "self",
+      "scores": {
+        "self": 11,
+        "wealth": 3,
+        "entrepreneurship": 7,
+        "sales": 4,
+        "brand": 8,
+        "marketing": 1,
+        "management": 5,
+        "language": 0,
+        "philosophy": 4,
+        "other": 0
+      }
+    },
+    "7667795583985344113": {
+      "chapter_id": "management",
+      "scores": {
+        "self": 2,
+        "wealth": 0,
+        "entrepreneurship": 0,
+        "sales": 4,
+        "brand": 4,
+        "marketing": 0,
+        "management": 5,
+        "language": 0,
+        "philosophy": 5,
+        "other": 0
+      }
+    },
+    "7668161899566437627": {
+      "chapter_id": "philosophy",
+      "scores": {
+        "self": 0,
+        "wealth": 2,
+        "entrepreneurship": 1,
+        "sales": 0,
+        "brand": 4,
+        "marketing": 0,
+        "management": 1,
+        "language": 0,
+        "philosophy": 6,
+        "other": 0
+      }
+    },
+    "7668914647332485361": {
+      "chapter_id": "philosophy",
+      "scores": {
+        "self": 2,
+        "wealth": 2,
+        "entrepreneurship": 2,
+        "sales": 1,
+        "brand": 4,
+        "marketing": 0,
+        "management": 1,
+        "language": 0,
+        "philosophy": 6,
+        "other": 0
+      }
+    },
+    "7669655313369666533": {
+      "chapter_id": "sales",
+      "scores": {
+        "self": 6,
+        "wealth": 7,
+        "entrepreneurship": 5,
+        "sales": 8,
+        "brand": 5,
+        "marketing": 2,
+        "management": 0,
+        "language": 1,
+        "philosophy": 4,
+        "other": 0
+      }
+    },
+    "7670396059981475505": {
+      "chapter_id": "self",
+      "scores": {
+        "self": 8,
+        "wealth": 4,
+        "entrepreneurship": 5,
+        "sales": 0,
+        "brand": 4,
+        "marketing": 0,
+        "management": 0,
+        "language": 0,
+        "philosophy": 1,
+        "other": 0
+      }
+    },
+    "7671138216099696315": {
+      "chapter_id": "brand",
+      "scores": {
+        "self": 1,
+        "wealth": 6,
+        "entrepreneurship": 7,
+        "sales": 5,
+        "brand": 8,
+        "marketing": 1,
+        "management": 0,
+        "language": 0,
+        "philosophy": 5,
+        "other": 0
+      }
+    },
+    "7671881001563747258": {
+      "chapter_id": "wealth",
+      "scores": {
+        "self": 1,
+        "wealth": 6,
+        "entrepreneurship": 1,
+        "sales": 6,
+        "brand": 4,
+        "marketing": 0,
+        "management": 0,
+        "language": 1,
+        "philosophy": 5,
+        "other": 0
+      }
+    },
+    "7672624901001461489": {
+      "chapter_id": "entrepreneurship",
+      "scores": {
+        "self": 0,
+        "wealth": 0,
+        "entrepreneurship": 10,
+        "sales": 2,
+        "brand": 4,
+        "marketing": 5,
+        "management": 1,
+        "language": 4,
+        "philosophy": 0,
+        "other": 0
+      }
+    },
+    "7673370402819667962": {
+      "chapter_id": "wealth",
+      "scores": {
+        "self": 7,
+        "wealth": 21,
+        "entrepreneurship": 0,
+        "sales": 0,
+        "brand": 4,
+        "marketing": 0,
+        "management": 5,
+        "language": 0,
+        "philosophy": 1,
+        "other": 0
+      }
+    },
+    "7673735548166693361": {
+      "chapter_id": "self",
+      "scores": {
+        "self": 7,
+        "wealth": 0,
+        "entrepreneurship": 4,
+        "sales": 0,
+        "brand": 4,
+        "marketing": 0,
+        "management": 5,
+        "language": 1,
+        "philosophy": 0,
+        "other": 0
+      }
+    },
+    "7674482621242717425": {
+      "chapter_id": "entrepreneurship",
+      "scores": {
+        "self": 0,
+        "wealth": 4,
+        "entrepreneurship": 5,
+        "sales": 4,
+        "brand": 4,
+        "marketing": 1,
+        "management": 4,
+        "language": 1,
+        "philosophy": 1,
+        "other": 0
+      }
+    },
+    "7675034566201413734": {
+      "chapter_id": "marketing",
+      "scores": {
+        "self": 0,
+        "wealth": 0,
+        "entrepreneurship": 0,
+        "sales": 0,
+        "brand": 0,
+        "marketing": 1,
+        "management": 0,
+        "language": 0,
+        "philosophy": 0,
+        "other": 0
+      }
+    },
+    "7675222105953162491": {
+      "chapter_id": "wealth",
+      "scores": {
+        "self": 5,
+        "wealth": 10,
+        "entrepreneurship": 4,
+        "sales": 0,
+        "brand": 4,
+        "marketing": 0,
+        "management": 0,
+        "language": 4,
+        "philosophy": 5,
+        "other": 0
+      }
+    },
+    "7675968129524467121": {
+      "chapter_id": "entrepreneurship",
+      "scores": {
+        "self": 1,
+        "wealth": 1,
+        "entrepreneurship": 7,
+        "sales": 4,
+        "brand": 5,
+        "marketing": 1,
+        "management": 5,
+        "language": 1,
+        "philosophy": 6,
+        "other": 0
+      }
+    },
+    "7677092712466042801": {
+      "chapter_id": "philosophy",
+      "scores": {
+        "self": 7,
+        "wealth": 0,
+        "entrepreneurship": 1,
+        "sales": 0,
+        "brand": 4,
+        "marketing": 1,
+        "management": 5,
+        "language": 0,
+        "philosophy": 9,
+        "other": 0
+      }
+    },
+    "7677847255805832634": {
+      "chapter_id": "sales",
+      "scores": {
+        "self": 3,
+        "wealth": 7,
+        "entrepreneurship": 5,
+        "sales": 9,
+        "brand": 4,
+        "marketing": 1,
+        "management": 1,
+        "language": 0,
+        "philosophy": 5,
+        "other": 0
+      }
+    },
+    "7678940638377194426": {
+      "chapter_id": "self",
+      "scores": {
+        "self": 10,
+        "wealth": 8,
+        "entrepreneurship": 1,
+        "sales": 0,
+        "brand": 4,
+        "marketing": 0,
+        "management": 0,
+        "language": 5,
+        "philosophy": 0,
+        "other": 0
+      }
+    },
+    "7680414634737853617": {
+      "chapter_id": "self",
+      "scores": {
+        "self": 6,
+        "wealth": 1,
+        "entrepreneurship": 5,
+        "sales": 5,
+        "brand": 5,
+        "marketing": 2,
+        "management": 5,
+        "language": 1,
+        "philosophy": 0,
+        "other": 0
+      }
+    }
+  },
+  "sources": [
+    {
+      "aweme_id": "7654531452936558513",
+      "title": "如何在35岁前赚到100万",
+      "published_at": "2026-06-23T18:11:25+08:00",
+      "url": "https://www.douyin.com/video/7654531452936558513",
+      "source_path": "local-asr/results/7654531452936558513.json",
+      "refinement_path": "refined/results/7654531452936558513.json",
+      "source_asr_sha256": "615f92f646ce4ea66f5b5cb26e65a9c857deaca6046d87fa4d74a7ecc11b4ee9",
+      "prompt_sha256": "487e4d2157283fee47da29e14b6de28f394da7b81189060bc67de13411e3ca57",
+      "correction_count": 14,
+      "uncertainty_count": 2,
+      "chapter_id": "self"
+    },
+    {
+      "aweme_id": "7654901151834025841",
+      "title": "赚钱的第一性原理",
+      "published_at": "2026-06-24T18:06:02+08:00",
+      "url": "https://www.douyin.com/video/7654901151834025841",
+      "source_path": "local-asr/results/7654901151834025841.json",
+      "refinement_path": "refined/results/7654901151834025841.json",
+      "source_asr_sha256": "025a18bf0f858715b56a72264f8ff189280debd136d3810190a2c484a39c674d",
+      "prompt_sha256": "daa7646dc226563ad63ed2859699b62d233af0cd2a8bfa2a600e7557bfffc2f4",
+      "correction_count": 14,
+      "uncertainty_count": 0,
+      "chapter_id": "self"
+    },
+    {
+      "aweme_id": "7655274883585125105",
+      "title": "成长最快的方式就是研究赚钱",
+      "published_at": "2026-06-25T18:16:19+08:00",
+      "url": "https://www.douyin.com/video/7655274883585125105",
+      "source_path": "local-asr/results/7655274883585125105.json",
+      "refinement_path": "refined/results/7655274883585125105.json",
+      "source_asr_sha256": "856576a84f19d5ca9244034f28d0f35c7c04ee8ae49e6171e17f8bca6db8536c",
+      "prompt_sha256": "8269caa312b9bda0734f5e449618e0799e12c4acdc1e19d2a36070f4d797e0bd",
+      "correction_count": 17,
+      "uncertainty_count": 3,
+      "chapter_id": "self"
+    },
+    {
+      "aweme_id": "7657135574184989819",
+      "title": "大部分人永远踩不中风口的原因",
+      "published_at": "2026-06-30T18:36:45+08:00",
+      "url": "https://www.douyin.com/video/7657135574184989819",
+      "source_path": "local-asr/results/7657135574184989819.json",
+      "refinement_path": "refined/results/7657135574184989819.json",
+      "source_asr_sha256": "31a93bbf54cc13c7b4f3d2995e43a3d9fefe5a8d5cf3c34ddd3c47169a8f4f0f",
+      "prompt_sha256": "34a6bf09e6ff42bd8387eed0ebb0dce499825066866d0a86d362fb98e7db3bce",
+      "correction_count": 19,
+      "uncertainty_count": 2,
+      "chapter_id": "self"
+    },
+    {
+      "aweme_id": "7658139321783164017",
+      "title": "普通人最大的红利，就是找到属于自己的生意",
+      "published_at": "2026-07-03T11:31:48+08:00",
+      "url": "https://www.douyin.com/video/7658139321783164017",
+      "source_path": "local-asr/results/7658139321783164017.json",
+      "refinement_path": "refined/results/7658139321783164017.json",
+      "source_asr_sha256": "355d93f1697db70d83718748881646f37ab996cc81fca251a4dcd1b3e7809744",
+      "prompt_sha256": "cb49a567eaa6224c60c79217d1b6f4010e999aad87de251e93d328325f18befa",
+      "correction_count": 13,
+      "uncertainty_count": 3,
+      "chapter_id": "self"
+    },
+    {
+      "aweme_id": "7659257301753017841",
+      "title": "上班上到什么程度就该跑了？",
+      "published_at": "2026-07-06T11:50:08+08:00",
+      "url": "https://www.douyin.com/video/7659257301753017841",
+      "source_path": "local-asr/results/7659257301753017841.json",
+      "refinement_path": "refined/results/7659257301753017841.json",
+      "source_asr_sha256": "92f49536c22b1d6ba44a71fefe8972c25979e5c8aa9775cb2def53337306dc38",
+      "prompt_sha256": "1a02836c4472950a95b7d9d28fef36d0d1904bbcd986d30e278eb947cfe05b6f",
+      "correction_count": 14,
+      "uncertainty_count": 2,
+      "chapter_id": "self"
+    },
+    {
+      "aweme_id": "7665591403229663674",
+      "title": "如何赚到第一个100万",
+      "published_at": "2026-07-23T13:29:41+08:00",
+      "url": "https://www.douyin.com/video/7665591403229663674",
+      "source_path": "local-asr/results/7665591403229663674.json",
+      "refinement_path": "refined/results/7665591403229663674.json",
+      "source_asr_sha256": "8223bfcfd7fc8022b8920308f901015ed8d3daffc1ae22be2e9404f68c2c89bf",
+      "prompt_sha256": "2b4c68540f7dd702acd466c7702897b532e210b389c8bd138be105022fd19841",
+      "correction_count": 10,
+      "uncertainty_count": 1,
+      "chapter_id": "self"
+    },
+    {
+      "aweme_id": "7667363328272210865",
+      "title": "尽快完成原始资本积累",
+      "published_at": "2026-07-28T08:05:40+08:00",
+      "url": "https://www.douyin.com/video/7667363328272210865",
+      "source_path": "local-asr/results/7667363328272210865.json",
+      "refinement_path": "refined/results/7667363328272210865.json",
+      "source_asr_sha256": "d7f395b35a94f5df2ac8632fde6b5760c190d6c4a36f72227fb0943e7f6faca1",
+      "prompt_sha256": "a71bd383153109233e3a085d1d1e6d92695ebf522a48abc42f873888e4a34efe",
+      "correction_count": 25,
+      "uncertainty_count": 2,
+      "chapter_id": "self"
+    },
+    {
+      "aweme_id": "7670396059981475505",
+      "title": "一定要坚持长期主义",
+      "published_at": "2026-08-05T12:14:12+08:00",
+      "url": "https://www.douyin.com/video/7670396059981475505",
+      "source_path": "local-asr/results/7670396059981475505.json",
+      "refinement_path": "refined/results/7670396059981475505.json",
+      "source_asr_sha256": "69a90f5df83f2317cdd927854b085b8dc1247e36314eb64eb4c7dd0fe909303b",
+      "prompt_sha256": "1321a793b3452527a9611373c8668f0912545bc7034801de5b6b0c46f6dd836a",
+      "correction_count": 15,
+      "uncertainty_count": 1,
+      "chapter_id": "self"
+    },
+    {
+      "aweme_id": "7673735548166693361",
+      "title": "赚钱的第一步是借力",
+      "published_at": "2026-08-14T12:13:07+08:00",
+      "url": "https://www.douyin.com/video/7673735548166693361",
+      "source_path": "local-asr/results/7673735548166693361.json",
+      "refinement_path": "refined/results/7673735548166693361.json",
+      "source_asr_sha256": "b3231797922948f14d06eb38b3ddd0fb1911d47d5f26355b8c944c97abeff18e",
+      "prompt_sha256": "84106303704777c64c7b4ce2ddb4a08021698ba50cea4078177872d9c0ae1727",
+      "correction_count": 27,
+      "uncertainty_count": 2,
+      "chapter_id": "self"
+    },
+    {
+      "aweme_id": "7678940638377194426",
+      "title": "财富的底层逻辑",
+      "published_at": "2026-08-28T12:51:32+08:00",
+      "url": "https://www.douyin.com/video/7678940638377194426",
+      "source_path": "local-asr/results/7678940638377194426.json",
+      "refinement_path": "refined/results/7678940638377194426.json",
+      "source_asr_sha256": "a6512b665990ac6efafb4c3fd580ce845b226333f6834175b3acb9f448ca53ff",
+      "prompt_sha256": "e82f630b2e9d7ee4f044d220516c449682e34d793d05d593129459beb8e93575",
+      "correction_count": 16,
+      "uncertainty_count": 3,
+      "chapter_id": "self"
+    },
+    {
+      "aweme_id": "7680414634737853617",
+      "title": "如何尽早建立商业思维",
+      "published_at": "2026-09-01T12:11:23+08:00",
+      "url": "https://www.douyin.com/video/7680414634737853617",
+      "source_path": "local-asr/results/7680414634737853617.json",
+      "refinement_path": "refined/results/7680414634737853617.json",
+      "source_asr_sha256": "731fcba34481a564537920ef01f34f97d92b9beb2394c139be448298b1452827",
+      "prompt_sha256": "a0a13e73c2e8a53369b116633369b42a4ef5ed51d5c695a89bd46bd7ae422e83",
+      "correction_count": 10,
+      "uncertainty_count": 1,
+      "chapter_id": "self"
+    },
+    {
+      "aweme_id": "7656968203495996325",
+      "title": "给普通人的生产资料积累指南",
+      "published_at": "2026-06-30T07:47:16+08:00",
+      "url": "https://www.douyin.com/video/7656968203495996325",
+      "source_path": "local-asr/results/7656968203495996325.json",
+      "refinement_path": "refined/results/7656968203495996325.json",
+      "source_asr_sha256": "b16922a861d680789bb3eaa8a84e4de89e68da1090fa0f0c1658dadc89f4ccae",
+      "prompt_sha256": "af754303abf18c9b6abf35fe3acbf525ee46f3166e43336b877c994dec59c3f3",
+      "correction_count": 19,
+      "uncertainty_count": 3,
+      "chapter_id": "wealth"
+    },
+    {
+      "aweme_id": "7671881001563747258",
+      "title": "为什么拼命工作反而越来越穷？",
+      "published_at": "2026-08-09T12:16:32+08:00",
+      "url": "https://www.douyin.com/video/7671881001563747258",
+      "source_path": "local-asr/results/7671881001563747258.json",
+      "refinement_path": "refined/results/7671881001563747258.json",
+      "source_asr_sha256": "072bb4e5c56d4a5fac2f8113b9de12a1666b38ac39bb783daa7c0d8ab634b4f1",
+      "prompt_sha256": "5ebf2c35630b5d8008343416eb3b7c113cf83e496ec1b41e13b23f01d95ca25f",
+      "correction_count": 11,
+      "uncertainty_count": 2,
+      "chapter_id": "wealth"
+    },
+    {
+      "aweme_id": "7673370402819667962",
+      "title": "想办法赚到一辈子的钱",
+      "published_at": "2026-08-13T12:36:10+08:00",
+      "url": "https://www.douyin.com/video/7673370402819667962",
+      "source_path": "local-asr/results/7673370402819667962.json",
+      "refinement_path": "refined/results/7673370402819667962.json",
+      "source_asr_sha256": "225e32056d6be9caabf3e18d570551c069e59084a6665d6bbbb185922ff5e25b",
+      "prompt_sha256": "38f6d0b919843a4a8b85b97800559f8d325b350bc9866bf11a516ba6b60b2665",
+      "correction_count": 16,
+      "uncertainty_count": 3,
+      "chapter_id": "wealth"
+    },
+    {
+      "aweme_id": "7675222105953162491",
+      "title": "赚钱的底层逻辑",
+      "published_at": "2026-08-18T12:21:44+08:00",
+      "url": "https://www.douyin.com/video/7675222105953162491",
+      "source_path": "local-asr/results/7675222105953162491.json",
+      "refinement_path": "refined/results/7675222105953162491.json",
+      "source_asr_sha256": "5d642e4569edf54832da6cbe7c242f8b9d1abb304542fdf5a3ef337c7cdbb065",
+      "prompt_sha256": "9b83e5ed40bd10e33de2c3aa3bf0ab234a00b905f2a71cade1d56ea050e87631",
+      "correction_count": 22,
+      "uncertainty_count": 2,
+      "chapter_id": "wealth"
+    },
+    {
+      "aweme_id": "7656351300968735097",
+      "title": "创业 vs 上班，普通人到底怎么选？",
+      "published_at": "2026-06-28T15:53:22+08:00",
+      "url": "https://www.douyin.com/video/7656351300968735097",
+      "source_path": "local-asr/results/7656351300968735097.json",
+      "refinement_path": "refined/results/7656351300968735097.json",
+      "source_asr_sha256": "f11a3f3864cb17031558a0bf375a92c4b8f553cd566df4ff2f7c95c70a67353b",
+      "prompt_sha256": "7ee4b1ac22b6b4209946e0def181575e8336f2fd5c80418f14e4a5b6085ac046",
+      "correction_count": 19,
+      "uncertainty_count": 1,
+      "chapter_id": "entrepreneurship"
+    },
+    {
+      "aweme_id": "7662714363161201920",
+      "title": "“一人公司”是创业最大的陷阱",
+      "published_at": "2026-07-15T19:25:30+08:00",
+      "url": "https://www.douyin.com/video/7662714363161201920",
+      "source_path": "local-asr/results/7662714363161201920.json",
+      "refinement_path": "refined/results/7662714363161201920.json",
+      "source_asr_sha256": "a90bf0f27233f4255e6d37e82704c0790df6b9b26b2b364c8ab2c5a0582ce7f1",
+      "prompt_sha256": "5e6cf62f49a572ba64c54389d27735a7d0d5311297dd8512640a132b2c6be3b6",
+      "correction_count": 17,
+      "uncertainty_count": 3,
+      "chapter_id": "entrepreneurship"
+    },
+    {
+      "aweme_id": "7664832673282176229",
+      "title": "创业就是一个人把全流程走通",
+      "published_at": "2026-07-21T12:25:25+08:00",
+      "url": "https://www.douyin.com/video/7664832673282176229",
+      "source_path": "local-asr/results/7664832673282176229.json",
+      "refinement_path": "refined/results/7664832673282176229.json",
+      "source_asr_sha256": "166f6503f9edc0841decbcad1d88a7283e4c1965bfd5f2b108a564bc9e34031a",
+      "prompt_sha256": "7171c5b02898d010b545fab80bd7c210b2bc03bdd9f3559842483b68805ade46",
+      "correction_count": 11,
+      "uncertainty_count": 2,
+      "chapter_id": "entrepreneurship"
+    },
+    {
+      "aweme_id": "7672624901001461489",
+      "title": "创业的第一性原理",
+      "published_at": "2026-08-11T12:23:15+08:00",
+      "url": "https://www.douyin.com/video/7672624901001461489",
+      "source_path": "local-asr/results/7672624901001461489.json",
+      "refinement_path": "refined/results/7672624901001461489.json",
+      "source_asr_sha256": "e85387ccec4c66fa0a076562bfbf0a82078cdde5116db6e6f2131b3b2714d4e8",
+      "prompt_sha256": "e2f1865952a0bffed30ce65c460a0affb8f6a649c6e91243f3cedca3306d49d5",
+      "correction_count": 20,
+      "uncertainty_count": 2,
+      "chapter_id": "entrepreneurship"
+    },
+    {
+      "aweme_id": "7674482621242717425",
+      "title": "赚到大钱的人靠的是什么？",
+      "published_at": "2026-08-16T12:32:08+08:00",
+      "url": "https://www.douyin.com/video/7674482621242717425",
+      "source_path": "local-asr/results/7674482621242717425.json",
+      "refinement_path": "refined/results/7674482621242717425.json",
+      "source_asr_sha256": "172bdd48b49808fb75d7074344cb5a112d20db01b86fe5820ff67ea621028852",
+      "prompt_sha256": "bef46f572e8c199e47960886352d98f0475df551080e2a955ce53c6b59f5e57a",
+      "correction_count": 13,
+      "uncertainty_count": 0,
+      "chapter_id": "entrepreneurship"
+    },
+    {
+      "aweme_id": "7675968129524467121",
+      "title": "普通人如何找到创业方向",
+      "published_at": "2026-08-20T12:36:41+08:00",
+      "url": "https://www.douyin.com/video/7675968129524467121",
+      "source_path": "local-asr/results/7675968129524467121.json",
+      "refinement_path": "refined/results/7675968129524467121.json",
+      "source_asr_sha256": "3832e363206ef79df257225a434818b3c5ff8b4415f0b8c4adf4a428776b4327",
+      "prompt_sha256": "fdbdc25049233798c3d7bc5101ee67e650ccf9a3dba22383a7d54ae6743194f3",
+      "correction_count": 13,
+      "uncertainty_count": 2,
+      "chapter_id": "entrepreneurship"
+    },
+    {
+      "aweme_id": "7655908443886254961",
+      "title": "普通人如何摆脱一辈子打工",
+      "published_at": "2026-06-27T11:14:51+08:00",
+      "url": "https://www.douyin.com/video/7655908443886254961",
+      "source_path": "local-asr/results/7655908443886254961.json",
+      "refinement_path": "refined/results/7655908443886254961.json",
+      "source_asr_sha256": "d14a182feb12df4da5f4e641c9205b2a044a2536b0fcdd866284754210a0b7cd",
+      "prompt_sha256": "02f9b2482e86f1c103b46660d6c73198723017e6900c6ea16377dc7d05970382",
+      "correction_count": 16,
+      "uncertainty_count": 2,
+      "chapter_id": "sales"
+    },
+    {
+      "aweme_id": "7666315670322387889",
+      "title": "尽早培养赚钱的手艺",
+      "published_at": "2026-07-25T12:20:12+08:00",
+      "url": "https://www.douyin.com/video/7666315670322387889",
+      "source_path": "local-asr/results/7666315670322387889.json",
+      "refinement_path": "refined/results/7666315670322387889.json",
+      "source_asr_sha256": "8dc7cd1336cdc87e7c6abf642a34c6e60756df8dcc3cff175b44aa9747f7c221",
+      "prompt_sha256": "eea306f8503ee45e138de608b9e65eba92be19c05cf9e079bd132883ff8f69c7",
+      "correction_count": 14,
+      "uncertainty_count": 1,
+      "chapter_id": "sales"
+    },
+    {
+      "aweme_id": "7669655313369666533",
+      "title": "赚钱的真相",
+      "published_at": "2026-08-03T12:19:43+08:00",
+      "url": "https://www.douyin.com/video/7669655313369666533",
+      "source_path": "local-asr/results/7669655313369666533.json",
+      "refinement_path": "refined/results/7669655313369666533.json",
+      "source_asr_sha256": "ec1c2bf0fab4ae452df820d74a45191083c99c82b7a58d1b746713fcde653a79",
+      "prompt_sha256": "50a0035893bedc9928c30fde12414f6fe61d547b85c609e3d5cc994f2a0b607b",
+      "correction_count": 19,
+      "uncertainty_count": 2,
+      "chapter_id": "sales"
+    },
+    {
+      "aweme_id": "7677847255805832634",
+      "title": "创业的第一要素",
+      "published_at": "2026-08-25T14:08:38+08:00",
+      "url": "https://www.douyin.com/video/7677847255805832634",
+      "source_path": "local-asr/results/7677847255805832634.json",
+      "refinement_path": "refined/results/7677847255805832634.json",
+      "source_asr_sha256": "0ec47371736a9ef95031525b7ccfabbf6983b446944e584c83ea1b45e53777e4",
+      "prompt_sha256": "40f1dbd56dea8c662037b6829dbe1a38e4805b0261e34b7ade3f827721b25b48",
+      "correction_count": 28,
+      "uncertainty_count": 1,
+      "chapter_id": "sales"
+    },
+    {
+      "aweme_id": "7654179549300142577",
+      "title": "看懂大势，普通人也能相对体面的赚钱 #赚钱 #商业思维 #视频播客扶持计划 #商业咨询 #个人品牌",
+      "published_at": "2026-06-22T19:25:52+08:00",
+      "url": "https://www.douyin.com/video/7654179549300142577",
+      "source_path": "local-asr/results/7654179549300142577.json",
+      "refinement_path": "refined/results/7654179549300142577.json",
+      "source_asr_sha256": "7245342532a5b6006bb3532b77de33790a17139d95472096ab3c1bb882bdb62b",
+      "prompt_sha256": "be6aa56a073e8fae81fcbd7f4b098303bd7f4bdef9f7e798709a8f7be3aab910",
+      "correction_count": 19,
+      "uncertainty_count": 2,
+      "chapter_id": "brand"
+    },
+    {
+      "aweme_id": "7671138216099696315",
+      "title": "创业的第一性原理",
+      "published_at": "2026-08-07T12:14:09+08:00",
+      "url": "https://www.douyin.com/video/7671138216099696315",
+      "source_path": "local-asr/results/7671138216099696315.json",
+      "refinement_path": "refined/results/7671138216099696315.json",
+      "source_asr_sha256": "85671bfea5879bf4456bd540aaada76713f690c4f11df1d3bfb0659279e5cc04",
+      "prompt_sha256": "fcca4669da5fc9e01254e2073a7f6ce3b6f4f016e68fd2e65d9df4a37a286090",
+      "correction_count": 16,
+      "uncertainty_count": 1,
+      "chapter_id": "brand"
+    },
+    {
+      "aweme_id": "7675034566201413734",
+      "title": "学柬埔寨语第149天",
+      "published_at": "2026-08-18T00:13:58+08:00",
+      "url": "https://www.douyin.com/video/7675034566201413734",
+      "source_path": "local-asr/results/7675034566201413734.json",
+      "refinement_path": "refined/results/7675034566201413734.json",
+      "source_asr_sha256": "1e1c373cd3fae4e27df5592576e4aa271d3de8bbad7a5a76a84f96a2255d5a0b",
+      "prompt_sha256": "831b1151d097f1a330c8899311e2935aae50c18bb2cf679412338b150359bf8d",
+      "correction_count": 1,
+      "uncertainty_count": 1,
+      "chapter_id": "marketing"
+    },
+    {
+      "aweme_id": "7667795583985344113",
+      "title": "人生重大选择别犯错",
+      "published_at": "2026-07-29T12:03:01+08:00",
+      "url": "https://www.douyin.com/video/7667795583985344113",
+      "source_path": "local-asr/results/7667795583985344113.json",
+      "refinement_path": "refined/results/7667795583985344113.json",
+      "source_asr_sha256": "aac2db972f3d29df82385fba38be9bec50d1561b39537667e559cfe27678dcbb",
+      "prompt_sha256": "cc2bec98db773a1fcc8853dfb698f0e90228faa8abbb8c1195a452a7cd0ac3c2",
+      "correction_count": 16,
+      "uncertainty_count": 1,
+      "chapter_id": "management"
+    },
+    {
+      "aweme_id": "7660381367155234427",
+      "title": "如何找到自己的终身事业？",
+      "published_at": "2026-07-09T12:32:04+08:00",
+      "url": "https://www.douyin.com/video/7660381367155234427",
+      "source_path": "local-asr/results/7660381367155234427.json",
+      "refinement_path": "refined/results/7660381367155234427.json",
+      "source_asr_sha256": "285164dec6f4c580d7cb66a2e8bfa34211c8e5d5a0406871e3c6ce1c20fbb9dd",
+      "prompt_sha256": "95b32db65d8b9a713c77a7d955adff6186afa34957358461bbc338ad4793dad6",
+      "correction_count": 14,
+      "uncertainty_count": 2,
+      "chapter_id": "philosophy"
+    },
+    {
+      "aweme_id": "7663319413307190713",
+      "title": "35岁以后要选择可以做一辈子的生意",
+      "published_at": "2026-07-17T12:32:00+08:00",
+      "url": "https://www.douyin.com/video/7663319413307190713",
+      "source_path": "local-asr/results/7663319413307190713.json",
+      "refinement_path": "refined/results/7663319413307190713.json",
+      "source_asr_sha256": "de777a896a33f13116fb59391410511554b6afa392ee116b57825bd8d21da689",
+      "prompt_sha256": "bc6ffb6cd1f5c5b893c269d05bc933a57c39378721cb7ed301de84f6ff82428b",
+      "correction_count": 25,
+      "uncertainty_count": 2,
+      "chapter_id": "philosophy"
+    },
+    {
+      "aweme_id": "7668161899566437627",
+      "title": "赚不到钱的真相",
+      "published_at": "2026-07-30T11:44:31+08:00",
+      "url": "https://www.douyin.com/video/7668161899566437627",
+      "source_path": "local-asr/results/7668161899566437627.json",
+      "refinement_path": "refined/results/7668161899566437627.json",
+      "source_asr_sha256": "3bf45166bdbfdd23b5d2bbb025a52d3ff1417bd8de349cf28d4f1157920d3d0b",
+      "prompt_sha256": "7e513394d44c5eecee0897b090d1bbaeef0deb8db7200218686a7335a8de5755",
+      "correction_count": 20,
+      "uncertainty_count": 2,
+      "chapter_id": "philosophy"
+    },
+    {
+      "aweme_id": "7668914647332485361",
+      "title": "尽早完成自我托举",
+      "published_at": "2026-08-01T12:25:33+08:00",
+      "url": "https://www.douyin.com/video/7668914647332485361",
+      "source_path": "local-asr/results/7668914647332485361.json",
+      "refinement_path": "refined/results/7668914647332485361.json",
+      "source_asr_sha256": "9320c9de0c0da2663dc46d6ccacb1221b29143115197f87e6ee161e95c789337",
+      "prompt_sha256": "b980aae7d757d8bfa0740410957581e89d0b63f0b3d7ffa94b5bb69c21e79bec",
+      "correction_count": 24,
+      "uncertainty_count": 2,
+      "chapter_id": "philosophy"
+    },
+    {
+      "aweme_id": "7677092712466042801",
+      "title": "为什么很多人上班上的很痛苦？",
+      "published_at": "2026-08-23T13:20:38+08:00",
+      "url": "https://www.douyin.com/video/7677092712466042801",
+      "source_path": "local-asr/results/7677092712466042801.json",
+      "refinement_path": "refined/results/7677092712466042801.json",
+      "source_asr_sha256": "aa179e36467d2b38d51786cef6072432fde231ceb4c42d04f4353c07cc193989",
+      "prompt_sha256": "fc480b2d0d132d7de6a5450001d5510c32f13edc5e30ca99cf0c3cc5ebfa8c6e",
+      "correction_count": 29,
+      "uncertainty_count": 1,
+      "chapter_id": "philosophy"
+    }
+  ]
+}

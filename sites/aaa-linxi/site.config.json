@@ -1,0 +1,13 @@
+{
+  "id": "aaa-linxi",
+  "title": "主动权 · AAA麟西",
+  "subtitle": "把观点还给原文，把知识连成一本书",
+  "author": "AAA麟西",
+  "brandMark": "麟",
+  "theme": "slate",
+  "description": "从自我认知到品牌哲学，从创业方法到道德经——一位抖音创作者的商业思考地图。",
+  "vercel": {
+    "projectId": "prj_aAhWArVCfLi9ICLfLI7pkYGVU88i",
+    "projectName": "aaa-linxi-ebook"
+  }
+}

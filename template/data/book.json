@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "title": "创作者知识全景书（模板预览）",
+  "subtitle": "把观点还给原文，把知识连成一本书",
+  "author": "创作者",
+  "generated_at": "2026-09-03T11:00:00+08:00",
+  "method": "公开元数据 + 本地 ASR + Codex 校订",
+  "stats": {
+    "input_count": 0,
+    "entry_count": 0,
+    "unavailable_count": 0,
+    "audio_hours": 0,
+    "correction_count": 0,
+    "uncertainty_count": 0,
+    "citation_count": 0,
+    "citation_matches": { "related": 0, "strong": 0, "video": 0 }
+  },
+  "frequent_hashtags": [],
+  "chapters": [],
+  "entries": [],
+  "unavailable": []
+}

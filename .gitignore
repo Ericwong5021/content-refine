@@ -1,0 +1,65 @@
+# Dependencies
+node_modules
+.pnpm-store
+
+# Next.js build
+.next
+out
+dist
+.vinext
+.wrangler
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+.venv/
+
+# Environment variables
+.env*.local
+.env
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# OS & Editors
+.DS_Store
+*.pem
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Audio & Video media files (Never commit media to repository)
+*.mp3
+*.mp4
+*.wav
+*.m4a
+*.aac
+*.flac
+*.ogg
+*.wma
+*.avi
+*.mov
+*.mkv
+*.webm
+*.flv
+*.wmv
+*.ts
+
+# Media directories & caches
+raw-audios/
+**/audio/
+**/video/
+**/local-asr/audio/
+content-store/**/raw/
+content-store/**/audio/
+content-store/**/local-asr/audio/
+

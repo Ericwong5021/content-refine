@@ -1,0 +1,16 @@
+{
+  "pipeline_schema_version": 2,
+  "aweme_id": "7646266528501929978",
+  "url": "https://www.douyin.com/video/7646266528501929978",
+  "title": "AAA麟西: 766\n\n可替代性的难度 越难被替代，越高价。但是这个难易程度是主观的。 #品牌 #品牌出海 #商业 #商业思维",
+  "status": "UNAVAILABLE",
+  "filter_detail": {
+    "aweme_id": "7646266528501929978",
+    "detail_msg": "因作品权限或已被删除，无法观看，去看看其他作品吧",
+    "filter_reason": "status_self_see",
+    "icon": "https://p3.douyinpic.com/aweme-server-static-resource/reflow_notice_icon1.png~tplv-obj.image",
+    "notice": "抱歉，作品不见了"
+  },
+  "source_response_path": "raw/7646266528501929978.json",
+  "completed_at": "2026-08-28T11:54:16+08:00"
+}

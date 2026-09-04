@@ -1,0 +1,6 @@
+packages:
+  - 'template'
+  - 'sites/*'
+allowBuilds:
+  sharp: true
+  unrs-resolver: true

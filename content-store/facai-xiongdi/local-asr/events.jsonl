@@ -1,0 +1,144 @@
+{"at": "2026-09-02T16:18:48+08:00", "event": "run_started", "run_id": "38b82460f2a04980bb3e656203426bfa", "item_count": 1, "device": "mps"}
+{"at": "2026-09-02T16:18:48+08:00", "event": "anonymous_session_ready", "run_id": "38b82460f2a04980bb3e656203426bfa"}
+{"at": "2026-09-02T16:18:48+08:00", "event": "item_started", "run_id": "38b82460f2a04980bb3e656203426bfa", "aweme_id": "7675222105953162491", "position": 1, "pending_count": 1}
+{"at": "2026-09-02T16:18:48+08:00", "event": "detail_retry", "aweme_id": "7675222105953162491", "attempt": 1, "error": "HTTPError('403 Client Error: Forbidden for url: https://www.douyin.com/aweme/v1/web/aweme/detail/?aweme_id=7675222105953162491')"}
+{"at": "2026-09-02T16:18:58+08:00", "event": "model_ready", "run_id": "38b82460f2a04980bb3e656203426bfa", "load_sec": 3.618}
+{"at": "2026-09-02T16:19:06+08:00", "event": "item_completed", "run_id": "38b82460f2a04980bb3e656203426bfa", "aweme_id": "7675222105953162491", "chars": 2787, "audio_bytes": 7053416, "download_sec": 3.749, "asr_sec": 7.843}
+{"at": "2026-09-02T16:19:06+08:00", "event": "run_completed", "run_id": "38b82460f2a04980bb3e656203426bfa", "status": "COMPLETED", "input_count": 1, "newly_completed": 1, "newly_unavailable": 0, "result_count": 1, "completed_count": 1, "unavailable_count": 0, "raw_field_count": 583, "finished_at": "2026-09-02T16:19:06+08:00"}
+{"at": "2026-09-02T16:20:54+08:00", "event": "run_started", "run_id": "41849eff10ba46ccbe48a7eb80f4ebbb", "item_count": 30, "device": "mps"}
+{"at": "2026-09-02T16:20:54+08:00", "event": "anonymous_session_ready", "run_id": "41849eff10ba46ccbe48a7eb80f4ebbb"}
+{"at": "2026-09-02T16:20:54+08:00", "event": "item_skipped", "run_id": "41849eff10ba46ccbe48a7eb80f4ebbb", "aweme_id": "7675222105953162491"}
+{"at": "2026-09-02T16:20:54+08:00", "event": "item_started", "run_id": "41849eff10ba46ccbe48a7eb80f4ebbb", "aweme_id": "7674482621242717425", "position": 1, "pending_count": 29}
+{"at": "2026-09-02T16:20:59+08:00", "event": "model_ready", "run_id": "41849eff10ba46ccbe48a7eb80f4ebbb", "load_sec": 3.41}
+{"at": "2026-09-02T16:21:04+08:00", "event": "item_completed", "run_id": "41849eff10ba46ccbe48a7eb80f4ebbb", "aweme_id": "7674482621242717425", "chars": 2215, "audio_bytes": 5225224, "download_sec": 1.168, "asr_sec": 5.576}
+{"at": "2026-09-02T16:21:04+08:00", "event": "item_started", "run_id": "41849eff10ba46ccbe48a7eb80f4ebbb", "aweme_id": "7673735548166693361", "position": 2, "pending_count": 29}
+{"at": "2026-09-02T16:21:04+08:00", "event": "detail_retry", "aweme_id": "7673735548166693361", "attempt": 1, "error": "HTTPError('403 Client Error: Forbidden for url: https://www.douyin.com/aweme/v1/web/aweme/detail/?aweme_id=7673735548166693361')"}
+{"at": "2026-09-02T16:21:17+08:00", "event": "item_completed", "run_id": "41849eff10ba46ccbe48a7eb80f4ebbb", "aweme_id": "7673735548166693361", "chars": 3065, "audio_bytes": 7350123, "download_sec": 3.061, "asr_sec": 7.358}
+{"at": "2026-09-02T16:21:17+08:00", "event": "item_started", "run_id": "41849eff10ba46ccbe48a7eb80f4ebbb", "aweme_id": "7673370402819667962", "position": 3, "pending_count": 29}
+{"at": "2026-09-02T16:21:28+08:00", "event": "item_completed", "run_id": "41849eff10ba46ccbe48a7eb80f4ebbb", "aweme_id": "7673370402819667962", "chars": 3023, "audio_bytes": 7321284, "download_sec": 3.075, "asr_sec": 7.688}
+{"at": "2026-09-02T16:21:28+08:00", "event": "item_started", "run_id": "41849eff10ba46ccbe48a7eb80f4ebbb", "aweme_id": "7672624901001461489", "position": 4, "pending_count": 29}
+{"at": "2026-09-02T16:21:28+08:00", "event": "detail_retry", "aweme_id": "7672624901001461489", "attempt": 1, "error": "HTTPError('403 Client Error: Forbidden for url: https://www.douyin.com/aweme/v1/web/aweme/detail/?aweme_id=7672624901001461489')"}
+{"at": "2026-09-02T16:21:41+08:00", "event": "item_completed", "run_id": "41849eff10ba46ccbe48a7eb80f4ebbb", "aweme_id": "7672624901001461489", "chars": 2785, "audio_bytes": 6659239, "download_sec": 3.627, "asr_sec": 7.153}
+{"at": "2026-09-02T16:21:41+08:00", "event": "item_started", "run_id": "41849eff10ba46ccbe48a7eb80f4ebbb", "aweme_id": "7671881001563747258", "position": 5, "pending_count": 29}
+{"at": "2026-09-02T16:21:49+08:00", "event": "item_completed", "run_id": "41849eff10ba46ccbe48a7eb80f4ebbb", "aweme_id": "7671881001563747258", "chars": 2394, "audio_bytes": 5621844, "download_sec": 0.669, "asr_sec": 6.267}
+{"at": "2026-09-02T16:21:49+08:00", "event": "item_started", "run_id": "41849eff10ba46ccbe48a7eb80f4ebbb", "aweme_id": "7671138216099696315", "position": 6, "pending_count": 29}
+{"at": "2026-09-02T16:21:56+08:00", "event": "item_completed", "run_id": "41849eff10ba46ccbe48a7eb80f4ebbb", "aweme_id": "7671138216099696315", "chars": 2573, "audio_bytes": 5947443, "download_sec": 0.794, "asr_sec": 6.235}
+{"at": "2026-09-02T16:21:56+08:00", "event": "item_started", "run_id": "41849eff10ba46ccbe48a7eb80f4ebbb", "aweme_id": "7670396059981475505", "position": 7, "pending_count": 29}
+{"at": "2026-09-02T16:21:56+08:00", "event": "detail_retry", "aweme_id": "7670396059981475505", "attempt": 1, "error": "HTTPError('403 Client Error: Forbidden for url: https://www.douyin.com/aweme/v1/web/aweme/detail/?aweme_id=7670396059981475505')"}
+{"at": "2026-09-02T16:21:58+08:00", "event": "detail_retry", "aweme_id": "7670396059981475505", "attempt": 2, "error": "HTTPError('403 Client Error: Forbidden for url: https://www.douyin.com/aweme/v1/web/aweme/detail/?aweme_id=7670396059981475505')"}
+{"at": "2026-09-02T16:22:12+08:00", "event": "item_completed", "run_id": "41849eff10ba46ccbe48a7eb80f4ebbb", "aweme_id": "7670396059981475505", "chars": 2772, "audio_bytes": 6872393, "download_sec": 2.799, "asr_sec": 7.213}
+{"at": "2026-09-02T16:22:12+08:00", "event": "item_started", "run_id": "41849eff10ba46ccbe48a7eb80f4ebbb", "aweme_id": "7669655313369666533", "position": 8, "pending_count": 29}
+{"at": "2026-09-02T16:22:25+08:00", "event": "item_completed", "run_id": "41849eff10ba46ccbe48a7eb80f4ebbb", "aweme_id": "7669655313369666533", "chars": 2710, "audio_bytes": 6589427, "download_sec": 4.659, "asr_sec": 7.341}
+{"at": "2026-09-02T16:22:25+08:00", "event": "item_started", "run_id": "41849eff10ba46ccbe48a7eb80f4ebbb", "aweme_id": "7668914647332485361", "position": 9, "pending_count": 29}
+{"at": "2026-09-02T16:22:37+08:00", "event": "item_completed", "run_id": "41849eff10ba46ccbe48a7eb80f4ebbb", "aweme_id": "7668914647332485361", "chars": 2791, "audio_bytes": 6514192, "download_sec": 4.515, "asr_sec": 7.182}
+{"at": "2026-09-02T16:22:37+08:00", "event": "item_started", "run_id": "41849eff10ba46ccbe48a7eb80f4ebbb", "aweme_id": "7668161899566437627", "position": 10, "pending_count": 29}
+{"at": "2026-09-02T16:22:49+08:00", "event": "item_completed", "run_id": "41849eff10ba46ccbe48a7eb80f4ebbb", "aweme_id": "7668161899566437627", "chars": 3452, "audio_bytes": 7979146, "download_sec": 2.962, "asr_sec": 8.847}
+{"at": "2026-09-02T16:22:49+08:00", "event": "item_started", "run_id": "41849eff10ba46ccbe48a7eb80f4ebbb", "aweme_id": "7667795583985344113", "position": 11, "pending_count": 29}
+{"at": "2026-09-02T16:22:49+08:00", "event": "detail_retry", "aweme_id": "7667795583985344113", "attempt": 1, "error": "HTTPError('403 Client Error: Forbidden for url: https://www.douyin.com/aweme/v1/web/aweme/detail/?aweme_id=7667795583985344113')"}
+{"at": "2026-09-02T16:23:02+08:00", "event": "item_completed", "run_id": "41849eff10ba46ccbe48a7eb80f4ebbb", "aweme_id": "7667795583985344113", "chars": 2581, "audio_bytes": 6261328, "download_sec": 3.813, "asr_sec": 7.068}
+{"at": "2026-09-02T16:23:02+08:00", "event": "item_started", "run_id": "41849eff10ba46ccbe48a7eb80f4ebbb", "aweme_id": "7667363328272210865", "position": 12, "pending_count": 29}
+{"at": "2026-09-02T16:23:02+08:00", "event": "detail_retry", "aweme_id": "7667363328272210865", "attempt": 1, "error": "HTTPError('403 Client Error: Forbidden for url: https://www.douyin.com/aweme/v1/web/aweme/detail/?aweme_id=7667363328272210865')"}
+{"at": "2026-09-02T16:23:14+08:00", "event": "item_completed", "run_id": "41849eff10ba46ccbe48a7eb80f4ebbb", "aweme_id": "7667363328272210865", "chars": 3222, "audio_bytes": 7323779, "download_sec": 1.517, "asr_sec": 8.219}
+{"at": "2026-09-02T16:23:14+08:00", "event": "item_started", "run_id": "41849eff10ba46ccbe48a7eb80f4ebbb", "aweme_id": "7666315670322387889", "position": 13, "pending_count": 29}
+{"at": "2026-09-02T16:23:25+08:00", "event": "item_completed", "run_id": "41849eff10ba46ccbe48a7eb80f4ebbb", "aweme_id": "7666315670322387889", "chars": 3192, "audio_bytes": 7138907, "download_sec": 2.142, "asr_sec": 8.021}
+{"at": "2026-09-02T16:23:25+08:00", "event": "item_started", "run_id": "41849eff10ba46ccbe48a7eb80f4ebbb", "aweme_id": "7665591403229663674", "position": 14, "pending_count": 29}
+{"at": "2026-09-02T16:23:25+08:00", "event": "detail_retry", "aweme_id": "7665591403229663674", "attempt": 1, "error": "HTTPError('403 Client Error: Forbidden for url: https://www.douyin.com/aweme/v1/web/aweme/detail/?aweme_id=7665591403229663674')"}
+{"at": "2026-09-02T16:23:27+08:00", "event": "detail_retry", "aweme_id": "7665591403229663674", "attempt": 2, "error": "HTTPError('403 Client Error: Forbidden for url: https://www.douyin.com/aweme/v1/web/aweme/detail/?aweme_id=7665591403229663674')"}
+{"at": "2026-09-02T16:23:31+08:00", "event": "detail_retry", "aweme_id": "7665591403229663674", "attempt": 3, "error": "HTTPError('403 Client Error: Forbidden for url: https://www.douyin.com/aweme/v1/web/aweme/detail/?aweme_id=7665591403229663674')"}
+{"at": "2026-09-02T16:29:03+08:00", "event": "run_started", "run_id": "bc91aa8dd29c4ace94c7d59c541ea74c", "item_count": 30, "device": "mps"}
+{"at": "2026-09-02T16:29:03+08:00", "event": "anonymous_session_ready", "run_id": "bc91aa8dd29c4ace94c7d59c541ea74c"}
+{"at": "2026-09-02T16:29:03+08:00", "event": "item_skipped", "run_id": "bc91aa8dd29c4ace94c7d59c541ea74c", "aweme_id": "7675222105953162491"}
+{"at": "2026-09-02T16:29:03+08:00", "event": "item_skipped", "run_id": "bc91aa8dd29c4ace94c7d59c541ea74c", "aweme_id": "7674482621242717425"}
+{"at": "2026-09-02T16:29:03+08:00", "event": "item_skipped", "run_id": "bc91aa8dd29c4ace94c7d59c541ea74c", "aweme_id": "7673735548166693361"}
+{"at": "2026-09-02T16:29:03+08:00", "event": "item_skipped", "run_id": "bc91aa8dd29c4ace94c7d59c541ea74c", "aweme_id": "7673370402819667962"}
+{"at": "2026-09-02T16:29:03+08:00", "event": "item_skipped", "run_id": "bc91aa8dd29c4ace94c7d59c541ea74c", "aweme_id": "7672624901001461489"}
+{"at": "2026-09-02T16:29:03+08:00", "event": "item_skipped", "run_id": "bc91aa8dd29c4ace94c7d59c541ea74c", "aweme_id": "7671881001563747258"}
+{"at": "2026-09-02T16:29:03+08:00", "event": "item_skipped", "run_id": "bc91aa8dd29c4ace94c7d59c541ea74c", "aweme_id": "7671138216099696315"}
+{"at": "2026-09-02T16:29:03+08:00", "event": "item_skipped", "run_id": "bc91aa8dd29c4ace94c7d59c541ea74c", "aweme_id": "7670396059981475505"}
+{"at": "2026-09-02T16:29:03+08:00", "event": "item_skipped", "run_id": "bc91aa8dd29c4ace94c7d59c541ea74c", "aweme_id": "7669655313369666533"}
+{"at": "2026-09-02T16:29:03+08:00", "event": "item_skipped", "run_id": "bc91aa8dd29c4ace94c7d59c541ea74c", "aweme_id": "7668914647332485361"}
+{"at": "2026-09-02T16:29:03+08:00", "event": "item_skipped", "run_id": "bc91aa8dd29c4ace94c7d59c541ea74c", "aweme_id": "7668161899566437627"}
+{"at": "2026-09-02T16:29:03+08:00", "event": "item_skipped", "run_id": "bc91aa8dd29c4ace94c7d59c541ea74c", "aweme_id": "7667795583985344113"}
+{"at": "2026-09-02T16:29:03+08:00", "event": "item_skipped", "run_id": "bc91aa8dd29c4ace94c7d59c541ea74c", "aweme_id": "7667363328272210865"}
+{"at": "2026-09-02T16:29:03+08:00", "event": "item_skipped", "run_id": "bc91aa8dd29c4ace94c7d59c541ea74c", "aweme_id": "7666315670322387889"}
+{"at": "2026-09-02T16:29:03+08:00", "event": "item_started", "run_id": "bc91aa8dd29c4ace94c7d59c541ea74c", "aweme_id": "7665591403229663674", "position": 1, "pending_count": 16}
+{"at": "2026-09-02T16:29:08+08:00", "event": "model_ready", "run_id": "bc91aa8dd29c4ace94c7d59c541ea74c", "load_sec": 2.877}
+{"at": "2026-09-02T16:29:15+08:00", "event": "item_completed", "run_id": "bc91aa8dd29c4ace94c7d59c541ea74c", "aweme_id": "7665591403229663674", "chars": 2934, "audio_bytes": 6508352, "download_sec": 1.578, "asr_sec": 7.375}
+{"at": "2026-09-02T16:29:15+08:00", "event": "item_started", "run_id": "bc91aa8dd29c4ace94c7d59c541ea74c", "aweme_id": "7664832673282176229", "position": 2, "pending_count": 16}
+{"at": "2026-09-02T16:29:27+08:00", "event": "item_completed", "run_id": "bc91aa8dd29c4ace94c7d59c541ea74c", "aweme_id": "7664832673282176229", "chars": 2883, "audio_bytes": 6476860, "download_sec": 4.608, "asr_sec": 6.871}
+{"at": "2026-09-02T16:29:27+08:00", "event": "item_started", "run_id": "bc91aa8dd29c4ace94c7d59c541ea74c", "aweme_id": "7663319413307190713", "position": 3, "pending_count": 16}
+{"at": "2026-09-02T16:29:36+08:00", "event": "item_completed", "run_id": "bc91aa8dd29c4ace94c7d59c541ea74c", "aweme_id": "7663319413307190713", "chars": 3080, "audio_bytes": 6997775, "download_sec": 1.816, "asr_sec": 7.311}
+{"at": "2026-09-02T16:29:36+08:00", "event": "item_started", "run_id": "bc91aa8dd29c4ace94c7d59c541ea74c", "aweme_id": "7662714363161201920", "position": 4, "pending_count": 16}
+{"at": "2026-09-02T16:29:51+08:00", "event": "item_completed", "run_id": "bc91aa8dd29c4ace94c7d59c541ea74c", "aweme_id": "7662714363161201920", "chars": 2782, "audio_bytes": 9571040, "download_sec": 7.871, "asr_sec": 6.669}
+{"at": "2026-09-02T16:29:51+08:00", "event": "item_started", "run_id": "bc91aa8dd29c4ace94c7d59c541ea74c", "aweme_id": "7660381367155234427", "position": 5, "pending_count": 16}
+{"at": "2026-09-02T16:30:01+08:00", "event": "item_completed", "run_id": "bc91aa8dd29c4ace94c7d59c541ea74c", "aweme_id": "7660381367155234427", "chars": 2910, "audio_bytes": 6197414, "download_sec": 2.958, "asr_sec": 6.619}
+{"at": "2026-09-02T16:30:01+08:00", "event": "item_started", "run_id": "bc91aa8dd29c4ace94c7d59c541ea74c", "aweme_id": "7659257301753017841", "position": 6, "pending_count": 16}
+{"at": "2026-09-02T16:30:01+08:00", "event": "detail_retry", "aweme_id": "7659257301753017841", "attempt": 1, "error": "HTTPError('403 Client Error: Forbidden for url: https://www.douyin.com/aweme/v1/web/aweme/detail/?aweme_id=7659257301753017841')"}
+{"at": "2026-09-02T16:30:15+08:00", "event": "item_completed", "run_id": "bc91aa8dd29c4ace94c7d59c541ea74c", "aweme_id": "7659257301753017841", "chars": 2525, "audio_bytes": 5524051, "download_sec": 4.381, "asr_sec": 5.843}
+{"at": "2026-09-02T16:30:15+08:00", "event": "item_started", "run_id": "bc91aa8dd29c4ace94c7d59c541ea74c", "aweme_id": "7658139321783164017", "position": 7, "pending_count": 16}
+{"at": "2026-09-02T16:30:28+08:00", "event": "item_completed", "run_id": "bc91aa8dd29c4ace94c7d59c541ea74c", "aweme_id": "7658139321783164017", "chars": 3698, "audio_bytes": 8385816, "download_sec": 4.897, "asr_sec": 8.755}
+{"at": "2026-09-02T16:30:28+08:00", "event": "item_started", "run_id": "bc91aa8dd29c4ace94c7d59c541ea74c", "aweme_id": "7657135574184989819", "position": 8, "pending_count": 16}
+{"at": "2026-09-02T16:30:41+08:00", "event": "item_completed", "run_id": "bc91aa8dd29c4ace94c7d59c541ea74c", "aweme_id": "7657135574184989819", "chars": 3013, "audio_bytes": 6549730, "download_sec": 4.364, "asr_sec": 7.33}
+{"at": "2026-09-02T16:30:41+08:00", "event": "item_started", "run_id": "bc91aa8dd29c4ace94c7d59c541ea74c", "aweme_id": "7656968203495996325", "position": 9, "pending_count": 16}
+{"at": "2026-09-02T16:30:50+08:00", "event": "item_completed", "run_id": "bc91aa8dd29c4ace94c7d59c541ea74c", "aweme_id": "7656968203495996325", "chars": 2559, "audio_bytes": 5499402, "download_sec": 3.192, "asr_sec": 6.11}
+{"at": "2026-09-02T16:30:50+08:00", "event": "item_started", "run_id": "bc91aa8dd29c4ace94c7d59c541ea74c", "aweme_id": "7656351300968735097", "position": 10, "pending_count": 16}
+{"at": "2026-09-02T16:31:03+08:00", "event": "item_completed", "run_id": "bc91aa8dd29c4ace94c7d59c541ea74c", "aweme_id": "7656351300968735097", "chars": 3497, "audio_bytes": 8254607, "download_sec": 4.185, "asr_sec": 8.564}
+{"at": "2026-09-02T16:31:03+08:00", "event": "item_started", "run_id": "bc91aa8dd29c4ace94c7d59c541ea74c", "aweme_id": "7655908443886254961", "position": 11, "pending_count": 16}
+{"at": "2026-09-02T16:31:18+08:00", "event": "item_completed", "run_id": "bc91aa8dd29c4ace94c7d59c541ea74c", "aweme_id": "7655908443886254961", "chars": 3824, "audio_bytes": 9014850, "download_sec": 4.469, "asr_sec": 9.921}
+{"at": "2026-09-02T16:31:18+08:00", "event": "item_started", "run_id": "bc91aa8dd29c4ace94c7d59c541ea74c", "aweme_id": "7655274883585125105", "position": 12, "pending_count": 16}
+{"at": "2026-09-02T16:31:18+08:00", "event": "detail_retry", "aweme_id": "7655274883585125105", "attempt": 1, "error": "HTTPError('403 Client Error: Forbidden for url: https://www.douyin.com/aweme/v1/web/aweme/detail/?aweme_id=7655274883585125105')"}
+{"at": "2026-09-02T16:31:32+08:00", "event": "item_completed", "run_id": "bc91aa8dd29c4ace94c7d59c541ea74c", "aweme_id": "7655274883585125105", "chars": 3100, "audio_bytes": 7457543, "download_sec": 3.065, "asr_sec": 8.268}
+{"at": "2026-09-02T16:31:32+08:00", "event": "item_started", "run_id": "bc91aa8dd29c4ace94c7d59c541ea74c", "aweme_id": "7654901151834025841", "position": 13, "pending_count": 16}
+{"at": "2026-09-02T16:31:42+08:00", "event": "item_completed", "run_id": "bc91aa8dd29c4ace94c7d59c541ea74c", "aweme_id": "7654901151834025841", "chars": 3067, "audio_bytes": 7209270, "download_sec": 1.18, "asr_sec": 7.932}
+{"at": "2026-09-02T16:31:42+08:00", "event": "item_started", "run_id": "bc91aa8dd29c4ace94c7d59c541ea74c", "aweme_id": "7654531452936558513", "position": 14, "pending_count": 16}
+{"at": "2026-09-02T16:32:01+08:00", "event": "item_completed", "run_id": "bc91aa8dd29c4ace94c7d59c541ea74c", "aweme_id": "7654531452936558513", "chars": 4559, "audio_bytes": 10718023, "download_sec": 6.753, "asr_sec": 11.926}
+{"at": "2026-09-02T16:32:01+08:00", "event": "item_started", "run_id": "bc91aa8dd29c4ace94c7d59c541ea74c", "aweme_id": "7654179549300142577", "position": 15, "pending_count": 16}
+{"at": "2026-09-02T16:32:01+08:00", "event": "detail_retry", "aweme_id": "7654179549300142577", "attempt": 1, "error": "HTTPError('403 Client Error: Forbidden for url: https://www.douyin.com/aweme/v1/web/aweme/detail/?aweme_id=7654179549300142577')"}
+{"at": "2026-09-02T16:32:17+08:00", "event": "item_completed", "run_id": "bc91aa8dd29c4ace94c7d59c541ea74c", "aweme_id": "7654179549300142577", "chars": 3136, "audio_bytes": 7355912, "download_sec": 5.058, "asr_sec": 8.138}
+{"at": "2026-09-02T16:32:17+08:00", "event": "item_started", "run_id": "bc91aa8dd29c4ace94c7d59c541ea74c", "aweme_id": "7675034566201413734", "position": 16, "pending_count": 16}
+{"at": "2026-09-02T16:32:18+08:00", "event": "item_completed", "run_id": "bc91aa8dd29c4ace94c7d59c541ea74c", "aweme_id": "7675034566201413734", "chars": 23, "audio_bytes": 242770, "download_sec": 0.737, "asr_sec": 0.424}
+{"at": "2026-09-02T16:32:19+08:00", "event": "run_completed", "run_id": "bc91aa8dd29c4ace94c7d59c541ea74c", "status": "COMPLETED", "input_count": 30, "newly_completed": 16, "newly_unavailable": 0, "result_count": 30, "completed_count": 30, "unavailable_count": 0, "raw_field_count": 589, "finished_at": "2026-09-02T16:32:19+08:00"}
+{"at": "2026-09-02T18:33:36+08:00", "event": "run_started", "run_id": "5741c30c41ed4ea9b28318ac1e30073e", "item_count": 35, "device": "mps"}
+{"at": "2026-09-02T18:33:36+08:00", "event": "anonymous_session_ready", "run_id": "5741c30c41ed4ea9b28318ac1e30073e"}
+{"at": "2026-09-02T18:33:36+08:00", "event": "item_skipped", "run_id": "5741c30c41ed4ea9b28318ac1e30073e", "aweme_id": "7675222105953162491"}
+{"at": "2026-09-02T18:33:36+08:00", "event": "item_skipped", "run_id": "5741c30c41ed4ea9b28318ac1e30073e", "aweme_id": "7674482621242717425"}
+{"at": "2026-09-02T18:33:36+08:00", "event": "item_skipped", "run_id": "5741c30c41ed4ea9b28318ac1e30073e", "aweme_id": "7673735548166693361"}
+{"at": "2026-09-02T18:33:36+08:00", "event": "item_skipped", "run_id": "5741c30c41ed4ea9b28318ac1e30073e", "aweme_id": "7673370402819667962"}
+{"at": "2026-09-02T18:33:36+08:00", "event": "item_skipped", "run_id": "5741c30c41ed4ea9b28318ac1e30073e", "aweme_id": "7672624901001461489"}
+{"at": "2026-09-02T18:33:36+08:00", "event": "item_skipped", "run_id": "5741c30c41ed4ea9b28318ac1e30073e", "aweme_id": "7671881001563747258"}
+{"at": "2026-09-02T18:33:36+08:00", "event": "item_skipped", "run_id": "5741c30c41ed4ea9b28318ac1e30073e", "aweme_id": "7671138216099696315"}
+{"at": "2026-09-02T18:33:36+08:00", "event": "item_skipped", "run_id": "5741c30c41ed4ea9b28318ac1e30073e", "aweme_id": "7670396059981475505"}
+{"at": "2026-09-02T18:33:36+08:00", "event": "item_skipped", "run_id": "5741c30c41ed4ea9b28318ac1e30073e", "aweme_id": "7669655313369666533"}
+{"at": "2026-09-02T18:33:36+08:00", "event": "item_skipped", "run_id": "5741c30c41ed4ea9b28318ac1e30073e", "aweme_id": "7668914647332485361"}
+{"at": "2026-09-02T18:33:36+08:00", "event": "item_skipped", "run_id": "5741c30c41ed4ea9b28318ac1e30073e", "aweme_id": "7668161899566437627"}
+{"at": "2026-09-02T18:33:36+08:00", "event": "item_skipped", "run_id": "5741c30c41ed4ea9b28318ac1e30073e", "aweme_id": "7667795583985344113"}
+{"at": "2026-09-02T18:33:36+08:00", "event": "item_skipped", "run_id": "5741c30c41ed4ea9b28318ac1e30073e", "aweme_id": "7667363328272210865"}
+{"at": "2026-09-02T18:33:36+08:00", "event": "item_skipped", "run_id": "5741c30c41ed4ea9b28318ac1e30073e", "aweme_id": "7666315670322387889"}
+{"at": "2026-09-02T18:33:36+08:00", "event": "item_skipped", "run_id": "5741c30c41ed4ea9b28318ac1e30073e", "aweme_id": "7665591403229663674"}
+{"at": "2026-09-02T18:33:36+08:00", "event": "item_skipped", "run_id": "5741c30c41ed4ea9b28318ac1e30073e", "aweme_id": "7664832673282176229"}
+{"at": "2026-09-02T18:33:36+08:00", "event": "item_skipped", "run_id": "5741c30c41ed4ea9b28318ac1e30073e", "aweme_id": "7663319413307190713"}
+{"at": "2026-09-02T18:33:36+08:00", "event": "item_skipped", "run_id": "5741c30c41ed4ea9b28318ac1e30073e", "aweme_id": "7662714363161201920"}
+{"at": "2026-09-02T18:33:36+08:00", "event": "item_skipped", "run_id": "5741c30c41ed4ea9b28318ac1e30073e", "aweme_id": "7660381367155234427"}
+{"at": "2026-09-02T18:33:36+08:00", "event": "item_skipped", "run_id": "5741c30c41ed4ea9b28318ac1e30073e", "aweme_id": "7659257301753017841"}
+{"at": "2026-09-02T18:33:36+08:00", "event": "item_skipped", "run_id": "5741c30c41ed4ea9b28318ac1e30073e", "aweme_id": "7658139321783164017"}
+{"at": "2026-09-02T18:33:36+08:00", "event": "item_skipped", "run_id": "5741c30c41ed4ea9b28318ac1e30073e", "aweme_id": "7657135574184989819"}
+{"at": "2026-09-02T18:33:36+08:00", "event": "item_skipped", "run_id": "5741c30c41ed4ea9b28318ac1e30073e", "aweme_id": "7656968203495996325"}
+{"at": "2026-09-02T18:33:37+08:00", "event": "item_skipped", "run_id": "5741c30c41ed4ea9b28318ac1e30073e", "aweme_id": "7656351300968735097"}
+{"at": "2026-09-02T18:33:37+08:00", "event": "item_skipped", "run_id": "5741c30c41ed4ea9b28318ac1e30073e", "aweme_id": "7655908443886254961"}
+{"at": "2026-09-02T18:33:37+08:00", "event": "item_skipped", "run_id": "5741c30c41ed4ea9b28318ac1e30073e", "aweme_id": "7655274883585125105"}
+{"at": "2026-09-02T18:33:37+08:00", "event": "item_skipped", "run_id": "5741c30c41ed4ea9b28318ac1e30073e", "aweme_id": "7654901151834025841"}
+{"at": "2026-09-02T18:33:37+08:00", "event": "item_skipped", "run_id": "5741c30c41ed4ea9b28318ac1e30073e", "aweme_id": "7654531452936558513"}
+{"at": "2026-09-02T18:33:37+08:00", "event": "item_skipped", "run_id": "5741c30c41ed4ea9b28318ac1e30073e", "aweme_id": "7654179549300142577"}
+{"at": "2026-09-02T18:33:37+08:00", "event": "item_skipped", "run_id": "5741c30c41ed4ea9b28318ac1e30073e", "aweme_id": "7675034566201413734"}
+{"at": "2026-09-02T18:33:37+08:00", "event": "item_started", "run_id": "5741c30c41ed4ea9b28318ac1e30073e", "aweme_id": "7680414634737853617", "position": 1, "pending_count": 5}
+{"at": "2026-09-02T18:33:42+08:00", "event": "model_ready", "run_id": "5741c30c41ed4ea9b28318ac1e30073e", "load_sec": 3.191}
+{"at": "2026-09-02T18:33:48+08:00", "event": "item_completed", "run_id": "5741c30c41ed4ea9b28318ac1e30073e", "aweme_id": "7680414634737853617", "chars": 2413, "audio_bytes": 5783235, "download_sec": 1.531, "asr_sec": 6.683}
+{"at": "2026-09-02T18:33:48+08:00", "event": "item_started", "run_id": "5741c30c41ed4ea9b28318ac1e30073e", "aweme_id": "7678940638377194426", "position": 2, "pending_count": 5}
+{"at": "2026-09-02T18:34:02+08:00", "event": "item_completed", "run_id": "5741c30c41ed4ea9b28318ac1e30073e", "aweme_id": "7678940638377194426", "chars": 3024, "audio_bytes": 7682469, "download_sec": 4.77, "asr_sec": 8.549}
+{"at": "2026-09-02T18:34:02+08:00", "event": "item_started", "run_id": "5741c30c41ed4ea9b28318ac1e30073e", "aweme_id": "7677847255805832634", "position": 3, "pending_count": 5}
+{"at": "2026-09-02T18:34:13+08:00", "event": "item_completed", "run_id": "5741c30c41ed4ea9b28318ac1e30073e", "aweme_id": "7677847255805832634", "chars": 3011, "audio_bytes": 7320351, "download_sec": 2.226, "asr_sec": 7.816}
+{"at": "2026-09-02T18:34:13+08:00", "event": "item_started", "run_id": "5741c30c41ed4ea9b28318ac1e30073e", "aweme_id": "7677092712466042801", "position": 4, "pending_count": 5}
+{"at": "2026-09-02T18:34:28+08:00", "event": "item_completed", "run_id": "5741c30c41ed4ea9b28318ac1e30073e", "aweme_id": "7677092712466042801", "chars": 4271, "audio_bytes": 10353207, "download_sec": 2.473, "asr_sec": 11.828}
+{"at": "2026-09-02T18:34:28+08:00", "event": "item_started", "run_id": "5741c30c41ed4ea9b28318ac1e30073e", "aweme_id": "7675968129524467121", "position": 5, "pending_count": 5}
+{"at": "2026-09-02T18:34:35+08:00", "event": "item_completed", "run_id": "5741c30c41ed4ea9b28318ac1e30073e", "aweme_id": "7675968129524467121", "chars": 2553, "audio_bytes": 5863919, "download_sec": 1.061, "asr_sec": 6.163}
+{"at": "2026-09-02T18:34:35+08:00", "event": "run_completed", "run_id": "5741c30c41ed4ea9b28318ac1e30073e", "status": "COMPLETED", "input_count": 35, "newly_completed": 5, "newly_unavailable": 0, "result_count": 35, "completed_count": 35, "unavailable_count": 0, "raw_field_count": 590, "finished_at": "2026-09-02T18:34:35+08:00"}

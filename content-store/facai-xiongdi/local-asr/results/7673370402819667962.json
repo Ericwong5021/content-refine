@@ -1,0 +1,627 @@
+{
+  "pipeline_schema_version": 2,
+  "aweme_id": "7673370402819667962",
+  "url": "https://www.douyin.com/video/7673370402819667962",
+  "title": "发财兄弟｜聊赚钱: 3211\n\n想办法赚到一辈子的钱 #赚钱 #赚钱思维 #个人品牌 #商业咨询 #视频播客扶持计划",
+  "status": "COMPLETED",
+  "author": "发财兄弟｜聊赚钱",
+  "description": "想办法赚到一辈子的钱 #赚钱 #赚钱思维 #个人品牌 #商业咨询 #视频播客扶持计划",
+  "caption": "#赚钱 #赚钱思维 #个人品牌 #商业咨询 #视频播客扶持计划",
+  "is_subtitled": 0,
+  "video_duration_ms": 457480,
+  "audio_duration_s": 457.509,
+  "audio_source": {
+    "url": "https://lf26-music-east.douyinstatic.com/obj/ies-music-hj/7673370449937730353.mp3",
+    "bytes": 7321284,
+    "sha256": "2f0d6c99e6fad7f7b2e1b7873976c76a9ac97ef4db8b5140774494f8c585d9c3",
+    "download_sec": 3.075,
+    "reused": false,
+    "local_path": "audio/7673370402819667962.mp3"
+  },
+  "metadata": {
+    "identity": {
+      "aweme_id": "7673370402819667962",
+      "group_id": "7673370402819667962",
+      "sec_item_id": "MS4wLjAAAAAAHVZZZ-EWWGlLlrRfZe-VfUZWE9Id_W0IWEQ4Hs6TdnBe_wLYSJsX70HeVXxGpOJA",
+      "comment_gid": 7673370402819667962,
+      "author_user_id": 1734378287279641,
+      "aweme_type": 0,
+      "media_type": 4,
+      "activity_video_type": -1
+    },
+    "publication": {
+      "create_time": 1786595770,
+      "published_at": "2026-08-13T12:36:10+08:00",
+      "region": "CN",
+      "is_top": 0,
+      "is_story": 0,
+      "is_24_story": 0,
+      "is_25_story": 0
+    },
+    "text": {
+      "description": "想办法赚到一辈子的钱 #赚钱 #赚钱思维 #个人品牌 #商业咨询 #视频播客扶持计划",
+      "item_title": "想办法赚到一辈子的钱",
+      "preview_title": "想办法赚到一辈子的钱 #赚钱 #赚钱思维 #个人品牌 #商业咨询 #视频播客扶持计划",
+      "caption": "#赚钱 #赚钱思维 #个人品牌 #商业咨询 #视频播客扶持计划",
+      "video_text": [],
+      "share_info": {
+        "share_desc": "在抖音，记录美好生活",
+        "share_desc_info": "#在抖音，记录美好生活#想办法赚到一辈子的钱 #赚钱 #赚钱思维 #个人品牌 #商业咨询 #视频播客扶持计划",
+        "share_link_desc": "7.41 想办法赚到一辈子的钱 # 赚钱 # 赚钱思维 # 个人品牌 # 商业咨询 # 视频播客扶持计划  %s 复制此链接，打开Dou音搜索，直接观看视频！ c@a.nD 01/31 :9pm xSy:/ ",
+        "share_url": "https://www.iesdouyin.com/share/video/7673370402819667962/?region=CN&mid=7673370413879462692&u_code=-1&video_share_track_ver=&titleType=title&share_sign=xDMk82_yRik6jxJWNnM.3OZcQ8tstcCAlOBNDy73DA0-&share_version=0&ts=1788337278&from_aid=0&from_ssr=1&share_track_info=%7B%22link_description_type%22%3A%22%22%7D"
+      },
+      "share_url": "https://www.iesdouyin.com/share/video/7673370402819667962/?region=CN&mid=7673370413879462692&u_code=-1&video_share_track_ver=&titleType=title&share_sign=xDMk82_yRik6jxJWNnM.3OZcQ8tstcCAlOBNDy73DA0-&share_version=0&ts=1788337278&from_aid=0&from_ssr=1&share_track_info=%7B%22link_description_type%22%3A%22%22%7D",
+      "hashtags": [
+        "赚钱",
+        "赚钱思维",
+        "个人品牌",
+        "商业咨询",
+        "视频播客扶持计划"
+      ],
+      "mentions": [],
+      "text_extra": [
+        {
+          "caption_end": 3,
+          "caption_start": 0,
+          "end": 14,
+          "hashtag_id": "1586422099905613",
+          "hashtag_name": "赚钱",
+          "is_commerce": false,
+          "start": 11,
+          "type": 1
+        },
+        {
+          "caption_end": 9,
+          "caption_start": 4,
+          "end": 20,
+          "hashtag_id": "1649160500962315",
+          "hashtag_name": "赚钱思维",
+          "is_commerce": false,
+          "start": 15,
+          "type": 1
+        },
+        {
+          "caption_end": 15,
+          "caption_start": 10,
+          "end": 26,
+          "hashtag_id": "1615627089566724",
+          "hashtag_name": "个人品牌",
+          "is_commerce": false,
+          "start": 21,
+          "type": 1
+        },
+        {
+          "caption_end": 21,
+          "caption_start": 16,
+          "end": 32,
+          "hashtag_id": "1617011970963464",
+          "hashtag_name": "商业咨询",
+          "is_commerce": false,
+          "start": 27,
+          "type": 1
+        },
+        {
+          "caption_end": 31,
+          "caption_start": 22,
+          "end": 42,
+          "hashtag_id": "7578774248387250222",
+          "hashtag_name": "视频播客扶持计划",
+          "is_commerce": false,
+          "start": 33,
+          "type": 1
+        }
+      ]
+    },
+    "engagement": {
+      "admire_count": 0,
+      "aweme_id": "7673370402819667962",
+      "collect_count": 1982,
+      "comment_count": 155,
+      "digg_count": 4667,
+      "play_count": 0,
+      "share_count": 1606
+    },
+    "author": {
+      "uid": "1734378287279641",
+      "sec_uid": "MS4wLjABAAAAEzK6wbW3X2F48EeASvTINFnPKrkz_kqFOStROIUEib1RK11dkRhYy8thyvupWqv_",
+      "short_id": "69279387773",
+      "unique_id": "69279387773",
+      "nickname": "发财兄弟｜聊赚钱",
+      "signature": "商业、赚钱、认知\n仁者以财发身，不仁者以身发财",
+      "custom_verify": "",
+      "enterprise_verify_reason": "",
+      "verification_type": 1,
+      "follower_count": 0,
+      "following_count": 0,
+      "favoriting_count": 37,
+      "total_favorited": 163784,
+      "max_follower_count": 0,
+      "user_age": -1,
+      "create_time": 0,
+      "status": 1,
+      "secret": 0,
+      "user_canceled": false,
+      "prevent_download": false,
+      "personal_tag_list": null,
+      "data_label_list": null,
+      "avatar": {
+        "uri": "100x100/aweme-avatar/tos-cn-i-0813c000-ce_oMiqeAnDqCNywOsFEAARTAIJAEgyfOHwC9QVBo",
+        "url_list": [
+          "https://p11.douyinpic.com/aweme/100x100/aweme-avatar/tos-cn-i-0813c000-ce_oMiqeAnDqCNywOsFEAARTAIJAEgyfOHwC9QVBo.jpeg?from=327834062",
+          "https://p3.douyinpic.com/aweme/100x100/aweme-avatar/tos-cn-i-0813c000-ce_oMiqeAnDqCNywOsFEAARTAIJAEgyfOHwC9QVBo.jpeg?from=327834062",
+          "https://p26.douyinpic.com/aweme/100x100/aweme-avatar/tos-cn-i-0813c000-ce_oMiqeAnDqCNywOsFEAARTAIJAEgyfOHwC9QVBo.jpeg?from=327834062"
+        ],
+        "width": 720,
+        "height": 720
+      },
+      "profile_cover": null
+    },
+    "video": {
+      "duration": 457480,
+      "width": 1920,
+      "height": 1080,
+      "ratio": "540p",
+      "format": "mp4",
+      "has_watermark": true,
+      "is_h265": 0,
+      "is_long_video": 1,
+      "is_source_HDR": 0,
+      "cdn_url_expired": 0,
+      "bit_rate": [
+        {
+          "FPS": 30,
+          "HDR_bit": "",
+          "HDR_type": "",
+          "bit_rate": 402375,
+          "format": "mp4",
+          "gear_name": "720_1_1",
+          "is_bytevc1": 1,
+          "is_h265": 1,
+          "play_addr": {
+            "data_size": 23009830,
+            "file_cs": "c:0-377568-c28d",
+            "file_hash": "dec99f047dd29d60b3db8617910de513",
+            "height": 720,
+            "uri": "v1e00fgi0000d9ukfunog65ql2rg3hkg",
+            "url_key": "v1e00fgi0000d9ukfunog65ql2rg3hkg_bytevc1_720p_402375",
+            "url_list": [
+              "https://v5-se-ex-mc-default.365yg.com/c25a10d8ad31b452b515374ad4f7e369/6a97ec56/video/tos/cn/tos-cn-ve-15c000-ce/o0D4S6QA4aAFSEoHzL2j1efW4fD7TFrIDgRpUe/?a=0&ch=26&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C3&cv=1&br=392&bt=392&cs=2&ds=3&eid=45312&ft=AJkaB0-BRR0si0C4kDn2Nc0iPMgzbLYpckRU_4YwGI2JNv7TGW&mime_type=video_mp4&qs=0&rc=aWlmNTczOWdoOmVnZjxoaUBpamtqNXQ5cnhuPDMzbGkzNEAtMmJiX2BfXmExMS01Xy0wYSNoMG9pMmRrY3JhLS1kLWJzcw%3D%3D&btag=80000e00030000&cquery=103t_100I_100H_100F_100E&dy_q=1788337277&feature_id=577d5549c8a74e794d2ea95500cd3c73&l=202609021621174B373EA3ED05B00161C4",
+              "https://v26-default.365yg.com/ecc6a8ee78cd0596fce2cce1460252f1/6a97ec56/video/tos/cn/tos-cn-ve-15c000-ce/o0D4S6QA4aAFSEoHzL2j1efW4fD7TFrIDgRpUe/?a=0&ch=26&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C3&cv=1&br=392&bt=392&cs=2&ds=3&eid=45312&ft=AJkaB0-BRR0si0C4kDn2Nc0iPMgzbLYpckRU_4YwGI2JNv7TGW&mime_type=video_mp4&qs=0&rc=aWlmNTczOWdoOmVnZjxoaUBpamtqNXQ5cnhuPDMzbGkzNEAtMmJiX2BfXmExMS01Xy0wYSNoMG9pMmRrY3JhLS1kLWJzcw%3D%3D&btag=80000e00030000&cquery=103t_100I_100H_100F_100E&dy_q=1788337277&feature_id=577d5549c8a74e794d2ea95500cd3c73&l=202609021621174B373EA3ED05B00161C4",
+              "https://api-play.amemv.com/aweme/v1/play/?video_id=v1e00fgi0000d9ukfunog65ql2rg3hkg&line=0&file_id=3f0eb98c0d4b47deadb6c0b4e2ec5f0f&sign=dec99f047dd29d60b3db8617910de513&is_play_url=1&source=PackSourceEnum_AWEME_DETAIL",
+              "https://api.amemv.com/aweme/v1/play/?video_id=v1e00fgi0000d9ukfunog65ql2rg3hkg&line=1&file_id=3f0eb98c0d4b47deadb6c0b4e2ec5f0f&sign=dec99f047dd29d60b3db8617910de513&is_play_url=1&source=PackSourceEnum_AWEME_DETAIL"
+            ],
+            "width": 1280
+          },
+          "quality_type": 11,
+          "video_extra": "{\"PktOffsetMap\":\"[{\\\"time\\\": 1, \\\"offset\\\": 511132}, {\\\"time\\\": 2, \\\"offset\\\": 544086}, {\\\"time\\\": 3, \\\"offset\\\": 591147}, {\\\"time\\\": 4, \\\"offset\\\": 645931}, {\\\"time\\\": 5, \\\"offset\\\": 703496}, {\\\"time\\\": 10, \\\"offset\\\": 950786}]\",\"format\":\"mp4\",\"definition\":\"720p\",\"quality\":\"normal\",\"file_id\":\"3f0eb98c0d4b47deadb6c0b4e2ec5f0f\",\"v_gear_id\":\"aweme/high_value_group\",\"u_vmaf\":97.6941,\"applog_map\":{\"feature_id\":\"577d5549c8a74e794d2ea95500cd3c73\"},\"volume_info\":\"{\\\"Loudness\\\":-12,\\\"LoudnessRange\\\":2,\\\"LoudnessRangeEnd\\\":-11.1,\\\"LoudnessRangeStart\\\":-13.2,\\\"MaximumMomentaryLoudness\\\":-7.8,\\\"MaximumShortTermLoudness\\\":-10,\\\"Metrics\\\":{\\\"Loudness\\\":{\\\"Integrated\\\":-12.006},\\\"Phase\\\":{\\\"RMSDownmixDiff\\\":-0.001},\\\"RMSStats\\\":{\\\"LRDiff\\\":-0.166,\\\"LTotal\\\":-15.074,\\\"Peak\\\":-1.569,\\\"RTotal\\\":-14.909},\\\"Version\\\":\\\"1.4.2\\\"},\\\"Peak\\\":0.83176,\\\"Version\\\":2}\",\"audio_enhance_metrics\":\"{\\\"effect_type\\\":[52]}\",\"audio_metrics\":null,\"audio_score\":null}"
+        },
+        {
+          "FPS": 30,
+          "HDR_bit": "",
+          "HDR_type": "",
+          "bit_rate": 283009,
+          "format": "mp4",
+          "gear_name": "720_2_1",
+          "is_bytevc1": 1,
+          "is_h265": 1,
+          "play_addr": {
+            "data_size": 16183873,
+            "file_cs": "c:0-377568-dbd5",
+            "file_hash": "b436a7a9a9d7ca20d940ca909cac1393",
+            "height": 720,
+            "uri": "v1e00fgi0000d9ukfunog65ql2rg3hkg",
+            "url_key": "v1e00fgi0000d9ukfunog65ql2rg3hkg_bytevc1_720p_283009",
+            "url_list": [
+              "https://v5-se-ex-mc-default.365yg.com/4cc68d8c938cf249fc2bc9e68d747ae5/6a97ec56/video/tos/cn/tos-cn-ve-15c000-ce/oERfg4ko1GABHtel3RLqT2pAjDHAGFO9RweCeI/?a=0&ch=26&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C3&cv=1&br=276&bt=276&cs=2&ds=3&eid=45312&ft=AJkaB0-BRR0si0C4kDn2Nc0iPMgzbLYpckRU_4YwGI2JNv7TGW&mime_type=video_mp4&qs=0&rc=OWgzOWc7PDM4Nzw1aGc8ZEBpamtqNXQ5cnhuPDMzbGkzNEAtYDRhMTFiNi8xXmNgYDJfYSNoMG9pMmRrY3JhLS1kLWJzcw%3D%3D&btag=80000e00030000&cquery=100E_103t_100I_100H_100F&dy_q=1788337277&feature_id=577d5549c8a74e794d2ea95500cd3c73&l=202609021621174B373EA3ED05B00161C4",
+              "https://v26-default.365yg.com/08b5bac6fa322c5800e892744ceffe6e/6a97ec56/video/tos/cn/tos-cn-ve-15c000-ce/oERfg4ko1GABHtel3RLqT2pAjDHAGFO9RweCeI/?a=0&ch=26&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C3&cv=1&br=276&bt=276&cs=2&ds=3&eid=45312&ft=AJkaB0-BRR0si0C4kDn2Nc0iPMgzbLYpckRU_4YwGI2JNv7TGW&mime_type=video_mp4&qs=0&rc=OWgzOWc7PDM4Nzw1aGc8ZEBpamtqNXQ5cnhuPDMzbGkzNEAtYDRhMTFiNi8xXmNgYDJfYSNoMG9pMmRrY3JhLS1kLWJzcw%3D%3D&btag=80000e00030000&cquery=103t_100I_100H_100F_100E&dy_q=1788337277&feature_id=577d5549c8a74e794d2ea95500cd3c73&l=202609021621174B373EA3ED05B00161C4",
+              "https://api-play.amemv.com/aweme/v1/play/?video_id=v1e00fgi0000d9ukfunog65ql2rg3hkg&line=0&file_id=ba59cdcef2a9442590e9484dd670ce06&sign=b436a7a9a9d7ca20d940ca909cac1393&is_play_url=1&source=PackSourceEnum_AWEME_DETAIL",
+              "https://api.amemv.com/aweme/v1/play/?video_id=v1e00fgi0000d9ukfunog65ql2rg3hkg&line=1&file_id=ba59cdcef2a9442590e9484dd670ce06&sign=b436a7a9a9d7ca20d940ca909cac1393&is_play_url=1&source=PackSourceEnum_AWEME_DETAIL"
+            ],
+            "width": 1280
+          },
+          "quality_type": 12,
+          "video_extra": "{\"PktOffsetMap\":\"[{\\\"time\\\": 1, \\\"offset\\\": 474646}, {\\\"time\\\": 2, \\\"offset\\\": 497663}, {\\\"time\\\": 3, \\\"offset\\\": 529928}, {\\\"time\\\": 4, \\\"offset\\\": 568590}, {\\\"time\\\": 5, \\\"offset\\\": 608670}, {\\\"time\\\": 10, \\\"offset\\\": 789654}]\",\"format\":\"mp4\",\"definition\":\"720p\",\"quality\":\"normal\",\"file_id\":\"ba59cdcef2a9442590e9484dd670ce06\",\"v_gear_id\":\"aweme/high_value_group\",\"u_vmaf\":96.3976,\"applog_map\":{\"feature_id\":\"577d5549c8a74e794d2ea95500cd3c73\"},\"volume_info\":\"{\\\"Loudness\\\":-12,\\\"LoudnessRange\\\":2,\\\"LoudnessRangeEnd\\\":-11.1,\\\"LoudnessRangeStart\\\":-13.2,\\\"MaximumMomentaryLoudness\\\":-7.8,\\\"MaximumShortTermLoudness\\\":-10,\\\"Metrics\\\":{\\\"Loudness\\\":{\\\"Integrated\\\":-12.006},\\\"Phase\\\":{\\\"RMSDownmixDiff\\\":-0.001},\\\"RMSStats\\\":{\\\"LRDiff\\\":-0.166,\\\"LTotal\\\":-15.074,\\\"Peak\\\":-1.569,\\\"RTotal\\\":-14.909},\\\"Version\\\":\\\"1.4.2\\\"},\\\"Peak\\\":0.83176,\\\"Version\\\":2}\",\"audio_enhance_metrics\":\"{\\\"effect_type\\\":[52]}\",\"audio_metrics\":null,\"audio_score\":null}"
+        },
+        {
+          "FPS": 30,
+          "HDR_bit": "",
+          "HDR_type": "",
+          "bit_rate": 271172,
+          "format": "mp4",
+          "gear_name": "540_1_1",
+          "is_bytevc1": 1,
+          "is_h265": 1,
+          "play_addr": {
+            "data_size": 15507026,
+            "file_cs": "c:0-377402-6ca2",
+            "file_hash": "365c1720f6e3d4af3bf59abda382cfcf",
+            "height": 576,
+            "uri": "v1e00fgi0000d9ukfunog65ql2rg3hkg",
+            "url_key": "v1e00fgi0000d9ukfunog65ql2rg3hkg_bytevc1_540p_271172",
+            "url_list": [
+              "https://v5-se-ex-mc-default.365yg.com/00d956b16a02e86e86c13e1ea7a89813/6a97ec56/video/tos/cn/tos-cn-ve-15c000-ce/oEFIAHjegF7dUDogQpED1PfSIkwvAf4WT4e6D2/?a=0&ch=26&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C3&cv=1&br=264&bt=264&cs=2&ds=6&eid=45312&ft=AJkaB0-BRR0si0C4kDn2Nc0iPMgzbLYpckRU_4YwGI2JNv7TGW&mime_type=video_mp4&qs=0&rc=OGg4ZzY7ZTszaGc6NDw1NEBpamtqNXQ5cnhuPDMzbGkzNEA1XzIyYTM2Xl4xLWBiYDQwYSNoMG9pMmRrY3JhLS1kLWJzcw%3D%3D&btag=80000e00030000&cquery=100I_100H_100F_100E_103t&dy_q=1788337277&feature_id=b0a3c852faff54d5d475f13c4b711578&l=202609021621174B373EA3ED05B00161C4",
+              "https://v26-default.365yg.com/75e72c7f2c798e64d71050ddfe0df4ec/6a97ec56/video/tos/cn/tos-cn-ve-15c000-ce/oEFIAHjegF7dUDogQpED1PfSIkwvAf4WT4e6D2/?a=0&ch=26&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C3&cv=1&br=264&bt=264&cs=2&ds=6&eid=45312&ft=AJkaB0-BRR0si0C4kDn2Nc0iPMgzbLYpckRU_4YwGI2JNv7TGW&mime_type=video_mp4&qs=0&rc=OGg4ZzY7ZTszaGc6NDw1NEBpamtqNXQ5cnhuPDMzbGkzNEA1XzIyYTM2Xl4xLWBiYDQwYSNoMG9pMmRrY3JhLS1kLWJzcw%3D%3D&btag=80000e00030000&cquery=100E_103t_100I_100H_100F&dy_q=1788337277&feature_id=b0a3c852faff54d5d475f13c4b711578&l=202609021621174B373EA3ED05B00161C4",
+              "https://api-play.amemv.com/aweme/v1/play/?video_id=v1e00fgi0000d9ukfunog65ql2rg3hkg&line=0&file_id=3172c9e1c70d4ea0a89b68d35d55be85&sign=365c1720f6e3d4af3bf59abda382cfcf&is_play_url=1&source=PackSourceEnum_AWEME_DETAIL",
+              "https://api.amemv.com/aweme/v1/play/?video_id=v1e00fgi0000d9ukfunog65ql2rg3hkg&line=1&file_id=3172c9e1c70d4ea0a89b68d35d55be85&sign=365c1720f6e3d4af3bf59abda382cfcf&is_play_url=1&source=PackSourceEnum_AWEME_DETAIL"
+            ],
+            "width": 1024
+          },
+          "quality_type": 22,
+          "video_extra": "{\"PktOffsetMap\":\"[{\\\"time\\\": 1, \\\"offset\\\": 467888}, {\\\"time\\\": 2, \\\"offset\\\": 490264}, {\\\"time\\\": 3, \\\"offset\\\": 522296}, {\\\"time\\\": 4, \\\"offset\\\": 559410}, {\\\"time\\\": 5, \\\"offset\\\": 598492}, {\\\"time\\\": 10, \\\"offset\\\": 767244}]\",\"format\":\"mp4\",\"definition\":\"540p\",\"quality\":\"normal\",\"file_id\":\"3172c9e1c70d4ea0a89b68d35d55be85\",\"v_gear_id\":\"aweme/high_value_group\",\"u_vmaf\":95.9893,\"applog_map\":{\"feature_id\":\"b0a3c852faff54d5d475f13c4b711578\"},\"volume_info\":\"{\\\"Loudness\\\":-12,\\\"LoudnessRange\\\":2,\\\"LoudnessRangeEnd\\\":-11.1,\\\"LoudnessRangeStart\\\":-13.2,\\\"MaximumMomentaryLoudness\\\":-7.8,\\\"MaximumShortTermLoudness\\\":-10,\\\"Metrics\\\":{\\\"Loudness\\\":{\\\"Integrated\\\":-12.006},\\\"Phase\\\":{\\\"RMSDownmixDiff\\\":-0.001},\\\"RMSStats\\\":{\\\"LRDiff\\\":-0.166,\\\"LTotal\\\":-15.074,\\\"Peak\\\":-1.569,\\\"RTotal\\\":-14.909},\\\"Version\\\":\\\"1.4.2\\\"},\\\"Peak\\\":0.83176,\\\"Version\\\":2}\",\"audio_enhance_metrics\":\"{\\\"effect_type\\\":[52]}\",\"audio_metrics\":null,\"audio_score\":null}"
+        },
+        {
+          "FPS": 30,
+          "HDR_bit": "",
+          "HDR_type": "",
+          "bit_rate": 212577,
+          "format": "mp4",
+          "gear_name": "540_2_1",
+          "is_bytevc1": 1,
+          "is_h265": 1,
+          "play_addr": {
+            "data_size": 12156227,
+            "file_cs": "c:0-377568-5164",
+            "file_hash": "c21ed3192e600d33e6b15cb523583d08",
+            "height": 576,
+            "uri": "v1e00fgi0000d9ukfunog65ql2rg3hkg",
+            "url_key": "v1e00fgi0000d9ukfunog65ql2rg3hkg_bytevc1_540p_212577",
+            "url_list": [
+              "https://v5-se-ex-mc-default.365yg.com/4db82a8cc55aa2bbc44af3bb8eed68c9/6a97ec56/video/tos/cn/tos-cn-ve-15c000-ce/o8oFXD6f7eupFTA1QfFS2HjDAEJD45gWU4eFIL/?a=0&ch=26&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C3&cv=1&br=207&bt=207&cs=2&ds=6&eid=45312&ft=AJkaB0-BRR0si0C4kDn2Nc0iPMgzbLYpckRU_4YwGI2JNv7TGW&mime_type=video_mp4&qs=0&rc=NGgzaWQ8NDQ4Nzw1aTZnZEBpamtqNXQ5cnhuPDMzbGkzNEA2YC8yMjIvX2MxLjItM2EvYSNoMG9pMmRrY3JhLS1kLWJzcw%3D%3D&btag=80000e00030000&cquery=100F_100E_103t_100I_100H&dy_q=1788337277&feature_id=25c426bcc2760c8d88e46ac1aec265d8&l=202609021621174B373EA3ED05B00161C4",
+              "https://v26-default.365yg.com/01e340d1dab491532b0f1e497f2c16a9/6a97ec56/video/tos/cn/tos-cn-ve-15c000-ce/o8oFXD6f7eupFTA1QfFS2HjDAEJD45gWU4eFIL/?a=0&ch=26&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C3&cv=1&br=207&bt=207&cs=2&ds=6&eid=45312&ft=AJkaB0-BRR0si0C4kDn2Nc0iPMgzbLYpckRU_4YwGI2JNv7TGW&mime_type=video_mp4&qs=0&rc=NGgzaWQ8NDQ4Nzw1aTZnZEBpamtqNXQ5cnhuPDMzbGkzNEA2YC8yMjIvX2MxLjItM2EvYSNoMG9pMmRrY3JhLS1kLWJzcw%3D%3D&btag=80000e00030000&cquery=103t_100I_100H_100F_100E&dy_q=1788337277&feature_id=25c426bcc2760c8d88e46ac1aec265d8&l=202609021621174B373EA3ED05B00161C4",
+              "https://api-play.amemv.com/aweme/v1/play/?video_id=v1e00fgi0000d9ukfunog65ql2rg3hkg&line=0&file_id=2add630f521944f5b121595a5f20ce91&sign=c21ed3192e600d33e6b15cb523583d08&is_play_url=1&source=PackSourceEnum_AWEME_DETAIL",
+              "https://api.amemv.com/aweme/v1/play/?video_id=v1e00fgi0000d9ukfunog65ql2rg3hkg&line=1&file_id=2add630f521944f5b121595a5f20ce91&sign=c21ed3192e600d33e6b15cb523583d08&is_play_url=1&source=PackSourceEnum_AWEME_DETAIL"
+            ],
+            "width": 1024
+          },
+          "quality_type": 23,
+          "video_extra": "{\"PktOffsetMap\":\"[{\\\"time\\\": 1, \\\"offset\\\": 450040}, {\\\"time\\\": 2, \\\"offset\\\": 467561}, {\\\"time\\\": 3, \\\"offset\\\": 492053}, {\\\"time\\\": 4, \\\"offset\\\": 520579}, {\\\"time\\\": 5, \\\"offset\\\": 550706}, {\\\"time\\\": 10, \\\"offset\\\": 684613}]\",\"format\":\"mp4\",\"definition\":\"540p\",\"quality\":\"normal\",\"file_id\":\"2add630f521944f5b121595a5f20ce91\",\"v_gear_id\":\"aweme/high_value_group\",\"u_vmaf\":94.5642,\"applog_map\":{\"feature_id\":\"25c426bcc2760c8d88e46ac1aec265d8\"},\"volume_info\":\"{\\\"Loudness\\\":-12,\\\"LoudnessRange\\\":2,\\\"LoudnessRangeEnd\\\":-11.1,\\\"LoudnessRangeStart\\\":-13.2,\\\"MaximumMomentaryLoudness\\\":-7.8,\\\"MaximumShortTermLoudness\\\":-10,\\\"Metrics\\\":{\\\"Loudness\\\":{\\\"Integrated\\\":-12.006},\\\"Phase\\\":{\\\"RMSDownmixDiff\\\":-0.001},\\\"RMSStats\\\":{\\\"LRDiff\\\":-0.166,\\\"LTotal\\\":-15.074,\\\"Peak\\\":-1.569,\\\"RTotal\\\":-14.909},\\\"Version\\\":\\\"1.4.2\\\"},\\\"Peak\\\":0.83176,\\\"Version\\\":2}\",\"audio_enhance_metrics\":\"{\\\"effect_type\\\":[52]}\",\"audio_metrics\":null,\"audio_score\":null}"
+        },
+        {
+          "FPS": 30,
+          "HDR_bit": "",
+          "HDR_type": "",
+          "bit_rate": 189584,
+          "format": "mp4",
+          "gear_name": "720_3_1",
+          "is_bytevc1": 1,
+          "is_h265": 1,
+          "play_addr": {
+            "data_size": 10841364,
+            "file_cs": "c:0-377568-8557",
+            "file_hash": "370cc6db154e7ba1963ba9693d976764",
+            "height": 720,
+            "uri": "v1e00fgi0000d9ukfunog65ql2rg3hkg",
+            "url_key": "v1e00fgi0000d9ukfunog65ql2rg3hkg_bytevc1_720p_189584",
+            "url_list": [
+              "https://v5-se-ex-mc-default.365yg.com/c4c32f321dcae02739ed1a950c49f10b/6a97ec56/video/tos/cn/tos-cn-ve-15c000-ce/oEfU1AfW4eIgSG2bD6A4QDFEncUjrpesDZToFE/?a=0&ch=26&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C3&cv=1&br=185&bt=185&cs=2&ds=3&eid=45312&ft=AJkaB0-BRR0si0C4kDn2Nc0iPMgzbLYpckRU_4YwGI2JNv7TGW&mime_type=video_mp4&qs=0&rc=ZDkzOjw4OzloNjc0Njc4ZUBpamtqNXQ5cnhuPDMzbGkzNEBhMTQwYWNiNjAxYDFjYjJfYSNoMG9pMmRrY3JhLS1kLWJzcw%3D%3D&btag=80000e00030000&cquery=100E_103t_100I_100H_100F&dy_q=1788337277&feature_id=577d5549c8a74e794d2ea95500cd3c73&l=202609021621174B373EA3ED05B00161C4",
+              "https://v26-default.365yg.com/2456b315cfcadd003a41a4f25720e4ea/6a97ec56/video/tos/cn/tos-cn-ve-15c000-ce/oEfU1AfW4eIgSG2bD6A4QDFEncUjrpesDZToFE/?a=0&ch=26&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C3&cv=1&br=185&bt=185&cs=2&ds=3&eid=45312&ft=AJkaB0-BRR0si0C4kDn2Nc0iPMgzbLYpckRU_4YwGI2JNv7TGW&mime_type=video_mp4&qs=0&rc=ZDkzOjw4OzloNjc0Njc4ZUBpamtqNXQ5cnhuPDMzbGkzNEBhMTQwYWNiNjAxYDFjYjJfYSNoMG9pMmRrY3JhLS1kLWJzcw%3D%3D&btag=80000e00030000&cquery=100H_100F_100E_103t_100I&dy_q=1788337277&feature_id=577d5549c8a74e794d2ea95500cd3c73&l=202609021621174B373EA3ED05B00161C4",
+              "https://api-play.amemv.com/aweme/v1/play/?video_id=v1e00fgi0000d9ukfunog65ql2rg3hkg&line=0&file_id=bb55e4f341c4433e96e8f5d9377046da&sign=370cc6db154e7ba1963ba9693d976764&is_play_url=1&source=PackSourceEnum_AWEME_DETAIL",
+              "https://api.amemv.com/aweme/v1/play/?video_id=v1e00fgi0000d9ukfunog65ql2rg3hkg&line=1&file_id=bb55e4f341c4433e96e8f5d9377046da&sign=370cc6db154e7ba1963ba9693d976764&is_play_url=1&source=PackSourceEnum_AWEME_DETAIL"
+            ],
+            "width": 1280
+          },
+          "quality_type": 13,
+          "video_extra": "{\"PktOffsetMap\":\"[{\\\"time\\\": 1, \\\"offset\\\": 442737}, {\\\"time\\\": 2, \\\"offset\\\": 458344}, {\\\"time\\\": 3, \\\"offset\\\": 479336}, {\\\"time\\\": 4, \\\"offset\\\": 504834}, {\\\"time\\\": 5, \\\"offset\\\": 530610}, {\\\"time\\\": 10, \\\"offset\\\": 653647}]\",\"format\":\"mp4\",\"definition\":\"720p\",\"quality\":\"normal\",\"file_id\":\"bb55e4f341c4433e96e8f5d9377046da\",\"v_gear_id\":\"aweme/high_value_group\",\"u_vmaf\":92.8024,\"applog_map\":{\"feature_id\":\"577d5549c8a74e794d2ea95500cd3c73\"},\"volume_info\":\"{\\\"Loudness\\\":-12,\\\"LoudnessRange\\\":2,\\\"LoudnessRangeEnd\\\":-11.1,\\\"LoudnessRangeStart\\\":-13.2,\\\"MaximumMomentaryLoudness\\\":-7.8,\\\"MaximumShortTermLoudness\\\":-10,\\\"Metrics\\\":{\\\"Loudness\\\":{\\\"Integrated\\\":-12.006},\\\"Phase\\\":{\\\"RMSDownmixDiff\\\":-0.001},\\\"RMSStats\\\":{\\\"LRDiff\\\":-0.166,\\\"LTotal\\\":-15.074,\\\"Peak\\\":-1.569,\\\"RTotal\\\":-14.909},\\\"Version\\\":\\\"1.4.2\\\"},\\\"Peak\\\":0.83176,\\\"Version\\\":2}\",\"audio_enhance_metrics\":\"{\\\"effect_type\\\":[52]}\",\"audio_metrics\":null,\"audio_score\":null}"
+        }
+      ],
+      "bit_rate_audio": null,
+      "meta": "{\"bright_ratio_mean\":\"0.0108\",\"brightness_mean\":\"78.665\",\"diff_overexposure_ratio\":\"0.0015\",\"format\":\"mp4\",\"gear_vqm\":\"{\\\"1080p_720p\\\":-1,\\\"720p_540p\\\":-1}\",\"hrids\":\"101005530\",\"is_cdn_peak\":\"false\",\"is_spatial_video\":\"0\",\"isad\":\"0\",\"loudness\":\"-11.2\",\"net_info\":\"{\\\"dns_list\\\":{},\\\"c_isp\\\":1}\",\"overexposure_ratio_mean\":\"0.0059\",\"peak\":\"0.92257\",\"qprf\":\"1.000\",\"sdgs\":\"[\\\"720_1_1\\\",\\\"720_2_1\\\",\\\"540_1_1\\\",\\\"540_2_1\\\",\\\"720_3_1\\\"]\",\"sr_score\":\"0.000\",\"std_brightness\":\"0.5018\",\"strategy_tokens\":\"[\\\"online\\\"]\",\"title_info\":\"{\\\"avg_br_pc\\\":99,\\\"bottom_res_add\\\":[0,0,0,0,0,0,0,0,0,0,0,0,0,0,0],\\\"bullet_zone\\\":0,\\\"mean_br_l\\\":[0,0,0,0,0,0],\\\"pc60_br_l\\\":[0,0,0,0,0,0],\\\"progress_bar\\\":[0,0,0],\\\"ratio_br_l\\\":[0,0,0,0,0,0],\\\"ratio_br_l_thre220\\\":[0,0,0,0,0,0],\\\"ratio_edge_l\\\":[0,0,0,0,0,0],\\\"std_br_l\\\":[0,0,0,0,0,0],\\\"top_res_add\\\":[0,0,0,0,0,0,0],\\\"version\\\":\\\"v1.0\\\"}\"}",
+      "cover": {
+        "uri": "tos-cn-i-0813c000-ce/oki8cPnvbhJi9BMATSPBAAJsAaVIA1ndE2yml",
+        "url_list": [
+          "https://p26-sign.douyinpic.com/tos-cn-i-0813c000-ce/oki8cPnvbhJi9BMATSPBAAJsAaVIA1ndE2yml~c5_300x400.jpeg?lk3s=138a59ce&x-expires=1789545600&x-signature=rk7hmt4v1uVkOu%2Ff0Lsc9hbIT5Q%3D&from=327834062_large&s=PackSourceEnum_AWEME_DETAIL&se=false&sc=cover&biz_tag=aweme_video&l=202609021621174B373EA3ED05B00161C4",
+          "https://p96-sign.douyinpic.com/tos-cn-i-0813c000-ce/oki8cPnvbhJi9BMATSPBAAJsAaVIA1ndE2yml~c5_300x400.jpeg?lk3s=138a59ce&x-expires=1789545600&x-signature=zfvoJuaIeXzHNpB5gUUvlfBefac%3D&from=327834062_large&s=PackSourceEnum_AWEME_DETAIL&se=false&sc=cover&biz_tag=aweme_video&l=202609021621174B373EA3ED05B00161C4",
+          "https://p11-sign.douyinpic.com/tos-cn-i-0813c000-ce/oki8cPnvbhJi9BMATSPBAAJsAaVIA1ndE2yml~c5_300x400.jpeg?lk3s=138a59ce&x-expires=1789545600&x-signature=5BV%2Fp1Q9E33oOJwKdG1uQudue1M%3D&from=327834062_large&s=PackSourceEnum_AWEME_DETAIL&se=false&sc=cover&biz_tag=aweme_video&l=202609021621174B373EA3ED05B00161C4"
+        ],
+        "width": 641,
+        "height": 856
+      },
+      "origin_cover": {
+        "uri": "tos-cn-p-0015c000-ce/oooU4FD72DTlvQU6e6EQWfFAkCDA31T4epfSjb",
+        "url_list": [
+          "https://p96-sign.douyinpic.com/tos-cn-p-0015c000-ce/oooU4FD72DTlvQU6e6EQWfFAkCDA31T4epfSjb~tplv-dy-360p.jpeg?lk3s=138a59ce&x-expires=1789545600&x-signature=8sefHqYI%2BauZ43mQRkzcUDscDdc%3D&from=327834062&s=PackSourceEnum_AWEME_DETAIL&se=false&sc=origin_cover&biz_tag=aweme_video&l=202609021621174B373EA3ED05B00161C4",
+          "https://p5-ex-gddgtc-sign.douyinpic.com/tos-cn-p-0015c000-ce/oooU4FD72DTlvQU6e6EQWfFAkCDA31T4epfSjb~tplv-dy-360p.jpeg?lk3s=138a59ce&x-expires=1789545600&x-signature=YWD8yEpNCtreT95JK4Z%2B%2BF%2B02hE%3D&from=327834062&s=PackSourceEnum_AWEME_DETAIL&se=false&sc=origin_cover&biz_tag=aweme_video&l=202609021621174B373EA3ED05B00161C4",
+          "https://p11-sign.douyinpic.com/tos-cn-p-0015c000-ce/oooU4FD72DTlvQU6e6EQWfFAkCDA31T4epfSjb~tplv-dy-360p.jpeg?lk3s=138a59ce&x-expires=1789545600&x-signature=IGfBeZ4bs%2Feq%2FoYoHSKOJst%2BQyo%3D&from=327834062&s=PackSourceEnum_AWEME_DETAIL&se=false&sc=origin_cover&biz_tag=aweme_video&l=202609021621174B373EA3ED05B00161C4"
+        ],
+        "width": 640,
+        "height": 360
+      },
+      "dynamic_cover": {
+        "uri": "tos-cn-i-0813c000-ce/oki8cPnvbhJi9BMATSPBAAJsAaVIA1ndE2yml",
+        "url_list": [
+          "https://p26-sign.douyinpic.com/obj/tos-cn-i-0813c000-ce/oki8cPnvbhJi9BMATSPBAAJsAaVIA1ndE2yml?lk3s=138a59ce&x-expires=1789545600&x-signature=kl%2Bhkt6Nox0poao1qjl6wYH9hVE%3D&from=327834062_large&s=PackSourceEnum_AWEME_DETAIL&se=false&sc=dynamic_cover&biz_tag=aweme_video&l=202609021621174B373EA3ED05B00161C4",
+          "https://p96-sign.douyinpic.com/obj/tos-cn-i-0813c000-ce/oki8cPnvbhJi9BMATSPBAAJsAaVIA1ndE2yml?lk3s=138a59ce&x-expires=1789545600&x-signature=UaNeH6FKEeITLChQnKB8sqTAp00%3D&from=327834062_large&s=PackSourceEnum_AWEME_DETAIL&se=false&sc=dynamic_cover&biz_tag=aweme_video&l=202609021621174B373EA3ED05B00161C4",
+          "https://p11-sign.douyinpic.com/obj/tos-cn-i-0813c000-ce/oki8cPnvbhJi9BMATSPBAAJsAaVIA1ndE2yml?lk3s=138a59ce&x-expires=1789545600&x-signature=ZsUn%2FGC8eIl89%2BC4rOdWXoSmp0M%3D&from=327834062_large&s=PackSourceEnum_AWEME_DETAIL&se=false&sc=dynamic_cover&biz_tag=aweme_video&l=202609021621174B373EA3ED05B00161C4"
+        ],
+        "width": 720,
+        "height": 720
+      },
+      "play_addr": {
+        "uri": "v1e00fgi0000d9ukfunog65ql2rg3hkg",
+        "url_list": [
+          "https://v5-se-ex-mc-default.365yg.com/d4e1b4161a0408e55b7ebf7df1781557/6a97ec56/video/tos/cn/tos-cn-ve-15c000-ce/o4Ffe4ZpeADDTj6gE1Wor2OF4C7fIG4ADUSAQD/?a=0&ch=26&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C3&cv=1&br=501&bt=501&cs=0&ds=6&ft=AJkaB0-BRR0si0C4kDn2Nc0iPMgzbLYpckRU_4YwGI2JNv7TGW&mime_type=video_mp4&qs=0&rc=NmVpPDg7ZWhmaGk4NDU4OkBpamtqNXQ5cnhuPDMzbGkzNEAzYV81LS8yNTIxMmIwLmI1YSNoMG9pMmRrY3JhLS1kLWJzcw%3D%3D&btag=80000e00030000&cquery=100E_103t_100I_100H_100F&dy_q=1788337277&feature_id=f0150a16a324336cda5d6dd0b69ed299&l=202609021621174B373EA3ED05B00161C4",
+          "https://v26-default.365yg.com/309af63e732af4180f65010cc527ec26/6a97ec56/video/tos/cn/tos-cn-ve-15c000-ce/o4Ffe4ZpeADDTj6gE1Wor2OF4C7fIG4ADUSAQD/?a=0&ch=26&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C3&cv=1&br=501&bt=501&cs=0&ds=6&ft=AJkaB0-BRR0si0C4kDn2Nc0iPMgzbLYpckRU_4YwGI2JNv7TGW&mime_type=video_mp4&qs=0&rc=NmVpPDg7ZWhmaGk4NDU4OkBpamtqNXQ5cnhuPDMzbGkzNEAzYV81LS8yNTIxMmIwLmI1YSNoMG9pMmRrY3JhLS1kLWJzcw%3D%3D&btag=80000e00030000&cquery=103t_100I_100H_100F_100E&dy_q=1788337277&feature_id=f0150a16a324336cda5d6dd0b69ed299&l=202609021621174B373EA3ED05B00161C4",
+          "https://api-play.amemv.com/aweme/v1/play/?video_id=v1e00fgi0000d9ukfunog65ql2rg3hkg&line=0&file_id=87e51231e55f4e5c8e5b280589bfdb63&sign=474fc492eb999b2d6eb41e1dbe83d81a&is_play_url=1&source=PackSourceEnum_AWEME_DETAIL",
+          "https://api.amemv.com/aweme/v1/play/?video_id=v1e00fgi0000d9ukfunog65ql2rg3hkg&line=1&file_id=87e51231e55f4e5c8e5b280589bfdb63&sign=474fc492eb999b2d6eb41e1dbe83d81a&is_play_url=1&source=PackSourceEnum_AWEME_DETAIL"
+        ],
+        "width": 1024,
+        "height": 576,
+        "url_key": "v1e00fgi0000d9ukfunog65ql2rg3hkg_h264_540p_513525",
+        "data_size": 29365969,
+        "file_hash": "474fc492eb999b2d6eb41e1dbe83d81a"
+      },
+      "play_addr_h264": {
+        "uri": "v1e00fgi0000d9ukfunog65ql2rg3hkg",
+        "url_list": [
+          "https://v5-se-ex-mc-default.365yg.com/d4e1b4161a0408e55b7ebf7df1781557/6a97ec56/video/tos/cn/tos-cn-ve-15c000-ce/o4Ffe4ZpeADDTj6gE1Wor2OF4C7fIG4ADUSAQD/?a=0&ch=26&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C3&cv=1&br=501&bt=501&cs=0&ds=6&ft=AJkaB0-BRR0si0C4kDn2Nc0iPMgzbLYpckRU_4YwGI2JNv7TGW&mime_type=video_mp4&qs=0&rc=NmVpPDg7ZWhmaGk4NDU4OkBpamtqNXQ5cnhuPDMzbGkzNEAzYV81LS8yNTIxMmIwLmI1YSNoMG9pMmRrY3JhLS1kLWJzcw%3D%3D&btag=80000e00030000&cquery=100E_103t_100I_100H_100F&dy_q=1788337277&feature_id=f0150a16a324336cda5d6dd0b69ed299&l=202609021621174B373EA3ED05B00161C4",
+          "https://v26-default.365yg.com/309af63e732af4180f65010cc527ec26/6a97ec56/video/tos/cn/tos-cn-ve-15c000-ce/o4Ffe4ZpeADDTj6gE1Wor2OF4C7fIG4ADUSAQD/?a=0&ch=26&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C3&cv=1&br=501&bt=501&cs=0&ds=6&ft=AJkaB0-BRR0si0C4kDn2Nc0iPMgzbLYpckRU_4YwGI2JNv7TGW&mime_type=video_mp4&qs=0&rc=NmVpPDg7ZWhmaGk4NDU4OkBpamtqNXQ5cnhuPDMzbGkzNEAzYV81LS8yNTIxMmIwLmI1YSNoMG9pMmRrY3JhLS1kLWJzcw%3D%3D&btag=80000e00030000&cquery=103t_100I_100H_100F_100E&dy_q=1788337277&feature_id=f0150a16a324336cda5d6dd0b69ed299&l=202609021621174B373EA3ED05B00161C4",
+          "https://api-play.amemv.com/aweme/v1/play/?video_id=v1e00fgi0000d9ukfunog65ql2rg3hkg&line=0&file_id=87e51231e55f4e5c8e5b280589bfdb63&sign=474fc492eb999b2d6eb41e1dbe83d81a&is_play_url=1&source=PackSourceEnum_AWEME_DETAIL",
+          "https://api.amemv.com/aweme/v1/play/?video_id=v1e00fgi0000d9ukfunog65ql2rg3hkg&line=1&file_id=87e51231e55f4e5c8e5b280589bfdb63&sign=474fc492eb999b2d6eb41e1dbe83d81a&is_play_url=1&source=PackSourceEnum_AWEME_DETAIL"
+        ],
+        "width": 1024,
+        "height": 576,
+        "url_key": "v1e00fgi0000d9ukfunog65ql2rg3hkg_h264_540p_513525",
+        "data_size": 29365969,
+        "file_hash": "474fc492eb999b2d6eb41e1dbe83d81a"
+      },
+      "play_addr_265": {
+        "uri": "v1e00fgi0000d9ukfunog65ql2rg3hkg",
+        "url_list": [
+          "https://v5-se-ex-mc-default.365yg.com/c25a10d8ad31b452b515374ad4f7e369/6a97ec56/video/tos/cn/tos-cn-ve-15c000-ce/o0D4S6QA4aAFSEoHzL2j1efW4fD7TFrIDgRpUe/?a=0&ch=26&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C3&cv=1&br=392&bt=392&cs=2&ds=3&eid=45312&ft=AJkaB0-BRR0si0C4kDn2Nc0iPMgzbLYpckRU_4YwGI2JNv7TGW&mime_type=video_mp4&qs=0&rc=aWlmNTczOWdoOmVnZjxoaUBpamtqNXQ5cnhuPDMzbGkzNEAtMmJiX2BfXmExMS01Xy0wYSNoMG9pMmRrY3JhLS1kLWJzcw%3D%3D&btag=80000e00030000&cquery=103t_100I_100H_100F_100E&dy_q=1788337277&feature_id=577d5549c8a74e794d2ea95500cd3c73&l=202609021621174B373EA3ED05B00161C4",
+          "https://v26-default.365yg.com/ecc6a8ee78cd0596fce2cce1460252f1/6a97ec56/video/tos/cn/tos-cn-ve-15c000-ce/o0D4S6QA4aAFSEoHzL2j1efW4fD7TFrIDgRpUe/?a=0&ch=26&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C3&cv=1&br=392&bt=392&cs=2&ds=3&eid=45312&ft=AJkaB0-BRR0si0C4kDn2Nc0iPMgzbLYpckRU_4YwGI2JNv7TGW&mime_type=video_mp4&qs=0&rc=aWlmNTczOWdoOmVnZjxoaUBpamtqNXQ5cnhuPDMzbGkzNEAtMmJiX2BfXmExMS01Xy0wYSNoMG9pMmRrY3JhLS1kLWJzcw%3D%3D&btag=80000e00030000&cquery=103t_100I_100H_100F_100E&dy_q=1788337277&feature_id=577d5549c8a74e794d2ea95500cd3c73&l=202609021621174B373EA3ED05B00161C4",
+          "https://api-play.amemv.com/aweme/v1/play/?video_id=v1e00fgi0000d9ukfunog65ql2rg3hkg&line=0&file_id=3f0eb98c0d4b47deadb6c0b4e2ec5f0f&sign=dec99f047dd29d60b3db8617910de513&is_play_url=1&source=PackSourceEnum_AWEME_DETAIL",
+          "https://api.amemv.com/aweme/v1/play/?video_id=v1e00fgi0000d9ukfunog65ql2rg3hkg&line=1&file_id=3f0eb98c0d4b47deadb6c0b4e2ec5f0f&sign=dec99f047dd29d60b3db8617910de513&is_play_url=1&source=PackSourceEnum_AWEME_DETAIL"
+        ],
+        "width": 1280,
+        "height": 720,
+        "url_key": "v1e00fgi0000d9ukfunog65ql2rg3hkg_bytevc1_720p_402375",
+        "data_size": 23009830,
+        "file_hash": "dec99f047dd29d60b3db8617910de513"
+      },
+      "download_addr": {
+        "uri": "v1e00fgi0000d9ukfunog65ql2rg3hkg",
+        "url_list": [
+          "https://v5-se-ex-mc-default.365yg.com/d7c99f671ebcfb02d0558050ea28e11c/6a97ec56/video/tos/cn/tos-cn-ve-15c000-ce/ogoBxciEIEw1eFPvLSie9xJBpuPcQAAqBCqeQ6/?a=0&ch=26&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C3&cv=1&br=711&bt=711&cs=0&ds=3&ft=AJkaB0-BRR0si0C4kDn2Nc0iPMgzbLYpckRU_4YwGI2JNv7TGW&mime_type=video_mp4&qs=0&rc=NzdpNjM4NzRkNjZlNjs5NEBpamtqNXQ5cnhuPDMzbGkzNEAzMGNjLy8vNWAxY2FiXi8uYSNoMG9pMmRrY3JhLS1kLWJzcw%3D%3D&btag=80000e00030000&cquery=100E_103t_100I_100H_100F&dy_q=1788337277&feature_id=93c5283e1794c821af5e0ee1411bec9d&l=202609021621174B373EA3ED05B00161C4",
+          "https://v26-default.365yg.com/00025c195f2c58825fa21beeadb79acb/6a97ec56/video/tos/cn/tos-cn-ve-15c000-ce/ogoBxciEIEw1eFPvLSie9xJBpuPcQAAqBCqeQ6/?a=0&ch=26&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C3&cv=1&br=711&bt=711&cs=0&ds=3&ft=AJkaB0-BRR0si0C4kDn2Nc0iPMgzbLYpckRU_4YwGI2JNv7TGW&mime_type=video_mp4&qs=0&rc=NzdpNjM4NzRkNjZlNjs5NEBpamtqNXQ5cnhuPDMzbGkzNEAzMGNjLy8vNWAxY2FiXi8uYSNoMG9pMmRrY3JhLS1kLWJzcw%3D%3D&btag=80000e00030000&cquery=103t_100I_100H_100F_100E&dy_q=1788337277&feature_id=93c5283e1794c821af5e0ee1411bec9d&l=202609021621174B373EA3ED05B00161C4",
+          "https://api-play.amemv.com/aweme/v1/play/?video_id=v1e00fgi0000d9ukfunog65ql2rg3hkg&line=0&ratio=540p&watermark=1&media_type=4&vr_type=0&improve_bitrate=0&biz_sign=NRPI1lC4AlkgB1YZ_o3IkPAfESQSvePEcuaas9UyYXOwTcZpGJUDgs1E-r_T9VaaOzLa7CA0Ou-V1V2BgVcaftUU70jNDGbNHaUZIZuaRMUGyO7s5wbVW7et0I2xs1hA&logo_name=aweme_search_suffix&source=PackSourceEnum_AWEME_DETAIL",
+          "https://api.amemv.com/aweme/v1/play/?video_id=v1e00fgi0000d9ukfunog65ql2rg3hkg&line=1&ratio=540p&watermark=1&media_type=4&vr_type=0&improve_bitrate=0&biz_sign=NRPI1lC4AlkgB1YZ_o3IkPAfESQSvePEcuaas9UyYXOwTcZpGJUDgs1E-r_T9VaaOzLa7CA0Ou-V1V2BgVcaftUU70jNDGbNHaUZIZuaRMUGyO7s5wbVW7et0I2xs1hA&logo_name=aweme_search_suffix&source=PackSourceEnum_AWEME_DETAIL"
+        ],
+        "width": 720,
+        "height": 720,
+        "data_size": 41962293
+      },
+      "audio": {}
+    },
+    "music": {
+      "id": 7673370413879462692,
+      "id_str": "7673370413879462692",
+      "mid": "7673370413879462692",
+      "title": "@发财兄弟｜聊赚钱创作的原声",
+      "author": "发财兄弟｜聊赚钱",
+      "owner_id": "1734378287279641",
+      "owner_handle": "69279387773",
+      "owner_nickname": "发财兄弟｜聊赚钱",
+      "sec_uid": "MS4wLjABAAAAEzK6wbW3X2F48EeASvTINFnPKrkz_kqFOStROIUEib1RK11dkRhYy8thyvupWqv_",
+      "album": "",
+      "duration": 457,
+      "audition_duration": 457,
+      "shoot_duration": 457,
+      "video_duration": 457,
+      "start_time": 0,
+      "end_time": 0,
+      "is_original": false,
+      "is_original_sound": true,
+      "is_commerce_music": false,
+      "is_restricted": false,
+      "is_pgc": false,
+      "source_platform": 23,
+      "music_collect_count": 0,
+      "user_count": 0,
+      "status": 1,
+      "music_status": 1,
+      "prevent_download": false,
+      "offline_desc": "",
+      "tag_list": null,
+      "artists": [],
+      "external_song_info": [],
+      "play_url": {
+        "uri": "https://lf26-music-east.douyinstatic.com/obj/ies-music-hj/7673370449937730353.mp3",
+        "url_list": [
+          "https://lf26-music-east.douyinstatic.com/obj/ies-music-hj/7673370449937730353.mp3",
+          "https://lf9-music-east.douyinstatic.com/obj/ies-music-hj/7673370449937730353.mp3"
+        ],
+        "width": 720,
+        "height": 720,
+        "url_key": "7673370413879462692"
+      },
+      "cover": {
+        "uri": "1080x1080/aweme-avatar/tos-cn-i-0813c000-ce_oMiqeAnDqCNywOsFEAARTAIJAEgyfOHwC9QVBo",
+        "url_list": [
+          "https://p26.douyinpic.com/aweme/1080x1080/aweme-avatar/tos-cn-i-0813c000-ce_oMiqeAnDqCNywOsFEAARTAIJAEgyfOHwC9QVBo.jpeg?from=327834062",
+          "https://p3.douyinpic.com/aweme/1080x1080/aweme-avatar/tos-cn-i-0813c000-ce_oMiqeAnDqCNywOsFEAARTAIJAEgyfOHwC9QVBo.jpeg?from=327834062",
+          "https://p11.douyinpic.com/aweme/1080x1080/aweme-avatar/tos-cn-i-0813c000-ce_oMiqeAnDqCNywOsFEAARTAIJAEgyfOHwC9QVBo.jpeg?from=327834062"
+        ],
+        "width": 720,
+        "height": 720
+      }
+    },
+    "taxonomy": {
+      "video_tags": [
+        {
+          "tag_id": 2011,
+          "tag_name": "个人管理",
+          "level": 1
+        },
+        {
+          "tag_id": 2011002,
+          "tag_name": "职场技能",
+          "level": 2
+        },
+        {
+          "tag_id": 2011002005,
+          "tag_name": "创业商业知识",
+          "level": 3
+        }
+      ],
+      "aweme_type_tags": "",
+      "social_tags": null,
+      "video_labels": null,
+      "cover_labels": null,
+      "hybrid_label": null
+    },
+    "collection": null,
+    "series": {
+      "basic": {},
+      "paid": {
+        "item_price": 0,
+        "series_paid_status": 0
+      },
+      "long_video": null,
+      "chapters": null
+    },
+    "relations": {
+      "anchors": null,
+      "interaction_stickers": null,
+      "follow_shoot_clip_info": {
+        "clip_from_user": 7673370413879462692,
+        "clip_video_all": 7673370413879462692
+      },
+      "follow_shoot_property": {
+        "recommended_camera_mode": "video"
+      },
+      "origin_comment_ids": null,
+      "origin_duet_resource_uri": "",
+      "is_share_post": false,
+      "is_duet_sing": false
+    },
+    "commerce": {
+      "is_ads": false,
+      "is_from_ad_auth": false,
+      "is_life_item": false,
+      "promotions": [],
+      "commerce_config_data": null,
+      "entertainment_product_info": {
+        "market_info": {
+          "limit_free": {
+            "in_free": false
+          }
+        }
+      },
+      "product_genre_info": {
+        "material_genre_sub_type_set": [
+          4
+        ],
+        "product_genre_type": 2,
+        "special_info": {
+          "recommend_group_name": 0
+        }
+      }
+    },
+    "content_flags": {
+      "original": 0,
+      "is_aigc_media": false,
+      "item_aigc_follow_shot": 1,
+      "is_subtitled": 0,
+      "is_use_music": false,
+      "is_image_beat": false,
+      "is_new_text_mode": 0,
+      "can_cache_to_local": true,
+      "can_be_oc_cover": true,
+      "shoot_way": "direct_shoot",
+      "rate": 12
+    },
+    "availability": {
+      "status": {
+        "allow_share": true,
+        "aweme_id": "7673370402819667962",
+        "enable_soft_delete": 0,
+        "in_reviewing": false,
+        "is_delete": false,
+        "is_prohibited": false,
+        "listen_video_status": 2,
+        "not_allow_soft_del_reason": "ab",
+        "part_see": 0,
+        "private_status": 0,
+        "review_result": {
+          "review_status": 0
+        }
+      },
+      "risk_infos": {
+        "content": "个人观点，仅供参考",
+        "risk_sink": false,
+        "type": 351,
+        "vote": false,
+        "warn": true,
+        "warn_level": 0
+      },
+      "video_control": {
+        "allow_douplus": true,
+        "allow_download": false,
+        "allow_duet": true,
+        "allow_dynamic_wallpaper": false,
+        "allow_music": true,
+        "allow_react": false,
+        "allow_record": true,
+        "allow_share": true,
+        "allow_stitch": false,
+        "disable_record_reason": "",
+        "download_ignore_visibility": true,
+        "download_info": {
+          "fail_info": {
+            "code": 200001,
+            "reason": "risk_info"
+          },
+          "level": 2
+        },
+        "draft_progress_bar": 1,
+        "duet_ignore_visibility": true,
+        "duet_info": {
+          "fail_info": {
+            "code": 100014,
+            "reason": "video_duration"
+          },
+          "level": 2
+        },
+        "prevent_download_type": 2,
+        "share_grayed": false,
+        "share_ignore_visibility": true,
+        "share_type": 0,
+        "show_ai_corner": false,
+        "show_progress_bar": 1,
+        "show_watermark": false,
+        "timer_info": {},
+        "timer_status": 1
+      },
+      "aweme_control": {
+        "can_comment": true,
+        "can_forward": true,
+        "can_share": true,
+        "can_show_comment": true
+      },
+      "comment_permission_info": {
+        "can_comment": true,
+        "comment_permission_status": 0,
+        "item_detail_entry": false,
+        "press_entry": false,
+        "toast_guide": false
+      },
+      "can_cache_to_local": true
+    },
+    "location": {
+      "region": "CN",
+      "geofencing": [],
+      "geofencing_regions": null
+    }
+  },
+  "source_response_path": "raw/7673370402819667962.json",
+  "transcription": {
+    "engine": "FunASR",
+    "engine_version": "1.4.5",
+    "model": "iic/SenseVoiceSmall",
+    "device": "mps",
+    "language": "zh",
+    "asr_sec": 7.688,
+    "text": "所有人都要记住一句话，那就是要想办法挣够一辈子的钱，而不是一辈子都在挣钱。那大部分人呢听到这个话的第一反应就是你说的太轻巧。嗯，房贷车贷孩子学费、父母养老哪样不是按月催你交钱的，一辈子挣钱就好像是唯一的选项。但是呢你有没有注意到一个现象，就是很多人的收入涨了，日子并没有变松。然后月薪5000的时候觉得一万就好了。但是真到了一万，你发现还是紧巴巴的，到了3万4万还是一样，钱多了，但是那种被追着跑的感觉，从来没有消失。😡没错哈，那这个现象其实在心理学当中有个说法叫做享乐适应。那其实就是人对物质改善的感受会迅速的消退。你买了一辆新车，头两个月你很开心，但是第三个月你就觉得好像很正常了。那第四个月你就开始想换更好的。其实收入也是一样。涨薪所带来的满足感，大概也就为13个月。那之后呢，你的消费水平会自动调整到跟新收入匹配的位置。所以说你会发现一个很残酷的现象，就大部分人不是赚的不够多，是花的永远。好，跟赚的一样多，没错，收入呢是涨的，但是呢余量从来没有出现过，而且这个事情不完全是个人的意志力问题。你去看整个商业社会的运转逻辑哈，它就是在鼓励你把钱花掉。😊你打开任何1个APP算法比你自己还了解你要什么。你刚收了一双鞋，接下来的三天，所有平台都会给你推写分期付款、信用卡、花呗，所有的金融工具设计的目的其实都是在降低你花钱时的痛感。😡就你花1万块钱分十2期，每期800多，觉得哎好像也就那样。但是呢你的钱确实已经花出去了，而且呢还付了利息，没错。那整个系统啊就要做一件事情，就是让我们的消费速度永远跟上，甚至超过我们的收入速度。你想我们从学校出来进入职场，拿到第一份工资，马上就被拉进了一个循环里面。挣钱消费不够了，你在挣呢，嗯你以为是自己在做选择。其实你的每一个消费决定都在被精心的引导。你月薪一万的时候，身边的广告、同事的生活方式、社交媒体上的展示全都在告诉你。😊月薪一万应该过什么样的生活，你就照着这个标准去花了，等你涨到2万，新的标准又来了，你永远在追一个刚好比你现在多一点的生活。所以一辈子赚钱这个状态，它不是你选的是被设计出来的。没错，萝卜的先行呢在富爸爸熊爸爸里面提到过一个概念，叫做老鼠赛跑，那就是一个老鼠在笼子里面拼命的跑转轮，那跑的越快，轮子转的越快，但它永远在原地。那他说啊，其实大部分人的财务状况就是这样的，收入增加，支出同步增加，那进资产没有。😡实质性的变化，你从月薪5000升到了月薪3万，跑了十0年，回头一看，存款可能就多了十几二十万十年的时间后来的积累好像就这么一点点。而且呢这里面还有一层很多人没有意识到的东西，就是你在公司里待的时间越长，你对工资的依赖就越深，不是因为你变弱了哈，是因为你的生活结构是围绕那份工资搭建的房贷按照你的月薪算的，车贷按照你的月薪算的，还是上什么学校也是按照你的收入水平选的。那这些东西呢，一旦定下来就变成了刚性支出，每。每个月必须做账，你被自己的生活方式锁死了，就算你想停下来想一想，换个方向你都停不下来。因为下个月的账单可不等你。那这个就是为什么很多人到了35岁以后会有一种很深的无力感，不是能力不行，是他发现自己没有退路了。25岁的时候呢，一个月花个3000，你真能活，那大不了辞职回老家待个半年没什么负担。但是35岁了，你的固定支出可能已经到了150002万，你一天都停不起。你被自己过去十年做的每一个消费决定绑住了，那些决定在当时来看都是合理的。买房买车，给孩子选好学校，但他们叠在一起，形成了一个你跳不出去的笼子。所以你看一辈子挣钱这个困局。😊它不是一个简单的，你不够努力，或者说你不会理财的问题，它是一个系统性的结构。从你进入社会的第一天开始。整个环境都在推着你往一个方向走，就是赚多少花多少，然后呢继续转学校没有教过你怎么跳出这个循环，公司更不会教你。因为你留在这个循环里，对他们是最有利的。你是一个稳定的消费者。😡也是一个稳定的劳动者。没错哈，那挣够一辈子钱的人，他们跟我们的区别到底在哪里呢？那我们也观察过一些人，那不是那种说家里有矿的那就是普通起点一步一步走出来的。他们最大的不同不是说他赚的更多嗯。是在某个时间段里面，他做了一个决定。我们归结为就是把收入分成两部分，一部分呢用来维持生活。另外一部分他不碰，专门用来买能够替代自己赚钱的东西。那这个东西啊可以是一个小生意，也可以是一套能够收租的房子。或者是一个可以持续产生收益的投资组合。那关键不在它是什么形式。那关键在于说他一部分的钱从消费这条路上赚出来，放到了另外一条路上。就查理芒果说过一句话，大概意思是。人生第1个100万是最难的之后呢就容易多了。很多人觉得这是在炫富。其实他说的是一个数学事实，当你的资产累积到一定程度，那他自己产生的收益就开始有意义了。100万放在一个年化3%到6%的地方。😊一年可能有3到6万，平均每个月几千块钱。但是呢这几千块钱不需要你付出任何的时间，他自己就来了。你的生活开支如果是一个月15000，这几千块钱就意味着只需要挣1万就够了。你对工资的依赖就降低了3分之1。这个比例呢会随着资产的增长继续变化。直到有一天，资产产生的收入能覆盖你全部的开支。到那一天，你上不上班就是你自己的事儿了。但这里面啊最难的一步不是投资技巧。😡不是选什么理财产品，是你怎么样在收入增长的时候，忍住不把生活标准同步拉上去，那这个才是真正反人性的地方。你涨了几千块工资，所有人都觉得你应该换个大点的房子了，换个好点的车，出去旅游的档次应该提一提。😊你要是不升级啊，别人觉得你太抠了，那你自己也会觉得我赚了这么多钱，我不对自己好一点，说不过去啊。嗯但是那些真正走出来的人，他们在收入涨的时候是做了一件事情。😡就是假如这笔钱不存在，直接把它转到一个自己平时不碰的账户里面。那生活水平保持在之前涨薪的状态。那这个做法听起来很简单，但它违背了你身边所有人的行为模式。就你的同事在换车，你的朋友呢在装修新房，你同学呢在朋友圈晒怎么旅行了，你呢保持原来的生活水平，在别人眼里你就哎混的不行。这种社会压力是真实的，不是说你想通了哈，就能无视。但是呢你得想清楚一件事儿。就是你要活在别人的评价体系里，还是要给自己争取10年后的自由。这两个东西在大部分的时候是冲突的。就是你现在每多花1块钱，再让别人觉得我过得好上面，你就离真正的好远了一大步。而且呢还有一层哈。就是很多人觉得说等我赚到钱嗯，多少开始，我再开始存吧。那等我收入稳定了，我再考虑投资。那这个等子啊是最大的陷阱。因为你永远等不到那个够了的时刻，你月薪一万的时候，你觉得2万再说，那到了2万，你会觉得。3万4万吧，那你的标准会跟着收入一起涨。所以真正有效的做法是，不管你现在收入多少，先拿一个固定的比例拿出来，哪怕只有10%，先开始金额不重要。重要的是。你建立了一个习惯，那就是我的收入不是全部用来花的，有一部分是留给未来的自己买自由的。😊那说道理呢，赚够一辈子的钱和一辈子赚钱，这两个分界线不在于你赚了多少，在于你有没有在某一刻停下来，看清楚自己真正被什么东西推着走。消费主义在推你。那社交比较在推你，金产品在推你。那你自己的欲望适应机制也在推你，所有力量都指向同一个方向，就是把钱花掉。你要做的不是跟这些力量硬扛，是在他们推你的时候，先把一部分藏起来，然后呢放到一个他们够不到的地方，时间会帮你完成剩下的事。😡十年之后呢，你会感谢今天的决定。没错。😊"
+  },
+  "completed_at": "2026-09-02T16:21:28+08:00"
+}

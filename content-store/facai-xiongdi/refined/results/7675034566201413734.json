@@ -1,0 +1,71 @@
+{
+  "pipeline_schema_version": 1,
+  "aweme_id": "7675034566201413734",
+  "url": "https://www.douyin.com/video/7675034566201413734",
+  "status": "COMPLETED",
+  "source_result_path": "data/发财兄弟｜聊赚钱/local-asr/results/7675034566201413734.json",
+  "source_asr_sha256": "1e1c373cd3fae4e27df5592576e4aa271d3de8bbad7a5a76a84f96a2255d5a0b",
+  "prompt_sha256": "831b1151d097f1a330c8899311e2935aae50c18bb2cf679412338b150359bf8d",
+  "codex": {
+    "cli_version": "codex-cli 0.150.1",
+    "model": "configured-default",
+    "elapsed_sec": 48.246,
+    "event_count": 4,
+    "turn_count": 1,
+    "usage": {
+      "input_tokens": 121631,
+      "cached_input_tokens": 0,
+      "cache_write_input_tokens": 0,
+      "output_tokens": 381,
+      "reasoning_output_tokens": 2608
+    },
+    "event_path": "codex-events/7675034566201413734.jsonl",
+    "stderr": ""
+  },
+  "refinement": {
+    "schema_version": 1,
+    "language": "zh-CN",
+    "aweme_id": "7675034566201413734",
+    "corrected_transcript": "这个句子你会读吗？江撇江，他会说很好的高棉语。",
+    "sections": [
+      {
+        "heading": "柬埔寨语句子认读与教学",
+        "summary": "这个句子你会读吗？江撇江，他会说很好的高棉语。"
+      }
+    ],
+    "corrections": [
+      {
+        "asr_text": "原错词",
+        "corrected_text": "修正词",
+        "basis": "根据视频文案『学柬埔寨语第149天 Chinese-khmer』、标签『#柬埔寨』及作者资料『每日分享柬文』，口播内容为柬埔寨语教学，此处指柬埔寨官方语言『高棉语』，属于同音误识。",
+        "confidence": "high"
+      }
+    ],
+    "uncertainties": [
+      {
+        "asr_text": "江撇江",
+        "issue": "该片段为作者读出的高棉语/柬埔寨语原句发音，因缺乏视频内字幕或字母拼写对照，无法仅凭上下文无歧义还原其精确的高棉文字或标准拼音，依据规则保留最接近的 ASR 原始记录。",
+        "possible_reading": null
+      }
+    ],
+    "knowledge": {
+      "thesis": "展示并教学表达“他会说很好的高棉语”的柬埔寨语实用句子。",
+      "viewpoints": [
+        "通过提问互动引导观众认读并学习关于描述他人高棉语水平的日常柬语表达。"
+      ],
+      "arguments": [],
+      "examples": [
+        "教学句子释义为：“他会说很好的高棉语。”"
+      ],
+      "references": [],
+      "terms": [
+        {
+          "term": "高棉语",
+          "contextual_meaning": "语境含义"
+        }
+      ],
+      "book_topics": []
+    }
+  },
+  "completed_at": "2026-09-02T17:28:15+08:00"
+}

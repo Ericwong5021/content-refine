@@ -1,0 +1,13 @@
+{
+  "author": "发财兄弟｜聊赚钱",
+  "created_at": "2026-08-19T03:03:31+08:00",
+  "updated_at": "2026-08-20T11:33:23+08:00",
+  "item_count": 30,
+  "status_counts": {
+    "COMPLETE": 0,
+    "DISCOVERED": 1,
+    "ERROR": 0,
+    "PROCESSING": 0,
+    "QUEUED": 29
+  }
+}

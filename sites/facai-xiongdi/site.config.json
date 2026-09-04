@@ -1,0 +1,14 @@
+{
+  "id": "facai-xiongdi",
+  "title": "发财兄弟｜聊赚钱",
+  "subtitle": "把观点还给原文，把知识连成一本书",
+  "author": "发财兄弟",
+  "brandMark": "财",
+  "theme": "amber",
+  "dek": "从认知觉醒到生产资料，从一人闭环到终身事业——一份普通人的财富跃迁地图。",
+  "description": "商业、赚钱、认知：基于博主 35 个公开视频整理的第一人称全景书与可追溯逐字稿。",
+  "vercel": {
+    "projectId": "prj_qg0q6CcqoNrGXc6cvehNp1ip2RC6",
+    "projectName": "facai-xiongdi-ebook"
+  }
+}

@@ -1,0 +1,61 @@
+name: Deploy Sites to Vercel
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - 'sites/**'
+  workflow_dispatch:
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 2
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: 22
+
+      - name: Setup pnpm
+        uses: pnpm/action-setup@v4
+        with:
+          version: 11
+
+      - name: Install dependencies
+        run: pnpm install --frozen-lockfile=false
+
+      - name: Install Vercel CLI
+        run: npm install -g vercel@latest
+
+      - name: Deploy Changed Sites
+        env:
+          VERCEL_TOKEN: ${{ secrets.VERCEL_TOKEN }}
+        run: |
+          if [ -z "$VERCEL_TOKEN" ]; then
+            echo "Notice: VERCEL_TOKEN not set in repository secrets. Dry-run build verification instead."
+            pnpm build:all
+            exit 0
+          fi
+
+          # Detect which sites changed in the latest commit
+          CHANGED_SITES=$(git diff --name-only HEAD~1 HEAD | grep '^sites/' | cut -d'/' -f2 | sort -u || true)
+          if [ -z "$CHANGED_SITES" ]; then
+            echo "Workflow triggered manually or no specific site diff. Checking all sites..."
+            CHANGED_SITES=$(ls -1 sites)
+          fi
+
+          for SITE in $CHANGED_SITES; do
+            if [ -d "sites/$SITE" ]; then
+              echo "=========================================="
+              echo "Deploying site: $SITE"
+              echo "=========================================="
+              cd "sites/$SITE"
+              vercel deploy --prod --token="$VERCEL_TOKEN" --yes
+              cd ../..
+            fi
+          done

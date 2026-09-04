@@ -1,0 +1,2183 @@
+{
+  "schema_version": 1,
+  "generated_at": "2026-08-28T13:06:27+08:00",
+  "book_path": "data/AAA麟西/AAA麟西知识全景书.md",
+  "book_sha256": "c2a168cac830c384d6d9d86a4f30c4cefb200fb0db6da839704c4ba449056465",
+  "source_count": 80,
+  "unavailable_count": 2,
+  "chapter_counts": {
+    "self": 9,
+    "wealth": 7,
+    "entrepreneurship": 7,
+    "sales": 5,
+    "brand": 19,
+    "marketing": 7,
+    "management": 6,
+    "language": 7,
+    "philosophy": 13
+  },
+  "classification": {
+    "7635822162120848817": {
+      "chapter_id": "self",
+      "scores": {
+        "self": 12,
+        "wealth": 5,
+        "entrepreneurship": 0,
+        "sales": 0,
+        "brand": 0,
+        "marketing": 0,
+        "management": 0,
+        "language": 10,
+        "philosophy": 5
+      }
+    },
+    "7636181612330744314": {
+      "chapter_id": "wealth",
+      "scores": {
+        "self": 2,
+        "wealth": 9,
+        "entrepreneurship": 5,
+        "sales": 0,
+        "brand": 5,
+        "marketing": 1,
+        "management": 9,
+        "language": 0,
+        "philosophy": 5
+      }
+    },
+    "7636518473635641573": {
+      "chapter_id": "sales",
+      "scores": {
+        "self": 7,
+        "wealth": 0,
+        "entrepreneurship": 0,
+        "sales": 15,
+        "brand": 0,
+        "marketing": 10,
+        "management": 0,
+        "language": 0,
+        "philosophy": 4
+      }
+    },
+    "7636569351151308401": {
+      "chapter_id": "entrepreneurship",
+      "scores": {
+        "self": 0,
+        "wealth": 0,
+        "entrepreneurship": 16,
+        "sales": 5,
+        "brand": 14,
+        "marketing": 1,
+        "management": 0,
+        "language": 5,
+        "philosophy": 0
+      }
+    },
+    "7636909478159709625": {
+      "chapter_id": "management",
+      "scores": {
+        "self": 1,
+        "wealth": 6,
+        "entrepreneurship": 10,
+        "sales": 7,
+        "brand": 1,
+        "marketing": 5,
+        "management": 25,
+        "language": 0,
+        "philosophy": 0
+      }
+    },
+    "7637226613721151089": {
+      "chapter_id": "brand",
+      "scores": {
+        "self": 5,
+        "wealth": 5,
+        "entrepreneurship": 0,
+        "sales": 0,
+        "brand": 16,
+        "marketing": 1,
+        "management": 0,
+        "language": 5,
+        "philosophy": 9
+      }
+    },
+    "7637537704767864505": {
+      "chapter_id": "wealth",
+      "scores": {
+        "self": 0,
+        "wealth": 18,
+        "entrepreneurship": 5,
+        "sales": 5,
+        "brand": 0,
+        "marketing": 0,
+        "management": 1,
+        "language": 0,
+        "philosophy": 4
+      }
+    },
+    "7637963686207831738": {
+      "chapter_id": "entrepreneurship",
+      "scores": {
+        "self": 1,
+        "wealth": 0,
+        "entrepreneurship": 12,
+        "sales": 10,
+        "brand": 0,
+        "marketing": 6,
+        "management": 4,
+        "language": 0,
+        "philosophy": 10
+      }
+    },
+    "7638279848310361009": {
+      "chapter_id": "self",
+      "scores": {
+        "self": 14,
+        "wealth": 0,
+        "entrepreneurship": 11,
+        "sales": 0,
+        "brand": 0,
+        "marketing": 0,
+        "management": 0,
+        "language": 5,
+        "philosophy": 5
+      }
+    },
+    "7638469246976880037": {
+      "chapter_id": "brand",
+      "scores": {
+        "self": 0,
+        "wealth": 9,
+        "entrepreneurship": 5,
+        "sales": 1,
+        "brand": 19,
+        "marketing": 1,
+        "management": 1,
+        "language": 0,
+        "philosophy": 2
+      }
+    },
+    "7638703770792894585": {
+      "chapter_id": "entrepreneurship",
+      "scores": {
+        "self": 0,
+        "wealth": 1,
+        "entrepreneurship": 18,
+        "sales": 0,
+        "brand": 8,
+        "marketing": 6,
+        "management": 0,
+        "language": 1,
+        "philosophy": 5
+      }
+    },
+    "7638762219970364282": {
+      "chapter_id": "brand",
+      "scores": {
+        "self": 0,
+        "wealth": 9,
+        "entrepreneurship": 0,
+        "sales": 5,
+        "brand": 12,
+        "marketing": 5,
+        "management": 0,
+        "language": 0,
+        "philosophy": 0
+      }
+    },
+    "7638764114966133233": {
+      "chapter_id": "brand",
+      "scores": {
+        "self": 0,
+        "wealth": 0,
+        "entrepreneurship": 0,
+        "sales": 1,
+        "brand": 24,
+        "marketing": 1,
+        "management": 0,
+        "language": 0,
+        "philosophy": 1
+      }
+    },
+    "7639939766688417531": {
+      "chapter_id": "brand",
+      "scores": {
+        "self": 1,
+        "wealth": 0,
+        "entrepreneurship": 1,
+        "sales": 0,
+        "brand": 19,
+        "marketing": 5,
+        "management": 0,
+        "language": 1,
+        "philosophy": 6
+      }
+    },
+    "7640300114988683889": {
+      "chapter_id": "self",
+      "scores": {
+        "self": 11,
+        "wealth": 1,
+        "entrepreneurship": 0,
+        "sales": 4,
+        "brand": 7,
+        "marketing": 0,
+        "management": 0,
+        "language": 0,
+        "philosophy": 1
+      }
+    },
+    "7640302879823111921": {
+      "chapter_id": "language",
+      "scores": {
+        "self": 2,
+        "wealth": 0,
+        "entrepreneurship": 0,
+        "sales": 0,
+        "brand": 0,
+        "marketing": 9,
+        "management": 0,
+        "language": 11,
+        "philosophy": 1
+      }
+    },
+    "7640931552348934649": {
+      "chapter_id": "philosophy",
+      "scores": {
+        "self": 1,
+        "wealth": 0,
+        "entrepreneurship": 0,
+        "sales": 0,
+        "brand": 0,
+        "marketing": 1,
+        "management": 0,
+        "language": 0,
+        "philosophy": 10
+      }
+    },
+    "7640934659875115385": {
+      "chapter_id": "philosophy",
+      "scores": {
+        "self": 2,
+        "wealth": 0,
+        "entrepreneurship": 0,
+        "sales": 0,
+        "brand": 0,
+        "marketing": 0,
+        "management": 0,
+        "language": 4,
+        "philosophy": 9
+      }
+    },
+    "7640947433228984817": {
+      "chapter_id": "sales",
+      "scores": {
+        "self": 5,
+        "wealth": 11,
+        "entrepreneurship": 5,
+        "sales": 21,
+        "brand": 12,
+        "marketing": 0,
+        "management": 0,
+        "language": 1,
+        "philosophy": 5
+      }
+    },
+    "7641100822009580453": {
+      "chapter_id": "language",
+      "scores": {
+        "self": 2,
+        "wealth": 0,
+        "entrepreneurship": 1,
+        "sales": 0,
+        "brand": 9,
+        "marketing": 9,
+        "management": 0,
+        "language": 11,
+        "philosophy": 8
+      }
+    },
+    "7641685038484398585": {
+      "chapter_id": "entrepreneurship",
+      "scores": {
+        "self": 6,
+        "wealth": 0,
+        "entrepreneurship": 10,
+        "sales": 4,
+        "brand": 1,
+        "marketing": 0,
+        "management": 0,
+        "language": 0,
+        "philosophy": 5
+      }
+    },
+    "7641748270666502053": {
+      "chapter_id": "wealth",
+      "scores": {
+        "self": 0,
+        "wealth": 10,
+        "entrepreneurship": 10,
+        "sales": 0,
+        "brand": 0,
+        "marketing": 1,
+        "management": 0,
+        "language": 1,
+        "philosophy": 1
+      }
+    },
+    "7642462215992680113": {
+      "chapter_id": "marketing",
+      "scores": {
+        "self": 1,
+        "wealth": 1,
+        "entrepreneurship": 0,
+        "sales": 13,
+        "brand": 20,
+        "marketing": 27,
+        "management": 1,
+        "language": 5,
+        "philosophy": 1
+      }
+    },
+    "7643698433697602745": {
+      "chapter_id": "brand",
+      "scores": {
+        "self": 4,
+        "wealth": 2,
+        "entrepreneurship": 1,
+        "sales": 15,
+        "brand": 22,
+        "marketing": 1,
+        "management": 0,
+        "language": 0,
+        "philosophy": 5
+      }
+    },
+    "7643898683566478458": {
+      "chapter_id": "entrepreneurship",
+      "scores": {
+        "self": 1,
+        "wealth": 6,
+        "entrepreneurship": 5,
+        "sales": 11,
+        "brand": 10,
+        "marketing": 1,
+        "management": 10,
+        "language": 1,
+        "philosophy": 1
+      }
+    },
+    "7644401369890503419": {
+      "chapter_id": "brand",
+      "scores": {
+        "self": 8,
+        "wealth": 6,
+        "entrepreneurship": 2,
+        "sales": 0,
+        "brand": 11,
+        "marketing": 5,
+        "management": 0,
+        "language": 0,
+        "philosophy": 0
+      }
+    },
+    "7645334836353526437": {
+      "chapter_id": "self",
+      "scores": {
+        "self": 7,
+        "wealth": 0,
+        "entrepreneurship": 0,
+        "sales": 0,
+        "brand": 0,
+        "marketing": 1,
+        "management": 0,
+        "language": 0,
+        "philosophy": 9
+      }
+    },
+    "7645434866285604793": {
+      "chapter_id": "brand",
+      "scores": {
+        "self": 6,
+        "wealth": 17,
+        "entrepreneurship": 5,
+        "sales": 8,
+        "brand": 15,
+        "marketing": 6,
+        "management": 0,
+        "language": 1,
+        "philosophy": 1
+      }
+    },
+    "7645439106923425530": {
+      "chapter_id": "marketing",
+      "scores": {
+        "self": 0,
+        "wealth": 5,
+        "entrepreneurship": 9,
+        "sales": 14,
+        "brand": 13,
+        "marketing": 6,
+        "management": 6,
+        "language": 3,
+        "philosophy": 0
+      }
+    },
+    "7646158372903779771": {
+      "chapter_id": "brand",
+      "scores": {
+        "self": 0,
+        "wealth": 1,
+        "entrepreneurship": 0,
+        "sales": 0,
+        "brand": 13,
+        "marketing": 15,
+        "management": 0,
+        "language": 0,
+        "philosophy": 0
+      }
+    },
+    "7646230119371921401": {
+      "chapter_id": "brand",
+      "scores": {
+        "self": 0,
+        "wealth": 2,
+        "entrepreneurship": 1,
+        "sales": 6,
+        "brand": 21,
+        "marketing": 0,
+        "management": 0,
+        "language": 4,
+        "philosophy": 1
+      }
+    },
+    "7646232261083966395": {
+      "chapter_id": "brand",
+      "scores": {
+        "self": 5,
+        "wealth": 0,
+        "entrepreneurship": 5,
+        "sales": 0,
+        "brand": 15,
+        "marketing": 0,
+        "management": 0,
+        "language": 0,
+        "philosophy": 0
+      }
+    },
+    "7646248363017229937": {
+      "chapter_id": "philosophy",
+      "scores": {
+        "self": 2,
+        "wealth": 1,
+        "entrepreneurship": 0,
+        "sales": 0,
+        "brand": 0,
+        "marketing": 2,
+        "management": 0,
+        "language": 1,
+        "philosophy": 16
+      }
+    },
+    "7646252166591682425": {
+      "chapter_id": "philosophy",
+      "scores": {
+        "self": 1,
+        "wealth": 1,
+        "entrepreneurship": 0,
+        "sales": 2,
+        "brand": 1,
+        "marketing": 0,
+        "management": 1,
+        "language": 0,
+        "philosophy": 5
+      }
+    },
+    "7646828643305684347": {
+      "chapter_id": "philosophy",
+      "scores": {
+        "self": 2,
+        "wealth": 0,
+        "entrepreneurship": 0,
+        "sales": 0,
+        "brand": 0,
+        "marketing": 6,
+        "management": 0,
+        "language": 7,
+        "philosophy": 26
+      }
+    },
+    "7646888035271809529": {
+      "chapter_id": "brand",
+      "scores": {
+        "self": 0,
+        "wealth": 0,
+        "entrepreneurship": 0,
+        "sales": 0,
+        "brand": 19,
+        "marketing": 0,
+        "management": 0,
+        "language": 14,
+        "philosophy": 4
+      }
+    },
+    "7647561990352674469": {
+      "chapter_id": "management",
+      "scores": {
+        "self": 2,
+        "wealth": 0,
+        "entrepreneurship": 4,
+        "sales": 2,
+        "brand": 8,
+        "marketing": 1,
+        "management": 33,
+        "language": 4,
+        "philosophy": 0
+      }
+    },
+    "7648070053632915707": {
+      "chapter_id": "brand",
+      "scores": {
+        "self": 1,
+        "wealth": 0,
+        "entrepreneurship": 1,
+        "sales": 0,
+        "brand": 14,
+        "marketing": 4,
+        "management": 0,
+        "language": 0,
+        "philosophy": 9
+      }
+    },
+    "7648836763835064817": {
+      "chapter_id": "language",
+      "scores": {
+        "self": 1,
+        "wealth": 7,
+        "entrepreneurship": 5,
+        "sales": 9,
+        "brand": 10,
+        "marketing": 12,
+        "management": 2,
+        "language": 0,
+        "philosophy": 2
+      }
+    },
+    "7648839572881457530": {
+      "chapter_id": "management",
+      "scores": {
+        "self": 3,
+        "wealth": 0,
+        "entrepreneurship": 4,
+        "sales": 0,
+        "brand": 0,
+        "marketing": 0,
+        "management": 6,
+        "language": 0,
+        "philosophy": 0
+      }
+    },
+    "7650179880881676025": {
+      "chapter_id": "self",
+      "scores": {
+        "self": 11,
+        "wealth": 0,
+        "entrepreneurship": 1,
+        "sales": 0,
+        "brand": 0,
+        "marketing": 1,
+        "management": 0,
+        "language": 4,
+        "philosophy": 0
+      }
+    },
+    "7650188676403874533": {
+      "chapter_id": "self",
+      "scores": {
+        "self": 16,
+        "wealth": 0,
+        "entrepreneurship": 0,
+        "sales": 0,
+        "brand": 0,
+        "marketing": 2,
+        "management": 1,
+        "language": 2,
+        "philosophy": 5
+      }
+    },
+    "7650383284517701297": {
+      "chapter_id": "entrepreneurship",
+      "scores": {
+        "self": 1,
+        "wealth": 5,
+        "entrepreneurship": 14,
+        "sales": 5,
+        "brand": 10,
+        "marketing": 15,
+        "management": 4,
+        "language": 1,
+        "philosophy": 5
+      }
+    },
+    "7650386623877142641": {
+      "chapter_id": "philosophy",
+      "scores": {
+        "self": 0,
+        "wealth": 0,
+        "entrepreneurship": 0,
+        "sales": 0,
+        "brand": 0,
+        "marketing": 0,
+        "management": 0,
+        "language": 6,
+        "philosophy": 22
+      }
+    },
+    "7651030160317442938": {
+      "chapter_id": "sales",
+      "scores": {
+        "self": 4,
+        "wealth": 7,
+        "entrepreneurship": 0,
+        "sales": 19,
+        "brand": 15,
+        "marketing": 1,
+        "management": 0,
+        "language": 1,
+        "philosophy": 4
+      }
+    },
+    "7651321893286891513": {
+      "chapter_id": "sales",
+      "scores": {
+        "self": 0,
+        "wealth": 1,
+        "entrepreneurship": 4,
+        "sales": 14,
+        "brand": 5,
+        "marketing": 7,
+        "management": 2,
+        "language": 1,
+        "philosophy": 0
+      }
+    },
+    "7652225334909087857": {
+      "chapter_id": "entrepreneurship",
+      "scores": {
+        "self": 0,
+        "wealth": 0,
+        "entrepreneurship": 6,
+        "sales": 0,
+        "brand": 9,
+        "marketing": 6,
+        "management": 5,
+        "language": 4,
+        "philosophy": 0
+      }
+    },
+    "7653376665279694970": {
+      "chapter_id": "brand",
+      "scores": {
+        "self": 0,
+        "wealth": 0,
+        "entrepreneurship": 4,
+        "sales": 0,
+        "brand": 9,
+        "marketing": 7,
+        "management": 2,
+        "language": 3,
+        "philosophy": 6
+      }
+    },
+    "7653890096488052474": {
+      "chapter_id": "marketing",
+      "scores": {
+        "self": 5,
+        "wealth": 0,
+        "entrepreneurship": 1,
+        "sales": 24,
+        "brand": 5,
+        "marketing": 31,
+        "management": 1,
+        "language": 2,
+        "philosophy": 4
+      }
+    },
+    "7654231180670334906": {
+      "chapter_id": "brand",
+      "scores": {
+        "self": 0,
+        "wealth": 6,
+        "entrepreneurship": 1,
+        "sales": 0,
+        "brand": 20,
+        "marketing": 2,
+        "management": 6,
+        "language": 0,
+        "philosophy": 1
+      }
+    },
+    "7654611523558550779": {
+      "chapter_id": "brand",
+      "scores": {
+        "self": 0,
+        "wealth": 12,
+        "entrepreneurship": 4,
+        "sales": 9,
+        "brand": 14,
+        "marketing": 6,
+        "management": 0,
+        "language": 0,
+        "philosophy": 0
+      }
+    },
+    "7654654307861835707": {
+      "chapter_id": "language",
+      "scores": {
+        "self": 1,
+        "wealth": 4,
+        "entrepreneurship": 0,
+        "sales": 0,
+        "brand": 0,
+        "marketing": 0,
+        "management": 0,
+        "language": 10,
+        "philosophy": 5
+      }
+    },
+    "7655043330086400379": {
+      "chapter_id": "philosophy",
+      "scores": {
+        "self": 1,
+        "wealth": 0,
+        "entrepreneurship": 0,
+        "sales": 0,
+        "brand": 0,
+        "marketing": 1,
+        "management": 0,
+        "language": 10,
+        "philosophy": 20
+      }
+    },
+    "7655355835291593977": {
+      "chapter_id": "wealth",
+      "scores": {
+        "self": 1,
+        "wealth": 20,
+        "entrepreneurship": 0,
+        "sales": 4,
+        "brand": 1,
+        "marketing": 6,
+        "management": 4,
+        "language": 1,
+        "philosophy": 1
+      }
+    },
+    "7655357966699688549": {
+      "chapter_id": "brand",
+      "scores": {
+        "self": 1,
+        "wealth": 5,
+        "entrepreneurship": 0,
+        "sales": 1,
+        "brand": 6,
+        "marketing": 5,
+        "management": 5,
+        "language": 0,
+        "philosophy": 0
+      }
+    },
+    "7655395292368912057": {
+      "chapter_id": "self",
+      "scores": {
+        "self": 20,
+        "wealth": 0,
+        "entrepreneurship": 4,
+        "sales": 0,
+        "brand": 0,
+        "marketing": 0,
+        "management": 0,
+        "language": 3,
+        "philosophy": 8
+      }
+    },
+    "7655919946677084529": {
+      "chapter_id": "management",
+      "scores": {
+        "self": 1,
+        "wealth": 4,
+        "entrepreneurship": 0,
+        "sales": 0,
+        "brand": 4,
+        "marketing": 0,
+        "management": 29,
+        "language": 0,
+        "philosophy": 1
+      }
+    },
+    "7655972138499440122": {
+      "chapter_id": "wealth",
+      "scores": {
+        "self": 1,
+        "wealth": 12,
+        "entrepreneurship": 4,
+        "sales": 0,
+        "brand": 0,
+        "marketing": 0,
+        "management": 0,
+        "language": 0,
+        "philosophy": 0
+      }
+    },
+    "7656204261777334629": {
+      "chapter_id": "wealth",
+      "scores": {
+        "self": 0,
+        "wealth": 15,
+        "entrepreneurship": 0,
+        "sales": 4,
+        "brand": 2,
+        "marketing": 0,
+        "management": 4,
+        "language": 1,
+        "philosophy": 5
+      }
+    },
+    "7658487994466562746": {
+      "chapter_id": "marketing",
+      "scores": {
+        "self": 5,
+        "wealth": 0,
+        "entrepreneurship": 4,
+        "sales": 0,
+        "brand": 1,
+        "marketing": 26,
+        "management": 0,
+        "language": 5,
+        "philosophy": 10
+      }
+    },
+    "7658489785451351717": {
+      "chapter_id": "philosophy",
+      "scores": {
+        "self": 1,
+        "wealth": 0,
+        "entrepreneurship": 6,
+        "sales": 0,
+        "brand": 0,
+        "marketing": 1,
+        "management": 1,
+        "language": 4,
+        "philosophy": 34
+      }
+    },
+    "7661016101333103483": {
+      "chapter_id": "philosophy",
+      "scores": {
+        "self": 0,
+        "wealth": 0,
+        "entrepreneurship": 0,
+        "sales": 0,
+        "brand": 0,
+        "marketing": 5,
+        "management": 0,
+        "language": 5,
+        "philosophy": 24
+      }
+    },
+    "7661169287754860977": {
+      "chapter_id": "philosophy",
+      "scores": {
+        "self": 1,
+        "wealth": 0,
+        "entrepreneurship": 0,
+        "sales": 0,
+        "brand": 0,
+        "marketing": 0,
+        "management": 0,
+        "language": 2,
+        "philosophy": 27
+      }
+    },
+    "7661803843525096635": {
+      "chapter_id": "brand",
+      "scores": {
+        "self": 6,
+        "wealth": 5,
+        "entrepreneurship": 5,
+        "sales": 0,
+        "brand": 9,
+        "marketing": 12,
+        "management": 4,
+        "language": 5,
+        "philosophy": 9
+      }
+    },
+    "7662666926325915642": {
+      "chapter_id": "language",
+      "scores": {
+        "self": 1,
+        "wealth": 0,
+        "entrepreneurship": 0,
+        "sales": 0,
+        "brand": 5,
+        "marketing": 16,
+        "management": 1,
+        "language": 23,
+        "philosophy": 2
+      }
+    },
+    "7663219400774338683": {
+      "chapter_id": "language",
+      "scores": {
+        "self": 4,
+        "wealth": 0,
+        "entrepreneurship": 0,
+        "sales": 0,
+        "brand": 0,
+        "marketing": 0,
+        "management": 5,
+        "language": 15,
+        "philosophy": 5
+      }
+    },
+    "7663223699977346233": {
+      "chapter_id": "marketing",
+      "scores": {
+        "self": 1,
+        "wealth": 9,
+        "entrepreneurship": 8,
+        "sales": 16,
+        "brand": 5,
+        "marketing": 12,
+        "management": 1,
+        "language": 0,
+        "philosophy": 0
+      }
+    },
+    "7663241712110852773": {
+      "chapter_id": "brand",
+      "scores": {
+        "self": 0,
+        "wealth": 0,
+        "entrepreneurship": 4,
+        "sales": 5,
+        "brand": 14,
+        "marketing": 7,
+        "management": 5,
+        "language": 0,
+        "philosophy": 1
+      }
+    },
+    "7663243701540856433": {
+      "chapter_id": "self",
+      "scores": {
+        "self": 19,
+        "wealth": 0,
+        "entrepreneurship": 0,
+        "sales": 0,
+        "brand": 0,
+        "marketing": 0,
+        "management": 0,
+        "language": 0,
+        "philosophy": 10
+      }
+    },
+    "7665159402169023419": {
+      "chapter_id": "management",
+      "scores": {
+        "self": 1,
+        "wealth": 0,
+        "entrepreneurship": 5,
+        "sales": 0,
+        "brand": 1,
+        "marketing": 4,
+        "management": 10,
+        "language": 1,
+        "philosophy": 6
+      }
+    },
+    "7667735558396166650": {
+      "chapter_id": "language",
+      "scores": {
+        "self": 11,
+        "wealth": 5,
+        "entrepreneurship": 0,
+        "sales": 0,
+        "brand": 9,
+        "marketing": 2,
+        "management": 7,
+        "language": 16,
+        "philosophy": 5
+      }
+    },
+    "7668369954441799675": {
+      "chapter_id": "sales",
+      "scores": {
+        "self": 2,
+        "wealth": 0,
+        "entrepreneurship": 4,
+        "sales": 15,
+        "brand": 5,
+        "marketing": 4,
+        "management": 0,
+        "language": 0,
+        "philosophy": 0
+      }
+    },
+    "7668373084122170553": {
+      "chapter_id": "self",
+      "scores": {
+        "self": 14,
+        "wealth": 0,
+        "entrepreneurship": 0,
+        "sales": 6,
+        "brand": 1,
+        "marketing": 0,
+        "management": 10,
+        "language": 0,
+        "philosophy": 9
+      }
+    },
+    "7668871805768447418": {
+      "chapter_id": "philosophy",
+      "scores": {
+        "self": 5,
+        "wealth": 0,
+        "entrepreneurship": 0,
+        "sales": 0,
+        "brand": 0,
+        "marketing": 0,
+        "management": 0,
+        "language": 0,
+        "philosophy": 36
+      }
+    },
+    "7669535262086909553": {
+      "chapter_id": "philosophy",
+      "scores": {
+        "self": 10,
+        "wealth": 0,
+        "entrepreneurship": 0,
+        "sales": 0,
+        "brand": 0,
+        "marketing": 0,
+        "management": 0,
+        "language": 0,
+        "philosophy": 22
+      }
+    },
+    "7670309610209497787": {
+      "chapter_id": "marketing",
+      "scores": {
+        "self": 11,
+        "wealth": 0,
+        "entrepreneurship": 4,
+        "sales": 0,
+        "brand": 5,
+        "marketing": 19,
+        "management": 0,
+        "language": 1,
+        "philosophy": 2
+      }
+    },
+    "7671069734456233649": {
+      "chapter_id": "marketing",
+      "scores": {
+        "self": 0,
+        "wealth": 1,
+        "entrepreneurship": 0,
+        "sales": 13,
+        "brand": 19,
+        "marketing": 26,
+        "management": 5,
+        "language": 4,
+        "philosophy": 5
+      }
+    },
+    "7673293441208795129": {
+      "chapter_id": "management",
+      "scores": {
+        "self": 6,
+        "wealth": 1,
+        "entrepreneurship": 4,
+        "sales": 0,
+        "brand": 0,
+        "marketing": 0,
+        "management": 14,
+        "language": 0,
+        "philosophy": 10
+      }
+    },
+    "7673577276156433913": {
+      "chapter_id": "wealth",
+      "scores": {
+        "self": 6,
+        "wealth": 20,
+        "entrepreneurship": 5,
+        "sales": 0,
+        "brand": 10,
+        "marketing": 10,
+        "management": 5,
+        "language": 1,
+        "philosophy": 4
+      }
+    },
+    "7674505376335557114": {
+      "chapter_id": "philosophy",
+      "scores": {
+        "self": 0,
+        "wealth": 0,
+        "entrepreneurship": 0,
+        "sales": 0,
+        "brand": 0,
+        "marketing": 0,
+        "management": 6,
+        "language": 2,
+        "philosophy": 34
+      }
+    }
+  },
+  "sources": [
+    {
+      "aweme_id": "7635822162120848817",
+      "title": "你不“是”底层！你“来自”底层！",
+      "published_at": "2026-05-04T08:09:50+08:00",
+      "url": "https://www.douyin.com/video/7635822162120848817",
+      "source_path": "local-asr/results/7635822162120848817.json",
+      "refinement_path": "refined/results/7635822162120848817.json",
+      "source_asr_sha256": "05ac4a96ce84a3f729764648432b92b498586256ccb6a1613045f9bfa09365b5",
+      "prompt_sha256": "89402efb5946a4675137ac273af4e9e9bb8dbba0f8d59414bd6085244687e189",
+      "correction_count": 10,
+      "uncertainty_count": 4,
+      "chapter_id": "self"
+    },
+    {
+      "aweme_id": "7638279848310361009",
+      "title": "跟别人比，是统计学；跟自己比，是概率学。",
+      "published_at": "2026-05-11T07:30:00+08:00",
+      "url": "https://www.douyin.com/video/7638279848310361009",
+      "source_path": "local-asr/results/7638279848310361009.json",
+      "refinement_path": "refined/results/7638279848310361009.json",
+      "source_asr_sha256": "9cc1b0b24bf810f3d2e0c1c1fe40e40c05f1ec9b0d645e1f8e9088bcfa92b487",
+      "prompt_sha256": "24ac862d3a5190649a8433b1484f502552b41648ee22cc85d30cff0af126d86a",
+      "correction_count": 15,
+      "uncertainty_count": 6,
+      "chapter_id": "self"
+    },
+    {
+      "aweme_id": "7640300114988683889",
+      "title": "行为改变学的运用",
+      "published_at": "2026-05-19T07:30:00+08:00",
+      "url": "https://www.douyin.com/video/7640300114988683889",
+      "source_path": "local-asr/results/7640300114988683889.json",
+      "refinement_path": "refined/results/7640300114988683889.json",
+      "source_asr_sha256": "71345d121b2c2c33d06e11d3a5ec6a96cd7018b2dfd7da54530ddf5334da1a50",
+      "prompt_sha256": "b2591ac08dabb873d0278e8a00289fe1b82ffd65f71e1c382dd34e22c78ba830",
+      "correction_count": 9,
+      "uncertainty_count": 5,
+      "chapter_id": "self"
+    },
+    {
+      "aweme_id": "7645334836353526437",
+      "title": "我在美国心理学到底学的啥",
+      "published_at": "2026-05-31T07:30:00+08:00",
+      "url": "https://www.douyin.com/video/7645334836353526437",
+      "source_path": "local-asr/results/7645334836353526437.json",
+      "refinement_path": "refined/results/7645334836353526437.json",
+      "source_asr_sha256": "00aafbd99a836d269e76d40a0e0422ca8e2cf528e118ca656ff50d4679308ce8",
+      "prompt_sha256": "52f5cfab8c33ac7f85457477d2357faf12e55a6f6ed74b04e8204fbb4c2f06d1",
+      "correction_count": 14,
+      "uncertainty_count": 7,
+      "chapter_id": "self"
+    },
+    {
+      "aweme_id": "7650188676403874533",
+      "title": "按国内的心理学定义找的书",
+      "published_at": "2026-06-13T07:30:01+08:00",
+      "url": "https://www.douyin.com/video/7650188676403874533",
+      "source_path": "local-asr/results/7650188676403874533.json",
+      "refinement_path": "refined/results/7650188676403874533.json",
+      "source_asr_sha256": "570eee651de4b11706c8348883ea8b47aaf8332518a074e965c02ab38976b4ca",
+      "prompt_sha256": "a9c34feb14af40cfee9dfc8156779aad76631c4f02a496549a4edd6a2e62696b",
+      "correction_count": 18,
+      "uncertainty_count": 5,
+      "chapter_id": "self"
+    },
+    {
+      "aweme_id": "7650179880881676025",
+      "title": "没有天赋，只有努力",
+      "published_at": "2026-06-14T07:30:00+08:00",
+      "url": "https://www.douyin.com/video/7650179880881676025",
+      "source_path": "local-asr/results/7650179880881676025.json",
+      "refinement_path": "refined/results/7650179880881676025.json",
+      "source_asr_sha256": "5a821fd9bf12e7fb5979883d440557b9cc9b8af80486fa3167c9ec027e1d5910",
+      "prompt_sha256": "eb94f0fdb6bd6cbfbc61ee36b1e74531c2bbca646534f6967d217ca114389aa1",
+      "correction_count": 13,
+      "uncertainty_count": 4,
+      "chapter_id": "self"
+    },
+    {
+      "aweme_id": "7655395292368912057",
+      "title": "为什么有些人能一直成功？",
+      "published_at": "2026-07-01T07:30:00+08:00",
+      "url": "https://www.douyin.com/video/7655395292368912057",
+      "source_path": "local-asr/results/7655395292368912057.json",
+      "refinement_path": "refined/results/7655395292368912057.json",
+      "source_asr_sha256": "afd79a9174e007bea8521452bc648bb5444e4788ae0e28fbb09d54f86f935f9a",
+      "prompt_sha256": "d05e6fefcaa031b87bc785b12281687b911e6f569cc0db3dd78f58ae06350e17",
+      "correction_count": 13,
+      "uncertainty_count": 7,
+      "chapter_id": "self"
+    },
+    {
+      "aweme_id": "7663243701540856433",
+      "title": "造物主就是你自己",
+      "published_at": "2026-07-31T07:30:01+08:00",
+      "url": "https://www.douyin.com/video/7663243701540856433",
+      "source_path": "local-asr/results/7663243701540856433.json",
+      "refinement_path": "refined/results/7663243701540856433.json",
+      "source_asr_sha256": "bc7e7932f2832a2b30ea395d034e3ec07d65d171e7f7d4fa6291f35246ec8dc8",
+      "prompt_sha256": "21f5afac5142e7aed799a62459bab0772aed17055f66e69c4c9c00d6d10f3842",
+      "correction_count": 12,
+      "uncertainty_count": 3,
+      "chapter_id": "self"
+    },
+    {
+      "aweme_id": "7668373084122170553",
+      "title": "执行力不足是因为任务设置不对",
+      "published_at": "2026-08-05T08:30:00+08:00",
+      "url": "https://www.douyin.com/video/7668373084122170553",
+      "source_path": "local-asr/results/7668373084122170553.json",
+      "refinement_path": "refined/results/7668373084122170553.json",
+      "source_asr_sha256": "290622e8e3613d9f6139a5492bc9beaeaf8e0a56b7150ece68b71679355809a8",
+      "prompt_sha256": "0029734020ebd47d43b7df6117afa947b5149e02a0e44de4f80771c21fd51927",
+      "correction_count": 14,
+      "uncertainty_count": 5,
+      "chapter_id": "self"
+    },
+    {
+      "aweme_id": "7636181612330744314",
+      "title": "时间和金钱成正比吗",
+      "published_at": "2026-05-05T07:24:41+08:00",
+      "url": "https://www.douyin.com/video/7636181612330744314",
+      "source_path": "local-asr/results/7636181612330744314.json",
+      "refinement_path": "refined/results/7636181612330744314.json",
+      "source_asr_sha256": "8ea43e128f9bd9f5743cd8fb2e6c0fe830f4a5ccfdb58aede259787dbf7f8c95",
+      "prompt_sha256": "ab31944317e65905a0afb69dea36c8826ee096e7a70e1ace258729c7fc7fe9af",
+      "correction_count": 18,
+      "uncertainty_count": 6,
+      "chapter_id": "wealth"
+    },
+    {
+      "aweme_id": "7637537704767864505",
+      "title": "钱的来源决定阶层，而不是钱的数量",
+      "published_at": "2026-05-09T07:30:00+08:00",
+      "url": "https://www.douyin.com/video/7637537704767864505",
+      "source_path": "local-asr/results/7637537704767864505.json",
+      "refinement_path": "refined/results/7637537704767864505.json",
+      "source_asr_sha256": "4bf270cd52a3e6cb339f0ec3a8b4d0d958d6d8516c684078334179684fb02e5a",
+      "prompt_sha256": "7bcbfc7cf4130cfad1667a522ce538191672c9e0ee18ab0f57a10ed25b038b06",
+      "correction_count": 16,
+      "uncertainty_count": 9,
+      "chapter_id": "wealth"
+    },
+    {
+      "aweme_id": "7641748270666502053",
+      "title": "赚钱不是最光荣吗？怎么会羞耻啊。",
+      "published_at": "2026-06-19T08:06:00+08:00",
+      "url": "https://www.douyin.com/video/7641748270666502053",
+      "source_path": "local-asr/results/7641748270666502053.json",
+      "refinement_path": "refined/results/7641748270666502053.json",
+      "source_asr_sha256": "f425ff80aa336e86e362dd1d3c6a33d7eaacf6eea48d3ec2c1ee064fe9c67b40",
+      "prompt_sha256": "2db60dcdb518beff29f6da5b114ab3009287e0a7e77bb0deb30c15d8298623ab",
+      "correction_count": 13,
+      "uncertainty_count": 4,
+      "chapter_id": "wealth"
+    },
+    {
+      "aweme_id": "7655355835291593977",
+      "title": "跑滴滴的车是生产资料吗？",
+      "published_at": "2026-06-26T07:30:01+08:00",
+      "url": "https://www.douyin.com/video/7655355835291593977",
+      "source_path": "local-asr/results/7655355835291593977.json",
+      "refinement_path": "refined/results/7655355835291593977.json",
+      "source_asr_sha256": "1f516c594e55ac8acf35ab95b7d31d86beeb728dcb5516999a2b6be799697dca",
+      "prompt_sha256": "f32440d9345265c1438fc1b3b5d3b1f2be468b5ce64b8d8681c453bfe7758492",
+      "correction_count": 15,
+      "uncertainty_count": 4,
+      "chapter_id": "wealth"
+    },
+    {
+      "aweme_id": "7655972138499440122",
+      "title": "婚姻和生孩子是投资还是消费？",
+      "published_at": "2026-07-03T07:30:01+08:00",
+      "url": "https://www.douyin.com/video/7655972138499440122",
+      "source_path": "local-asr/results/7655972138499440122.json",
+      "refinement_path": "refined/results/7655972138499440122.json",
+      "source_asr_sha256": "43d905e90195373877f72009df2ec96596f1c285d20bdf3522bcffe7dbc175a1",
+      "prompt_sha256": "74fb0e5c07b1613f532a4657f53b7e6f52a12adfc1b36a6103ec347593a50d88",
+      "correction_count": 15,
+      "uncertainty_count": 5,
+      "chapter_id": "wealth"
+    },
+    {
+      "aweme_id": "7656204261777334629",
+      "title": "所有资产都会随着时间贬值",
+      "published_at": "2026-07-15T07:30:00+08:00",
+      "url": "https://www.douyin.com/video/7656204261777334629",
+      "source_path": "local-asr/results/7656204261777334629.json",
+      "refinement_path": "refined/results/7656204261777334629.json",
+      "source_asr_sha256": "427877cded653158e5134f5eaa04b835dd2dfd042dd8c419c591d1f97520e020",
+      "prompt_sha256": "1b4cb0acf863f8f882491feb117e1bbb72cd91830ef39639d9c23e5f08b9ddb2",
+      "correction_count": 8,
+      "uncertainty_count": 4,
+      "chapter_id": "wealth"
+    },
+    {
+      "aweme_id": "7673577276156433913",
+      "title": "生活经济学201来了",
+      "published_at": "2026-08-15T07:30:00+08:00",
+      "url": "https://www.douyin.com/video/7673577276156433913",
+      "source_path": "local-asr/results/7673577276156433913.json",
+      "refinement_path": "refined/results/7673577276156433913.json",
+      "source_asr_sha256": "f86efedb908a691f6a58b455ab23d7447596dba3163ae12c8e65bb41fa2815a4",
+      "prompt_sha256": "5f7eaf57e6d4ea1f060f1a3af2b17fd68ff95c67f015c463a1948493e983109b",
+      "correction_count": 8,
+      "uncertainty_count": 7,
+      "chapter_id": "wealth"
+    },
+    {
+      "aweme_id": "7636569351151308401",
+      "title": "怎么抄别人的商机？",
+      "published_at": "2026-05-06T08:29:17+08:00",
+      "url": "https://www.douyin.com/video/7636569351151308401",
+      "source_path": "local-asr/results/7636569351151308401.json",
+      "refinement_path": "refined/results/7636569351151308401.json",
+      "source_asr_sha256": "12fb2e0a718aed8adc23ef52b8c3ee96365beca38f5eb1ef513455260554a5d9",
+      "prompt_sha256": "abfdf2c0445c455f049cc6d338fb302061cac4f5154df848f625e4d1010581ce",
+      "correction_count": 20,
+      "uncertainty_count": 6,
+      "chapter_id": "entrepreneurship"
+    },
+    {
+      "aweme_id": "7637963686207831738",
+      "title": "从我妈身上学到的基本家思路",
+      "published_at": "2026-05-10T08:30:00+08:00",
+      "url": "https://www.douyin.com/video/7637963686207831738",
+      "source_path": "local-asr/results/7637963686207831738.json",
+      "refinement_path": "refined/results/7637963686207831738.json",
+      "source_asr_sha256": "b952e8ecc3284a01eeb4fbd93cba5ec78f00df774f66cd1e2e833aa51a560989",
+      "prompt_sha256": "a4223a083a41c830b7e18d198af308e2ddb7aba837ecfe880eaf3bf5bae4ea8d",
+      "correction_count": 16,
+      "uncertainty_count": 9,
+      "chapter_id": "entrepreneurship"
+    },
+    {
+      "aweme_id": "7638703770792894585",
+      "title": "垄断靠创造",
+      "published_at": "2026-05-12T07:30:00+08:00",
+      "url": "https://www.douyin.com/video/7638703770792894585",
+      "source_path": "local-asr/results/7638703770792894585.json",
+      "refinement_path": "refined/results/7638703770792894585.json",
+      "source_asr_sha256": "f6d88e9c02663c5345b1a286dafd261f4d0b4d658fec9f48507bc895fe5a2d00",
+      "prompt_sha256": "64183a91950d17e4d34d54a07c2cf05d37b8c03a0d7e5f0547f5637cb9382960",
+      "correction_count": 10,
+      "uncertainty_count": 5,
+      "chapter_id": "entrepreneurship"
+    },
+    {
+      "aweme_id": "7641685038484398585",
+      "title": "你停下才会失败",
+      "published_at": "2026-05-22T07:30:00+08:00",
+      "url": "https://www.douyin.com/video/7641685038484398585",
+      "source_path": "local-asr/results/7641685038484398585.json",
+      "refinement_path": "refined/results/7641685038484398585.json",
+      "source_asr_sha256": "d1db732191033bae31bd7dac34645aeb5bd9826bff7587da364af2c250917cf8",
+      "prompt_sha256": "dd894df3e3dc91f909045d89a6f5d00e454d84a367e4f6cf5c64bbbee926ac05",
+      "correction_count": 10,
+      "uncertainty_count": 4,
+      "chapter_id": "entrepreneurship"
+    },
+    {
+      "aweme_id": "7643898683566478458",
+      "title": "打工就是大脑偷懒",
+      "published_at": "2026-06-17T07:30:01+08:00",
+      "url": "https://www.douyin.com/video/7643898683566478458",
+      "source_path": "local-asr/results/7643898683566478458.json",
+      "refinement_path": "refined/results/7643898683566478458.json",
+      "source_asr_sha256": "2c8d3438e56548a22265fdfb9be9cfe93146d11600c88cae37d7d93b663a70c6",
+      "prompt_sha256": "2920d5cf08efcbdd727ae193c8f0e7528a2f7046581ab6e70ad3b46d867ab3e0",
+      "correction_count": 9,
+      "uncertainty_count": 5,
+      "chapter_id": "entrepreneurship"
+    },
+    {
+      "aweme_id": "7652225334909087857",
+      "title": "橱窗《美国四百年》强烈推荐",
+      "published_at": "2026-06-21T07:30:00+08:00",
+      "url": "https://www.douyin.com/video/7652225334909087857",
+      "source_path": "local-asr/results/7652225334909087857.json",
+      "refinement_path": "refined/results/7652225334909087857.json",
+      "source_asr_sha256": "cc84b00798f3a0afdfa0915085f4565ce439e44c8afc10c8d75c6826c7c4e32a",
+      "prompt_sha256": "660ba655733b91c15b81178121b4add255587557b6a4086c6d812eff082bff5f",
+      "correction_count": 14,
+      "uncertainty_count": 5,
+      "chapter_id": "entrepreneurship"
+    },
+    {
+      "aweme_id": "7650383284517701297",
+      "title": "商机来自于市场反馈",
+      "published_at": "2026-06-22T07:30:00+08:00",
+      "url": "https://www.douyin.com/video/7650383284517701297",
+      "source_path": "local-asr/results/7650383284517701297.json",
+      "refinement_path": "refined/results/7650383284517701297.json",
+      "source_asr_sha256": "c0a2a9e3b4bcd4e7fb4e3cae858c38887ec5384fc86f4709fa609c0ae0984fd8",
+      "prompt_sha256": "2d4b86df417a2958581a1b407a2dc9cf7a4f24f9cf57bdb31259afa55eb0ceb0",
+      "correction_count": 9,
+      "uncertainty_count": 6,
+      "chapter_id": "entrepreneurship"
+    },
+    {
+      "aweme_id": "7636518473635641573",
+      "title": "我要卖💩",
+      "published_at": "2026-05-06T05:11:54+08:00",
+      "url": "https://www.douyin.com/video/7636518473635641573",
+      "source_path": "local-asr/results/7636518473635641573.json",
+      "refinement_path": "refined/results/7636518473635641573.json",
+      "source_asr_sha256": "aa929af91a78d63f06e94ea24c913541d1871868f326ba53d2b412cfc58e79e9",
+      "prompt_sha256": "db8c95d084a3b7e2bf4906608803988ad9e3d4e385fee6bcf1cbbbf9ef7b7e61",
+      "correction_count": 14,
+      "uncertainty_count": 4,
+      "chapter_id": "sales"
+    },
+    {
+      "aweme_id": "7640947433228984817",
+      "title": "我不会讨论to B创业",
+      "published_at": "2026-05-27T07:30:01+08:00",
+      "url": "https://www.douyin.com/video/7640947433228984817",
+      "source_path": "local-asr/results/7640947433228984817.json",
+      "refinement_path": "refined/results/7640947433228984817.json",
+      "source_asr_sha256": "877d1e74551d91102b366b6cb32591439da4ae86d9f55b9dbc0abfee5d47e7ee",
+      "prompt_sha256": "6294a00277322aa311daba754f77d4696444f47db19d5c1d48a8dc5616d69670",
+      "correction_count": 10,
+      "uncertainty_count": 6,
+      "chapter_id": "sales"
+    },
+    {
+      "aweme_id": "7651321893286891513",
+      "title": "这是一个漏斗游戏",
+      "published_at": "2026-06-15T07:30:00+08:00",
+      "url": "https://www.douyin.com/video/7651321893286891513",
+      "source_path": "local-asr/results/7651321893286891513.json",
+      "refinement_path": "refined/results/7651321893286891513.json",
+      "source_asr_sha256": "f83ef381431295973804dc381a1e70e950f8f442317164512fc3a40c354b0a3d",
+      "prompt_sha256": "dd07d78980e6f816f690229db099e24d084a759bebb95571187fe78f72516364",
+      "correction_count": 19,
+      "uncertainty_count": 4,
+      "chapter_id": "sales"
+    },
+    {
+      "aweme_id": "7651030160317442938",
+      "title": "蜜雪冰城是实体版的互联网企业",
+      "published_at": "2026-06-16T07:30:01+08:00",
+      "url": "https://www.douyin.com/video/7651030160317442938",
+      "source_path": "local-asr/results/7651030160317442938.json",
+      "refinement_path": "refined/results/7651030160317442938.json",
+      "source_asr_sha256": "9b3cee1f84e10e0f439b5636ecaf17ee2f3294bf0b50761ccfc165ed3619f313",
+      "prompt_sha256": "41e2e53a81cc2da8ff9f05af1b760b33d7f5a6ba966594eb70d59427bd96b176",
+      "correction_count": 11,
+      "uncertainty_count": 5,
+      "chapter_id": "sales"
+    },
+    {
+      "aweme_id": "7668369954441799675",
+      "title": "每个人都在卖，只是卖的东西不同",
+      "published_at": "2026-08-11T16:44:00+08:00",
+      "url": "https://www.douyin.com/video/7668369954441799675",
+      "source_path": "local-asr/results/7668369954441799675.json",
+      "refinement_path": "refined/results/7668369954441799675.json",
+      "source_asr_sha256": "fd643aecdd8b59e4331ac88c6f260125a3687bd6597102f7fd72f7f349ebd8bf",
+      "prompt_sha256": "9dfd17671aba0a5b9679d233ef36bb06dde725a682fe099c51d14cc96a3967a7",
+      "correction_count": 11,
+      "uncertainty_count": 4,
+      "chapter_id": "sales"
+    },
+    {
+      "aweme_id": "7637226613721151089",
+      "title": "性价比是反逻辑的",
+      "published_at": "2026-05-08T07:30:00+08:00",
+      "url": "https://www.douyin.com/video/7637226613721151089",
+      "source_path": "local-asr/results/7637226613721151089.json",
+      "refinement_path": "refined/results/7637226613721151089.json",
+      "source_asr_sha256": "909d08769fb9de94d3bca0083d1c4731c75eb010425518ccd5371ccc94d22315",
+      "prompt_sha256": "a2f7b5340cba435b37fae7463667e88ecf06f94bc6974b81458eacb756ab6066",
+      "correction_count": 13,
+      "uncertainty_count": 4,
+      "chapter_id": "brand"
+    },
+    {
+      "aweme_id": "7638762219970364282",
+      "title": "中国品牌在中国市场是负资产",
+      "published_at": "2026-05-13T07:30:00+08:00",
+      "url": "https://www.douyin.com/video/7638762219970364282",
+      "source_path": "local-asr/results/7638762219970364282.json",
+      "refinement_path": "refined/results/7638762219970364282.json",
+      "source_asr_sha256": "704eddddc6e2b2108d4dfcad491b1bb443b678afb22de93f7f7025e52dde8f9d",
+      "prompt_sha256": "21eaba64480ac193949a875f08e5096d0bf30d87250ce2e892a6a5ccbe9fd3e0",
+      "correction_count": 18,
+      "uncertainty_count": 7,
+      "chapter_id": "brand"
+    },
+    {
+      "aweme_id": "7638469246976880037",
+      "title": "品牌的终点是什么",
+      "published_at": "2026-05-14T07:30:00+08:00",
+      "url": "https://www.douyin.com/video/7638469246976880037",
+      "source_path": "local-asr/results/7638469246976880037.json",
+      "refinement_path": "refined/results/7638469246976880037.json",
+      "source_asr_sha256": "bd893993a7a74f57c842f9af938122ac13f7b39c68b2ee52fdc4f98bab43b0e0",
+      "prompt_sha256": "113988c21561141b4a00e3be32ad824fe3828d3f9194976e8eb9b6db3b8108c8",
+      "correction_count": 11,
+      "uncertainty_count": 5,
+      "chapter_id": "brand"
+    },
+    {
+      "aweme_id": "7638764114966133233",
+      "title": "工厂/外贸/跨境电商/品牌出海四者能分清的有资格看",
+      "published_at": "2026-05-15T07:30:00+08:00",
+      "url": "https://www.douyin.com/video/7638764114966133233",
+      "source_path": "local-asr/results/7638764114966133233.json",
+      "refinement_path": "refined/results/7638764114966133233.json",
+      "source_asr_sha256": "59dc0578566c29987c0a68222dc5ba6b300412f14cfb79210fc9b62dd0093cba",
+      "prompt_sha256": "b18f6dff82470df53141dd80b6265085a3a3f7c2e5c0c0ba9a0b3558de9e90d2",
+      "correction_count": 9,
+      "uncertainty_count": 3,
+      "chapter_id": "brand"
+    },
+    {
+      "aweme_id": "7639939766688417531",
+      "title": "宗教和品牌都是一套完整哲学理念",
+      "published_at": "2026-05-16T07:30:01+08:00",
+      "url": "https://www.douyin.com/video/7639939766688417531",
+      "source_path": "local-asr/results/7639939766688417531.json",
+      "refinement_path": "refined/results/7639939766688417531.json",
+      "source_asr_sha256": "d3f4063f6b65a3659cee53e532f677b5440cedd9f1b036d28cee4326213b87f1",
+      "prompt_sha256": "c28c0fdc697ee0a5fd552ac5dad7b245f704ed9a615a5d520385472edc01d27a",
+      "correction_count": 13,
+      "uncertainty_count": 4,
+      "chapter_id": "brand"
+    },
+    {
+      "aweme_id": "7643698433697602745",
+      "title": "不要再做Temu和亚马逊了",
+      "published_at": "2026-05-26T07:30:00+08:00",
+      "url": "https://www.douyin.com/video/7643698433697602745",
+      "source_path": "local-asr/results/7643698433697602745.json",
+      "refinement_path": "refined/results/7643698433697602745.json",
+      "source_asr_sha256": "6132a1b507343f50a46e5edc5f11a5daf946f75bb0187c8c6171affcac1e9f39",
+      "prompt_sha256": "73b94b57438050c11e4d4daeb10b602cb733c69a4926d903dd9802bb12365690",
+      "correction_count": 15,
+      "uncertainty_count": 5,
+      "chapter_id": "brand"
+    },
+    {
+      "aweme_id": "7644401369890503419",
+      "title": "成功给自己送走了",
+      "published_at": "2026-05-28T07:30:00+08:00",
+      "url": "https://www.douyin.com/video/7644401369890503419",
+      "source_path": "local-asr/results/7644401369890503419.json",
+      "refinement_path": "refined/results/7644401369890503419.json",
+      "source_asr_sha256": "00eac29aa9ea98c6fa3644464d92b7999185d6f37a85dcebdc664d703b080e32",
+      "prompt_sha256": "284e21ba8a9ab1c112fb62716302ff8fa85224aa1d0dd0550667a60e26881747",
+      "correction_count": 15,
+      "uncertainty_count": 4,
+      "chapter_id": "brand"
+    },
+    {
+      "aweme_id": "7645434866285604793",
+      "title": "只有小脑的请勿关注我",
+      "published_at": "2026-05-30T08:00:00+08:00",
+      "url": "https://www.douyin.com/video/7645434866285604793",
+      "source_path": "local-asr/results/7645434866285604793.json",
+      "refinement_path": "refined/results/7645434866285604793.json",
+      "source_asr_sha256": "0e5e9442de0bf07591c012b4cdeb133dca74152e6d94331bd32dd2a9e95aaede",
+      "prompt_sha256": "562e96c4da00042ad451b507267506d2adfef2b5a0244a884633453d8cfaf67f",
+      "correction_count": 12,
+      "uncertainty_count": 7,
+      "chapter_id": "brand"
+    },
+    {
+      "aweme_id": "7646158372903779771",
+      "title": "抄俞浩就行了",
+      "published_at": "2026-06-01T07:30:00+08:00",
+      "url": "https://www.douyin.com/video/7646158372903779771",
+      "source_path": "local-asr/results/7646158372903779771.json",
+      "refinement_path": "refined/results/7646158372903779771.json",
+      "source_asr_sha256": "c0e3e7d1409c4a6a74ac4aafae04746a87c6c15b7c46689904e548d9e3750c26",
+      "prompt_sha256": "7757ffbfeacf4a147f24867aeffe9367d302fa6ab6e58465be05d435ff7e81ba",
+      "correction_count": 18,
+      "uncertainty_count": 6,
+      "chapter_id": "brand"
+    },
+    {
+      "aweme_id": "7646230119371921401",
+      "title": "选择做品牌要先看一个关键因素",
+      "published_at": "2026-06-02T07:30:01+08:00",
+      "url": "https://www.douyin.com/video/7646230119371921401",
+      "source_path": "local-asr/results/7646230119371921401.json",
+      "refinement_path": "refined/results/7646230119371921401.json",
+      "source_asr_sha256": "ffac15ad0ad7fad88692dfd3196214c6cfe9b95ac9e0724582facf39cf5fa662",
+      "prompt_sha256": "add6968da0150a0ff4e994baf1f79bab77f419c7cd68b2386ba491ec1908b9db",
+      "correction_count": 19,
+      "uncertainty_count": 3,
+      "chapter_id": "brand"
+    },
+    {
+      "aweme_id": "7646888035271809529",
+      "title": "品牌的定价权就是定价自由",
+      "published_at": "2026-06-03T07:30:00+08:00",
+      "url": "https://www.douyin.com/video/7646888035271809529",
+      "source_path": "local-asr/results/7646888035271809529.json",
+      "refinement_path": "refined/results/7646888035271809529.json",
+      "source_asr_sha256": "99eefc79c5527a2033e2f7f947114bf64bd7dd77dd83a280fc002a31d6b33da2",
+      "prompt_sha256": "8154df331fb1d08aa0dfcc632dc80a0b56c93fde3b942fb74947532fa44c203a",
+      "correction_count": 12,
+      "uncertainty_count": 3,
+      "chapter_id": "brand"
+    },
+    {
+      "aweme_id": "7646232261083966395",
+      "title": "早tm没有中国制造了好吗",
+      "published_at": "2026-06-05T07:30:00+08:00",
+      "url": "https://www.douyin.com/video/7646232261083966395",
+      "source_path": "local-asr/results/7646232261083966395.json",
+      "refinement_path": "refined/results/7646232261083966395.json",
+      "source_asr_sha256": "7ea91b9e9e08b37a6ab9480c7bbdb05bc7436c000d74264f0bd1d65b1e021f3b",
+      "prompt_sha256": "78366cfdce8b9365ffb268fd19ef2cc8e468a0cd6cf55e119f2dddd853c8a1e5",
+      "correction_count": 11,
+      "uncertainty_count": 5,
+      "chapter_id": "brand"
+    },
+    {
+      "aweme_id": "7648070053632915707",
+      "title": "品牌就是创始人生的孩子",
+      "published_at": "2026-06-18T07:30:00+08:00",
+      "url": "https://www.douyin.com/video/7648070053632915707",
+      "source_path": "local-asr/results/7648070053632915707.json",
+      "refinement_path": "refined/results/7648070053632915707.json",
+      "source_asr_sha256": "ab24170a01af5e5a3e2b21d74a4a265c4da1579ca1df177ed4d9df49c9bfb941",
+      "prompt_sha256": "12c4c3c481d8b539d076fd8455e9dfb83f4f2e5c656271246e47899dcfcee140",
+      "correction_count": 12,
+      "uncertainty_count": 6,
+      "chapter_id": "brand"
+    },
+    {
+      "aweme_id": "7654231180670334906",
+      "title": "护城河不可能是一个实在的东西",
+      "published_at": "2026-06-25T07:30:00+08:00",
+      "url": "https://www.douyin.com/video/7654231180670334906",
+      "source_path": "local-asr/results/7654231180670334906.json",
+      "refinement_path": "refined/results/7654231180670334906.json",
+      "source_asr_sha256": "c124f9d51dfe70a3cd3a5b37a05400bddc5d41245704be2201c24b65ddd0120b",
+      "prompt_sha256": "66b301a0c663c367f25079d2f4de9dd9b9296f74651e6ffb309447c7f1263c9c",
+      "correction_count": 9,
+      "uncertainty_count": 7,
+      "chapter_id": "brand"
+    },
+    {
+      "aweme_id": "7654611523558550779",
+      "title": "LTV=一个客户终身总价值",
+      "published_at": "2026-06-29T07:30:00+08:00",
+      "url": "https://www.douyin.com/video/7654611523558550779",
+      "source_path": "local-asr/results/7654611523558550779.json",
+      "refinement_path": "refined/results/7654611523558550779.json",
+      "source_asr_sha256": "d9675b6834d961f8e376d5c5e8583412f30a26dd2941003a693f4c485893049f",
+      "prompt_sha256": "8c14e6175fd52e15f50ae2016807e6676260847492e6874f46d394597a75b120",
+      "correction_count": 17,
+      "uncertainty_count": 4,
+      "chapter_id": "brand"
+    },
+    {
+      "aweme_id": "7653376665279694970",
+      "title": "从0做品牌的步骤",
+      "published_at": "2026-07-09T07:30:00+08:00",
+      "url": "https://www.douyin.com/video/7653376665279694970",
+      "source_path": "local-asr/results/7653376665279694970.json",
+      "refinement_path": "refined/results/7653376665279694970.json",
+      "source_asr_sha256": "b63ee3fa576277c186f91ccee4baf7ad4eed915a190d228d0b4da4ce0231038a",
+      "prompt_sha256": "5acac00c1cdab2af72e12994fbccc51ec778cf14d4b0de24cb47ca0796367d44",
+      "correction_count": 11,
+      "uncertainty_count": 3,
+      "chapter_id": "brand"
+    },
+    {
+      "aweme_id": "7655357966699688549",
+      "title": "西贝的决策是怎么来的",
+      "published_at": "2026-07-13T07:30:00+08:00",
+      "url": "https://www.douyin.com/video/7655357966699688549",
+      "source_path": "local-asr/results/7655357966699688549.json",
+      "refinement_path": "refined/results/7655357966699688549.json",
+      "source_asr_sha256": "ca862885bd4fa729988918addf1258b2a15fab9b2ba94c4dd91658d77aa7d856",
+      "prompt_sha256": "f824b5e767cebaf12771c02563123d0fc3a2fb64c58f5a803a272e8ba3c6a7ba",
+      "correction_count": 9,
+      "uncertainty_count": 4,
+      "chapter_id": "brand"
+    },
+    {
+      "aweme_id": "7663241712110852773",
+      "title": "ICP是特定人群的立场",
+      "published_at": "2026-07-23T07:30:00+08:00",
+      "url": "https://www.douyin.com/video/7663241712110852773",
+      "source_path": "local-asr/results/7663241712110852773.json",
+      "refinement_path": "refined/results/7663241712110852773.json",
+      "source_asr_sha256": "79e558494834fe5aca68608310877a0289996bfa26b22e3d5c13cc5972e18706",
+      "prompt_sha256": "cc7565b1424a7276ec8ec0552dda251ceccf3f527dc8874eebe9c91d1ec7eb27",
+      "correction_count": 9,
+      "uncertainty_count": 5,
+      "chapter_id": "brand"
+    },
+    {
+      "aweme_id": "7661803843525096635",
+      "title": "品牌能帮消费者说话",
+      "published_at": "2026-07-29T07:30:00+08:00",
+      "url": "https://www.douyin.com/video/7661803843525096635",
+      "source_path": "local-asr/results/7661803843525096635.json",
+      "refinement_path": "refined/results/7661803843525096635.json",
+      "source_asr_sha256": "150ff68328dc3c490463be78f09184a6db04bd2cd3c6afaa3e9d349a1f02285e",
+      "prompt_sha256": "d01be95ba53acfe335e38c9ee579f9abed6c1f390438f54f908c30be5ce34386",
+      "correction_count": 13,
+      "uncertainty_count": 3,
+      "chapter_id": "brand"
+    },
+    {
+      "aweme_id": "7642462215992680113",
+      "title": "三者目标不同，但都是靠同一个技能：交流",
+      "published_at": "2026-05-25T07:30:00+08:00",
+      "url": "https://www.douyin.com/video/7642462215992680113",
+      "source_path": "local-asr/results/7642462215992680113.json",
+      "refinement_path": "refined/results/7642462215992680113.json",
+      "source_asr_sha256": "2ce589b393ba283c4e9809e778b67139c067b012e98853f8fc84891a98f76f00",
+      "prompt_sha256": "af489f9ab72306a19d61bd170cee414982d448c2092ff1ae57664263ba6c4729",
+      "correction_count": 12,
+      "uncertainty_count": 4,
+      "chapter_id": "marketing"
+    },
+    {
+      "aweme_id": "7645439106923425530",
+      "title": "消费者不是理性决策者，没有了解你术语的义务",
+      "published_at": "2026-06-04T07:30:00+08:00",
+      "url": "https://www.douyin.com/video/7645439106923425530",
+      "source_path": "local-asr/results/7645439106923425530.json",
+      "refinement_path": "refined/results/7645439106923425530.json",
+      "source_asr_sha256": "0b5ee6e325feba486a36260d6a24d11c4045bdd59d317a3674a977c6dc0c875e",
+      "prompt_sha256": "2bd66262c6bc3b177ac3fdb895b3e5412c9108b2c373c3b827ff5537532c1e9f",
+      "correction_count": 16,
+      "uncertainty_count": 6,
+      "chapter_id": "marketing"
+    },
+    {
+      "aweme_id": "7653890096488052474",
+      "title": "变现只有两条路：卖别人的货和卖自己的货",
+      "published_at": "2026-06-23T07:30:01+08:00",
+      "url": "https://www.douyin.com/video/7653890096488052474",
+      "source_path": "local-asr/results/7653890096488052474.json",
+      "refinement_path": "refined/results/7653890096488052474.json",
+      "source_asr_sha256": "f41ed957467576c275cda2fbfcc826ef46aeeb5db67cd139537734074c2f0497",
+      "prompt_sha256": "4d1b87f1959ad0bac4b235539ef0c685cc14cc3d23954d53b7bdb991e85cfa82",
+      "correction_count": 20,
+      "uncertainty_count": 4,
+      "chapter_id": "marketing"
+    },
+    {
+      "aweme_id": "7658487994466562746",
+      "title": "自媒体如何起号",
+      "published_at": "2026-07-07T07:30:00+08:00",
+      "url": "https://www.douyin.com/video/7658487994466562746",
+      "source_path": "local-asr/results/7658487994466562746.json",
+      "refinement_path": "refined/results/7658487994466562746.json",
+      "source_asr_sha256": "176805e5a799c9095b4e9a2cb4b402c1edfea6c6db1513778761594f67411eca",
+      "prompt_sha256": "3761023c3633f3fea536d55316f856004bb161a4ff2d2086aa6d4dc92bccbb02",
+      "correction_count": 16,
+      "uncertainty_count": 6,
+      "chapter_id": "marketing"
+    },
+    {
+      "aweme_id": "7663223699977346233",
+      "title": "营销是什么鬼啊？包含品牌+市场+销售吗",
+      "published_at": "2026-07-21T13:30:00+08:00",
+      "url": "https://www.douyin.com/video/7663223699977346233",
+      "source_path": "local-asr/results/7663223699977346233.json",
+      "refinement_path": "refined/results/7663223699977346233.json",
+      "source_asr_sha256": "f2a26970d6e51a2e1403c5882c911f7365432fd0840be6fe952559826088674e",
+      "prompt_sha256": "c841e585aef8a0438f2c43298de1e23320aa193ec9fb4e11b348e781fed4e396",
+      "correction_count": 19,
+      "uncertainty_count": 4,
+      "chapter_id": "marketing"
+    },
+    {
+      "aweme_id": "7670309610209497787",
+      "title": "选题要来源于他人，别自己想",
+      "published_at": "2026-08-07T07:30:01+08:00",
+      "url": "https://www.douyin.com/video/7670309610209497787",
+      "source_path": "local-asr/results/7670309610209497787.json",
+      "refinement_path": "refined/results/7670309610209497787.json",
+      "source_asr_sha256": "a03e76db37086e89f2be5acf502d43a1e25d134144b08f28b9270b908aa57a10",
+      "prompt_sha256": "dc9d44395377d727bfda28117328de5e7413fdee093a71681b20a84cfe099abb",
+      "correction_count": 12,
+      "uncertainty_count": 8,
+      "chapter_id": "marketing"
+    },
+    {
+      "aweme_id": "7671069734456233649",
+      "title": "市场的KPI是转化和数据分析",
+      "published_at": "2026-08-13T07:30:01+08:00",
+      "url": "https://www.douyin.com/video/7671069734456233649",
+      "source_path": "local-asr/results/7671069734456233649.json",
+      "refinement_path": "refined/results/7671069734456233649.json",
+      "source_asr_sha256": "10061d8dd2ba01a6b5d419173a53e7f8e310279e1550fd381a0dd861a43b6b56",
+      "prompt_sha256": "1df4c0e18bac26dd22e19d6983aef3df7049b332b621359253eb8e53e88ce1f3",
+      "correction_count": 11,
+      "uncertainty_count": 3,
+      "chapter_id": "marketing"
+    },
+    {
+      "aweme_id": "7636909478159709625",
+      "title": "你是要赎身，不是要做头牌！",
+      "published_at": "2026-05-07T09:00:00+08:00",
+      "url": "https://www.douyin.com/video/7636909478159709625",
+      "source_path": "local-asr/results/7636909478159709625.json",
+      "refinement_path": "refined/results/7636909478159709625.json",
+      "source_asr_sha256": "5233c5747e63aff9016ef39b29b9907a6ac474f02a24d9121c9e52d7f032186a",
+      "prompt_sha256": "bbaf505f1d2b5e4dc89fc5341816ea21524060c7bb28a40171a83b4fb29b6f29",
+      "correction_count": 20,
+      "uncertainty_count": 6,
+      "chapter_id": "management"
+    },
+    {
+      "aweme_id": "7647561990352674469",
+      "title": "大公司和小公司内核不同",
+      "published_at": "2026-06-11T07:30:00+08:00",
+      "url": "https://www.douyin.com/video/7647561990352674469",
+      "source_path": "local-asr/results/7647561990352674469.json",
+      "refinement_path": "refined/results/7647561990352674469.json",
+      "source_asr_sha256": "5a6caea7fdb93ac7458b8eaf9961891572c74406e834b13eabb3b3dcf7eb5ec5",
+      "prompt_sha256": "386f402ed41def07362dbd37584fd4a9421d2d7eb90eb73fcd203b642ea04bcb",
+      "correction_count": 13,
+      "uncertainty_count": 3,
+      "chapter_id": "management"
+    },
+    {
+      "aweme_id": "7648839572881457530",
+      "title": "结果=效率*累计时长",
+      "published_at": "2026-06-12T07:30:00+08:00",
+      "url": "https://www.douyin.com/video/7648839572881457530",
+      "source_path": "local-asr/results/7648839572881457530.json",
+      "refinement_path": "refined/results/7648839572881457530.json",
+      "source_asr_sha256": "70f59172d9efe4462d958191e00e9329f71077bfabfd6c0f52673145b663cb53",
+      "prompt_sha256": "2453b425a77b4606879a3b6a684f921b0c4c9b83f631c3da42dcd056199b82af",
+      "correction_count": 24,
+      "uncertainty_count": 6,
+      "chapter_id": "management"
+    },
+    {
+      "aweme_id": "7655919946677084529",
+      "title": "大公司开会SOP清晰",
+      "published_at": "2026-06-30T07:30:01+08:00",
+      "url": "https://www.douyin.com/video/7655919946677084529",
+      "source_path": "local-asr/results/7655919946677084529.json",
+      "refinement_path": "refined/results/7655919946677084529.json",
+      "source_asr_sha256": "0e45a917db58623a05533156fbc7852477c4f7bc14e306d80eac9b400d2388a3",
+      "prompt_sha256": "f5e599238c4ec8c1fad4c2eb36d436280bbc4cc99d231ffb1990adfc83e2dadd",
+      "correction_count": 10,
+      "uncertainty_count": 2,
+      "chapter_id": "management"
+    },
+    {
+      "aweme_id": "7665159402169023419",
+      "title": "任何不嫌你蠢的人都是你的贵人",
+      "published_at": "2026-07-27T07:30:00+08:00",
+      "url": "https://www.douyin.com/video/7665159402169023419",
+      "source_path": "local-asr/results/7665159402169023419.json",
+      "refinement_path": "refined/results/7665159402169023419.json",
+      "source_asr_sha256": "ceaa013e7a91977c2a59969e2dfa418858cfda50b65c8495a688be169c70e642",
+      "prompt_sha256": "6f222bdffff08e2065dabe280515f4d7ef1df6a016b96f3d1baa36685e856b18",
+      "correction_count": 19,
+      "uncertainty_count": 7,
+      "chapter_id": "management"
+    },
+    {
+      "aweme_id": "7673293441208795129",
+      "title": "好领导以身作则+悉心栽培",
+      "published_at": "2026-08-19T07:30:01+08:00",
+      "url": "https://www.douyin.com/video/7673293441208795129",
+      "source_path": "local-asr/results/7673293441208795129.json",
+      "refinement_path": "refined/results/7673293441208795129.json",
+      "source_asr_sha256": "faf85d4b53d8357a56ad4411427779c6cb92fefcd63bcf2d46760433df83da30",
+      "prompt_sha256": "41338f7602f64f064997c3ff4aea878db4d8e7367718544b0b0be917a40626e9",
+      "correction_count": 13,
+      "uncertainty_count": 5,
+      "chapter_id": "management"
+    },
+    {
+      "aweme_id": "7640302879823111921",
+      "title": "读万卷书就是阅人无数",
+      "published_at": "2026-05-20T07:30:00+08:00",
+      "url": "https://www.douyin.com/video/7640302879823111921",
+      "source_path": "local-asr/results/7640302879823111921.json",
+      "refinement_path": "refined/results/7640302879823111921.json",
+      "source_asr_sha256": "4b7dfa891148b89e6fcc6f8b140265775b6613d13f519fcce33a219260286a8b",
+      "prompt_sha256": "c5a32f86fc2b0f44ba89c13cc218259e4094d957cf9471894c2c79d7222c1843",
+      "correction_count": 14,
+      "uncertainty_count": 4,
+      "chapter_id": "language"
+    },
+    {
+      "aweme_id": "7641100822009580453",
+      "title": "高阶论证靠暗示",
+      "published_at": "2026-05-21T07:30:00+08:00",
+      "url": "https://www.douyin.com/video/7641100822009580453",
+      "source_path": "local-asr/results/7641100822009580453.json",
+      "refinement_path": "refined/results/7641100822009580453.json",
+      "source_asr_sha256": "93b1193bc98f1c5624c3eb197c8aa41495b3c9609cd5f0646d497519702d649f",
+      "prompt_sha256": "e80539f66097bafc98fb6e936f29dc19089d227cc3bb60f248ac387adc0ee430",
+      "correction_count": 15,
+      "uncertainty_count": 4,
+      "chapter_id": "language"
+    },
+    {
+      "aweme_id": "7648836763835064817",
+      "title": "政治：掩盖目的学科",
+      "published_at": "2026-06-10T07:30:00+08:00",
+      "url": "https://www.douyin.com/video/7648836763835064817",
+      "source_path": "local-asr/results/7648836763835064817.json",
+      "refinement_path": "refined/results/7648836763835064817.json",
+      "source_asr_sha256": "38079ab5cdb13b81b294c5477294cf200789aa76539fb38d620ec2eb00bde916",
+      "prompt_sha256": "493b0f0174a638bdcd7675f6de3834e5095576870223c49195208d50a162c3ae",
+      "correction_count": 8,
+      "uncertainty_count": 5,
+      "chapter_id": "language"
+    },
+    {
+      "aweme_id": "7654654307861835707",
+      "title": "语言完全是靠模仿，不是钻研",
+      "published_at": "2026-06-24T07:30:00+08:00",
+      "url": "https://www.douyin.com/video/7654654307861835707",
+      "source_path": "local-asr/results/7654654307861835707.json",
+      "refinement_path": "refined/results/7654654307861835707.json",
+      "source_asr_sha256": "7d593871cc9dbc26a5fa31713ad1443d896a32825dab0400665f28be8dd11cab",
+      "prompt_sha256": "e93cf47ca0eb16d8c57a6a4c803eb78ad0071de931cdfdd8a8f7bf221de2699f",
+      "correction_count": 12,
+      "uncertainty_count": 8,
+      "chapter_id": "language"
+    },
+    {
+      "aweme_id": "7662666926325915642",
+      "title": "为自媒体的朋友们做了精准表达的课程",
+      "published_at": "2026-07-17T07:30:00+08:00",
+      "url": "https://www.douyin.com/video/7662666926325915642",
+      "source_path": "local-asr/results/7662666926325915642.json",
+      "refinement_path": "refined/results/7662666926325915642.json",
+      "source_asr_sha256": "1b0c937d6e48f7cc70e11fee15e2e479e3e1c72ba3c3b46cd0ea78467b87eb0b",
+      "prompt_sha256": "35991f6f2883c27ea58b9159f1ab4e1c0ea58b5aa5d9a94bafff4c416d0f2b22",
+      "correction_count": 13,
+      "uncertainty_count": 5,
+      "chapter_id": "language"
+    },
+    {
+      "aweme_id": "7663219400774338683",
+      "title": "没有因果，只有因素",
+      "published_at": "2026-07-19T07:30:01+08:00",
+      "url": "https://www.douyin.com/video/7663219400774338683",
+      "source_path": "local-asr/results/7663219400774338683.json",
+      "refinement_path": "refined/results/7663219400774338683.json",
+      "source_asr_sha256": "55ad6a360dae76839430c14a2ae2fb46e07a7b69c98c52b067917fa3a22bdd69",
+      "prompt_sha256": "59e5d6069f62baa7374b9ba3765a8720f080290ad5478320983a3155110c57a6",
+      "correction_count": 11,
+      "uncertainty_count": 3,
+      "chapter_id": "language"
+    },
+    {
+      "aweme_id": "7667735558396166650",
+      "title": "任何语言都是对思路进行限制和控制",
+      "published_at": "2026-08-03T07:30:01+08:00",
+      "url": "https://www.douyin.com/video/7667735558396166650",
+      "source_path": "local-asr/results/7667735558396166650.json",
+      "refinement_path": "refined/results/7667735558396166650.json",
+      "source_asr_sha256": "be08dc08c0ef9f8052dc93ff40c609355a20ca0f7f7523ec19f95fc617bf5000",
+      "prompt_sha256": "1b34c41298e143014ba3e108d08182fe4ff59b0a76a69d03fc61ef5bc7e1fd17",
+      "correction_count": 13,
+      "uncertainty_count": 6,
+      "chapter_id": "language"
+    },
+    {
+      "aweme_id": "7640931552348934649",
+      "title": "人生有意外吗",
+      "published_at": "2026-05-23T07:30:00+08:00",
+      "url": "https://www.douyin.com/video/7640931552348934649",
+      "source_path": "local-asr/results/7640931552348934649.json",
+      "refinement_path": "refined/results/7640931552348934649.json",
+      "source_asr_sha256": "ecf031147fdb17d5b711ea75868fe0ddfcc6956b339d5dcbb2eba332fe643ca3",
+      "prompt_sha256": "cd3221556cfb8e165d24fd8a62e60ce2cba6c5d2dae2316a21931a1e1263ae2e",
+      "correction_count": 12,
+      "uncertainty_count": 5,
+      "chapter_id": "philosophy"
+    },
+    {
+      "aweme_id": "7640934659875115385",
+      "title": "上帝到底谁啊",
+      "published_at": "2026-05-24T07:30:00+08:00",
+      "url": "https://www.douyin.com/video/7640934659875115385",
+      "source_path": "local-asr/results/7640934659875115385.json",
+      "refinement_path": "refined/results/7640934659875115385.json",
+      "source_asr_sha256": "29919e9c8f2ebadd46751f5f0bc5857b452e340124fe4101b13a2184aa66b8c6",
+      "prompt_sha256": "18692db22ff74331e12abdb38babaa137e056d23191c751cfb31c4a3c94e0337",
+      "correction_count": 23,
+      "uncertainty_count": 7,
+      "chapter_id": "philosophy"
+    },
+    {
+      "aweme_id": "7646248363017229937",
+      "title": "活着在于借用肉身来体验 #佛学 #生命 #生命的意义",
+      "published_at": "2026-06-06T07:30:00+08:00",
+      "url": "https://www.douyin.com/video/7646248363017229937",
+      "source_path": "local-asr/results/7646248363017229937.json",
+      "refinement_path": "refined/results/7646248363017229937.json",
+      "source_asr_sha256": "4b0a1a8086b4f6c2990cb26e0a3ee6f7ec6175cc228973f82c00038edd686108",
+      "prompt_sha256": "f46d7537dadc5fee77109b387e46409c70550743873b52fe4cc7fd4cdd3f4d10",
+      "correction_count": 17,
+      "uncertainty_count": 7,
+      "chapter_id": "philosophy"
+    },
+    {
+      "aweme_id": "7646828643305684347",
+      "title": "道德经+奥义书",
+      "published_at": "2026-06-07T07:30:00+08:00",
+      "url": "https://www.douyin.com/video/7646828643305684347",
+      "source_path": "local-asr/results/7646828643305684347.json",
+      "refinement_path": "refined/results/7646828643305684347.json",
+      "source_asr_sha256": "2d4a4ba6bcb7c9fcaffdac3239d7a26ef28308513e1d5fa3a85766fa77e6abe8",
+      "prompt_sha256": "8a314dedf971282c736a07ef38c5acf7fc2e8da59c089e677f64117d745a9fa1",
+      "correction_count": 16,
+      "uncertainty_count": 6,
+      "chapter_id": "philosophy"
+    },
+    {
+      "aweme_id": "7646252166591682425",
+      "title": "关系只有两种：等价交换or奴隶制",
+      "published_at": "2026-06-08T07:30:00+08:00",
+      "url": "https://www.douyin.com/video/7646252166591682425",
+      "source_path": "local-asr/results/7646252166591682425.json",
+      "refinement_path": "refined/results/7646252166591682425.json",
+      "source_asr_sha256": "23ac47443e603347b9647db3ba3ff13e7e5c723a4c348b4ebf2bfe124e38091b",
+      "prompt_sha256": "374ef8fb923bc11108021e600ef13d19e9173906fac5a3b003f3b6a25f161a74",
+      "correction_count": 13,
+      "uncertainty_count": 4,
+      "chapter_id": "philosophy"
+    },
+    {
+      "aweme_id": "7650386623877142641",
+      "title": "道德经概述",
+      "published_at": "2026-06-20T07:30:00+08:00",
+      "url": "https://www.douyin.com/video/7650386623877142641",
+      "source_path": "local-asr/results/7650386623877142641.json",
+      "refinement_path": "refined/results/7650386623877142641.json",
+      "source_asr_sha256": "7ba60510ac5f28aec566747f8f42a678f276d14261fbfe2e62dfd665e5eaac5d",
+      "prompt_sha256": "94065fb606e9030c3ad76d2de6d4a5573578ed8a79e9ea3646be320ca3b71efc",
+      "correction_count": 24,
+      "uncertainty_count": 7,
+      "chapter_id": "philosophy"
+    },
+    {
+      "aweme_id": "7655043330086400379",
+      "title": "道的第一个品质：名（无名）",
+      "published_at": "2026-06-28T07:30:00+08:00",
+      "url": "https://www.douyin.com/video/7655043330086400379",
+      "source_path": "local-asr/results/7655043330086400379.json",
+      "refinement_path": "refined/results/7655043330086400379.json",
+      "source_asr_sha256": "901c7e0694ac91f98e14c9c5984c2bec8d9db468ab90d5a7f754cd486d10307a",
+      "prompt_sha256": "6385c28fab697a80852da15e80e6b4762dc71a0cf727a0d1e357ad71b4bd2446",
+      "correction_count": 17,
+      "uncertainty_count": 4,
+      "chapter_id": "philosophy"
+    },
+    {
+      "aweme_id": "7658489785451351717",
+      "title": "道是妈妈，德是爸爸。为啥男人有中年危机？因为万事万物都要生。  #道德经  #麟西道德经  #哲学  #认知提升",
+      "published_at": "2026-07-05T07:30:00+08:00",
+      "url": "https://www.douyin.com/video/7658489785451351717",
+      "source_path": "local-asr/results/7658489785451351717.json",
+      "refinement_path": "refined/results/7658489785451351717.json",
+      "source_asr_sha256": "cfb1271d9af6514906956ef5b41d2755388b7b8cb35e9a5a5b9a82aeaf8bb53d",
+      "prompt_sha256": "074e6f3ec33e8f0fbe48dd559fa4f0a5b09ccdb80373a090ccbc1ef53e37281d",
+      "correction_count": 19,
+      "uncertainty_count": 5,
+      "chapter_id": "philosophy"
+    },
+    {
+      "aweme_id": "7661016101333103483",
+      "title": "道德经的第三个德：反",
+      "published_at": "2026-07-11T07:30:00+08:00",
+      "url": "https://www.douyin.com/video/7661016101333103483",
+      "source_path": "local-asr/results/7661016101333103483.json",
+      "refinement_path": "refined/results/7661016101333103483.json",
+      "source_asr_sha256": "531c1c57a482896fd96961b30f7fa7da1c05df9704915ead50c2edb4f26369f1",
+      "prompt_sha256": "eede46cab6f13fc3e7c351d56210ce76fdd583517fd471f925850739a7da0e3e",
+      "correction_count": 11,
+      "uncertainty_count": 5,
+      "chapter_id": "philosophy"
+    },
+    {
+      "aweme_id": "7661169287754860977",
+      "title": "道的第三个品德：反（举例讲解部分）",
+      "published_at": "2026-07-25T07:30:02+08:00",
+      "url": "https://www.douyin.com/video/7661169287754860977",
+      "source_path": "local-asr/results/7661169287754860977.json",
+      "refinement_path": "refined/results/7661169287754860977.json",
+      "source_asr_sha256": "f1162544e371712f105cc2526742fe2d6c1abea634c32e02b9bd8cc839d6765e",
+      "prompt_sha256": "04d065a29a3e2b6a2c9cd331a0f61f5b1dc692557cbe91df18eb8bab8ead5b6a",
+      "correction_count": 17,
+      "uncertainty_count": 4,
+      "chapter_id": "philosophy"
+    },
+    {
+      "aweme_id": "7668871805768447418",
+      "title": "道法自然：道效仿自己原本的样子",
+      "published_at": "2026-08-01T09:39:19+08:00",
+      "url": "https://www.douyin.com/video/7668871805768447418",
+      "source_path": "local-asr/results/7668871805768447418.json",
+      "refinement_path": "refined/results/7668871805768447418.json",
+      "source_asr_sha256": "ada3987f0a11f2801244d2b0e045301d9cda754fbaa66e9f4c2be32f3ee504b8",
+      "prompt_sha256": "d8d9f71e2e601374536f8c5a519a6f58aaaba74d17c2648df38d27c58744c2ab",
+      "correction_count": 16,
+      "uncertainty_count": 3,
+      "chapter_id": "philosophy"
+    },
+    {
+      "aweme_id": "7669535262086909553",
+      "title": "不是生你的就是妈妈，妈妈是安全感的源头",
+      "published_at": "2026-08-09T07:30:00+08:00",
+      "url": "https://www.douyin.com/video/7669535262086909553",
+      "source_path": "local-asr/results/7669535262086909553.json",
+      "refinement_path": "refined/results/7669535262086909553.json",
+      "source_asr_sha256": "a4d28a9739db617396f9c2ac385f4e5319c9d53b8efd9b5a30dc9f41dd805505",
+      "prompt_sha256": "5d2616a37016dfc506da1ce14bc8a857bbd22e41dd0c542cfb2a9135c621b690",
+      "correction_count": 11,
+      "uncertainty_count": 4,
+      "chapter_id": "philosophy"
+    },
+    {
+      "aweme_id": "7674505376335557114",
+      "title": "继上一章继续讨论自然道是什么",
+      "published_at": "2026-08-17T07:30:00+08:00",
+      "url": "https://www.douyin.com/video/7674505376335557114",
+      "source_path": "local-asr/results/7674505376335557114.json",
+      "refinement_path": "refined/results/7674505376335557114.json",
+      "source_asr_sha256": "16b432262a6b879319e7c99ef387c7b9743bc366345d0753e4313ccf72f677b5",
+      "prompt_sha256": "1a5a1753a49245458749714b2f7f15e0227792bb2bfaec64facf79db278556f7",
+      "correction_count": 21,
+      "uncertainty_count": 6,
+      "chapter_id": "philosophy"
+    }
+  ]
+}

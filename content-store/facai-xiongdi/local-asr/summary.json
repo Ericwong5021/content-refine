@@ -1,0 +1,12 @@
+{
+  "run_id": "5741c30c41ed4ea9b28318ac1e30073e",
+  "status": "COMPLETED",
+  "input_count": 35,
+  "newly_completed": 5,
+  "newly_unavailable": 0,
+  "result_count": 35,
+  "completed_count": 35,
+  "unavailable_count": 0,
+  "raw_field_count": 590,
+  "finished_at": "2026-09-02T18:34:35+08:00"
+}

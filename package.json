@@ -1,0 +1,13 @@
+{
+  "name": "content-refine",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev:linxi": "pnpm --filter site-aaa-linxi dev",
+    "dev:facai": "pnpm --filter site-facai-xiongdi dev",
+    "build:all": "pnpm --recursive run build",
+    "lint:all": "pnpm --recursive run lint",
+    "sync:template": "python3 cli.py site:sync-template"
+  }
+}

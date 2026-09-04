@@ -1,0 +1,253 @@
+{
+  "pipeline_schema_version": 1,
+  "aweme_id": "7641100822009580453",
+  "url": "https://www.douyin.com/video/7641100822009580453",
+  "status": "COMPLETED",
+  "source_result_path": "data/AAA麟西/local-asr/results/7641100822009580453.json",
+  "source_asr_sha256": "93b1193bc98f1c5624c3eb197c8aa41495b3c9609cd5f0646d497519702d649f",
+  "prompt_sha256": "e80539f66097bafc98fb6e936f29dc19089d227cc3bb60f248ac387adc0ee430",
+  "codex": {
+    "cli_version": "codex-cli 0.149.1",
+    "model": "configured-default",
+    "elapsed_sec": 75.542,
+    "event_count": 13,
+    "turn_count": 1,
+    "usage": {
+      "input_tokens": 23829,
+      "cached_input_tokens": 0,
+      "cache_write_input_tokens": 0,
+      "output_tokens": 3540,
+      "reasoning_output_tokens": 232
+    },
+    "event_path": "codex-events/7641100822009580453.jsonl",
+    "stderr": ""
+  },
+  "refinement": {
+    "schema_version": 1,
+    "aweme_id": "7641100822009580453",
+    "language": "zh-CN",
+    "corrected_transcript": "之前我已经聊过这个论证的三段论、归纳和演绎，所以才能引出今天这个话题，叫“高阶的论证是投毒”。这也是托雅里面特别常见的一类题型，叫 imply 和 infer。Imply 叫暗示，就是作者投毒的这个动作；而 infer 是读者推测，是读者喝毒药或者找解药的这个过程。\n\n举个例子吧，NPD 的妈妈是不是会经常说：“你看人家的孩子怎么怎么样。”那按照三段论，她这话啥意思？她大前提就是别人家的孩子都是好的、更好的、比你好。然后她给你举个例子，说你看张三、你看李四，这是小前提。那她没有说任何结论，你是不是自己会推测出各种各样的结论？比如你会推测说：“啊，妈妈不爱我了，我得努力变成别人家的孩子，妈妈才爱我。”你甚至会得出个结论：“妈妈不想要我了。”这你妈没说呀，但是这都是你自己推测的。所以这就是她投毒、你服毒的一个过程。\n\n那如果我妈跟我说这种话，我就会说：“那去找别人家小孩吧，我也去找妈。”所以就是这种论证呢，因为结论是让读者自己产生的，他就更容易接受。所以才得出今天我这个结论嘛，叫投毒。\n\n那你在做品牌的时候呢，你就要运用这个规律。就是我不能直接告诉读者和用户，我是一个怎样怎样的品牌。你让他自己去推测，还不能推错。这个就可以用七十年代可口可乐这广告来做一个分析。\n\n“I'd like to teach the world to sing with me. I'd like to hold it in my arms and keep it company. I'd like to buy the world a Coke and keep it company. It's the real thing.”\n\n广告当时是发生在越战时期，所以大家都是很想要和平年代的。那为什么这个广告就震惊世界了呢？因为它塑造了一个世界和平、快乐、开心、美好、天堂的感觉，让你把天堂、美好、快乐和可口可乐产生了一个正相关的联系，使每一个看到的人都回味、回想，甚至就是期待回到那种简单的喝着可乐、看电视的年代，对吧？所以这是所有看到的 viewer 自己做出的一个推测，就是 Coca-Cola 是热爱和平的，是让我快乐的。这是他自己做出的推测，可口可乐从头到尾啥也没说呀。\n\n那有一个反例，就是在 2016 年，百事想抄这支广告，然后它做了一个类似的，然后扑街。为什么呢？因为那个时候呢，美国是在发生，就是黑人被警察打死了，所以黑人和警察之间有一个剧烈的种族冲突的情况下，然后 Pepsi 就请了……Kendall Jenner，让 Kendall 去做代言。\n\n所以这个广告扑街的原因是，Kendall 拿起 Pepsi，百事，递给这个警察。这个动作，它就是在告诉所有读者：“你看，你喝了我 Pepsi，大家都是热爱和平的。”这个动作就是把读者去 infer、推测、得出自己结论，这个主动思考的过程给抹杀了，所以直接被骂得天翻地覆。\n\n其实在这个广告中，只需要改一个细节，就是在这个警察下班的时候，从他的警车里拿出一个 Pepsi 就可以了。就是我们都很期待和平，做警察只是我的工作，我也跟你一样，我也珍惜黑人的生命，就行了。所以这广告公司应该被 fire，太蠢了，我天哪。\n\n但总之，我举这几个例子，就是想让大家知道，如果你在做品牌，你需要做的就是投毒，所以你得确保你投对，这个毒是对方能服得下去的。那如果别人给你投毒，你要想一想，他为什么让你得出这个结论？他为什么这么恶毒，对吧？你别吃这个毒药啊。",
+    "sections": [
+      {
+        "heading": "Imply 与 infer",
+        "summary": "作者把 imply 比作作者暗中“投毒”，把 infer 比作读者自行推测、服毒或寻找解药。"
+      },
+      {
+        "heading": "NPD 妈妈的暗示",
+        "summary": "以“你看人家的孩子”为例，说明说话者不明说结论，却能让听者自行推导出负面结论。"
+      },
+      {
+        "heading": "可口可乐的成功案例",
+        "summary": "作者认为七十年代可口可乐广告通过和平、快乐与美好的氛围，让观众自行把这些感受与品牌联系起来。"
+      },
+      {
+        "heading": "百事可乐的反例",
+        "summary": "作者认为 Kendall Jenner 广告直接替观众说出了和平结论，抹杀了观众主动推测的过程，因而遭到反感。"
+      },
+      {
+        "heading": "品牌与反暗示",
+        "summary": "作者主张品牌要让受众自行得出预期结论，同时提醒受众警惕别人通过暗示引导自己下结论。"
+      }
+    ],
+    "corrections": [
+      {
+        "asr_text": "追纳和演绎",
+        "corrected_text": "归纳和演绎",
+        "basis": "依据 ASR 上下文中与“三段论”并列的论证概念，可确定为“归纳和演绎”。",
+        "confidence": "high"
+      },
+      {
+        "asr_text": "叫着级的论证是投毒",
+        "corrected_text": "叫“高阶的论证是投毒”",
+        "basis": "视频标题和文案均明确写有“高阶论证靠暗示”，结合 ASR 上下文校正。",
+        "confidence": "high"
+      },
+      {
+        "asr_text": "imly",
+        "corrected_text": "imply",
+        "basis": "同句前文明确并列提到 imply 和 infer，且视频文案解释“Imply 暗示”。",
+        "confidence": "high"
+      },
+      {
+        "asr_text": "他大前提",
+        "corrected_text": "她大前提",
+        "basis": "ASR 上下文所指对象为“NPD 的妈妈”，依指代关系校正。",
+        "confidence": "high"
+      },
+      {
+        "asr_text": "我得正努力",
+        "corrected_text": "我得努力",
+        "basis": "“正”在该句中构成明显 ASR 冗余，结合上下文删除。",
+        "confidence": "high"
+      },
+      {
+        "asr_text": "要结论叫叫投毒",
+        "corrected_text": "叫投毒",
+        "basis": "依据前后文反复出现的“投毒”概念，删除明显 ASR 重复与错入词。",
+        "confidence": "high"
+      },
+      {
+        "asr_text": "I like to teach the world to same thing with me I to and keep it company. I to the world and I like to buy the and company.the real thing",
+        "corrected_text": "I'd like to teach the world to sing with me. I'd like to hold it in my arms and keep it company. I'd like to buy the world a Coke and keep it company. It's the real thing.",
+        "basis": "视频文案明确指向 1971 年 Coca-Cola Hilltop 广告；ASR 中可辨认出 teach the world、sing、keep it company、buy the world、the real thing 等连续歌词片段，据此校正可恢复部分。",
+        "confidence": "medium"
+      },
+      {
+        "asr_text": "cocacola",
+        "corrected_text": "Coca-Cola",
+        "basis": "视频文案明确提到 Coke Cola Hilltop，且上下文持续讨论可口可乐品牌。",
+        "confidence": "high"
+      },
+      {
+        "asr_text": "然后出街，为什么呢",
+        "corrected_text": "然后扑街。为什么呢",
+        "basis": "后文明确说“这个广告扑街的原因”，结合论证关系可确定此处为“扑街”。",
+        "confidence": "high"
+      },
+      {
+        "asr_text": "typei",
+        "corrected_text": "Pepsi",
+        "basis": "视频文案明确提到 2016 年 Pepsi Kendall Jenner 广告，且上下文主语为百事。",
+        "confidence": "high"
+      },
+      {
+        "asr_text": "pendogenner / tendo / kindle",
+        "corrected_text": "Kendall Jenner / Kendall / Kendall",
+        "basis": "视频文案明确写有“2016年 Pepsi Kendall Jenner”，结合多处近音 ASR 表达统一校正。",
+        "confidence": "high"
+      },
+      {
+        "asr_text": "peps",
+        "corrected_text": "Pepsi",
+        "basis": "上下文明确讨论百事可乐，视频文案也使用 Pepsi 品牌名。",
+        "confidence": "high"
+      },
+      {
+        "asr_text": "内抹差了",
+        "corrected_text": "给抹杀了",
+        "basis": "依据句意“把读者主动思考的过程……”及近音关系校正。",
+        "confidence": "medium"
+      },
+      {
+        "asr_text": "网络公司应该被fire",
+        "corrected_text": "广告公司应该被 fire",
+        "basis": "上下文评价的是该广告的制作与创意，结合“广告公司”的固定表达校正。",
+        "confidence": "medium"
+      },
+      {
+        "asr_text": "能扶得下去",
+        "corrected_text": "能服得下去",
+        "basis": "上下文使用“投毒、服毒、毒药”的连续比喻，应为“服下去”。",
+        "confidence": "high"
+      }
+    ],
+    "uncertainties": [
+      {
+        "asr_text": "脱牙里面特别常见的一类题型",
+        "issue": "“脱牙”疑为考试类别简称的 ASR 误识，但仅凭输入不能确定具体说法。",
+        "possible_reading": "托雅"
+      },
+      {
+        "asr_text": "I like to teach the world to same thing with me I to and keep it company. I to the world and I like to buy the and company.the real thing",
+        "issue": "音乐歌词受背景音和英文识别影响严重；校订仅依据可辨认片段及视频文案所指广告恢复，具体演唱行文可能并不完整。",
+        "possible_reading": "I'd like to teach the world to sing with me. I'd like to hold it in my arms and keep it company. I'd like to buy the world a Coke and keep it company. It's the real thing."
+      },
+      {
+        "asr_text": "proian加那个pendogenner",
+        "issue": "后半可由视频文案确定为 Kendall Jenner，但前半“proian加那个”无法可靠恢复，可能包含身份描述或语气性连接词。",
+        "possible_reading": "……Kendall Jenner"
+      },
+      {
+        "asr_text": "做警察只是我的。工作我也跟你一样，我也珍惜黑人的生命",
+        "issue": "断句能够恢复，但“珍惜黑人的生命”是否为作者原本所用的精确措辞，缺少更清晰音频证据。",
+        "possible_reading": null
+      }
+    ],
+    "knowledge": {
+      "thesis": "作者认为，高阶论证和品牌传播可以通过暗示让受众自行推导结论；这种做法像“投毒”，关键是让受众推导出预期结论，同时受众也应警惕被暗示操控。",
+      "viewpoints": [
+        "作者把 imply 理解为作者进行暗示，把 infer 理解为读者进行推测。",
+        "作者认为，由读者自己产生的结论更容易被读者接受。",
+        "作者认为品牌不应直接宣称自己是什么样的品牌，而应设计信息，让用户自行得出正确结论。",
+        "作者认为可口可乐 Hilltop 广告成功建立了和平、快乐、美好与品牌之间的联系。",
+        "作者认为百事 Kendall Jenner 广告失败，是因为广告直接替观众完成了结论，抹杀了主动推测过程。",
+        "作者提醒受众，当别人通过暗示引导自己得出结论时，应追问对方为何要让自己得出该结论。"
+      ],
+      "arguments": [
+        {
+          "claim": "暗示能让听者自行生成比明说更强的结论。",
+          "support": "“你看人家的孩子”没有明说结论，但孩子可能自行推测出“妈妈不爱我”“妈妈不想要我”等结论。",
+          "source": "both"
+        },
+        {
+          "claim": "让受众自行推测有利于品牌结论被接受。",
+          "support": "作者以七十年代可口可乐广告为例，认为广告用和平、快乐、美好的氛围让观众自行把这些感受与 Coca-Cola 联系起来。",
+          "source": "both"
+        },
+        {
+          "claim": "直接替受众说出结论可能引发反感。",
+          "support": "作者以 2016 年 Pepsi Kendall Jenner 广告为反例，认为 Kendall 把百事递给警察的动作直接表达“喝百事就和平”，抹杀了观众 infer 的过程。",
+          "source": "both"
+        },
+        {
+          "claim": "百事广告可以通过细节调整保留观众的推断空间。",
+          "support": "作者设想让警察下班后从警车中拿出一瓶 Pepsi，以表达警察也期待和平、珍惜黑人生命。",
+          "source": "spoken"
+        },
+        {
+          "claim": "品牌暗示必须保证受众能够接受并推导出正确方向。",
+          "support": "作者总结品牌要“投毒”，但必须确保“投对”，且对方能够“服得下去”。",
+          "source": "spoken"
+        }
+      ],
+      "examples": [
+        "NPD 妈妈说“你看人家的孩子”，让孩子自行推导负面结论。",
+        "1971 年 Coca-Cola Hilltop 广告借和平、快乐和美好氛围建立品牌联想。",
+        "2016 年 Pepsi Kendall Jenner 广告用递饮料给警察的动作处理种族冲突与和平主题。",
+        "作者设想将百事广告改为警察下班后从警车中拿出 Pepsi。"
+      ],
+      "references": [
+        "三段论",
+        "归纳与演绎",
+        "1971 年 Coca-Cola Hilltop 广告",
+        "越战",
+        "2016 年 Pepsi Kendall Jenner 广告",
+        "美国黑人与警察之间的种族冲突"
+      ],
+      "terms": [
+        {
+          "term": "imply",
+          "contextual_meaning": "作者发出暗示、引导受众得出结论的动作，被作者比作“投毒”。"
+        },
+        {
+          "term": "infer",
+          "contextual_meaning": "读者或观众根据暗示自行推测并形成结论的过程，被作者比作“服毒”或“找解药”。"
+        },
+        {
+          "term": "三段论",
+          "contextual_meaning": "作者用大前提、小前提和未明说的结论分析“别人家的孩子”话术。"
+        },
+        {
+          "term": "投毒",
+          "contextual_meaning": "作者对传播者通过暗示植入推理方向的比喻性称呼。"
+        },
+        {
+          "term": "服毒",
+          "contextual_meaning": "受众接受暗示并自行推导出传播者希望其形成的结论。"
+        },
+        {
+          "term": "正相关的联系",
+          "contextual_meaning": "观众将和平、快乐、美好等感受与可口可乐品牌关联起来。"
+        }
+      ],
+      "book_topics": [
+        "论证中的暗示与推断",
+        "三段论、归纳与演绎",
+        "品牌传播中的间接表达",
+        "广告如何引导受众形成品牌联想",
+        "暗示的识别与反操控"
+      ]
+    }
+  },
+  "completed_at": "2026-08-28T12:31:37+08:00"
+}

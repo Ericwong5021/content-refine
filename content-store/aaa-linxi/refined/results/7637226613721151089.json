@@ -1,0 +1,240 @@
+{
+  "pipeline_schema_version": 1,
+  "aweme_id": "7637226613721151089",
+  "url": "https://www.douyin.com/video/7637226613721151089",
+  "status": "COMPLETED",
+  "source_result_path": "data/AAA麟西/local-asr/results/7637226613721151089.json",
+  "source_asr_sha256": "909d08769fb9de94d3bca0083d1c4731c75eb010425518ccd5371ccc94d22315",
+  "prompt_sha256": "a2f7b5340cba435b37fae7463667e88ecf06f94bc6974b81458eacb756ab6066",
+  "codex": {
+    "cli_version": "codex-cli 0.149.1",
+    "model": "configured-default",
+    "elapsed_sec": 123.2,
+    "event_count": 18,
+    "turn_count": 1,
+    "usage": {
+      "input_tokens": 24202,
+      "cached_input_tokens": 0,
+      "cache_write_input_tokens": 0,
+      "output_tokens": 3557,
+      "reasoning_output_tokens": 200
+    },
+    "event_path": "codex-events/7637226613721151089.jsonl",
+    "stderr": "2026-08-28T04:21:52.733999Z ERROR codex_api::endpoint::responses_websocket: failed to connect to websocket: IO error: tls handshake eof, url: wss://chatgpt.com/backend-api/codex/responses\n2026-08-28T04:22:00.712490Z ERROR codex_api::endpoint::responses_websocket: failed to connect to websocket: IO error: tls handshake eof, url: wss://chatgpt.com/backend-api/codex/responses\n2026-08-28T04:22:06.921785Z ERROR codex_api::endpoint::responses_websocket: failed to connect to websocket: IO error: tls handshake eof, url: wss://chatgpt.com/backend-api/codex/responses\n2026-08-28T04:22:13.055225Z ERROR codex_api::endpoint::responses_websocket: failed to connect to websocket: IO error: tls handshake eof, url: wss://chatgpt.com/backend-api/codex/responses\n2026-08-28T04:22:19.583165Z ERROR codex_api::endpoint::responses_websocket: failed to connect to websocket: IO error: tls handshake eof, url: wss://chatgpt.com/backend-api/codex/responses\n2026-08-28T04:22:26.906015Z ERROR codex_api::endpoint::responses_websocket: failed to connect to websocket: IO error: tls handshake eof, url: wss://chatgpt.com/backend-api/codex/responses\n2026-08-28T04:22:35.795475Z ERROR codex_api::endpoint::responses_websocket: failed to connect to websocket: IO error: tls handshake eof, url: wss://chatgpt.com/backend-api/codex/responses"
+  },
+  "refinement": {
+    "schema_version": 1,
+    "aweme_id": "7637226613721151089",
+    "language": "zh-CN",
+    "corrected_transcript": "价格与质量的关系\n\n呃，我的观点就是，价格完完全全是一个心理因素啊，它跟质量是没有一毛钱关系的。但是很多工厂，包括昨天就有评论直接说，中国人要物美价廉。\n\n首先，在国外，“物美价廉”“性价比高”这两个词是没有办法翻译成英语的。如果你知道怎么翻译，你教我一下，我确实想了半天。因为在他们认知里，价格高就是质量高，价格低就是质量差，这是一个正相关的，它永远不可能负相关。所以你就不要想着“我要做物美价廉”，这就是搞笑。\n\n这就是为什么老外总觉得中国的东西质量差呀，Made in China质量差呀。你说你差吗？不差。那你为什么定这么低的价格呢？你定这么低的价格，在人家认知里面就是质量差。\n\n爱马仕与香奈儿\n\n我举两个例子吧。比如说爱马仕，爱马仕跟香奈儿，它两个都属于高端市场，就是它的品牌定位都是高端的。为啥它俩定价不一样呢？是因为爱马仕想要的就是最最最顶尖的那些人。就这些人认为，一个包四万、五万美金，不管是多少钱，“我就配这个，我配这个我才买这个”。\n\n但是香奈儿卖的是往下一层级的，它一个包可能就便宜一些，吸引更多一些的人。它们都是奢侈品，但是它想吸引的就是……香奈儿品牌是稍微低一层的。\n\n所以同理，一个中国工厂，不管你是卖什么东西，你吸引什么人决定了什么价格，而不是你的质量如何决定了价格。那你说香奈儿跟爱马仕有区别吗？那为啥它俩定价不一样呢？对吧？\n\niPhone进入中国时的定价\n\n第二个例子就是苹果。大家都知道，苹果在2010年iPhone 4进入中国的时候，有的人去割肾买这个苹果，是不是就给人感觉，啊，苹果好贵呀，一定是很贵，它值得一个肾。其实完完全全是错误的。\n\n因为我从iPhone 3就开始用啊。我当时iPhone 4出来，定了4999这个价位，我是震惊的，因为太便宜了。它这个定价绝对是特别失误的。它4999的价格是怎么来的？是它美金好像是699，它直接乘以7，换了人民币的汇率，然后就成了人民币。\n\n为什么这个价位是错的呢？因为当时诺基亚也是四千多，一个诺基亚的N97、N95五千多。可是你这是个智能手机啊，你智能手机就比那种破手机贵了五百块人民币。\n\n所以当时iPhone 4一出来，门口才排长龙啊，每家店门口排长龙，对不对？就是因为它太便宜了。而且当时iPhone 1、2、3在中国是没有卖的。我那个iPhone 3是怎么买的呢？是你要去香港代购的，而且那时还没有代购，我还得是好朋友啊，带是掌握同心海保办。所以你看我的朋友谁去香港了，他得帮我买一个，我可能说原价给他，对不对？人家跑一趟。\n\n所以，iPhone 1、2、3在国内，有的人真实到手一个是一两万人民币，特别贵。所以iPhone 4进来之后，我们之前用1、2、3的人都震惊了：“这他妈在搞笑吧？”就是，就等于，哎，就是你本来iPhone是定位高端人群的，你直接定个中端的价位啊。\n\n所以iPhone从5往后在做一件事儿，就是他们也很厉害，他们也做到了，就是慢慢慢慢在拉大人民币和美金之间的差距。华为就从它身上学到了呀。华为就很聪明，华为的高端机有两万的，甚至可能有两万多的。它直接就意识到了iPhone的定价是错的。\n\n定价取决于想吸引谁\n\n所以说，这个定价完全是看你想吸引谁，它跟你真实的价格没有关系。但是由于这个小孩去卖肾，很多人以为iPhone是很贵的。其实不是的。当时假设iPhone定价是两万人民币，这个小孩仍然会去卖肾，因为在这个小孩的心里，他已经给iPhone定了价格，它绝对是高于4999。\n\n所以价格它就是一个心理因素。所以你现在做跨境电商也好，你要是定低价，你想吸引的就是很穷的；你要是定中端的，你吸引的就是工薪，就是中产；你要想定价高一些，你吸引的就是有钱的。就兜里有钱的人看到一个东西很便宜，他的第一反应是怀疑。\n\n所以定价跟质量没有任何关系，工厂要先记住这个。",
+    "sections": [
+      {
+        "heading": "价格与质量的关系",
+        "summary": "作者认为价格主要是心理因素，并主张低价会让海外消费者联想到低质量。"
+      },
+      {
+        "heading": "爱马仕与香奈儿",
+        "summary": "作者用两个奢侈品牌的不同定价说明，目标客群会影响价格。"
+      },
+      {
+        "heading": "iPhone进入中国时的定价",
+        "summary": "作者结合个人经历，认为iPhone 4在中国的首发价格相对于其高端定位偏低。"
+      },
+      {
+        "heading": "定价取决于想吸引谁",
+        "summary": "作者总结，低端、中端和高端定价分别吸引不同消费群体。"
+      }
+    ],
+    "corrections": [
+      {
+        "asr_text": "m chin质量差",
+        "corrected_text": "Made in China质量差",
+        "basis": "视频主题讨论中国商品在海外的质量印象；结合ASR上下文可确定为常见英文短语“Made in China”。",
+        "confidence": "high"
+      },
+      {
+        "asr_text": "因为在他们认知里",
+        "corrected_text": "因为在他们认知里",
+        "basis": "保留原始口语表达，不作书面化改写。",
+        "confidence": "high"
+      },
+      {
+        "asr_text": "那你说相当来跟爱马仕有区别吗",
+        "corrected_text": "那你说香奈儿跟爱马仕有区别吗",
+        "basis": "前后文持续比较爱马仕和香奈儿，“相当来”是“香奈儿”的近音误识别。",
+        "confidence": "high"
+      },
+      {
+        "asr_text": "10年iphone four",
+        "corrected_text": "2010年iPhone 4",
+        "basis": "ASR上下文明确指年份和机型，英文数字词规范为对应专名。",
+        "confidence": "high"
+      },
+      {
+        "asr_text": "去歌肾买这个苹果",
+        "corrected_text": "去割肾买这个苹果",
+        "basis": "后文多次提到“小孩去卖肾”，可确认“歌肾”为“割肾”的同音误识别。",
+        "confidence": "high"
+      },
+      {
+        "asr_text": "它这个定价绝对是特别实误的",
+        "corrected_text": "它这个定价绝对是特别失误的",
+        "basis": "ASR上下文评价定价错误，“实误”应为“失误”。",
+        "confidence": "high"
+      },
+      {
+        "asr_text": "它499价价格是怎么来的",
+        "corrected_text": "它4999的价格是怎么来的",
+        "basis": "前句明确出现“4999这个价位”，后文也再次比较“4999”，可确定数字缺失。",
+        "confidence": "high"
+      },
+      {
+        "asr_text": "N97N95000多",
+        "corrected_text": "N97、N95五千多",
+        "basis": "ASR上下文列举诺基亚机型及价格；按中文数字发音和断句恢复。",
+        "confidence": "medium"
+      },
+      {
+        "asr_text": "美茶店门排长龙",
+        "corrected_text": "每家店门口排长龙",
+        "basis": "上下文描述iPhone 4上市后各门店排队，“美茶店”不合语义，近音可恢复为“每家店”。",
+        "confidence": "medium"
+      },
+      {
+        "asr_text": "国内是没有买的",
+        "corrected_text": "在中国是没有卖的",
+        "basis": "上下文说明早期iPhone在中国没有正式销售，且下一句转入如何购买，“买”应为近音“卖”。",
+        "confidence": "high"
+      },
+      {
+        "asr_text": "定个终端的价位",
+        "corrected_text": "定个中端的价位",
+        "basis": "上下文对比“高端人群”和较低价位，且后文明确使用“中端”。",
+        "confidence": "high"
+      },
+      {
+        "asr_text": "你吸引的就是工资，就是中产",
+        "corrected_text": "你吸引的就是工薪，就是中产",
+        "basis": "上下文按消费能力划分客群，“工资”与“中产”不构成同类人群，“工薪”符合语义和近音关系。",
+        "confidence": "high"
+      },
+      {
+        "asr_text": "绝对是超于高于49998",
+        "corrected_text": "绝对是高于4999",
+        "basis": "前文反复明确iPhone 4价格为4999；“超于高于”属于明显ASR重复，“49998”多出尾数。",
+        "confidence": "medium"
+      }
+    ],
+    "uncertainties": [
+      {
+        "asr_text": "但是他想吸引的就是真爱马仕品是稍微低一层的",
+        "issue": "句中品牌指代和语序严重混乱，只能依据前文判断作者意在说明香奈儿的目标层级稍低，无法可靠恢复完整原话。",
+        "possible_reading": "但是它想吸引的就是……香奈儿品牌是稍微低一层的。"
+      },
+      {
+        "asr_text": "而且他时还没有代购，我还得是好朋友，啊带是掌握同心海保办",
+        "issue": "后半句存在连续严重误识别，缺乏足够上下文恢复；校订稿保留最接近的ASR表达。",
+        "possible_reading": null
+      },
+      {
+        "asr_text": "它美金好像是699",
+        "issue": "“699”可清楚辨认，但作者具体指裸机价格、合约价格或其他价格口径无法仅凭口播确定。",
+        "possible_reading": "它美金好像是699。"
+      },
+      {
+        "asr_text": "它绝对是超于高于49998",
+        "issue": "可依据上下文恢复核心意思为“高于4999”，但被误识别部分是否包含“远远”等程度词无法确定。",
+        "possible_reading": "它绝对是高于4999。"
+      }
+    ],
+    "knowledge": {
+      "thesis": "作者明确主张，价格是心理因素，产品定价应由品牌想吸引的目标人群决定，而不应由质量或成本直接决定。",
+      "viewpoints": [
+        "作者认为“物美价廉”和“性价比高”难以直接翻译成英语，并借此表达海外消费者更容易把价格与质量正向关联。",
+        "作者认为中国工厂把价格定得过低，会强化海外消费者对中国商品质量差的印象。",
+        "作者认为爱马仕与香奈儿的价格差异来自其想吸引的消费人群层级不同。",
+        "作者认为iPhone 4进入中国时的4999元定价相对于其高端定位过低。",
+        "作者认为低价、中端价和高价会分别吸引较穷、工薪或中产、以及有钱的消费者。",
+        "作者认为有钱人看到过于便宜的商品时，第一反应可能是怀疑。"
+      ],
+      "arguments": [
+        {
+          "claim": "低价会被部分海外消费者理解为质量差。",
+          "support": "作者以“Made in China质量差”的印象为例，反问中国商品如果质量不差，为何要定很低的价格。",
+          "source": "spoken"
+        },
+        {
+          "claim": "目标客群决定价格。",
+          "support": "作者比较爱马仕与香奈儿，称两者都是奢侈品，但想吸引的消费者层级不同，因此定价不同。",
+          "source": "spoken"
+        },
+        {
+          "claim": "iPhone 4在中国的定价偏低。",
+          "support": "作者称当时诺基亚部分机型已在四五千元价位，而iPhone 4作为智能手机仅定价4999元，并以门店排长队及早期iPhone到手价较高作为例子。",
+          "source": "spoken"
+        },
+        {
+          "claim": "消费者心中会预先形成产品价值判断。",
+          "support": "作者以“卖肾买iPhone”的事件为例，认为即使当时iPhone定价两万元，当事人仍可能购买，因为其心中已给iPhone设定了高于4999元的价值。",
+          "source": "spoken"
+        },
+        {
+          "claim": "视频采用价值导向的定价视角。",
+          "support": "视频文案明确将本视频方法称为value-based pricing，并与cost-plus pricing相区分；该术语未在口播中直接出现。",
+          "source": "description"
+        }
+      ],
+      "examples": [
+        "爱马仕与香奈儿的品牌定位及定价差异",
+        "iPhone 4于2010年进入中国时的4999元定价",
+        "诺基亚N97、N95当时处于四五千元价位",
+        "早期iPhone需要从香港购买及国内实际到手价较高",
+        "华为高端机的高价策略",
+        "消费者卖肾购买iPhone的事件"
+      ],
+      "references": [
+        "作者口播笼统提及iPhone、诺基亚、爱马仕、香奈儿和华为的定价案例。",
+        "视频文案称内容取自商科课本中Pricing章节，并提及value-based pricing与cost-plus pricing，但未给出具体书名。"
+      ],
+      "terms": [
+        {
+          "term": "价格",
+          "contextual_meaning": "作者将其视为消费者心理认知和目标客群定位的体现。"
+        },
+        {
+          "term": "物美价廉",
+          "contextual_meaning": "作者认为这一观念不适用于其所描述的海外价格认知逻辑。"
+        },
+        {
+          "term": "性价比高",
+          "contextual_meaning": "作者将其与“物美价廉”并列，认为难以直接翻译和套用于海外市场。"
+        },
+        {
+          "term": "Made in China",
+          "contextual_meaning": "作者用来指海外消费者对中国制造商品的质量印象。"
+        },
+        {
+          "term": "品牌定位",
+          "contextual_meaning": "品牌希望吸引的消费群体层级及相应价格位置。"
+        },
+        {
+          "term": "value-based pricing",
+          "contextual_meaning": "视频文案所称的价值导向定价，即依据顾客感知价值进行定价。"
+        },
+        {
+          "term": "cost-plus pricing",
+          "contextual_meaning": "视频文案提及的另一类定价方式，即成本加成定价。"
+        }
+      ],
+      "book_topics": [
+        "定价策略",
+        "价值导向定价",
+        "成本加成定价",
+        "品牌定位",
+        "消费者心理",
+        "品牌出海"
+      ]
+    }
+  },
+  "completed_at": "2026-08-28T12:23:43+08:00"
+}

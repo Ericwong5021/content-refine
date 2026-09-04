@@ -1,0 +1,6113 @@
+{
+  "schema_version": 1,
+  "generated_at": "2026-08-28T13:08:01+08:00",
+  "document_count": 82,
+  "field_count": 678,
+  "fields": [
+    {
+      "path": "aweme_detail",
+      "present_documents": 82,
+      "non_null_documents": 80,
+      "non_empty_documents": 80,
+      "types": [
+        "null",
+        "object"
+      ]
+    },
+    {
+      "path": "aweme_detail.activity_video_type",
+      "present_documents": 80,
+      "non_null_documents": 80,
+      "non_empty_documents": 80,
+      "types": [
+        "integer"
+      ]
+    },
+    {
+      "path": "aweme_detail.ad_aweme_source",
+      "present_documents": 6,
+      "non_null_documents": 6,
+      "non_empty_documents": 6,
+      "types": [
+        "integer"
+      ]
+    },
+    {
+      "path": "aweme_detail.anchors",
+      "present_documents": 80,
+      "non_null_documents": 0,
+      "non_empty_documents": 0,
+      "types": [
+        "null"
+      ]
+    },
+    {
+      "path": "aweme_detail.authentication_token",
+      "present_documents": 80,
+      "non_null_documents": 80,
+      "non_empty_documents": 80,
+      "types": [
+        "string"
+      ]
+    },
+    {
+      "path": "aweme_detail.author",
+      "present_documents": 80,
+      "non_null_documents": 80,
+      "non_empty_documents": 80,
+      "types": [
+        "object"
+      ]
+    },
+    {
+      "path": "aweme_detail.author.account_cert_info",
+      "present_documents": 80,
+      "non_null_documents": 80,
+      "non_empty_documents": 80,
+      "types": [
+        "string"
+      ]
+    },
+    {
+      "path": "aweme_detail.author.avatar_thumb",
+      "present_documents": 80,
+      "non_null_documents": 80,
+      "non_empty_documents": 80,
+      "types": [
+        "object"
+      ]
+    },
+    {
+      "path": "aweme_detail.author.avatar_thumb.height",
+      "present_documents": 80,
+      "non_null_documents": 80,
+      "non_empty_documents": 80,
+      "types": [
+        "integer"
+      ]
+    },
+    {
+      "path": "aweme_detail.author.avatar_thumb.uri",
+      "present_documents": 80,
+      "non_null_documents": 80,
+      "non_empty_documents": 80,
+      "types": [
+        "string"
+      ]
+    },
+    {
+      "path": "aweme_detail.author.avatar_thumb.url_list",
+      "present_documents": 80,
+      "non_null_documents": 80,
+      "non_empty_documents": 80,
+      "types": [
+        "array"
+      ]
+    },
+    {
+      "path": "aweme_detail.author.avatar_thumb.url_list[]",
+      "present_documents": 80,
+      "non_null_documents": 80,
+      "non_empty_documents": 80,
+      "types": [
+        "string"
+      ]
+    },
+    {
+      "path": "aweme_detail.author.avatar_thumb.width",
+      "present_documents": 80,
+      "non_null_documents": 80,
+      "non_empty_documents": 80,
+      "types": [
+        "integer"
+      ]
+    },
+    {
+      "path": "aweme_detail.author.awemehts_greet_info",
+      "present_documents": 80,
+      "non_null_documents": 80,
+      "non_empty_documents": 0,
+      "types": [
+        "string"
+      ]
+    },
+    {
+      "path": "aweme_detail.author.cf_list",
+      "present_documents": 80,
+      "non_null_documents": 0,
+      "non_empty_documents": 0,
+      "types": [
+        "null"
+      ]
+    },
+    {
+      "path": "aweme_detail.author.close_friend_type",
+      "present_documents": 80,
+      "non_null_documents": 80,
+      "non_empty_documents": 80,
+      "types": [
+        "integer"
+      ]
+    },
+    {
+      "path": "aweme_detail.author.contacts_status",
+      "present_documents": 80,
+      "non_null_documents": 80,
+      "non_empty_documents": 80,
+      "types": [
+        "integer"
+      ]
+    },
+    {
+      "path": "aweme_detail.author.contrail_list",
+      "present_documents": 80,
+      "non_null_documents": 0,
+      "non_empty_documents": 0,
+      "types": [
+        "null"
+      ]
+    },
+    {
+      "path": "aweme_detail.author.cover_url",
+      "present_documents": 80,
+      "non_null_documents": 80,
+      "non_empty_documents": 80,
+      "types": [
+        "array"
+      ]
+    },
+    {
+      "path": "aweme_detail.author.cover_url[]",
+      "present_documents": 80,
+      "non_null_documents": 80,
+      "non_empty_documents": 80,
+      "types": [
+        "object"
+      ]
+    },
+    {
+      "path": "aweme_detail.author.cover_url[].height",
+      "present_documents": 80,
+      "non_null_documents": 80,
+      "non_empty_documents": 80,
+      "types": [
+        "integer"
+      ]
+    },
+    {
+      "path": "aweme_detail.author.cover_url[].uri",
+      "present_documents": 80,
+      "non_null_documents": 80,
+      "non_empty_documents": 80,
+      "types": [
+        "string"
+      ]
+    },
+    {
+      "path": "aweme_detail.author.cover_url[].url_list",
+      "present_documents": 80,
+      "non_null_documents": 80,
+      "non_empty_documents": 80,
+      "types": [
+        "array"
+      ]
+    },
+    {
+      "path": "aweme_detail.author.cover_url[].url_list[]",
+      "present_documents": 80,
+      "non_null_documents": 80,
+      "non_empty_documents": 80,
+      "types": [
+        "string"
+      ]
+    },
+    {
+      "path": "aweme_detail.author.cover_url[].width",
+      "present_documents": 80,
+      "non_null_documents": 80,
+      "non_empty_documents": 80,
+      "types": [
+        "integer"
+      ]
+    },
+    {
+      "path": "aweme_detail.author.create_time",
+      "present_documents": 80,
+      "non_null_documents": 80,
+      "non_empty_documents": 80,
+      "types": [
+        "integer"
+      ]
+    },
+    {
+      "path": "aweme_detail.author.custom_verify",
+      "present_documents": 80,
+      "non_null_documents": 80,
+      "non_empty_documents": 0,
+      "types": [
+        "string"
+      ]
+    },
+    {
+      "path": "aweme_detail.author.data_label_list",
+      "present_documents": 80,
+      "non_null_documents": 0,
+      "non_empty_documents": 0,
+      "types": [
+        "null"
+      ]
+    },
+    {
+      "path": "aweme_detail.author.endorsement_info_list",
+      "present_documents": 80,
+      "non_null_documents": 0,
+      "non_empty_documents": 0,
+      "types": [
+        "null"
+      ]
+    },
+    {
+      "path": "aweme_detail.author.enterprise_verify_reason",
+      "present_documents": 80,
+      "non_null_documents": 80,
+      "non_empty_documents": 0,
+      "types": [
+        "string"
+      ]
+    },
+    {
+      "path": "aweme_detail.author.favoriting_count",
+      "present_documents": 80,
+      "non_null_documents": 80,
+      "non_empty_documents": 80,
+      "types": [
+        "integer"
+      ]
+    },
+    {
+      "path": "aweme_detail.author.follow_status",
+      "present_documents": 80,
+      "non_null_documents": 80,
+      "non_empty_documents": 80,
+      "types": [
+        "integer"
+      ]
+    },
+    {
+      "path": "aweme_detail.author.follower_count",
+      "present_documents": 80,
+      "non_null_documents": 80,
+      "non_empty_documents": 80,
+      "types": [
+        "integer"
+      ]
+    },
+    {
+      "path": "aweme_detail.author.follower_list_secondary_information_struct",
+      "present_documents": 80,
+      "non_null_documents": 0,
+      "non_empty_documents": 0,
+      "types": [
+        "null"
+      ]
+    },
+    {
+      "path": "aweme_detail.author.follower_status",
+      "present_documents": 80,
+      "non_null_documents": 80,
+      "non_empty_documents": 80,
+      "types": [
+        "integer"
+      ]
+    },
+    {
+      "path": "aweme_detail.author.following_count",
+      "present_documents": 80,
+      "non_null_documents": 80,
+      "non_empty_documents": 80,
+      "types": [
+        "integer"
+      ]
+    },
+    {
+      "path": "aweme_detail.author.hide_others_recommend_interest",
+      "present_documents": 80,
+      "non_null_documents": 80,
+      "non_empty_documents": 80,
+      "types": [
+        "integer"
+      ]
+    },
+    {
+      "path": "aweme_detail.author.hide_self_recommend_interest",
+      "present_documents": 80,
+      "non_null_documents": 80,
+      "non_empty_documents": 80,
+      "types": [
+        "integer"
+      ]
+    },
+    {
+      "path": "aweme_detail.author.im_role_ids",
+      "present_documents": 80,
+      "non_null_documents": 0,
+      "non_empty_documents": 0,
+      "types": [
+        "null"
+      ]
+    },
+    {
+      "path": "aweme_detail.author.is_ad_fake",
+      "present_documents": 80,
+      "non_null_documents": 80,
+      "non_empty_documents": 80,
+      "types": [
+        "boolean"
+      ]
+    },
+    {
+      "path": "aweme_detail.author.is_blocked_v2",
+      "present_documents": 80,
+      "non_null_documents": 80,
+      "non_empty_documents": 80,
+      "types": [
+        "boolean"
+      ]
+    },
+    {
+      "path": "aweme_detail.author.is_blocking_v2",
+      "present_documents": 80,
+      "non_null_documents": 80,
+      "non_empty_documents": 80,
+      "types": [
+        "boolean"
+      ]
+    },
+    {
+      "path": "aweme_detail.author.is_cf",
+      "present_documents": 80,
+      "non_null_documents": 80,
+      "non_empty_documents": 80,
+      "types": [
+        "integer"
+      ]
+    },
+    {
+      "path": "aweme_detail.author.live_high_value",
+      "present_documents": 80,
+      "non_null_documents": 80,
+      "non_empty_documents": 80,
+      "types": [
+        "integer"
+      ]
+    },
+    {
+      "path": "aweme_detail.author.mate_add_permission",
+      "present_documents": 80,
+      "non_null_documents": 80,
+      "non_empty_documents": 80,
+      "types": [
+        "integer"
+      ]
+    },
+    {
+      "path": "aweme_detail.author.max_follower_count",
+      "present_documents": 80,
+      "non_null_documents": 80,
+      "non_empty_documents": 80,
+      "types": [
+        "integer"
+      ]
+    },
+    {
+      "path": "aweme_detail.author.nickname",
+      "present_documents": 80,
+      "non_null_documents": 80,
+      "non_empty_documents": 80,
+      "types": [
+        "string"
+      ]
+    },
+    {
+      "path": "aweme_detail.author.offline_info_list",
+      "present_documents": 80,
+      "non_null_documents": 0,
+      "non_empty_documents": 0,
+      "types": [
+        "null"
+      ]
+    },
+    {
+      "path": "aweme_detail.author.personal_tag_list",
+      "present_documents": 80,
+      "non_null_documents": 0,
+      "non_empty_documents": 0,
+      "types": [
+        "null"
+      ]
+    },
+    {
+      "path": "aweme_detail.author.prevent_download",
+      "present_documents": 80,
+      "non_null_documents": 80,
+      "non_empty_documents": 80,
+      "types": [
+        "boolean"
+      ]
+    },
+    {
+      "path": "aweme_detail.author.risk_notice_text",
+      "present_documents": 80,
+      "non_null_documents": 80,
+      "non_empty_documents": 0,
+      "types": [
+        "string"
+      ]
+    },
+    {
+      "path": "aweme_detail.author.sec_uid",
+      "present_documents": 80,
+      "non_null_documents": 80,
+      "non_empty_documents": 80,
+      "types": [
+        "string"
+      ]
+    },
+    {
+      "path": "aweme_detail.author.secret",
+      "present_documents": 80,
+      "non_null_documents": 80,
+      "non_empty_documents": 80,
+      "types": [
+        "integer"
+      ]
+    },
+    {
+      "path": "aweme_detail.author.share_info",
+      "present_documents": 80,
+      "non_null_documents": 80,
+      "non_empty_documents": 80,
+      "types": [
+        "object"
+      ]
+    },
+    {
+      "path": "aweme_detail.author.share_info.share_desc",
+      "present_documents": 80,
+      "non_null_documents": 80,
+      "non_empty_documents": 0,
+      "types": [
+        "string"
+      ]
+    },
+    {
+      "path": "aweme_detail.author.share_info.share_desc_info",
+      "present_documents": 80,
+      "non_null_documents": 80,
+      "non_empty_documents": 0,
+      "types": [
+        "string"
+      ]
+    },
+    {
+      "path": "aweme_detail.author.share_info.share_qrcode_url",
+      "present_documents": 80,
+      "non_null_documents": 80,
+      "non_empty_documents": 80,
+      "types": [
+        "object"
+      ]
+    },
+    {
+      "path": "aweme_detail.author.share_info.share_qrcode_url.height",
+      "present_documents": 80,
+      "non_null_documents": 80,
+      "non_empty_documents": 80,
+      "types": [
+        "integer"
+      ]
+    },
+    {
+      "path": "aweme_detail.author.share_info.share_qrcode_url.uri",
+      "present_documents": 80,
+      "non_null_documents": 80,
+      "non_empty_documents": 0,
+      "types": [
+        "string"
+      ]
+    },
+    {
+      "path": "aweme_detail.author.share_info.share_qrcode_url.url_list",
+      "present_documents": 80,
+      "non_null_documents": 80,
+      "non_empty_documents": 0,
+      "types": [
+        "array"
+      ]
+    },
+    {
+      "path": "aweme_detail.author.share_info.share_qrcode_url.width",
+      "present_documents": 80,
+      "non_null_documents": 80,
+      "non_empty_documents": 80,
+      "types": [
+        "integer"
+      ]
+    },
+    {
+      "path": "aweme_detail.author.share_info.share_title",
+      "present_documents": 80,
+      "non_null_documents": 80,
+      "non_empty_documents": 0,
+      "types": [
+        "string"
+      ]
+    },
+    {
+      "path": "aweme_detail.author.share_info.share_title_myself",
+      "present_documents": 80,
+      "non_null_documents": 80,
+      "non_empty_documents": 0,
+      "types": [
+        "string"
+      ]
+    },
+    {
+      "path": "aweme_detail.author.share_info.share_title_other",
+      "present_documents": 80,
+      "non_null_documents": 80,
+      "non_empty_documents": 0,
+      "types": [
+        "string"
+      ]
+    },
+    {
+      "path": "aweme_detail.author.share_info.share_url",
+      "present_documents": 80,
+      "non_null_documents": 80,
+      "non_empty_documents": 0,
+      "types": [
+        "string"
+      ]
+    },
+    {
+      "path": "aweme_detail.author.share_info.share_weibo_desc",
+      "present_documents": 80,
+      "non_null_documents": 80,
+      "non_empty_documents": 0,
+      "types": [
+        "string"
+      ]
+    },
+    {
+      "path": "aweme_detail.author.short_id",
+      "present_documents": 80,
+      "non_null_documents": 80,
+      "non_empty_documents": 80,
+      "types": [
+        "string"
+      ]
+    },
+    {
+      "path": "aweme_detail.author.signature",
+      "present_documents": 80,
+      "non_null_documents": 80,
+      "non_empty_documents": 80,
+      "types": [
+        "string"
+      ]
+    },
+    {
+      "path": "aweme_detail.author.signature_extra",
+      "present_documents": 80,
+      "non_null_documents": 0,
+      "non_empty_documents": 0,
+      "types": [
+        "null"
+      ]
+    },
+    {
+      "path": "aweme_detail.author.special_follow_status",
+      "present_documents": 80,
+      "non_null_documents": 80,
+      "non_empty_documents": 80,
+      "types": [
+        "integer"
+      ]
+    },
+    {
+      "path": "aweme_detail.author.special_people_labels",
+      "present_documents": 80,
+      "non_null_documents": 0,
+      "non_empty_documents": 0,
+      "types": [
+        "null"
+      ]
+    },
+    {
+      "path": "aweme_detail.author.status",
+      "present_documents": 80,
+      "non_null_documents": 80,
+      "non_empty_documents": 80,
+      "types": [
+        "integer"
+      ]
+    },
+    {
+      "path": "aweme_detail.author.story25_comment",
+      "present_documents": 80,
+      "non_null_documents": 80,
+      "non_empty_documents": 80,
+      "types": [
+        "integer"
+      ]
+    },
+    {
+      "path": "aweme_detail.author.story_interactive",
+      "present_documents": 80,
+      "non_null_documents": 80,
+      "non_empty_documents": 80,
+      "types": [
+        "integer"
+      ]
+    },
+    {
+      "path": "aweme_detail.author.story_ttl",
+      "present_documents": 80,
+      "non_null_documents": 80,
+      "non_empty_documents": 80,
+      "types": [
+        "integer"
+      ]
+    },
+    {
+      "path": "aweme_detail.author.text_extra",
+      "present_documents": 80,
+      "non_null_documents": 0,
+      "non_empty_documents": 0,
+      "types": [
+        "null"
+      ]
+    },
+    {
+      "path": "aweme_detail.author.total_favorited",
+      "present_documents": 80,
+      "non_null_documents": 80,
+      "non_empty_documents": 80,
+      "types": [
+        "integer"
+      ]
+    },
+    {
+      "path": "aweme_detail.author.uid",
+      "present_documents": 80,
+      "non_null_documents": 80,
+      "non_empty_documents": 80,
+      "types": [
+        "string"
+      ]
+    },
+    {
+      "path": "aweme_detail.author.unique_id",
+      "present_documents": 80,
+      "non_null_documents": 80,
+      "non_empty_documents": 80,
+      "types": [
+        "string"
+      ]
+    },
+    {
+      "path": "aweme_detail.author.user_age",
+      "present_documents": 80,
+      "non_null_documents": 80,
+      "non_empty_documents": 80,
+      "types": [
+        "integer"
+      ]
+    },
+    {
+      "path": "aweme_detail.author.user_canceled",
+      "present_documents": 80,
+      "non_null_documents": 80,
+      "non_empty_documents": 80,
+      "types": [
+        "boolean"
+      ]
+    },
+    {
+      "path": "aweme_detail.author.user_permissions",
+      "present_documents": 80,
+      "non_null_documents": 0,
+      "non_empty_documents": 0,
+      "types": [
+        "null"
+      ]
+    },
+    {
+      "path": "aweme_detail.author.verification_type",
+      "present_documents": 80,
+      "non_null_documents": 80,
+      "non_empty_documents": 80,
+      "types": [
+        "integer"
+      ]
+    },
+    {
+      "path": "aweme_detail.author_mask_tag",
+      "present_documents": 80,
+      "non_null_documents": 80,
+      "non_empty_documents": 80,
+      "types": [
+        "integer"
+      ]
+    },
+    {
+      "path": "aweme_detail.author_user_id",
+      "present_documents": 80,
+      "non_null_documents": 80,
+      "non_empty_documents": 80,
+      "types": [
+        "integer"
+      ]
+    },
+    {
+      "path": "aweme_detail.aweme_control",
+      "present_documents": 80,
+      "non_null_documents": 80,
+      "non_empty_documents": 80,
+      "types": [
+        "object"
+      ]
+    },
+    {
+      "path": "aweme_detail.aweme_control.can_comment",
+      "present_documents": 80,
+      "non_null_documents": 80,
+      "non_empty_documents": 80,
+      "types": [
+        "boolean"
+      ]
+    },
+    {
+      "path": "aweme_detail.aweme_control.can_forward",
+      "present_documents": 80,
+      "non_null_documents": 80,
+      "non_empty_documents": 80,
+      "types": [
+        "boolean"
+      ]
+    },
+    {
+      "path": "aweme_detail.aweme_control.can_share",
+      "present_documents": 80,
+      "non_null_documents": 80,
+      "non_empty_documents": 80,
+      "types": [
+        "boolean"
+      ]
+    },
+    {
+      "path": "aweme_detail.aweme_control.can_show_comment",
+      "present_documents": 80,
+      "non_null_documents": 80,
+      "non_empty_documents": 80,
+      "types": [
+        "boolean"
+      ]
+    },
+    {
+      "path": "aweme_detail.aweme_id",
+      "present_documents": 80,
+      "non_null_documents": 80,
+      "non_empty_documents": 80,
+      "types": [
+        "string"
+      ]
+    },
+    {
+      "path": "aweme_detail.aweme_listen_struct",
+      "present_documents": 80,
+      "non_null_documents": 80,
+      "non_empty_documents": 80,
+      "types": [
+        "object"
+      ]
+    },
+    {
+      "path": "aweme_detail.aweme_listen_struct.trace_info",
+      "present_documents": 80,
+      "non_null_documents": 80,
+      "non_empty_documents": 80,
+      "types": [
+        "string"
+      ]
+    },
+    {
+      "path": "aweme_detail.aweme_type",
+      "present_documents": 80,
+      "non_null_documents": 80,
+      "non_empty_documents": 80,
+      "types": [
+        "integer"
+      ]
+    },
+    {
+      "path": "aweme_detail.aweme_type_tags",
+      "present_documents": 80,
+      "non_null_documents": 80,
+      "non_empty_documents": 0,
+      "types": [
+        "string"
+      ]
+    },
+    {
+      "path": "aweme_detail.boost_status",
+      "present_documents": 80,
+      "non_null_documents": 80,
+      "non_empty_documents": 80,
+      "types": [
+        "integer"
+      ]
+    },
+    {
+      "path": "aweme_detail.can_be_oc_cover",
+      "present_documents": 80,
+      "non_null_documents": 80,
+      "non_empty_documents": 80,
+      "types": [
+        "boolean"
+      ]
+    },
+    {
+      "path": "aweme_detail.can_cache_to_local",
+      "present_documents": 80,
+      "non_null_documents": 80,
+      "non_empty_documents": 80,
+      "types": [
+        "boolean"
+      ]
+    },
+    {
+      "path": "aweme_detail.caption",
+      "present_documents": 80,
+      "non_null_documents": 80,
+      "non_empty_documents": 77,
+      "types": [
+        "string"
+      ]
+    },
+    {
+      "path": "aweme_detail.cf_assets_type",
+      "present_documents": 80,
+      "non_null_documents": 80,
+      "non_empty_documents": 80,
+      "types": [
+        "integer"
+      ]
+    },
+    {
+      "path": "aweme_detail.cf_recheck_ts",
+      "present_documents": 80,
+      "non_null_documents": 80,
+      "non_empty_documents": 80,
+      "types": [
+        "integer"
+      ]
+    },
+    {
+      "path": "aweme_detail.challenge_position",
+      "present_documents": 80,
+      "non_null_documents": 0,
+      "non_empty_documents": 0,
+      "types": [
+        "null"
+      ]
+    },
+    {
+      "path": "aweme_detail.chapter_list",
+      "present_documents": 80,
+      "non_null_documents": 0,
+      "non_empty_documents": 0,
+      "types": [
+        "null"
+      ]
+    },
+    {
+      "path": "aweme_detail.collect_stat",
+      "present_documents": 80,
+      "non_null_documents": 80,
+      "non_empty_documents": 80,
+      "types": [
+        "integer"
+      ]
+    },
+    {
+      "path": "aweme_detail.collection_corner_mark",
+      "present_documents": 80,
+      "non_null_documents": 80,
+      "non_empty_documents": 80,
+      "types": [
+        "integer"
+      ]
+    },
+    {
+      "path": "aweme_detail.comment_gid",
+      "present_documents": 80,
+      "non_null_documents": 80,
+      "non_empty_documents": 80,
+      "types": [
+        "integer"
+      ]
+    },
+    {
+      "path": "aweme_detail.comment_list",
+      "present_documents": 80,
+      "non_null_documents": 0,
+      "non_empty_documents": 0,
+      "types": [
+        "null"
+      ]
+    },
+    {
+      "path": "aweme_detail.comment_permission_info",
+      "present_documents": 80,
+      "non_null_documents": 80,
+      "non_empty_documents": 80,
+      "types": [
+        "object"
+      ]
+    },
+    {
+      "path": "aweme_detail.comment_permission_info.can_comment",
+      "present_documents": 80,
+      "non_null_documents": 80,
+      "non_empty_documents": 80,
+      "types": [
+        "boolean"
+      ]
+    },
+    {
+      "path": "aweme_detail.comment_permission_info.comment_permission_status",
+      "present_documents": 80,
+      "non_null_documents": 80,
+      "non_empty_documents": 80,
+      "types": [
+        "integer"
+      ]
+    },
+    {
+      "path": "aweme_detail.comment_permission_info.item_detail_entry",
+      "present_documents": 80,
+      "non_null_documents": 80,
+      "non_empty_documents": 80,
+      "types": [
+        "boolean"
+      ]
+    },
+    {
+      "path": "aweme_detail.comment_permission_info.press_entry",
+      "present_documents": 80,
+      "non_null_documents": 80,
+      "non_empty_documents": 80,
+      "types": [
+        "boolean"
+      ]
+    },
+    {
+      "path": "aweme_detail.comment_permission_info.toast_guide",
+      "present_documents": 80,
+      "non_null_documents": 80,
+      "non_empty_documents": 80,
+      "types": [
+        "boolean"
+      ]
+    },
+    {
+      "path": "aweme_detail.commerce_config_data",
+      "present_documents": 80,
+      "non_null_documents": 0,
+      "non_empty_documents": 0,
+      "types": [
+        "null"
+      ]
+    },
+    {
+      "path": "aweme_detail.component_control",
+      "present_documents": 80,
+      "non_null_documents": 80,
+      "non_empty_documents": 80,
+      "types": [
+        "object"
+      ]
+    },
+    {
+      "path": "aweme_detail.component_control.data_source_url",
+      "present_documents": 80,
+      "non_null_documents": 80,
+      "non_empty_documents": 80,
+      "types": [
+        "string"
+      ]
+    },
+    {
+      "path": "aweme_detail.component_info_v2",
+      "present_documents": 80,
+      "non_null_documents": 80,
+      "non_empty_documents": 80,
+      "types": [
+        "string"
+      ]
+    },
+    {
+      "path": "aweme_detail.cover_labels",
+      "present_documents": 80,
+      "non_null_documents": 0,
+      "non_empty_documents": 0,
+      "types": [
+        "null"
+      ]
+    },
+    {
+      "path": "aweme_detail.create_time",
+      "present_documents": 80,
+      "non_null_documents": 80,
+      "non_empty_documents": 80,
+      "types": [
+        "integer"
+      ]
+    },
+    {
+      "path": "aweme_detail.desc",
+      "present_documents": 80,
+      "non_null_documents": 80,
+      "non_empty_documents": 80,
+      "types": [
+        "string"
+      ]
+    },
+    {
+      "path": "aweme_detail.disable_relation_bar",
+      "present_documents": 80,
+      "non_null_documents": 80,
+      "non_empty_documents": 80,
+      "types": [
+        "integer"
+      ]
+    },
+    {
+      "path": "aweme_detail.dislike_dimension_list",
+      "present_documents": 80,
+      "non_null_documents": 0,
+      "non_empty_documents": 0,
+      "types": [
+        "null"
+      ]
+    },
+    {
+      "path": "aweme_detail.dislike_dimension_list_v2",
+      "present_documents": 80,
+      "non_null_documents": 0,
+      "non_empty_documents": 0,
+      "types": [
+        "null"
+      ]
+    },
+    {
+      "path": "aweme_detail.diversion_bar_info",
+      "present_documents": 80,
+      "non_null_documents": 80,
+      "non_empty_documents": 0,
+      "types": [
+        "array"
+      ]
+    },
+    {
+      "path": "aweme_detail.douplus_user_type",
+      "present_documents": 80,
+      "non_null_documents": 80,
+      "non_empty_documents": 80,
+      "types": [
+        "integer"
+      ]
+    },
+    {
+      "path": "aweme_detail.douyin_p_c_video_extra",
+      "present_documents": 35,
+      "non_null_documents": 35,
+      "non_empty_documents": 35,
+      "types": [
+        "string"
+      ]
+    },
+    {
+      "path": "aweme_detail.douyin_pc_video_extra_seo",
+      "present_documents": 80,
+      "non_null_documents": 80,
+      "non_empty_documents": 0,
+      "types": [
+        "string"
+      ]
+    },
+    {
+      "path": "aweme_detail.duet_aggregate_in_music_tab",
+      "present_documents": 80,
+      "non_null_documents": 80,
+      "non_empty_documents": 80,
+      "types": [
+        "boolean"
+      ]
+    },
+    {
+      "path": "aweme_detail.duration",
+      "present_documents": 80,
+      "non_null_documents": 80,
+      "non_empty_documents": 80,
+      "types": [
+        "integer"
+      ]
+    },
+    {
+      "path": "aweme_detail.ecom_comment_atmosphere_type",
+      "present_documents": 80,
+      "non_null_documents": 80,
+      "non_empty_documents": 80,
+      "types": [
+        "integer"
+      ]
+    },
+    {
+      "path": "aweme_detail.enable_comment_sticker_rec",
+      "present_documents": 80,
+      "non_null_documents": 80,
+      "non_empty_documents": 80,
+      "types": [
+        "boolean"
+      ]
+    },
+    {
+      "path": "aweme_detail.enable_decorated_emoji",
+      "present_documents": 80,
+      "non_null_documents": 80,
+      "non_empty_documents": 80,
+      "types": [
+        "boolean"
+      ]
+    },
+    {
+      "path": "aweme_detail.ent_log_extra",
+      "present_documents": 80,
+      "non_null_documents": 80,
+      "non_empty_documents": 80,
+      "types": [
+        "object"
+      ]
+    },
+    {
+      "path": "aweme_detail.ent_log_extra.log_extra",
+      "present_documents": 80,
+      "non_null_documents": 80,
+      "non_empty_documents": 80,
+      "types": [
+        "string"
+      ]
+    },
+    {
+      "path": "aweme_detail.entertainment_product_info",
+      "present_documents": 80,
+      "non_null_documents": 80,
+      "non_empty_documents": 80,
+      "types": [
+        "object"
+      ]
+    },
+    {
+      "path": "aweme_detail.entertainment_product_info.market_info",
+      "present_documents": 80,
+      "non_null_documents": 80,
+      "non_empty_documents": 80,
+      "types": [
+        "object"
+      ]
+    },
+    {
+      "path": "aweme_detail.entertainment_product_info.market_info.limit_free",
+      "present_documents": 80,
+      "non_null_documents": 80,
+      "non_empty_documents": 80,
+      "types": [
+        "object"
+      ]
+    },
+    {
+      "path": "aweme_detail.entertainment_product_info.market_info.limit_free.in_free",
+      "present_documents": 80,
+      "non_null_documents": 80,
+      "non_empty_documents": 80,
+      "types": [
+        "boolean"
+      ]
+    },
+    {
+      "path": "aweme_detail.entertainment_recommend_info",
+      "present_documents": 80,
+      "non_null_documents": 80,
+      "non_empty_documents": 80,
+      "types": [
+        "string"
+      ]
+    },
+    {
+      "path": "aweme_detail.entertainment_video_paid_way",
+      "present_documents": 80,
+      "non_null_documents": 80,
+      "non_empty_documents": 80,
+      "types": [
+        "object"
+      ]
+    },
+    {
+      "path": "aweme_detail.entertainment_video_paid_way.enable_use_new_ent_data",
+      "present_documents": 80,
+      "non_null_documents": 80,
+      "non_empty_documents": 80,
+      "types": [
+        "boolean"
+      ]
+    },
+    {
+      "path": "aweme_detail.entertainment_video_paid_way.paid_type",
+      "present_documents": 80,
+      "non_null_documents": 80,
+      "non_empty_documents": 80,
+      "types": [
+        "integer"
+      ]
+    },
+    {
+      "path": "aweme_detail.entertainment_video_paid_way.paid_ways",
+      "present_documents": 80,
+      "non_null_documents": 80,
+      "non_empty_documents": 0,
+      "types": [
+        "array"
+      ]
+    },
+    {
+      "path": "aweme_detail.entertainment_video_type",
+      "present_documents": 80,
+      "non_null_documents": 80,
+      "non_empty_documents": 80,
+      "types": [
+        "integer"
+      ]
+    },
+    {
+      "path": "aweme_detail.fall_card_struct",
+      "present_documents": 80,
+      "non_null_documents": 80,
+      "non_empty_documents": 80,
+      "types": [
+        "object"
+      ]
+    },
+    {
+      "path": "aweme_detail.fall_card_struct.recommend_reason_v2",
+      "present_documents": 80,
+      "non_null_documents": 80,
+      "non_empty_documents": 80,
+      "types": [
+        "string"
+      ]
+    },
+    {
+      "path": "aweme_detail.feed_comment_config",
+      "present_documents": 80,
+      "non_null_documents": 80,
+      "non_empty_documents": 80,
+      "types": [
+        "object"
+      ]
+    },
+    {
+      "path": "aweme_detail.feed_comment_config.audio_comment_permission",
+      "present_documents": 80,
+      "non_null_documents": 80,
+      "non_empty_documents": 80,
+      "types": [
+        "integer"
+      ]
+    },
+    {
+      "path": "aweme_detail.feed_comment_config.author_audit_status",
+      "present_documents": 80,
+      "non_null_documents": 80,
+      "non_empty_documents": 80,
+      "types": [
+        "integer"
+      ]
+    },
+    {
+      "path": "aweme_detail.feed_comment_config.common_comment_permission",
+      "present_documents": 80,
+      "non_null_documents": 80,
+      "non_empty_documents": 80,
+      "types": [
+        "integer"
+      ]
+    },
+    {
+      "path": "aweme_detail.feed_comment_config.common_flags",
+      "present_documents": 80,
+      "non_null_documents": 80,
+      "non_empty_documents": 80,
+      "types": [
+        "string"
+      ]
+    },
+    {
+      "path": "aweme_detail.feed_comment_config.double_publish",
+      "present_documents": 21,
+      "non_null_documents": 21,
+      "non_empty_documents": 21,
+      "types": [
+        "integer"
+      ]
+    },
+    {
+      "path": "aweme_detail.feed_comment_config.double_publish_limit",
+      "present_documents": 80,
+      "non_null_documents": 80,
+      "non_empty_documents": 80,
+      "types": [
+        "integer"
+      ]
+    },
+    {
+      "path": "aweme_detail.feed_comment_config.input_config_text",
+      "present_documents": 80,
+      "non_null_documents": 80,
+      "non_empty_documents": 80,
+      "types": [
+        "string"
+      ]
+    },
+    {
+      "path": "aweme_detail.feed_comment_config.input_config_text_type",
+      "present_documents": 80,
+      "non_null_documents": 80,
+      "non_empty_documents": 80,
+      "types": [
+        "string"
+      ]
+    },
+    {
+      "path": "aweme_detail.flash_mob_trends",
+      "present_documents": 80,
+      "non_null_documents": 80,
+      "non_empty_documents": 80,
+      "types": [
+        "integer"
+      ]
+    },
+    {
+      "path": "aweme_detail.follow_shoot_clip_info",
+      "present_documents": 80,
+      "non_null_documents": 80,
+      "non_empty_documents": 80,
+      "types": [
+        "object"
+      ]
+    },
+    {
+      "path": "aweme_detail.follow_shoot_clip_info.clip_from_user",
+      "present_documents": 80,
+      "non_null_documents": 80,
+      "non_empty_documents": 80,
+      "types": [
+        "integer"
+      ]
+    },
+    {
+      "path": "aweme_detail.follow_shoot_clip_info.clip_video_all",
+      "present_documents": 80,
+      "non_null_documents": 80,
+      "non_empty_documents": 80,
+      "types": [
+        "integer"
+      ]
+    },
+    {
+      "path": "aweme_detail.follow_shoot_property",
+      "present_documents": 80,
+      "non_null_documents": 80,
+      "non_empty_documents": 80,
+      "types": [
+        "object"
+      ]
+    },
+    {
+      "path": "aweme_detail.follow_shoot_property.recommended_camera_mode",
+      "present_documents": 80,
+      "non_null_documents": 80,
+      "non_empty_documents": 80,
+      "types": [
+        "string"
+      ]
+    },
+    {
+      "path": "aweme_detail.friend_recommend_info",
+      "present_documents": 80,
+      "non_null_documents": 80,
+      "non_empty_documents": 80,
+      "types": [
+        "object"
+      ]
+    },
+    {
+      "path": "aweme_detail.friend_recommend_info.disable_friend_recommend_guide_label",
+      "present_documents": 80,
+      "non_null_documents": 80,
+      "non_empty_documents": 80,
+      "types": [
+        "boolean"
+      ]
+    },
+    {
+      "path": "aweme_detail.friend_recommend_info.friend_recommend_source",
+      "present_documents": 80,
+      "non_null_documents": 80,
+      "non_empty_documents": 80,
+      "types": [
+        "integer"
+      ]
+    },
+    {
+      "path": "aweme_detail.game_tag_info",
+      "present_documents": 80,
+      "non_null_documents": 80,
+      "non_empty_documents": 80,
+      "types": [
+        "object"
+      ]
+    },
+    {
+      "path": "aweme_detail.game_tag_info.is_game",
+      "present_documents": 80,
+      "non_null_documents": 80,
+      "non_empty_documents": 80,
+      "types": [
+        "boolean"
+      ]
+    },
+    {
+      "path": "aweme_detail.geofencing",
+      "present_documents": 80,
+      "non_null_documents": 80,
+      "non_empty_documents": 0,
+      "types": [
+        "array"
+      ]
+    },
+    {
+      "path": "aweme_detail.geofencing_regions",
+      "present_documents": 80,
+      "non_null_documents": 0,
+      "non_empty_documents": 0,
+      "types": [
+        "null"
+      ]
+    },
+    {
+      "path": "aweme_detail.group_id",
+      "present_documents": 80,
+      "non_null_documents": 80,
+      "non_empty_documents": 80,
+      "types": [
+        "string"
+      ]
+    },
+    {
+      "path": "aweme_detail.guide_scene_info",
+      "present_documents": 80,
+      "non_null_documents": 80,
+      "non_empty_documents": 0,
+      "types": [
+        "object"
+      ]
+    },
+    {
+      "path": "aweme_detail.hybrid_label",
+      "present_documents": 80,
+      "non_null_documents": 0,
+      "non_empty_documents": 0,
+      "types": [
+        "null"
+      ]
+    },
+    {
+      "path": "aweme_detail.image_album_music_info",
+      "present_documents": 80,
+      "non_null_documents": 80,
+      "non_empty_documents": 80,
+      "types": [
+        "object"
+      ]
+    },
+    {
+      "path": "aweme_detail.image_album_music_info.begin_time",
+      "present_documents": 80,
+      "non_null_documents": 80,
+      "non_empty_documents": 80,
+      "types": [
+        "integer"
+      ]
+    },
+    {
+      "path": "aweme_detail.image_album_music_info.end_time",
+      "present_documents": 80,
+      "non_null_documents": 80,
+      "non_empty_documents": 80,
+      "types": [
+        "integer"
+      ]
+    },
+    {
+      "path": "aweme_detail.image_album_music_info.volume",
+      "present_documents": 80,
+      "non_null_documents": 80,
+      "non_empty_documents": 80,
+      "types": [
+        "integer"
+      ]
+    },
+    {
+      "path": "aweme_detail.image_comment",
+      "present_documents": 80,
+      "non_null_documents": 80,
+      "non_empty_documents": 80,
+      "types": [
+        "object"
+      ]
+    },
+    {
+      "path": "aweme_detail.image_comment.comment_highlight_text",
+      "present_documents": 80,
+      "non_null_documents": 80,
+      "non_empty_documents": 0,
+      "types": [
+        "string"
+      ]
+    },
+    {
+      "path": "aweme_detail.image_crop_ctrl",
+      "present_documents": 80,
+      "non_null_documents": 80,
+      "non_empty_documents": 80,
+      "types": [
+        "integer"
+      ]
+    },
+    {
+      "path": "aweme_detail.image_infos",
+      "present_documents": 80,
+      "non_null_documents": 0,
+      "non_empty_documents": 0,
+      "types": [
+        "null"
+      ]
+    },
+    {
+      "path": "aweme_detail.image_list",
+      "present_documents": 80,
+      "non_null_documents": 0,
+      "non_empty_documents": 0,
+      "types": [
+        "null"
+      ]
+    },
+    {
+      "path": "aweme_detail.images",
+      "present_documents": 80,
+      "non_null_documents": 0,
+      "non_empty_documents": 0,
+      "types": [
+        "null"
+      ]
+    },
+    {
+      "path": "aweme_detail.img_bitrate",
+      "present_documents": 80,
+      "non_null_documents": 0,
+      "non_empty_documents": 0,
+      "types": [
+        "null"
+      ]
+    },
+    {
+      "path": "aweme_detail.impression_data",
+      "present_documents": 80,
+      "non_null_documents": 80,
+      "non_empty_documents": 80,
+      "types": [
+        "object"
+      ]
+    },
+    {
+      "path": "aweme_detail.impression_data.group_id_list_a",
+      "present_documents": 80,
+      "non_null_documents": 80,
+      "non_empty_documents": 2,
+      "types": [
+        "array"
+      ]
+    },
+    {
+      "path": "aweme_detail.impression_data.group_id_list_a[]",
+      "present_documents": 2,
+      "non_null_documents": 2,
+      "non_empty_documents": 2,
+      "types": [
+        "integer"
+      ]
+    },
+    {
+      "path": "aweme_detail.impression_data.group_id_list_b",
+      "present_documents": 80,
+      "non_null_documents": 80,
+      "non_empty_documents": 0,
+      "types": [
+        "array"
+      ]
+    },
+    {
+      "path": "aweme_detail.impression_data.group_id_list_c",
+      "present_documents": 80,
+      "non_null_documents": 80,
+      "non_empty_documents": 0,
+      "types": [
+        "array"
+      ]
+    },
+    {
+      "path": "aweme_detail.impression_data.group_id_list_d",
+      "present_documents": 80,
+      "non_null_documents": 80,
+      "non_empty_documents": 2,
+      "types": [
+        "array"
+      ]
+    },
+    {
+      "path": "aweme_detail.impression_data.group_id_list_d[]",
+      "present_documents": 2,
+      "non_null_documents": 2,
+      "non_empty_documents": 2,
+      "types": [
+        "integer"
+      ]
+    },
+    {
+      "path": "aweme_detail.impression_data.similar_id_list_a",
+      "present_documents": 80,
+      "non_null_documents": 0,
+      "non_empty_documents": 0,
+      "types": [
+        "null"
+      ]
+    },
+    {
+      "path": "aweme_detail.impression_data.similar_id_list_b",
+      "present_documents": 80,
+      "non_null_documents": 0,
+      "non_empty_documents": 0,
+      "types": [
+        "null"
+      ]
+    },
+    {
+      "path": "aweme_detail.incentive_item_type",
+      "present_documents": 80,
+      "non_null_documents": 80,
+      "non_empty_documents": 80,
+      "types": [
+        "integer"
+      ]
+    },
+    {
+      "path": "aweme_detail.interaction_stickers",
+      "present_documents": 80,
+      "non_null_documents": 0,
+      "non_empty_documents": 0,
+      "types": [
+        "null"
+      ]
+    },
+    {
+      "path": "aweme_detail.is_24_story",
+      "present_documents": 80,
+      "non_null_documents": 80,
+      "non_empty_documents": 80,
+      "types": [
+        "integer"
+      ]
+    },
+    {
+      "path": "aweme_detail.is_25_story",
+      "present_documents": 80,
+      "non_null_documents": 80,
+      "non_empty_documents": 80,
+      "types": [
+        "integer"
+      ]
+    },
+    {
+      "path": "aweme_detail.is_ads",
+      "present_documents": 80,
+      "non_null_documents": 80,
+      "non_empty_documents": 80,
+      "types": [
+        "boolean"
+      ]
+    },
+    {
+      "path": "aweme_detail.is_aigc_media",
+      "present_documents": 80,
+      "non_null_documents": 80,
+      "non_empty_documents": 80,
+      "types": [
+        "boolean"
+      ]
+    },
+    {
+      "path": "aweme_detail.is_collects_selected",
+      "present_documents": 80,
+      "non_null_documents": 80,
+      "non_empty_documents": 80,
+      "types": [
+        "integer"
+      ]
+    },
+    {
+      "path": "aweme_detail.is_duet_sing",
+      "present_documents": 80,
+      "non_null_documents": 80,
+      "non_empty_documents": 80,
+      "types": [
+        "boolean"
+      ]
+    },
+    {
+      "path": "aweme_detail.is_from_ad_auth",
+      "present_documents": 80,
+      "non_null_documents": 80,
+      "non_empty_documents": 80,
+      "types": [
+        "boolean"
+      ]
+    },
+    {
+      "path": "aweme_detail.is_image_beat",
+      "present_documents": 80,
+      "non_null_documents": 80,
+      "non_empty_documents": 80,
+      "types": [
+        "boolean"
+      ]
+    },
+    {
+      "path": "aweme_detail.is_life_item",
+      "present_documents": 80,
+      "non_null_documents": 80,
+      "non_empty_documents": 80,
+      "types": [
+        "boolean"
+      ]
+    },
+    {
+      "path": "aweme_detail.is_moment_history",
+      "present_documents": 80,
+      "non_null_documents": 80,
+      "non_empty_documents": 80,
+      "types": [
+        "integer"
+      ]
+    },
+    {
+      "path": "aweme_detail.is_moment_story",
+      "present_documents": 80,
+      "non_null_documents": 80,
+      "non_empty_documents": 80,
+      "types": [
+        "integer"
+      ]
+    },
+    {
+      "path": "aweme_detail.is_new_text_mode",
+      "present_documents": 80,
+      "non_null_documents": 80,
+      "non_empty_documents": 80,
+      "types": [
+        "integer"
+      ]
+    },
+    {
+      "path": "aweme_detail.is_share_post",
+      "present_documents": 80,
+      "non_null_documents": 80,
+      "non_empty_documents": 80,
+      "types": [
+        "boolean"
+      ]
+    },
+    {
+      "path": "aweme_detail.is_story",
+      "present_documents": 80,
+      "non_null_documents": 80,
+      "non_empty_documents": 80,
+      "types": [
+        "integer"
+      ]
+    },
+    {
+      "path": "aweme_detail.is_subtitled",
+      "present_documents": 80,
+      "non_null_documents": 80,
+      "non_empty_documents": 80,
+      "types": [
+        "integer"
+      ]
+    },
+    {
+      "path": "aweme_detail.is_top",
+      "present_documents": 80,
+      "non_null_documents": 80,
+      "non_empty_documents": 80,
+      "types": [
+        "integer"
+      ]
+    },
+    {
+      "path": "aweme_detail.is_use_music",
+      "present_documents": 80,
+      "non_null_documents": 80,
+      "non_empty_documents": 80,
+      "types": [
+        "boolean"
+      ]
+    },
+    {
+      "path": "aweme_detail.item_aigc_follow_shot",
+      "present_documents": 80,
+      "non_null_documents": 80,
+      "non_empty_documents": 80,
+      "types": [
+        "integer"
+      ]
+    },
+    {
+      "path": "aweme_detail.item_title",
+      "present_documents": 80,
+      "non_null_documents": 80,
+      "non_empty_documents": 78,
+      "types": [
+        "string"
+      ]
+    },
+    {
+      "path": "aweme_detail.item_warn_notification",
+      "present_documents": 80,
+      "non_null_documents": 80,
+      "non_empty_documents": 80,
+      "types": [
+        "object"
+      ]
+    },
+    {
+      "path": "aweme_detail.item_warn_notification.content",
+      "present_documents": 80,
+      "non_null_documents": 80,
+      "non_empty_documents": 0,
+      "types": [
+        "string"
+      ]
+    },
+    {
+      "path": "aweme_detail.item_warn_notification.show",
+      "present_documents": 80,
+      "non_null_documents": 80,
+      "non_empty_documents": 80,
+      "types": [
+        "boolean"
+      ]
+    },
+    {
+      "path": "aweme_detail.item_warn_notification.type",
+      "present_documents": 80,
+      "non_null_documents": 80,
+      "non_empty_documents": 80,
+      "types": [
+        "integer"
+      ]
+    },
+    {
+      "path": "aweme_detail.label_top_text",
+      "present_documents": 80,
+      "non_null_documents": 0,
+      "non_empty_documents": 0,
+      "types": [
+        "null"
+      ]
+    },
+    {
+      "path": "aweme_detail.libfinsert_task_id",
+      "present_documents": 80,
+      "non_null_documents": 80,
+      "non_empty_documents": 0,
+      "types": [
+        "string"
+      ]
+    },
+    {
+      "path": "aweme_detail.long_video",
+      "present_documents": 80,
+      "non_null_documents": 0,
+      "non_empty_documents": 0,
+      "types": [
+        "null"
+      ]
+    },
+    {
+      "path": "aweme_detail.luna_video_candidate_status",
+      "present_documents": 58,
+      "non_null_documents": 58,
+      "non_empty_documents": 58,
+      "types": [
+        "string"
+      ]
+    },
+    {
+      "path": "aweme_detail.mark_largely_following",
+      "present_documents": 80,
+      "non_null_documents": 80,
+      "non_empty_documents": 80,
+      "types": [
+        "boolean"
+      ]
+    },
+    {
+      "path": "aweme_detail.media_type",
+      "present_documents": 80,
+      "non_null_documents": 80,
+      "non_empty_documents": 80,
+      "types": [
+        "integer"
+      ]
+    },
+    {
+      "path": "aweme_detail.mix_info",
+      "present_documents": 80,
+      "non_null_documents": 80,
+      "non_empty_documents": 80,
+      "types": [
+        "object"
+      ]
+    },
+    {
+      "path": "aweme_detail.mix_info.cover_url",
+      "present_documents": 80,
+      "non_null_documents": 80,
+      "non_empty_documents": 80,
+      "types": [
+        "object"
+      ]
+    },
+    {
+      "path": "aweme_detail.mix_info.cover_url.height",
+      "present_documents": 80,
+      "non_null_documents": 80,
+      "non_empty_documents": 80,
+      "types": [
+        "integer"
+      ]
+    },
+    {
+      "path": "aweme_detail.mix_info.cover_url.uri",
+      "present_documents": 80,
+      "non_null_documents": 80,
+      "non_empty_documents": 80,
+      "types": [
+        "string"
+      ]
+    },
+    {
+      "path": "aweme_detail.mix_info.cover_url.url_list",
+      "present_documents": 80,
+      "non_null_documents": 80,
+      "non_empty_documents": 80,
+      "types": [
+        "array"
+      ]
+    },
+    {
+      "path": "aweme_detail.mix_info.cover_url.url_list[]",
+      "present_documents": 80,
+      "non_null_documents": 80,
+      "non_empty_documents": 80,
+      "types": [
+        "string"
+      ]
+    },
+    {
+      "path": "aweme_detail.mix_info.cover_url.width",
+      "present_documents": 80,
+      "non_null_documents": 80,
+      "non_empty_documents": 80,
+      "types": [
+        "integer"
+      ]
+    },
+    {
+      "path": "aweme_detail.mix_info.create_time",
+      "present_documents": 80,
+      "non_null_documents": 80,
+      "non_empty_documents": 80,
+      "types": [
+        "integer"
+      ]
+    },
+    {
+      "path": "aweme_detail.mix_info.desc",
+      "present_documents": 80,
+      "non_null_documents": 80,
+      "non_empty_documents": 80,
+      "types": [
+        "string"
+      ]
+    },
+    {
+      "path": "aweme_detail.mix_info.enable_ad",
+      "present_documents": 80,
+      "non_null_documents": 80,
+      "non_empty_documents": 80,
+      "types": [
+        "integer"
+      ]
+    },
+    {
+      "path": "aweme_detail.mix_info.extra",
+      "present_documents": 80,
+      "non_null_documents": 80,
+      "non_empty_documents": 80,
+      "types": [
+        "string"
+      ]
+    },
+    {
+      "path": "aweme_detail.mix_info.ids",
+      "present_documents": 80,
+      "non_null_documents": 0,
+      "non_empty_documents": 0,
+      "types": [
+        "null"
+      ]
+    },
+    {
+      "path": "aweme_detail.mix_info.is_iaa",
+      "present_documents": 80,
+      "non_null_documents": 80,
+      "non_empty_documents": 80,
+      "types": [
+        "integer"
+      ]
+    },
+    {
+      "path": "aweme_detail.mix_info.is_serial_mix",
+      "present_documents": 80,
+      "non_null_documents": 80,
+      "non_empty_documents": 80,
+      "types": [
+        "integer"
+      ]
+    },
+    {
+      "path": "aweme_detail.mix_info.mix_id",
+      "present_documents": 80,
+      "non_null_documents": 80,
+      "non_empty_documents": 80,
+      "types": [
+        "string"
+      ]
+    },
+    {
+      "path": "aweme_detail.mix_info.mix_name",
+      "present_documents": 80,
+      "non_null_documents": 80,
+      "non_empty_documents": 80,
+      "types": [
+        "string"
+      ]
+    },
+    {
+      "path": "aweme_detail.mix_info.mix_pic_type",
+      "present_documents": 80,
+      "non_null_documents": 80,
+      "non_empty_documents": 80,
+      "types": [
+        "integer"
+      ]
+    },
+    {
+      "path": "aweme_detail.mix_info.mix_type",
+      "present_documents": 80,
+      "non_null_documents": 80,
+      "non_empty_documents": 80,
+      "types": [
+        "integer"
+      ]
+    },
+    {
+      "path": "aweme_detail.mix_info.share_info",
+      "present_documents": 80,
+      "non_null_documents": 80,
+      "non_empty_documents": 80,
+      "types": [
+        "object"
+      ]
+    },
+    {
+      "path": "aweme_detail.mix_info.share_info.share_desc",
+      "present_documents": 80,
+      "non_null_documents": 80,
+      "non_empty_documents": 80,
+      "types": [
+        "string"
+      ]
+    },
+    {
+      "path": "aweme_detail.mix_info.share_info.share_desc_info",
+      "present_documents": 80,
+      "non_null_documents": 80,
+      "non_empty_documents": 80,
+      "types": [
+        "string"
+      ]
+    },
+    {
+      "path": "aweme_detail.mix_info.share_info.share_title",
+      "present_documents": 80,
+      "non_null_documents": 80,
+      "non_empty_documents": 80,
+      "types": [
+        "string"
+      ]
+    },
+    {
+      "path": "aweme_detail.mix_info.share_info.share_title_myself",
+      "present_documents": 80,
+      "non_null_documents": 80,
+      "non_empty_documents": 0,
+      "types": [
+        "string"
+      ]
+    },
+    {
+      "path": "aweme_detail.mix_info.share_info.share_title_other",
+      "present_documents": 80,
+      "non_null_documents": 80,
+      "non_empty_documents": 0,
+      "types": [
+        "string"
+      ]
+    },
+    {
+      "path": "aweme_detail.mix_info.share_info.share_url",
+      "present_documents": 80,
+      "non_null_documents": 80,
+      "non_empty_documents": 80,
+      "types": [
+        "string"
+      ]
+    },
+    {
+      "path": "aweme_detail.mix_info.share_info.share_weibo_desc",
+      "present_documents": 80,
+      "non_null_documents": 80,
+      "non_empty_documents": 80,
+      "types": [
+        "string"
+      ]
+    },
+    {
+      "path": "aweme_detail.mix_info.statis",
+      "present_documents": 80,
+      "non_null_documents": 80,
+      "non_empty_documents": 80,
+      "types": [
+        "object"
+      ]
+    },
+    {
+      "path": "aweme_detail.mix_info.statis.collect_vv",
+      "present_documents": 80,
+      "non_null_documents": 80,
+      "non_empty_documents": 80,
+      "types": [
+        "integer"
+      ]
+    },
+    {
+      "path": "aweme_detail.mix_info.statis.current_episode",
+      "present_documents": 80,
+      "non_null_documents": 80,
+      "non_empty_documents": 80,
+      "types": [
+        "integer"
+      ]
+    },
+    {
+      "path": "aweme_detail.mix_info.statis.play_vv",
+      "present_documents": 80,
+      "non_null_documents": 80,
+      "non_empty_documents": 80,
+      "types": [
+        "integer"
+      ]
+    },
+    {
+      "path": "aweme_detail.mix_info.statis.updated_to_episode",
+      "present_documents": 80,
+      "non_null_documents": 80,
+      "non_empty_documents": 80,
+      "types": [
+        "integer"
+      ]
+    },
+    {
+      "path": "aweme_detail.mix_info.status",
+      "present_documents": 80,
+      "non_null_documents": 80,
+      "non_empty_documents": 80,
+      "types": [
+        "object"
+      ]
+    },
+    {
+      "path": "aweme_detail.mix_info.status.is_collected",
+      "present_documents": 80,
+      "non_null_documents": 80,
+      "non_empty_documents": 80,
+      "types": [
+        "integer"
+      ]
+    },
+    {
+      "path": "aweme_detail.mix_info.status.status",
+      "present_documents": 80,
+      "non_null_documents": 80,
+      "non_empty_documents": 80,
+      "types": [
+        "integer"
+      ]
+    },
+    {
+      "path": "aweme_detail.mix_info.update_time",
+      "present_documents": 80,
+      "non_null_documents": 80,
+      "non_empty_documents": 80,
+      "types": [
+        "integer"
+      ]
+    },
+    {
+      "path": "aweme_detail.mix_info.watched_item",
+      "present_documents": 80,
+      "non_null_documents": 80,
+      "non_empty_documents": 0,
+      "types": [
+        "string"
+      ]
+    },
+    {
+      "path": "aweme_detail.music",
+      "present_documents": 80,
+      "non_null_documents": 80,
+      "non_empty_documents": 80,
+      "types": [
+        "object"
+      ]
+    },
+    {
+      "path": "aweme_detail.music.album",
+      "present_documents": 80,
+      "non_null_documents": 80,
+      "non_empty_documents": 0,
+      "types": [
+        "string"
+      ]
+    },
+    {
+      "path": "aweme_detail.music.artist_user_infos",
+      "present_documents": 80,
+      "non_null_documents": 0,
+      "non_empty_documents": 0,
+      "types": [
+        "null"
+      ]
+    },
+    {
+      "path": "aweme_detail.music.artists",
+      "present_documents": 80,
+      "non_null_documents": 80,
+      "non_empty_documents": 0,
+      "types": [
+        "array"
+      ]
+    },
+    {
+      "path": "aweme_detail.music.audition_duration",
+      "present_documents": 80,
+      "non_null_documents": 80,
+      "non_empty_documents": 80,
+      "types": [
+        "integer"
+      ]
+    },
+    {
+      "path": "aweme_detail.music.author",
+      "present_documents": 80,
+      "non_null_documents": 80,
+      "non_empty_documents": 80,
+      "types": [
+        "string"
+      ]
+    },
+    {
+      "path": "aweme_detail.music.author_deleted",
+      "present_documents": 80,
+      "non_null_documents": 80,
+      "non_empty_documents": 80,
+      "types": [
+        "boolean"
+      ]
+    },
+    {
+      "path": "aweme_detail.music.author_position",
+      "present_documents": 80,
+      "non_null_documents": 0,
+      "non_empty_documents": 0,
+      "types": [
+        "null"
+      ]
+    },
+    {
+      "path": "aweme_detail.music.author_status",
+      "present_documents": 80,
+      "non_null_documents": 80,
+      "non_empty_documents": 80,
+      "types": [
+        "integer"
+      ]
+    },
+    {
+      "path": "aweme_detail.music.avatar_large",
+      "present_documents": 80,
+      "non_null_documents": 80,
+      "non_empty_documents": 80,
+      "types": [
+        "object"
+      ]
+    },
+    {
+      "path": "aweme_detail.music.avatar_large.height",
+      "present_documents": 80,
+      "non_null_documents": 80,
+      "non_empty_documents": 80,
+      "types": [
+        "integer"
+      ]
+    },
+    {
+      "path": "aweme_detail.music.avatar_large.uri",
+      "present_documents": 80,
+      "non_null_documents": 80,
+      "non_empty_documents": 80,
+      "types": [
+        "string"
+      ]
+    },
+    {
+      "path": "aweme_detail.music.avatar_large.url_list",
+      "present_documents": 80,
+      "non_null_documents": 80,
+      "non_empty_documents": 80,
+      "types": [
+        "array"
+      ]
+    },
+    {
+      "path": "aweme_detail.music.avatar_large.url_list[]",
+      "present_documents": 80,
+      "non_null_documents": 80,
+      "non_empty_documents": 80,
+      "types": [
+        "string"
+      ]
+    },
+    {
+      "path": "aweme_detail.music.avatar_large.width",
+      "present_documents": 80,
+      "non_null_documents": 80,
+      "non_empty_documents": 80,
+      "types": [
+        "integer"
+      ]
+    },
+    {
+      "path": "aweme_detail.music.avatar_medium",
+      "present_documents": 80,
+      "non_null_documents": 80,
+      "non_empty_documents": 80,
+      "types": [
+        "object"
+      ]
+    },
+    {
+      "path": "aweme_detail.music.avatar_medium.height",
+      "present_documents": 80,
+      "non_null_documents": 80,
+      "non_empty_documents": 80,
+      "types": [
+        "integer"
+      ]
+    },
+    {
+      "path": "aweme_detail.music.avatar_medium.uri",
+      "present_documents": 80,
+      "non_null_documents": 80,
+      "non_empty_documents": 80,
+      "types": [
+        "string"
+      ]
+    },
+    {
+      "path": "aweme_detail.music.avatar_medium.url_list",
+      "present_documents": 80,
+      "non_null_documents": 80,
+      "non_empty_documents": 80,
+      "types": [
+        "array"
+      ]
+    },
+    {
+      "path": "aweme_detail.music.avatar_medium.url_list[]",
+      "present_documents": 80,
+      "non_null_documents": 80,
+      "non_empty_documents": 80,
+      "types": [
+        "string"
+      ]
+    },
+    {
+      "path": "aweme_detail.music.avatar_medium.width",
+      "present_documents": 80,
+      "non_null_documents": 80,
+      "non_empty_documents": 80,
+      "types": [
+        "integer"
+      ]
+    },
+    {
+      "path": "aweme_detail.music.avatar_thumb",
+      "present_documents": 80,
+      "non_null_documents": 80,
+      "non_empty_documents": 80,
+      "types": [
+        "object"
+      ]
+    },
+    {
+      "path": "aweme_detail.music.avatar_thumb.height",
+      "present_documents": 80,
+      "non_null_documents": 80,
+      "non_empty_documents": 80,
+      "types": [
+        "integer"
+      ]
+    },
+    {
+      "path": "aweme_detail.music.avatar_thumb.uri",
+      "present_documents": 80,
+      "non_null_documents": 80,
+      "non_empty_documents": 80,
+      "types": [
+        "string"
+      ]
+    },
+    {
+      "path": "aweme_detail.music.avatar_thumb.url_list",
+      "present_documents": 80,
+      "non_null_documents": 80,
+      "non_empty_documents": 80,
+      "types": [
+        "array"
+      ]
+    },
+    {
+      "path": "aweme_detail.music.avatar_thumb.url_list[]",
+      "present_documents": 80,
+      "non_null_documents": 80,
+      "non_empty_documents": 80,
+      "types": [
+        "string"
+      ]
+    },
+    {
+      "path": "aweme_detail.music.avatar_thumb.width",
+      "present_documents": 80,
+      "non_null_documents": 80,
+      "non_empty_documents": 80,
+      "types": [
+        "integer"
+      ]
+    },
+    {
+      "path": "aweme_detail.music.binded_challenge_id",
+      "present_documents": 80,
+      "non_null_documents": 80,
+      "non_empty_documents": 80,
+      "types": [
+        "integer"
+      ]
+    },
+    {
+      "path": "aweme_detail.music.can_background_play",
+      "present_documents": 80,
+      "non_null_documents": 80,
+      "non_empty_documents": 80,
+      "types": [
+        "boolean"
+      ]
+    },
+    {
+      "path": "aweme_detail.music.collect_stat",
+      "present_documents": 80,
+      "non_null_documents": 80,
+      "non_empty_documents": 80,
+      "types": [
+        "integer"
+      ]
+    },
+    {
+      "path": "aweme_detail.music.cover_hd",
+      "present_documents": 80,
+      "non_null_documents": 80,
+      "non_empty_documents": 80,
+      "types": [
+        "object"
+      ]
+    },
+    {
+      "path": "aweme_detail.music.cover_hd.height",
+      "present_documents": 80,
+      "non_null_documents": 80,
+      "non_empty_documents": 80,
+      "types": [
+        "integer"
+      ]
+    },
+    {
+      "path": "aweme_detail.music.cover_hd.uri",
+      "present_documents": 80,
+      "non_null_documents": 80,
+      "non_empty_documents": 80,
+      "types": [
+        "string"
+      ]
+    },
+    {
+      "path": "aweme_detail.music.cover_hd.url_list",
+      "present_documents": 80,
+      "non_null_documents": 80,
+      "non_empty_documents": 80,
+      "types": [
+        "array"
+      ]
+    },
+    {
+      "path": "aweme_detail.music.cover_hd.url_list[]",
+      "present_documents": 80,
+      "non_null_documents": 80,
+      "non_empty_documents": 80,
+      "types": [
+        "string"
+      ]
+    },
+    {
+      "path": "aweme_detail.music.cover_hd.width",
+      "present_documents": 80,
+      "non_null_documents": 80,
+      "non_empty_documents": 80,
+      "types": [
+        "integer"
+      ]
+    },
+    {
+      "path": "aweme_detail.music.cover_large",
+      "present_documents": 80,
+      "non_null_documents": 80,
+      "non_empty_documents": 80,
+      "types": [
+        "object"
+      ]
+    },
+    {
+      "path": "aweme_detail.music.cover_large.height",
+      "present_documents": 80,
+      "non_null_documents": 80,
+      "non_empty_documents": 80,
+      "types": [
+        "integer"
+      ]
+    },
+    {
+      "path": "aweme_detail.music.cover_large.uri",
+      "present_documents": 80,
+      "non_null_documents": 80,
+      "non_empty_documents": 80,
+      "types": [
+        "string"
+      ]
+    },
+    {
+      "path": "aweme_detail.music.cover_large.url_list",
+      "present_documents": 80,
+      "non_null_documents": 80,
+      "non_empty_documents": 80,
+      "types": [
+        "array"
+      ]
+    },
+    {
+      "path": "aweme_detail.music.cover_large.url_list[]",
+      "present_documents": 80,
+      "non_null_documents": 80,
+      "non_empty_documents": 80,
+      "types": [
+        "string"
+      ]
+    },
+    {
+      "path": "aweme_detail.music.cover_large.width",
+      "present_documents": 80,
+      "non_null_documents": 80,
+      "non_empty_documents": 80,
+      "types": [
+        "integer"
+      ]
+    },
+    {
+      "path": "aweme_detail.music.cover_medium",
+      "present_documents": 80,
+      "non_null_documents": 80,
+      "non_empty_documents": 80,
+      "types": [
+        "object"
+      ]
+    },
+    {
+      "path": "aweme_detail.music.cover_medium.height",
+      "present_documents": 80,
+      "non_null_documents": 80,
+      "non_empty_documents": 80,
+      "types": [
+        "integer"
+      ]
+    },
+    {
+      "path": "aweme_detail.music.cover_medium.uri",
+      "present_documents": 80,
+      "non_null_documents": 80,
+      "non_empty_documents": 80,
+      "types": [
+        "string"
+      ]
+    },
+    {
+      "path": "aweme_detail.music.cover_medium.url_list",
+      "present_documents": 80,
+      "non_null_documents": 80,
+      "non_empty_documents": 80,
+      "types": [
+        "array"
+      ]
+    },
+    {
+      "path": "aweme_detail.music.cover_medium.url_list[]",
+      "present_documents": 80,
+      "non_null_documents": 80,
+      "non_empty_documents": 80,
+      "types": [
+        "string"
+      ]
+    },
+    {
+      "path": "aweme_detail.music.cover_medium.width",
+      "present_documents": 80,
+      "non_null_documents": 80,
+      "non_empty_documents": 80,
+      "types": [
+        "integer"
+      ]
+    },
+    {
+      "path": "aweme_detail.music.cover_thumb",
+      "present_documents": 80,
+      "non_null_documents": 80,
+      "non_empty_documents": 80,
+      "types": [
+        "object"
+      ]
+    },
+    {
+      "path": "aweme_detail.music.cover_thumb.height",
+      "present_documents": 80,
+      "non_null_documents": 80,
+      "non_empty_documents": 80,
+      "types": [
+        "integer"
+      ]
+    },
+    {
+      "path": "aweme_detail.music.cover_thumb.uri",
+      "present_documents": 80,
+      "non_null_documents": 80,
+      "non_empty_documents": 80,
+      "types": [
+        "string"
+      ]
+    },
+    {
+      "path": "aweme_detail.music.cover_thumb.url_list",
+      "present_documents": 80,
+      "non_null_documents": 80,
+      "non_empty_documents": 80,
+      "types": [
+        "array"
+      ]
+    },
+    {
+      "path": "aweme_detail.music.cover_thumb.url_list[]",
+      "present_documents": 80,
+      "non_null_documents": 80,
+      "non_empty_documents": 80,
+      "types": [
+        "string"
+      ]
+    },
+    {
+      "path": "aweme_detail.music.cover_thumb.width",
+      "present_documents": 80,
+      "non_null_documents": 80,
+      "non_empty_documents": 80,
+      "types": [
+        "integer"
+      ]
+    },
+    {
+      "path": "aweme_detail.music.dmv_auto_show",
+      "present_documents": 80,
+      "non_null_documents": 80,
+      "non_empty_documents": 80,
+      "types": [
+        "boolean"
+      ]
+    },
+    {
+      "path": "aweme_detail.music.dsp_status",
+      "present_documents": 80,
+      "non_null_documents": 80,
+      "non_empty_documents": 80,
+      "types": [
+        "integer"
+      ]
+    },
+    {
+      "path": "aweme_detail.music.duration",
+      "present_documents": 80,
+      "non_null_documents": 80,
+      "non_empty_documents": 80,
+      "types": [
+        "integer"
+      ]
+    },
+    {
+      "path": "aweme_detail.music.end_time",
+      "present_documents": 80,
+      "non_null_documents": 80,
+      "non_empty_documents": 80,
+      "types": [
+        "integer"
+      ]
+    },
+    {
+      "path": "aweme_detail.music.external_song_info",
+      "present_documents": 80,
+      "non_null_documents": 80,
+      "non_empty_documents": 0,
+      "types": [
+        "array"
+      ]
+    },
+    {
+      "path": "aweme_detail.music.extra",
+      "present_documents": 80,
+      "non_null_documents": 80,
+      "non_empty_documents": 80,
+      "types": [
+        "string"
+      ]
+    },
+    {
+      "path": "aweme_detail.music.id",
+      "present_documents": 80,
+      "non_null_documents": 80,
+      "non_empty_documents": 80,
+      "types": [
+        "integer"
+      ]
+    },
+    {
+      "path": "aweme_detail.music.id_str",
+      "present_documents": 80,
+      "non_null_documents": 80,
+      "non_empty_documents": 80,
+      "types": [
+        "string"
+      ]
+    },
+    {
+      "path": "aweme_detail.music.is_audio_url_with_cookie",
+      "present_documents": 80,
+      "non_null_documents": 80,
+      "non_empty_documents": 80,
+      "types": [
+        "boolean"
+      ]
+    },
+    {
+      "path": "aweme_detail.music.is_commerce_music",
+      "present_documents": 80,
+      "non_null_documents": 80,
+      "non_empty_documents": 80,
+      "types": [
+        "boolean"
+      ]
+    },
+    {
+      "path": "aweme_detail.music.is_del_video",
+      "present_documents": 80,
+      "non_null_documents": 80,
+      "non_empty_documents": 80,
+      "types": [
+        "boolean"
+      ]
+    },
+    {
+      "path": "aweme_detail.music.is_matched_metadata",
+      "present_documents": 80,
+      "non_null_documents": 80,
+      "non_empty_documents": 80,
+      "types": [
+        "boolean"
+      ]
+    },
+    {
+      "path": "aweme_detail.music.is_original",
+      "present_documents": 80,
+      "non_null_documents": 80,
+      "non_empty_documents": 80,
+      "types": [
+        "boolean"
+      ]
+    },
+    {
+      "path": "aweme_detail.music.is_original_sound",
+      "present_documents": 80,
+      "non_null_documents": 80,
+      "non_empty_documents": 80,
+      "types": [
+        "boolean"
+      ]
+    },
+    {
+      "path": "aweme_detail.music.is_pgc",
+      "present_documents": 80,
+      "non_null_documents": 80,
+      "non_empty_documents": 80,
+      "types": [
+        "boolean"
+      ]
+    },
+    {
+      "path": "aweme_detail.music.is_restricted",
+      "present_documents": 80,
+      "non_null_documents": 80,
+      "non_empty_documents": 80,
+      "types": [
+        "boolean"
+      ]
+    },
+    {
+      "path": "aweme_detail.music.is_video_self_see",
+      "present_documents": 80,
+      "non_null_documents": 80,
+      "non_empty_documents": 80,
+      "types": [
+        "boolean"
+      ]
+    },
+    {
+      "path": "aweme_detail.music.lyric_short_position",
+      "present_documents": 80,
+      "non_null_documents": 0,
+      "non_empty_documents": 0,
+      "types": [
+        "null"
+      ]
+    },
+    {
+      "path": "aweme_detail.music.mid",
+      "present_documents": 80,
+      "non_null_documents": 80,
+      "non_empty_documents": 80,
+      "types": [
+        "string"
+      ]
+    },
+    {
+      "path": "aweme_detail.music.music_chart_ranks",
+      "present_documents": 80,
+      "non_null_documents": 0,
+      "non_empty_documents": 0,
+      "types": [
+        "null"
+      ]
+    },
+    {
+      "path": "aweme_detail.music.music_collect_count",
+      "present_documents": 80,
+      "non_null_documents": 80,
+      "non_empty_documents": 80,
+      "types": [
+        "integer"
+      ]
+    },
+    {
+      "path": "aweme_detail.music.music_cover_atmosphere_color_value",
+      "present_documents": 80,
+      "non_null_documents": 80,
+      "non_empty_documents": 0,
+      "types": [
+        "string"
+      ]
+    },
+    {
+      "path": "aweme_detail.music.music_status",
+      "present_documents": 80,
+      "non_null_documents": 80,
+      "non_empty_documents": 80,
+      "types": [
+        "integer"
+      ]
+    },
+    {
+      "path": "aweme_detail.music.musician_user_infos",
+      "present_documents": 80,
+      "non_null_documents": 0,
+      "non_empty_documents": 0,
+      "types": [
+        "null"
+      ]
+    },
+    {
+      "path": "aweme_detail.music.mute_share",
+      "present_documents": 80,
+      "non_null_documents": 80,
+      "non_empty_documents": 80,
+      "types": [
+        "boolean"
+      ]
+    },
+    {
+      "path": "aweme_detail.music.offline_desc",
+      "present_documents": 80,
+      "non_null_documents": 80,
+      "non_empty_documents": 0,
+      "types": [
+        "string"
+      ]
+    },
+    {
+      "path": "aweme_detail.music.owner_handle",
+      "present_documents": 80,
+      "non_null_documents": 80,
+      "non_empty_documents": 80,
+      "types": [
+        "string"
+      ]
+    },
+    {
+      "path": "aweme_detail.music.owner_id",
+      "present_documents": 80,
+      "non_null_documents": 80,
+      "non_empty_documents": 80,
+      "types": [
+        "string"
+      ]
+    },
+    {
+      "path": "aweme_detail.music.owner_nickname",
+      "present_documents": 80,
+      "non_null_documents": 80,
+      "non_empty_documents": 80,
+      "types": [
+        "string"
+      ]
+    },
+    {
+      "path": "aweme_detail.music.pgc_music_type",
+      "present_documents": 80,
+      "non_null_documents": 80,
+      "non_empty_documents": 80,
+      "types": [
+        "integer"
+      ]
+    },
+    {
+      "path": "aweme_detail.music.play_url",
+      "present_documents": 80,
+      "non_null_documents": 80,
+      "non_empty_documents": 80,
+      "types": [
+        "object"
+      ]
+    },
+    {
+      "path": "aweme_detail.music.play_url.height",
+      "present_documents": 80,
+      "non_null_documents": 80,
+      "non_empty_documents": 80,
+      "types": [
+        "integer"
+      ]
+    },
+    {
+      "path": "aweme_detail.music.play_url.uri",
+      "present_documents": 80,
+      "non_null_documents": 80,
+      "non_empty_documents": 80,
+      "types": [
+        "string"
+      ]
+    },
+    {
+      "path": "aweme_detail.music.play_url.url_key",
+      "present_documents": 80,
+      "non_null_documents": 80,
+      "non_empty_documents": 80,
+      "types": [
+        "string"
+      ]
+    },
+    {
+      "path": "aweme_detail.music.play_url.url_list",
+      "present_documents": 80,
+      "non_null_documents": 80,
+      "non_empty_documents": 80,
+      "types": [
+        "array"
+      ]
+    },
+    {
+      "path": "aweme_detail.music.play_url.url_list[]",
+      "present_documents": 80,
+      "non_null_documents": 80,
+      "non_empty_documents": 80,
+      "types": [
+        "string"
+      ]
+    },
+    {
+      "path": "aweme_detail.music.play_url.width",
+      "present_documents": 80,
+      "non_null_documents": 80,
+      "non_empty_documents": 80,
+      "types": [
+        "integer"
+      ]
+    },
+    {
+      "path": "aweme_detail.music.position",
+      "present_documents": 80,
+      "non_null_documents": 0,
+      "non_empty_documents": 0,
+      "types": [
+        "null"
+      ]
+    },
+    {
+      "path": "aweme_detail.music.prevent_download",
+      "present_documents": 80,
+      "non_null_documents": 80,
+      "non_empty_documents": 80,
+      "types": [
+        "boolean"
+      ]
+    },
+    {
+      "path": "aweme_detail.music.prevent_item_download_status",
+      "present_documents": 80,
+      "non_null_documents": 80,
+      "non_empty_documents": 80,
+      "types": [
+        "integer"
+      ]
+    },
+    {
+      "path": "aweme_detail.music.preview_end_time",
+      "present_documents": 80,
+      "non_null_documents": 80,
+      "non_empty_documents": 80,
+      "types": [
+        "integer"
+      ]
+    },
+    {
+      "path": "aweme_detail.music.preview_start_time",
+      "present_documents": 80,
+      "non_null_documents": 80,
+      "non_empty_documents": 80,
+      "types": [
+        "integer"
+      ]
+    },
+    {
+      "path": "aweme_detail.music.reason_type",
+      "present_documents": 80,
+      "non_null_documents": 80,
+      "non_empty_documents": 80,
+      "types": [
+        "integer"
+      ]
+    },
+    {
+      "path": "aweme_detail.music.redirect",
+      "present_documents": 80,
+      "non_null_documents": 80,
+      "non_empty_documents": 80,
+      "types": [
+        "boolean"
+      ]
+    },
+    {
+      "path": "aweme_detail.music.schema_url",
+      "present_documents": 80,
+      "non_null_documents": 80,
+      "non_empty_documents": 0,
+      "types": [
+        "string"
+      ]
+    },
+    {
+      "path": "aweme_detail.music.search_impr",
+      "present_documents": 80,
+      "non_null_documents": 80,
+      "non_empty_documents": 80,
+      "types": [
+        "object"
+      ]
+    },
+    {
+      "path": "aweme_detail.music.search_impr.entity_id",
+      "present_documents": 80,
+      "non_null_documents": 80,
+      "non_empty_documents": 80,
+      "types": [
+        "string"
+      ]
+    },
+    {
+      "path": "aweme_detail.music.sec_uid",
+      "present_documents": 80,
+      "non_null_documents": 80,
+      "non_empty_documents": 80,
+      "types": [
+        "string"
+      ]
+    },
+    {
+      "path": "aweme_detail.music.shoot_duration",
+      "present_documents": 80,
+      "non_null_documents": 80,
+      "non_empty_documents": 80,
+      "types": [
+        "integer"
+      ]
+    },
+    {
+      "path": "aweme_detail.music.show_origin_clip",
+      "present_documents": 80,
+      "non_null_documents": 80,
+      "non_empty_documents": 80,
+      "types": [
+        "boolean"
+      ]
+    },
+    {
+      "path": "aweme_detail.music.source_platform",
+      "present_documents": 80,
+      "non_null_documents": 80,
+      "non_empty_documents": 80,
+      "types": [
+        "integer"
+      ]
+    },
+    {
+      "path": "aweme_detail.music.start_time",
+      "present_documents": 80,
+      "non_null_documents": 80,
+      "non_empty_documents": 80,
+      "types": [
+        "integer"
+      ]
+    },
+    {
+      "path": "aweme_detail.music.status",
+      "present_documents": 80,
+      "non_null_documents": 80,
+      "non_empty_documents": 80,
+      "types": [
+        "integer"
+      ]
+    },
+    {
+      "path": "aweme_detail.music.strong_beat_url",
+      "present_documents": 1,
+      "non_null_documents": 1,
+      "non_empty_documents": 1,
+      "types": [
+        "object"
+      ]
+    },
+    {
+      "path": "aweme_detail.music.strong_beat_url.height",
+      "present_documents": 1,
+      "non_null_documents": 1,
+      "non_empty_documents": 1,
+      "types": [
+        "integer"
+      ]
+    },
+    {
+      "path": "aweme_detail.music.strong_beat_url.uri",
+      "present_documents": 1,
+      "non_null_documents": 1,
+      "non_empty_documents": 1,
+      "types": [
+        "string"
+      ]
+    },
+    {
+      "path": "aweme_detail.music.strong_beat_url.url_list",
+      "present_documents": 1,
+      "non_null_documents": 1,
+      "non_empty_documents": 1,
+      "types": [
+        "array"
+      ]
+    },
+    {
+      "path": "aweme_detail.music.strong_beat_url.url_list[]",
+      "present_documents": 1,
+      "non_null_documents": 1,
+      "non_empty_documents": 1,
+      "types": [
+        "string"
+      ]
+    },
+    {
+      "path": "aweme_detail.music.strong_beat_url.width",
+      "present_documents": 1,
+      "non_null_documents": 1,
+      "non_empty_documents": 1,
+      "types": [
+        "integer"
+      ]
+    },
+    {
+      "path": "aweme_detail.music.tag_list",
+      "present_documents": 80,
+      "non_null_documents": 0,
+      "non_empty_documents": 0,
+      "types": [
+        "null"
+      ]
+    },
+    {
+      "path": "aweme_detail.music.title",
+      "present_documents": 80,
+      "non_null_documents": 80,
+      "non_empty_documents": 80,
+      "types": [
+        "string"
+      ]
+    },
+    {
+      "path": "aweme_detail.music.unshelve_countries",
+      "present_documents": 80,
+      "non_null_documents": 0,
+      "non_empty_documents": 0,
+      "types": [
+        "null"
+      ]
+    },
+    {
+      "path": "aweme_detail.music.user_count",
+      "present_documents": 80,
+      "non_null_documents": 80,
+      "non_empty_documents": 80,
+      "types": [
+        "integer"
+      ]
+    },
+    {
+      "path": "aweme_detail.music.video_duration",
+      "present_documents": 80,
+      "non_null_documents": 80,
+      "non_empty_documents": 80,
+      "types": [
+        "integer"
+      ]
+    },
+    {
+      "path": "aweme_detail.nickname_position",
+      "present_documents": 80,
+      "non_null_documents": 0,
+      "non_empty_documents": 0,
+      "types": [
+        "null"
+      ]
+    },
+    {
+      "path": "aweme_detail.origin_comment_ids",
+      "present_documents": 80,
+      "non_null_documents": 0,
+      "non_empty_documents": 0,
+      "types": [
+        "null"
+      ]
+    },
+    {
+      "path": "aweme_detail.origin_duet_resource_uri",
+      "present_documents": 80,
+      "non_null_documents": 80,
+      "non_empty_documents": 0,
+      "types": [
+        "string"
+      ]
+    },
+    {
+      "path": "aweme_detail.origin_text_extra",
+      "present_documents": 80,
+      "non_null_documents": 80,
+      "non_empty_documents": 0,
+      "types": [
+        "array"
+      ]
+    },
+    {
+      "path": "aweme_detail.original",
+      "present_documents": 80,
+      "non_null_documents": 80,
+      "non_empty_documents": 80,
+      "types": [
+        "integer"
+      ]
+    },
+    {
+      "path": "aweme_detail.original_images",
+      "present_documents": 80,
+      "non_null_documents": 0,
+      "non_empty_documents": 0,
+      "types": [
+        "null"
+      ]
+    },
+    {
+      "path": "aweme_detail.pack_usage_scene_by_req_path",
+      "present_documents": 80,
+      "non_null_documents": 80,
+      "non_empty_documents": 80,
+      "types": [
+        "string"
+      ]
+    },
+    {
+      "path": "aweme_detail.packed_clips",
+      "present_documents": 80,
+      "non_null_documents": 0,
+      "non_empty_documents": 0,
+      "types": [
+        "null"
+      ]
+    },
+    {
+      "path": "aweme_detail.personal_page_botton_diagnose_style",
+      "present_documents": 80,
+      "non_null_documents": 80,
+      "non_empty_documents": 80,
+      "types": [
+        "integer"
+      ]
+    },
+    {
+      "path": "aweme_detail.photo_search_entrance",
+      "present_documents": 80,
+      "non_null_documents": 80,
+      "non_empty_documents": 80,
+      "types": [
+        "object"
+      ]
+    },
+    {
+      "path": "aweme_detail.photo_search_entrance.ecom_type",
+      "present_documents": 80,
+      "non_null_documents": 80,
+      "non_empty_documents": 80,
+      "types": [
+        "integer"
+      ]
+    },
+    {
+      "path": "aweme_detail.position",
+      "present_documents": 80,
+      "non_null_documents": 0,
+      "non_empty_documents": 0,
+      "types": [
+        "null"
+      ]
+    },
+    {
+      "path": "aweme_detail.preview_title",
+      "present_documents": 80,
+      "non_null_documents": 80,
+      "non_empty_documents": 80,
+      "types": [
+        "string"
+      ]
+    },
+    {
+      "path": "aweme_detail.preview_video_status",
+      "present_documents": 80,
+      "non_null_documents": 80,
+      "non_empty_documents": 80,
+      "types": [
+        "integer"
+      ]
+    },
+    {
+      "path": "aweme_detail.product_genre_info",
+      "present_documents": 80,
+      "non_null_documents": 80,
+      "non_empty_documents": 80,
+      "types": [
+        "object"
+      ]
+    },
+    {
+      "path": "aweme_detail.product_genre_info.material_genre_sub_type_set",
+      "present_documents": 80,
+      "non_null_documents": 80,
+      "non_empty_documents": 80,
+      "types": [
+        "array"
+      ]
+    },
+    {
+      "path": "aweme_detail.product_genre_info.material_genre_sub_type_set[]",
+      "present_documents": 80,
+      "non_null_documents": 80,
+      "non_empty_documents": 80,
+      "types": [
+        "integer"
+      ]
+    },
+    {
+      "path": "aweme_detail.product_genre_info.product_genre_type",
+      "present_documents": 80,
+      "non_null_documents": 80,
+      "non_empty_documents": 80,
+      "types": [
+        "integer"
+      ]
+    },
+    {
+      "path": "aweme_detail.product_genre_info.special_info",
+      "present_documents": 80,
+      "non_null_documents": 80,
+      "non_empty_documents": 80,
+      "types": [
+        "object"
+      ]
+    },
+    {
+      "path": "aweme_detail.product_genre_info.special_info.recommend_group_name",
+      "present_documents": 80,
+      "non_null_documents": 80,
+      "non_empty_documents": 80,
+      "types": [
+        "integer"
+      ]
+    },
+    {
+      "path": "aweme_detail.promotions",
+      "present_documents": 80,
+      "non_null_documents": 80,
+      "non_empty_documents": 11,
+      "types": [
+        "array"
+      ]
+    },
+    {
+      "path": "aweme_detail.promotions[]",
+      "present_documents": 11,
+      "non_null_documents": 11,
+      "non_empty_documents": 11,
+      "types": [
+        "object"
+      ]
+    },
+    {
+      "path": "aweme_detail.promotions[].clicks",
+      "present_documents": 11,
+      "non_null_documents": 11,
+      "non_empty_documents": 11,
+      "types": [
+        "integer"
+      ]
+    },
+    {
+      "path": "aweme_detail.promotions[].cos_fee",
+      "present_documents": 11,
+      "non_null_documents": 11,
+      "non_empty_documents": 11,
+      "types": [
+        "integer"
+      ]
+    },
+    {
+      "path": "aweme_detail.promotions[].cos_radio",
+      "present_documents": 11,
+      "non_null_documents": 11,
+      "non_empty_documents": 11,
+      "types": [
+        "integer"
+      ]
+    },
+    {
+      "path": "aweme_detail.promotions[].elastic_img",
+      "present_documents": 11,
+      "non_null_documents": 11,
+      "non_empty_documents": 11,
+      "types": [
+        "array"
+      ]
+    },
+    {
+      "path": "aweme_detail.promotions[].elastic_img[]",
+      "present_documents": 11,
+      "non_null_documents": 11,
+      "non_empty_documents": 11,
+      "types": [
+        "object"
+      ]
+    },
+    {
+      "path": "aweme_detail.promotions[].elastic_img[].height",
+      "present_documents": 11,
+      "non_null_documents": 11,
+      "non_empty_documents": 11,
+      "types": [
+        "integer"
+      ]
+    },
+    {
+      "path": "aweme_detail.promotions[].elastic_img[].uri",
+      "present_documents": 11,
+      "non_null_documents": 11,
+      "non_empty_documents": 11,
+      "types": [
+        "string"
+      ]
+    },
+    {
+      "path": "aweme_detail.promotions[].elastic_img[].url_list",
+      "present_documents": 11,
+      "non_null_documents": 11,
+      "non_empty_documents": 11,
+      "types": [
+        "array"
+      ]
+    },
+    {
+      "path": "aweme_detail.promotions[].elastic_img[].url_list[]",
+      "present_documents": 11,
+      "non_null_documents": 11,
+      "non_empty_documents": 11,
+      "types": [
+        "string"
+      ]
+    },
+    {
+      "path": "aweme_detail.promotions[].elastic_img[].width",
+      "present_documents": 11,
+      "non_null_documents": 11,
+      "non_empty_documents": 11,
+      "types": [
+        "integer"
+      ]
+    },
+    {
+      "path": "aweme_detail.promotions[].elastic_introduction",
+      "present_documents": 11,
+      "non_null_documents": 11,
+      "non_empty_documents": 0,
+      "types": [
+        "string"
+      ]
+    },
+    {
+      "path": "aweme_detail.promotions[].elastic_title",
+      "present_documents": 11,
+      "non_null_documents": 11,
+      "non_empty_documents": 11,
+      "types": [
+        "string"
+      ]
+    },
+    {
+      "path": "aweme_detail.promotions[].elastic_type",
+      "present_documents": 11,
+      "non_null_documents": 11,
+      "non_empty_documents": 11,
+      "types": [
+        "integer"
+      ]
+    },
+    {
+      "path": "aweme_detail.promotions[].extra",
+      "present_documents": 11,
+      "non_null_documents": 11,
+      "non_empty_documents": 0,
+      "types": [
+        "string"
+      ]
+    },
+    {
+      "path": "aweme_detail.promotions[].favorited",
+      "present_documents": 11,
+      "non_null_documents": 11,
+      "non_empty_documents": 11,
+      "types": [
+        "boolean"
+      ]
+    },
+    {
+      "path": "aweme_detail.promotions[].gid",
+      "present_documents": 11,
+      "non_null_documents": 11,
+      "non_empty_documents": 11,
+      "types": [
+        "string"
+      ]
+    },
+    {
+      "path": "aweme_detail.promotions[].h5_url",
+      "present_documents": 11,
+      "non_null_documents": 11,
+      "non_empty_documents": 11,
+      "types": [
+        "string"
+      ]
+    },
+    {
+      "path": "aweme_detail.promotions[].image",
+      "present_documents": 11,
+      "non_null_documents": 11,
+      "non_empty_documents": 11,
+      "types": [
+        "object"
+      ]
+    },
+    {
+      "path": "aweme_detail.promotions[].image.height",
+      "present_documents": 11,
+      "non_null_documents": 11,
+      "non_empty_documents": 11,
+      "types": [
+        "integer"
+      ]
+    },
+    {
+      "path": "aweme_detail.promotions[].image.uri",
+      "present_documents": 11,
+      "non_null_documents": 11,
+      "non_empty_documents": 11,
+      "types": [
+        "string"
+      ]
+    },
+    {
+      "path": "aweme_detail.promotions[].image.url_list",
+      "present_documents": 11,
+      "non_null_documents": 11,
+      "non_empty_documents": 11,
+      "types": [
+        "array"
+      ]
+    },
+    {
+      "path": "aweme_detail.promotions[].image.url_list[]",
+      "present_documents": 11,
+      "non_null_documents": 11,
+      "non_empty_documents": 11,
+      "types": [
+        "string"
+      ]
+    },
+    {
+      "path": "aweme_detail.promotions[].image.width",
+      "present_documents": 11,
+      "non_null_documents": 11,
+      "non_empty_documents": 11,
+      "types": [
+        "integer"
+      ]
+    },
+    {
+      "path": "aweme_detail.promotions[].imgs",
+      "present_documents": 11,
+      "non_null_documents": 11,
+      "non_empty_documents": 11,
+      "types": [
+        "array"
+      ]
+    },
+    {
+      "path": "aweme_detail.promotions[].imgs[]",
+      "present_documents": 11,
+      "non_null_documents": 11,
+      "non_empty_documents": 11,
+      "types": [
+        "object"
+      ]
+    },
+    {
+      "path": "aweme_detail.promotions[].imgs[].height",
+      "present_documents": 11,
+      "non_null_documents": 11,
+      "non_empty_documents": 11,
+      "types": [
+        "integer"
+      ]
+    },
+    {
+      "path": "aweme_detail.promotions[].imgs[].uri",
+      "present_documents": 11,
+      "non_null_documents": 11,
+      "non_empty_documents": 11,
+      "types": [
+        "string"
+      ]
+    },
+    {
+      "path": "aweme_detail.promotions[].imgs[].url_list",
+      "present_documents": 11,
+      "non_null_documents": 11,
+      "non_empty_documents": 11,
+      "types": [
+        "array"
+      ]
+    },
+    {
+      "path": "aweme_detail.promotions[].imgs[].url_list[]",
+      "present_documents": 11,
+      "non_null_documents": 11,
+      "non_empty_documents": 11,
+      "types": [
+        "string"
+      ]
+    },
+    {
+      "path": "aweme_detail.promotions[].imgs[].width",
+      "present_documents": 11,
+      "non_null_documents": 11,
+      "non_empty_documents": 11,
+      "types": [
+        "integer"
+      ]
+    },
+    {
+      "path": "aweme_detail.promotions[].item_type",
+      "present_documents": 11,
+      "non_null_documents": 11,
+      "non_empty_documents": 11,
+      "types": [
+        "integer"
+      ]
+    },
+    {
+      "path": "aweme_detail.promotions[].label",
+      "present_documents": 11,
+      "non_null_documents": 11,
+      "non_empty_documents": 0,
+      "types": [
+        "array"
+      ]
+    },
+    {
+      "path": "aweme_detail.promotions[].market_price",
+      "present_documents": 11,
+      "non_null_documents": 11,
+      "non_empty_documents": 11,
+      "types": [
+        "integer"
+      ]
+    },
+    {
+      "path": "aweme_detail.promotions[].price",
+      "present_documents": 11,
+      "non_null_documents": 11,
+      "non_empty_documents": 11,
+      "types": [
+        "integer"
+      ]
+    },
+    {
+      "path": "aweme_detail.promotions[].promotion_id",
+      "present_documents": 11,
+      "non_null_documents": 11,
+      "non_empty_documents": 11,
+      "types": [
+        "string"
+      ]
+    },
+    {
+      "path": "aweme_detail.promotions[].promotion_source",
+      "present_documents": 11,
+      "non_null_documents": 11,
+      "non_empty_documents": 11,
+      "types": [
+        "integer"
+      ]
+    },
+    {
+      "path": "aweme_detail.promotions[].rank",
+      "present_documents": 11,
+      "non_null_documents": 11,
+      "non_empty_documents": 11,
+      "types": [
+        "integer"
+      ]
+    },
+    {
+      "path": "aweme_detail.promotions[].rank_url",
+      "present_documents": 11,
+      "non_null_documents": 11,
+      "non_empty_documents": 11,
+      "types": [
+        "string"
+      ]
+    },
+    {
+      "path": "aweme_detail.promotions[].sales",
+      "present_documents": 11,
+      "non_null_documents": 11,
+      "non_empty_documents": 11,
+      "types": [
+        "integer"
+      ]
+    },
+    {
+      "path": "aweme_detail.promotions[].title",
+      "present_documents": 11,
+      "non_null_documents": 11,
+      "non_empty_documents": 11,
+      "types": [
+        "string"
+      ]
+    },
+    {
+      "path": "aweme_detail.promotions[].title_prefix",
+      "present_documents": 11,
+      "non_null_documents": 11,
+      "non_empty_documents": 11,
+      "types": [
+        "string"
+      ]
+    },
+    {
+      "path": "aweme_detail.promotions[].url",
+      "present_documents": 11,
+      "non_null_documents": 11,
+      "non_empty_documents": 11,
+      "types": [
+        "string"
+      ]
+    },
+    {
+      "path": "aweme_detail.promotions[].views",
+      "present_documents": 11,
+      "non_null_documents": 11,
+      "non_empty_documents": 11,
+      "types": [
+        "integer"
+      ]
+    },
+    {
+      "path": "aweme_detail.publish_plus_alienation",
+      "present_documents": 80,
+      "non_null_documents": 80,
+      "non_empty_documents": 80,
+      "types": [
+        "object"
+      ]
+    },
+    {
+      "path": "aweme_detail.publish_plus_alienation.alienation_type",
+      "present_documents": 80,
+      "non_null_documents": 80,
+      "non_empty_documents": 80,
+      "types": [
+        "integer"
+      ]
+    },
+    {
+      "path": "aweme_detail.rate",
+      "present_documents": 80,
+      "non_null_documents": 80,
+      "non_empty_documents": 80,
+      "types": [
+        "integer"
+      ]
+    },
+    {
+      "path": "aweme_detail.region",
+      "present_documents": 80,
+      "non_null_documents": 80,
+      "non_empty_documents": 80,
+      "types": [
+        "string"
+      ]
+    },
+    {
+      "path": "aweme_detail.relation_labels",
+      "present_documents": 80,
+      "non_null_documents": 0,
+      "non_empty_documents": 0,
+      "types": [
+        "null"
+      ]
+    },
+    {
+      "path": "aweme_detail.risk_infos",
+      "present_documents": 80,
+      "non_null_documents": 80,
+      "non_empty_documents": 80,
+      "types": [
+        "object"
+      ]
+    },
+    {
+      "path": "aweme_detail.risk_infos.content",
+      "present_documents": 80,
+      "non_null_documents": 80,
+      "non_empty_documents": 18,
+      "types": [
+        "string"
+      ]
+    },
+    {
+      "path": "aweme_detail.risk_infos.icon_url",
+      "present_documents": 1,
+      "non_null_documents": 1,
+      "non_empty_documents": 1,
+      "types": [
+        "string"
+      ]
+    },
+    {
+      "path": "aweme_detail.risk_infos.risk_sink",
+      "present_documents": 80,
+      "non_null_documents": 80,
+      "non_empty_documents": 80,
+      "types": [
+        "boolean"
+      ]
+    },
+    {
+      "path": "aweme_detail.risk_infos.type",
+      "present_documents": 80,
+      "non_null_documents": 80,
+      "non_empty_documents": 80,
+      "types": [
+        "integer"
+      ]
+    },
+    {
+      "path": "aweme_detail.risk_infos.vote",
+      "present_documents": 80,
+      "non_null_documents": 80,
+      "non_empty_documents": 80,
+      "types": [
+        "boolean"
+      ]
+    },
+    {
+      "path": "aweme_detail.risk_infos.warn",
+      "present_documents": 80,
+      "non_null_documents": 80,
+      "non_empty_documents": 80,
+      "types": [
+        "boolean"
+      ]
+    },
+    {
+      "path": "aweme_detail.risk_infos.warn_level",
+      "present_documents": 18,
+      "non_null_documents": 18,
+      "non_empty_documents": 18,
+      "types": [
+        "integer"
+      ]
+    },
+    {
+      "path": "aweme_detail.sec_item_id",
+      "present_documents": 80,
+      "non_null_documents": 80,
+      "non_empty_documents": 80,
+      "types": [
+        "string"
+      ]
+    },
+    {
+      "path": "aweme_detail.series_basic_info",
+      "present_documents": 80,
+      "non_null_documents": 80,
+      "non_empty_documents": 0,
+      "types": [
+        "object"
+      ]
+    },
+    {
+      "path": "aweme_detail.series_paid_info",
+      "present_documents": 80,
+      "non_null_documents": 80,
+      "non_empty_documents": 80,
+      "types": [
+        "object"
+      ]
+    },
+    {
+      "path": "aweme_detail.series_paid_info.item_price",
+      "present_documents": 80,
+      "non_null_documents": 80,
+      "non_empty_documents": 80,
+      "types": [
+        "integer"
+      ]
+    },
+    {
+      "path": "aweme_detail.series_paid_info.series_paid_status",
+      "present_documents": 80,
+      "non_null_documents": 80,
+      "non_empty_documents": 80,
+      "types": [
+        "integer"
+      ]
+    },
+    {
+      "path": "aweme_detail.share_info",
+      "present_documents": 80,
+      "non_null_documents": 80,
+      "non_empty_documents": 80,
+      "types": [
+        "object"
+      ]
+    },
+    {
+      "path": "aweme_detail.share_info.share_desc",
+      "present_documents": 80,
+      "non_null_documents": 80,
+      "non_empty_documents": 80,
+      "types": [
+        "string"
+      ]
+    },
+    {
+      "path": "aweme_detail.share_info.share_desc_info",
+      "present_documents": 80,
+      "non_null_documents": 80,
+      "non_empty_documents": 80,
+      "types": [
+        "string"
+      ]
+    },
+    {
+      "path": "aweme_detail.share_info.share_link_desc",
+      "present_documents": 80,
+      "non_null_documents": 80,
+      "non_empty_documents": 80,
+      "types": [
+        "string"
+      ]
+    },
+    {
+      "path": "aweme_detail.share_info.share_url",
+      "present_documents": 80,
+      "non_null_documents": 80,
+      "non_empty_documents": 80,
+      "types": [
+        "string"
+      ]
+    },
+    {
+      "path": "aweme_detail.share_rec_extra",
+      "present_documents": 80,
+      "non_null_documents": 80,
+      "non_empty_documents": 0,
+      "types": [
+        "string"
+      ]
+    },
+    {
+      "path": "aweme_detail.share_url",
+      "present_documents": 80,
+      "non_null_documents": 80,
+      "non_empty_documents": 80,
+      "types": [
+        "string"
+      ]
+    },
+    {
+      "path": "aweme_detail.shoot_way",
+      "present_documents": 80,
+      "non_null_documents": 80,
+      "non_empty_documents": 80,
+      "types": [
+        "string"
+      ]
+    },
+    {
+      "path": "aweme_detail.should_open_ad_report",
+      "present_documents": 80,
+      "non_null_documents": 80,
+      "non_empty_documents": 80,
+      "types": [
+        "boolean"
+      ]
+    },
+    {
+      "path": "aweme_detail.show_follow_button",
+      "present_documents": 80,
+      "non_null_documents": 80,
+      "non_empty_documents": 0,
+      "types": [
+        "object"
+      ]
+    },
+    {
+      "path": "aweme_detail.social_tag_list",
+      "present_documents": 80,
+      "non_null_documents": 0,
+      "non_empty_documents": 0,
+      "types": [
+        "null"
+      ]
+    },
+    {
+      "path": "aweme_detail.statistics",
+      "present_documents": 80,
+      "non_null_documents": 80,
+      "non_empty_documents": 80,
+      "types": [
+        "object"
+      ]
+    },
+    {
+      "path": "aweme_detail.statistics.admire_count",
+      "present_documents": 80,
+      "non_null_documents": 80,
+      "non_empty_documents": 80,
+      "types": [
+        "integer"
+      ]
+    },
+    {
+      "path": "aweme_detail.statistics.aweme_id",
+      "present_documents": 80,
+      "non_null_documents": 80,
+      "non_empty_documents": 80,
+      "types": [
+        "string"
+      ]
+    },
+    {
+      "path": "aweme_detail.statistics.collect_count",
+      "present_documents": 80,
+      "non_null_documents": 80,
+      "non_empty_documents": 80,
+      "types": [
+        "integer"
+      ]
+    },
+    {
+      "path": "aweme_detail.statistics.comment_count",
+      "present_documents": 80,
+      "non_null_documents": 80,
+      "non_empty_documents": 80,
+      "types": [
+        "integer"
+      ]
+    },
+    {
+      "path": "aweme_detail.statistics.digg_count",
+      "present_documents": 80,
+      "non_null_documents": 80,
+      "non_empty_documents": 80,
+      "types": [
+        "integer"
+      ]
+    },
+    {
+      "path": "aweme_detail.statistics.play_count",
+      "present_documents": 80,
+      "non_null_documents": 80,
+      "non_empty_documents": 80,
+      "types": [
+        "integer"
+      ]
+    },
+    {
+      "path": "aweme_detail.statistics.share_count",
+      "present_documents": 80,
+      "non_null_documents": 80,
+      "non_empty_documents": 80,
+      "types": [
+        "integer"
+      ]
+    },
+    {
+      "path": "aweme_detail.status",
+      "present_documents": 80,
+      "non_null_documents": 80,
+      "non_empty_documents": 80,
+      "types": [
+        "object"
+      ]
+    },
+    {
+      "path": "aweme_detail.status.allow_share",
+      "present_documents": 80,
+      "non_null_documents": 80,
+      "non_empty_documents": 80,
+      "types": [
+        "boolean"
+      ]
+    },
+    {
+      "path": "aweme_detail.status.aweme_id",
+      "present_documents": 80,
+      "non_null_documents": 80,
+      "non_empty_documents": 80,
+      "types": [
+        "string"
+      ]
+    },
+    {
+      "path": "aweme_detail.status.enable_soft_delete",
+      "present_documents": 80,
+      "non_null_documents": 80,
+      "non_empty_documents": 80,
+      "types": [
+        "integer"
+      ]
+    },
+    {
+      "path": "aweme_detail.status.in_reviewing",
+      "present_documents": 80,
+      "non_null_documents": 80,
+      "non_empty_documents": 80,
+      "types": [
+        "boolean"
+      ]
+    },
+    {
+      "path": "aweme_detail.status.is_delete",
+      "present_documents": 80,
+      "non_null_documents": 80,
+      "non_empty_documents": 80,
+      "types": [
+        "boolean"
+      ]
+    },
+    {
+      "path": "aweme_detail.status.is_prohibited",
+      "present_documents": 80,
+      "non_null_documents": 80,
+      "non_empty_documents": 80,
+      "types": [
+        "boolean"
+      ]
+    },
+    {
+      "path": "aweme_detail.status.listen_video_status",
+      "present_documents": 80,
+      "non_null_documents": 80,
+      "non_empty_documents": 80,
+      "types": [
+        "integer"
+      ]
+    },
+    {
+      "path": "aweme_detail.status.not_allow_soft_del_reason",
+      "present_documents": 80,
+      "non_null_documents": 80,
+      "non_empty_documents": 80,
+      "types": [
+        "string"
+      ]
+    },
+    {
+      "path": "aweme_detail.status.part_see",
+      "present_documents": 80,
+      "non_null_documents": 80,
+      "non_empty_documents": 80,
+      "types": [
+        "integer"
+      ]
+    },
+    {
+      "path": "aweme_detail.status.private_status",
+      "present_documents": 80,
+      "non_null_documents": 80,
+      "non_empty_documents": 80,
+      "types": [
+        "integer"
+      ]
+    },
+    {
+      "path": "aweme_detail.status.review_result",
+      "present_documents": 80,
+      "non_null_documents": 80,
+      "non_empty_documents": 80,
+      "types": [
+        "object"
+      ]
+    },
+    {
+      "path": "aweme_detail.status.review_result.review_status",
+      "present_documents": 80,
+      "non_null_documents": 80,
+      "non_empty_documents": 80,
+      "types": [
+        "integer"
+      ]
+    },
+    {
+      "path": "aweme_detail.text_extra",
+      "present_documents": 80,
+      "non_null_documents": 80,
+      "non_empty_documents": 79,
+      "types": [
+        "array"
+      ]
+    },
+    {
+      "path": "aweme_detail.text_extra[]",
+      "present_documents": 79,
+      "non_null_documents": 79,
+      "non_empty_documents": 79,
+      "types": [
+        "object"
+      ]
+    },
+    {
+      "path": "aweme_detail.text_extra[].caption_end",
+      "present_documents": 79,
+      "non_null_documents": 79,
+      "non_empty_documents": 79,
+      "types": [
+        "integer"
+      ]
+    },
+    {
+      "path": "aweme_detail.text_extra[].caption_start",
+      "present_documents": 79,
+      "non_null_documents": 79,
+      "non_empty_documents": 79,
+      "types": [
+        "integer"
+      ]
+    },
+    {
+      "path": "aweme_detail.text_extra[].end",
+      "present_documents": 79,
+      "non_null_documents": 79,
+      "non_empty_documents": 79,
+      "types": [
+        "integer"
+      ]
+    },
+    {
+      "path": "aweme_detail.text_extra[].hashtag_id",
+      "present_documents": 78,
+      "non_null_documents": 78,
+      "non_empty_documents": 78,
+      "types": [
+        "string"
+      ]
+    },
+    {
+      "path": "aweme_detail.text_extra[].hashtag_name",
+      "present_documents": 78,
+      "non_null_documents": 78,
+      "non_empty_documents": 78,
+      "types": [
+        "string"
+      ]
+    },
+    {
+      "path": "aweme_detail.text_extra[].is_commerce",
+      "present_documents": 78,
+      "non_null_documents": 78,
+      "non_empty_documents": 78,
+      "types": [
+        "boolean"
+      ]
+    },
+    {
+      "path": "aweme_detail.text_extra[].sec_uid",
+      "present_documents": 3,
+      "non_null_documents": 3,
+      "non_empty_documents": 3,
+      "types": [
+        "string"
+      ]
+    },
+    {
+      "path": "aweme_detail.text_extra[].start",
+      "present_documents": 79,
+      "non_null_documents": 79,
+      "non_empty_documents": 79,
+      "types": [
+        "integer"
+      ]
+    },
+    {
+      "path": "aweme_detail.text_extra[].type",
+      "present_documents": 79,
+      "non_null_documents": 79,
+      "non_empty_documents": 79,
+      "types": [
+        "integer"
+      ]
+    },
+    {
+      "path": "aweme_detail.text_extra[].user_id",
+      "present_documents": 3,
+      "non_null_documents": 3,
+      "non_empty_documents": 3,
+      "types": [
+        "string"
+      ]
+    },
+    {
+      "path": "aweme_detail.trends_event_track",
+      "present_documents": 80,
+      "non_null_documents": 80,
+      "non_empty_documents": 80,
+      "types": [
+        "string"
+      ]
+    },
+    {
+      "path": "aweme_detail.uniqid_position",
+      "present_documents": 80,
+      "non_null_documents": 0,
+      "non_empty_documents": 0,
+      "types": [
+        "null"
+      ]
+    },
+    {
+      "path": "aweme_detail.user_digged",
+      "present_documents": 80,
+      "non_null_documents": 80,
+      "non_empty_documents": 80,
+      "types": [
+        "integer"
+      ]
+    },
+    {
+      "path": "aweme_detail.user_recommend_status",
+      "present_documents": 80,
+      "non_null_documents": 80,
+      "non_empty_documents": 80,
+      "types": [
+        "integer"
+      ]
+    },
+    {
+      "path": "aweme_detail.video",
+      "present_documents": 80,
+      "non_null_documents": 80,
+      "non_empty_documents": 80,
+      "types": [
+        "object"
+      ]
+    },
+    {
+      "path": "aweme_detail.video.audio",
+      "present_documents": 80,
+      "non_null_documents": 80,
+      "non_empty_documents": 0,
+      "types": [
+        "object"
+      ]
+    },
+    {
+      "path": "aweme_detail.video.big_thumbs",
+      "present_documents": 80,
+      "non_null_documents": 80,
+      "non_empty_documents": 80,
+      "types": [
+        "array"
+      ]
+    },
+    {
+      "path": "aweme_detail.video.big_thumbs[]",
+      "present_documents": 80,
+      "non_null_documents": 80,
+      "non_empty_documents": 80,
+      "types": [
+        "object"
+      ]
+    },
+    {
+      "path": "aweme_detail.video.big_thumbs[].duration",
+      "present_documents": 80,
+      "non_null_documents": 80,
+      "non_empty_documents": 80,
+      "types": [
+        "integer",
+        "number"
+      ]
+    },
+    {
+      "path": "aweme_detail.video.big_thumbs[].fext",
+      "present_documents": 80,
+      "non_null_documents": 80,
+      "non_empty_documents": 80,
+      "types": [
+        "string"
+      ]
+    },
+    {
+      "path": "aweme_detail.video.big_thumbs[].img_num",
+      "present_documents": 80,
+      "non_null_documents": 80,
+      "non_empty_documents": 80,
+      "types": [
+        "integer"
+      ]
+    },
+    {
+      "path": "aweme_detail.video.big_thumbs[].img_url",
+      "present_documents": 80,
+      "non_null_documents": 80,
+      "non_empty_documents": 80,
+      "types": [
+        "string"
+      ]
+    },
+    {
+      "path": "aweme_detail.video.big_thumbs[].img_urls",
+      "present_documents": 80,
+      "non_null_documents": 80,
+      "non_empty_documents": 0,
+      "types": [
+        "array"
+      ]
+    },
+    {
+      "path": "aweme_detail.video.big_thumbs[].img_x_len",
+      "present_documents": 80,
+      "non_null_documents": 80,
+      "non_empty_documents": 80,
+      "types": [
+        "integer"
+      ]
+    },
+    {
+      "path": "aweme_detail.video.big_thumbs[].img_x_size",
+      "present_documents": 80,
+      "non_null_documents": 80,
+      "non_empty_documents": 80,
+      "types": [
+        "integer"
+      ]
+    },
+    {
+      "path": "aweme_detail.video.big_thumbs[].img_y_len",
+      "present_documents": 80,
+      "non_null_documents": 80,
+      "non_empty_documents": 80,
+      "types": [
+        "integer"
+      ]
+    },
+    {
+      "path": "aweme_detail.video.big_thumbs[].img_y_size",
+      "present_documents": 80,
+      "non_null_documents": 80,
+      "non_empty_documents": 80,
+      "types": [
+        "integer"
+      ]
+    },
+    {
+      "path": "aweme_detail.video.big_thumbs[].interval",
+      "present_documents": 80,
+      "non_null_documents": 80,
+      "non_empty_documents": 80,
+      "types": [
+        "integer",
+        "number"
+      ]
+    },
+    {
+      "path": "aweme_detail.video.big_thumbs[].uri",
+      "present_documents": 80,
+      "non_null_documents": 80,
+      "non_empty_documents": 80,
+      "types": [
+        "string"
+      ]
+    },
+    {
+      "path": "aweme_detail.video.big_thumbs[].uris",
+      "present_documents": 80,
+      "non_null_documents": 80,
+      "non_empty_documents": 0,
+      "types": [
+        "array"
+      ]
+    },
+    {
+      "path": "aweme_detail.video.bit_rate",
+      "present_documents": 80,
+      "non_null_documents": 80,
+      "non_empty_documents": 80,
+      "types": [
+        "array"
+      ]
+    },
+    {
+      "path": "aweme_detail.video.bit_rate[]",
+      "present_documents": 80,
+      "non_null_documents": 80,
+      "non_empty_documents": 80,
+      "types": [
+        "object"
+      ]
+    },
+    {
+      "path": "aweme_detail.video.bit_rate[].FPS",
+      "present_documents": 80,
+      "non_null_documents": 80,
+      "non_empty_documents": 80,
+      "types": [
+        "integer"
+      ]
+    },
+    {
+      "path": "aweme_detail.video.bit_rate[].HDR_bit",
+      "present_documents": 80,
+      "non_null_documents": 80,
+      "non_empty_documents": 0,
+      "types": [
+        "string"
+      ]
+    },
+    {
+      "path": "aweme_detail.video.bit_rate[].HDR_type",
+      "present_documents": 80,
+      "non_null_documents": 80,
+      "non_empty_documents": 0,
+      "types": [
+        "string"
+      ]
+    },
+    {
+      "path": "aweme_detail.video.bit_rate[].bit_rate",
+      "present_documents": 80,
+      "non_null_documents": 80,
+      "non_empty_documents": 80,
+      "types": [
+        "integer"
+      ]
+    },
+    {
+      "path": "aweme_detail.video.bit_rate[].format",
+      "present_documents": 80,
+      "non_null_documents": 80,
+      "non_empty_documents": 80,
+      "types": [
+        "string"
+      ]
+    },
+    {
+      "path": "aweme_detail.video.bit_rate[].gear_name",
+      "present_documents": 80,
+      "non_null_documents": 80,
+      "non_empty_documents": 80,
+      "types": [
+        "string"
+      ]
+    },
+    {
+      "path": "aweme_detail.video.bit_rate[].is_bytevc1",
+      "present_documents": 80,
+      "non_null_documents": 80,
+      "non_empty_documents": 80,
+      "types": [
+        "integer"
+      ]
+    },
+    {
+      "path": "aweme_detail.video.bit_rate[].is_h265",
+      "present_documents": 80,
+      "non_null_documents": 80,
+      "non_empty_documents": 80,
+      "types": [
+        "integer"
+      ]
+    },
+    {
+      "path": "aweme_detail.video.bit_rate[].play_addr",
+      "present_documents": 80,
+      "non_null_documents": 80,
+      "non_empty_documents": 80,
+      "types": [
+        "object"
+      ]
+    },
+    {
+      "path": "aweme_detail.video.bit_rate[].play_addr.data_size",
+      "present_documents": 80,
+      "non_null_documents": 80,
+      "non_empty_documents": 80,
+      "types": [
+        "integer"
+      ]
+    },
+    {
+      "path": "aweme_detail.video.bit_rate[].play_addr.file_cs",
+      "present_documents": 80,
+      "non_null_documents": 80,
+      "non_empty_documents": 80,
+      "types": [
+        "string"
+      ]
+    },
+    {
+      "path": "aweme_detail.video.bit_rate[].play_addr.file_hash",
+      "present_documents": 80,
+      "non_null_documents": 80,
+      "non_empty_documents": 80,
+      "types": [
+        "string"
+      ]
+    },
+    {
+      "path": "aweme_detail.video.bit_rate[].play_addr.height",
+      "present_documents": 80,
+      "non_null_documents": 80,
+      "non_empty_documents": 80,
+      "types": [
+        "integer"
+      ]
+    },
+    {
+      "path": "aweme_detail.video.bit_rate[].play_addr.uri",
+      "present_documents": 80,
+      "non_null_documents": 80,
+      "non_empty_documents": 80,
+      "types": [
+        "string"
+      ]
+    },
+    {
+      "path": "aweme_detail.video.bit_rate[].play_addr.url_key",
+      "present_documents": 80,
+      "non_null_documents": 80,
+      "non_empty_documents": 80,
+      "types": [
+        "string"
+      ]
+    },
+    {
+      "path": "aweme_detail.video.bit_rate[].play_addr.url_list",
+      "present_documents": 80,
+      "non_null_documents": 80,
+      "non_empty_documents": 80,
+      "types": [
+        "array"
+      ]
+    },
+    {
+      "path": "aweme_detail.video.bit_rate[].play_addr.url_list[]",
+      "present_documents": 80,
+      "non_null_documents": 80,
+      "non_empty_documents": 80,
+      "types": [
+        "string"
+      ]
+    },
+    {
+      "path": "aweme_detail.video.bit_rate[].play_addr.width",
+      "present_documents": 80,
+      "non_null_documents": 80,
+      "non_empty_documents": 80,
+      "types": [
+        "integer"
+      ]
+    },
+    {
+      "path": "aweme_detail.video.bit_rate[].quality_type",
+      "present_documents": 80,
+      "non_null_documents": 80,
+      "non_empty_documents": 80,
+      "types": [
+        "integer"
+      ]
+    },
+    {
+      "path": "aweme_detail.video.bit_rate[].video_extra",
+      "present_documents": 80,
+      "non_null_documents": 80,
+      "non_empty_documents": 80,
+      "types": [
+        "string"
+      ]
+    },
+    {
+      "path": "aweme_detail.video.bit_rate_audio",
+      "present_documents": 80,
+      "non_null_documents": 0,
+      "non_empty_documents": 0,
+      "types": [
+        "null"
+      ]
+    },
+    {
+      "path": "aweme_detail.video.cdn_url_expired",
+      "present_documents": 80,
+      "non_null_documents": 80,
+      "non_empty_documents": 80,
+      "types": [
+        "integer"
+      ]
+    },
+    {
+      "path": "aweme_detail.video.cover",
+      "present_documents": 80,
+      "non_null_documents": 80,
+      "non_empty_documents": 80,
+      "types": [
+        "object"
+      ]
+    },
+    {
+      "path": "aweme_detail.video.cover.height",
+      "present_documents": 80,
+      "non_null_documents": 80,
+      "non_empty_documents": 80,
+      "types": [
+        "integer"
+      ]
+    },
+    {
+      "path": "aweme_detail.video.cover.uri",
+      "present_documents": 80,
+      "non_null_documents": 80,
+      "non_empty_documents": 80,
+      "types": [
+        "string"
+      ]
+    },
+    {
+      "path": "aweme_detail.video.cover.url_list",
+      "present_documents": 80,
+      "non_null_documents": 80,
+      "non_empty_documents": 80,
+      "types": [
+        "array"
+      ]
+    },
+    {
+      "path": "aweme_detail.video.cover.url_list[]",
+      "present_documents": 80,
+      "non_null_documents": 80,
+      "non_empty_documents": 80,
+      "types": [
+        "string"
+      ]
+    },
+    {
+      "path": "aweme_detail.video.cover.width",
+      "present_documents": 80,
+      "non_null_documents": 80,
+      "non_empty_documents": 80,
+      "types": [
+        "integer"
+      ]
+    },
+    {
+      "path": "aweme_detail.video.cover_original_scale",
+      "present_documents": 80,
+      "non_null_documents": 80,
+      "non_empty_documents": 80,
+      "types": [
+        "object"
+      ]
+    },
+    {
+      "path": "aweme_detail.video.cover_original_scale.height",
+      "present_documents": 80,
+      "non_null_documents": 80,
+      "non_empty_documents": 80,
+      "types": [
+        "integer"
+      ]
+    },
+    {
+      "path": "aweme_detail.video.cover_original_scale.uri",
+      "present_documents": 80,
+      "non_null_documents": 80,
+      "non_empty_documents": 80,
+      "types": [
+        "string"
+      ]
+    },
+    {
+      "path": "aweme_detail.video.cover_original_scale.url_list",
+      "present_documents": 80,
+      "non_null_documents": 80,
+      "non_empty_documents": 80,
+      "types": [
+        "array"
+      ]
+    },
+    {
+      "path": "aweme_detail.video.cover_original_scale.url_list[]",
+      "present_documents": 80,
+      "non_null_documents": 80,
+      "non_empty_documents": 80,
+      "types": [
+        "string"
+      ]
+    },
+    {
+      "path": "aweme_detail.video.cover_original_scale.width",
+      "present_documents": 80,
+      "non_null_documents": 80,
+      "non_empty_documents": 80,
+      "types": [
+        "integer"
+      ]
+    },
+    {
+      "path": "aweme_detail.video.download_addr",
+      "present_documents": 80,
+      "non_null_documents": 80,
+      "non_empty_documents": 80,
+      "types": [
+        "object"
+      ]
+    },
+    {
+      "path": "aweme_detail.video.download_addr.data_size",
+      "present_documents": 80,
+      "non_null_documents": 80,
+      "non_empty_documents": 80,
+      "types": [
+        "integer"
+      ]
+    },
+    {
+      "path": "aweme_detail.video.download_addr.file_cs",
+      "present_documents": 80,
+      "non_null_documents": 80,
+      "non_empty_documents": 80,
+      "types": [
+        "string"
+      ]
+    },
+    {
+      "path": "aweme_detail.video.download_addr.height",
+      "present_documents": 80,
+      "non_null_documents": 80,
+      "non_empty_documents": 80,
+      "types": [
+        "integer"
+      ]
+    },
+    {
+      "path": "aweme_detail.video.download_addr.uri",
+      "present_documents": 80,
+      "non_null_documents": 80,
+      "non_empty_documents": 80,
+      "types": [
+        "string"
+      ]
+    },
+    {
+      "path": "aweme_detail.video.download_addr.url_list",
+      "present_documents": 80,
+      "non_null_documents": 80,
+      "non_empty_documents": 80,
+      "types": [
+        "array"
+      ]
+    },
+    {
+      "path": "aweme_detail.video.download_addr.url_list[]",
+      "present_documents": 80,
+      "non_null_documents": 80,
+      "non_empty_documents": 80,
+      "types": [
+        "string"
+      ]
+    },
+    {
+      "path": "aweme_detail.video.download_addr.width",
+      "present_documents": 80,
+      "non_null_documents": 80,
+      "non_empty_documents": 80,
+      "types": [
+        "integer"
+      ]
+    },
+    {
+      "path": "aweme_detail.video.duration",
+      "present_documents": 80,
+      "non_null_documents": 80,
+      "non_empty_documents": 80,
+      "types": [
+        "integer"
+      ]
+    },
+    {
+      "path": "aweme_detail.video.dynamic_cover",
+      "present_documents": 80,
+      "non_null_documents": 80,
+      "non_empty_documents": 80,
+      "types": [
+        "object"
+      ]
+    },
+    {
+      "path": "aweme_detail.video.dynamic_cover.height",
+      "present_documents": 80,
+      "non_null_documents": 80,
+      "non_empty_documents": 80,
+      "types": [
+        "integer"
+      ]
+    },
+    {
+      "path": "aweme_detail.video.dynamic_cover.uri",
+      "present_documents": 80,
+      "non_null_documents": 80,
+      "non_empty_documents": 80,
+      "types": [
+        "string"
+      ]
+    },
+    {
+      "path": "aweme_detail.video.dynamic_cover.url_list",
+      "present_documents": 80,
+      "non_null_documents": 80,
+      "non_empty_documents": 80,
+      "types": [
+        "array"
+      ]
+    },
+    {
+      "path": "aweme_detail.video.dynamic_cover.url_list[]",
+      "present_documents": 80,
+      "non_null_documents": 80,
+      "non_empty_documents": 80,
+      "types": [
+        "string"
+      ]
+    },
+    {
+      "path": "aweme_detail.video.dynamic_cover.width",
+      "present_documents": 80,
+      "non_null_documents": 80,
+      "non_empty_documents": 80,
+      "types": [
+        "integer"
+      ]
+    },
+    {
+      "path": "aweme_detail.video.format",
+      "present_documents": 80,
+      "non_null_documents": 80,
+      "non_empty_documents": 80,
+      "types": [
+        "string"
+      ]
+    },
+    {
+      "path": "aweme_detail.video.has_watermark",
+      "present_documents": 80,
+      "non_null_documents": 80,
+      "non_empty_documents": 80,
+      "types": [
+        "boolean"
+      ]
+    },
+    {
+      "path": "aweme_detail.video.height",
+      "present_documents": 80,
+      "non_null_documents": 80,
+      "non_empty_documents": 80,
+      "types": [
+        "integer"
+      ]
+    },
+    {
+      "path": "aweme_detail.video.is_h265",
+      "present_documents": 80,
+      "non_null_documents": 80,
+      "non_empty_documents": 80,
+      "types": [
+        "integer"
+      ]
+    },
+    {
+      "path": "aweme_detail.video.is_long_video",
+      "present_documents": 80,
+      "non_null_documents": 80,
+      "non_empty_documents": 80,
+      "types": [
+        "integer"
+      ]
+    },
+    {
+      "path": "aweme_detail.video.is_source_HDR",
+      "present_documents": 80,
+      "non_null_documents": 80,
+      "non_empty_documents": 80,
+      "types": [
+        "integer"
+      ]
+    },
+    {
+      "path": "aweme_detail.video.meta",
+      "present_documents": 80,
+      "non_null_documents": 80,
+      "non_empty_documents": 80,
+      "types": [
+        "string"
+      ]
+    },
+    {
+      "path": "aweme_detail.video.misc_download_addrs",
+      "present_documents": 45,
+      "non_null_documents": 45,
+      "non_empty_documents": 45,
+      "types": [
+        "string"
+      ]
+    },
+    {
+      "path": "aweme_detail.video.origin_cover",
+      "present_documents": 80,
+      "non_null_documents": 80,
+      "non_empty_documents": 80,
+      "types": [
+        "object"
+      ]
+    },
+    {
+      "path": "aweme_detail.video.origin_cover.height",
+      "present_documents": 80,
+      "non_null_documents": 80,
+      "non_empty_documents": 80,
+      "types": [
+        "integer"
+      ]
+    },
+    {
+      "path": "aweme_detail.video.origin_cover.uri",
+      "present_documents": 80,
+      "non_null_documents": 80,
+      "non_empty_documents": 80,
+      "types": [
+        "string"
+      ]
+    },
+    {
+      "path": "aweme_detail.video.origin_cover.url_list",
+      "present_documents": 80,
+      "non_null_documents": 80,
+      "non_empty_documents": 80,
+      "types": [
+        "array"
+      ]
+    },
+    {
+      "path": "aweme_detail.video.origin_cover.url_list[]",
+      "present_documents": 80,
+      "non_null_documents": 80,
+      "non_empty_documents": 80,
+      "types": [
+        "string"
+      ]
+    },
+    {
+      "path": "aweme_detail.video.origin_cover.width",
+      "present_documents": 80,
+      "non_null_documents": 80,
+      "non_empty_documents": 80,
+      "types": [
+        "integer"
+      ]
+    },
+    {
+      "path": "aweme_detail.video.play_addr",
+      "present_documents": 80,
+      "non_null_documents": 80,
+      "non_empty_documents": 80,
+      "types": [
+        "object"
+      ]
+    },
+    {
+      "path": "aweme_detail.video.play_addr.data_size",
+      "present_documents": 80,
+      "non_null_documents": 80,
+      "non_empty_documents": 80,
+      "types": [
+        "integer"
+      ]
+    },
+    {
+      "path": "aweme_detail.video.play_addr.file_cs",
+      "present_documents": 80,
+      "non_null_documents": 80,
+      "non_empty_documents": 80,
+      "types": [
+        "string"
+      ]
+    },
+    {
+      "path": "aweme_detail.video.play_addr.file_hash",
+      "present_documents": 80,
+      "non_null_documents": 80,
+      "non_empty_documents": 80,
+      "types": [
+        "string"
+      ]
+    },
+    {
+      "path": "aweme_detail.video.play_addr.height",
+      "present_documents": 80,
+      "non_null_documents": 80,
+      "non_empty_documents": 80,
+      "types": [
+        "integer"
+      ]
+    },
+    {
+      "path": "aweme_detail.video.play_addr.uri",
+      "present_documents": 80,
+      "non_null_documents": 80,
+      "non_empty_documents": 80,
+      "types": [
+        "string"
+      ]
+    },
+    {
+      "path": "aweme_detail.video.play_addr.url_key",
+      "present_documents": 80,
+      "non_null_documents": 80,
+      "non_empty_documents": 80,
+      "types": [
+        "string"
+      ]
+    },
+    {
+      "path": "aweme_detail.video.play_addr.url_list",
+      "present_documents": 80,
+      "non_null_documents": 80,
+      "non_empty_documents": 80,
+      "types": [
+        "array"
+      ]
+    },
+    {
+      "path": "aweme_detail.video.play_addr.url_list[]",
+      "present_documents": 80,
+      "non_null_documents": 80,
+      "non_empty_documents": 80,
+      "types": [
+        "string"
+      ]
+    },
+    {
+      "path": "aweme_detail.video.play_addr.width",
+      "present_documents": 80,
+      "non_null_documents": 80,
+      "non_empty_documents": 80,
+      "types": [
+        "integer"
+      ]
+    },
+    {
+      "path": "aweme_detail.video.play_addr_265",
+      "present_documents": 80,
+      "non_null_documents": 80,
+      "non_empty_documents": 80,
+      "types": [
+        "object"
+      ]
+    },
+    {
+      "path": "aweme_detail.video.play_addr_265.data_size",
+      "present_documents": 80,
+      "non_null_documents": 80,
+      "non_empty_documents": 80,
+      "types": [
+        "integer"
+      ]
+    },
+    {
+      "path": "aweme_detail.video.play_addr_265.file_cs",
+      "present_documents": 80,
+      "non_null_documents": 80,
+      "non_empty_documents": 80,
+      "types": [
+        "string"
+      ]
+    },
+    {
+      "path": "aweme_detail.video.play_addr_265.file_hash",
+      "present_documents": 80,
+      "non_null_documents": 80,
+      "non_empty_documents": 80,
+      "types": [
+        "string"
+      ]
+    },
+    {
+      "path": "aweme_detail.video.play_addr_265.height",
+      "present_documents": 80,
+      "non_null_documents": 80,
+      "non_empty_documents": 80,
+      "types": [
+        "integer"
+      ]
+    },
+    {
+      "path": "aweme_detail.video.play_addr_265.uri",
+      "present_documents": 80,
+      "non_null_documents": 80,
+      "non_empty_documents": 80,
+      "types": [
+        "string"
+      ]
+    },
+    {
+      "path": "aweme_detail.video.play_addr_265.url_key",
+      "present_documents": 80,
+      "non_null_documents": 80,
+      "non_empty_documents": 80,
+      "types": [
+        "string"
+      ]
+    },
+    {
+      "path": "aweme_detail.video.play_addr_265.url_list",
+      "present_documents": 80,
+      "non_null_documents": 80,
+      "non_empty_documents": 80,
+      "types": [
+        "array"
+      ]
+    },
+    {
+      "path": "aweme_detail.video.play_addr_265.url_list[]",
+      "present_documents": 80,
+      "non_null_documents": 80,
+      "non_empty_documents": 80,
+      "types": [
+        "string"
+      ]
+    },
+    {
+      "path": "aweme_detail.video.play_addr_265.width",
+      "present_documents": 80,
+      "non_null_documents": 80,
+      "non_empty_documents": 80,
+      "types": [
+        "integer"
+      ]
+    },
+    {
+      "path": "aweme_detail.video.play_addr_h264",
+      "present_documents": 80,
+      "non_null_documents": 80,
+      "non_empty_documents": 80,
+      "types": [
+        "object"
+      ]
+    },
+    {
+      "path": "aweme_detail.video.play_addr_h264.data_size",
+      "present_documents": 80,
+      "non_null_documents": 80,
+      "non_empty_documents": 80,
+      "types": [
+        "integer"
+      ]
+    },
+    {
+      "path": "aweme_detail.video.play_addr_h264.file_cs",
+      "present_documents": 80,
+      "non_null_documents": 80,
+      "non_empty_documents": 80,
+      "types": [
+        "string"
+      ]
+    },
+    {
+      "path": "aweme_detail.video.play_addr_h264.file_hash",
+      "present_documents": 80,
+      "non_null_documents": 80,
+      "non_empty_documents": 80,
+      "types": [
+        "string"
+      ]
+    },
+    {
+      "path": "aweme_detail.video.play_addr_h264.height",
+      "present_documents": 80,
+      "non_null_documents": 80,
+      "non_empty_documents": 80,
+      "types": [
+        "integer"
+      ]
+    },
+    {
+      "path": "aweme_detail.video.play_addr_h264.uri",
+      "present_documents": 80,
+      "non_null_documents": 80,
+      "non_empty_documents": 80,
+      "types": [
+        "string"
+      ]
+    },
+    {
+      "path": "aweme_detail.video.play_addr_h264.url_key",
+      "present_documents": 80,
+      "non_null_documents": 80,
+      "non_empty_documents": 80,
+      "types": [
+        "string"
+      ]
+    },
+    {
+      "path": "aweme_detail.video.play_addr_h264.url_list",
+      "present_documents": 80,
+      "non_null_documents": 80,
+      "non_empty_documents": 80,
+      "types": [
+        "array"
+      ]
+    },
+    {
+      "path": "aweme_detail.video.play_addr_h264.url_list[]",
+      "present_documents": 80,
+      "non_null_documents": 80,
+      "non_empty_documents": 80,
+      "types": [
+        "string"
+      ]
+    },
+    {
+      "path": "aweme_detail.video.play_addr_h264.width",
+      "present_documents": 80,
+      "non_null_documents": 80,
+      "non_empty_documents": 80,
+      "types": [
+        "integer"
+      ]
+    },
+    {
+      "path": "aweme_detail.video.ratio",
+      "present_documents": 80,
+      "non_null_documents": 80,
+      "non_empty_documents": 80,
+      "types": [
+        "string"
+      ]
+    },
+    {
+      "path": "aweme_detail.video.video_model",
+      "present_documents": 80,
+      "non_null_documents": 80,
+      "non_empty_documents": 0,
+      "types": [
+        "string"
+      ]
+    },
+    {
+      "path": "aweme_detail.video.width",
+      "present_documents": 80,
+      "non_null_documents": 80,
+      "non_empty_documents": 80,
+      "types": [
+        "integer"
+      ]
+    },
+    {
+      "path": "aweme_detail.video_control",
+      "present_documents": 80,
+      "non_null_documents": 80,
+      "non_empty_documents": 80,
+      "types": [
+        "object"
+      ]
+    },
+    {
+      "path": "aweme_detail.video_control.allow_douplus",
+      "present_documents": 80,
+      "non_null_documents": 80,
+      "non_empty_documents": 80,
+      "types": [
+        "boolean"
+      ]
+    },
+    {
+      "path": "aweme_detail.video_control.allow_download",
+      "present_documents": 80,
+      "non_null_documents": 80,
+      "non_empty_documents": 80,
+      "types": [
+        "boolean"
+      ]
+    },
+    {
+      "path": "aweme_detail.video_control.allow_duet",
+      "present_documents": 80,
+      "non_null_documents": 80,
+      "non_empty_documents": 80,
+      "types": [
+        "boolean"
+      ]
+    },
+    {
+      "path": "aweme_detail.video_control.allow_dynamic_wallpaper",
+      "present_documents": 80,
+      "non_null_documents": 80,
+      "non_empty_documents": 80,
+      "types": [
+        "boolean"
+      ]
+    },
+    {
+      "path": "aweme_detail.video_control.allow_music",
+      "present_documents": 80,
+      "non_null_documents": 80,
+      "non_empty_documents": 80,
+      "types": [
+        "boolean"
+      ]
+    },
+    {
+      "path": "aweme_detail.video_control.allow_react",
+      "present_documents": 80,
+      "non_null_documents": 80,
+      "non_empty_documents": 80,
+      "types": [
+        "boolean"
+      ]
+    },
+    {
+      "path": "aweme_detail.video_control.allow_record",
+      "present_documents": 80,
+      "non_null_documents": 80,
+      "non_empty_documents": 80,
+      "types": [
+        "boolean"
+      ]
+    },
+    {
+      "path": "aweme_detail.video_control.allow_share",
+      "present_documents": 80,
+      "non_null_documents": 80,
+      "non_empty_documents": 80,
+      "types": [
+        "boolean"
+      ]
+    },
+    {
+      "path": "aweme_detail.video_control.allow_stitch",
+      "present_documents": 80,
+      "non_null_documents": 80,
+      "non_empty_documents": 80,
+      "types": [
+        "boolean"
+      ]
+    },
+    {
+      "path": "aweme_detail.video_control.disable_record_reason",
+      "present_documents": 80,
+      "non_null_documents": 80,
+      "non_empty_documents": 0,
+      "types": [
+        "string"
+      ]
+    },
+    {
+      "path": "aweme_detail.video_control.download_ignore_visibility",
+      "present_documents": 80,
+      "non_null_documents": 80,
+      "non_empty_documents": 80,
+      "types": [
+        "boolean"
+      ]
+    },
+    {
+      "path": "aweme_detail.video_control.download_info",
+      "present_documents": 80,
+      "non_null_documents": 80,
+      "non_empty_documents": 80,
+      "types": [
+        "object"
+      ]
+    },
+    {
+      "path": "aweme_detail.video_control.download_info.fail_info",
+      "present_documents": 71,
+      "non_null_documents": 71,
+      "non_empty_documents": 71,
+      "types": [
+        "object"
+      ]
+    },
+    {
+      "path": "aweme_detail.video_control.download_info.fail_info.code",
+      "present_documents": 71,
+      "non_null_documents": 71,
+      "non_empty_documents": 71,
+      "types": [
+        "integer"
+      ]
+    },
+    {
+      "path": "aweme_detail.video_control.download_info.fail_info.msg",
+      "present_documents": 53,
+      "non_null_documents": 53,
+      "non_empty_documents": 53,
+      "types": [
+        "string"
+      ]
+    },
+    {
+      "path": "aweme_detail.video_control.download_info.fail_info.reason",
+      "present_documents": 71,
+      "non_null_documents": 71,
+      "non_empty_documents": 71,
+      "types": [
+        "string"
+      ]
+    },
+    {
+      "path": "aweme_detail.video_control.download_info.level",
+      "present_documents": 80,
+      "non_null_documents": 80,
+      "non_empty_documents": 80,
+      "types": [
+        "integer"
+      ]
+    },
+    {
+      "path": "aweme_detail.video_control.draft_progress_bar",
+      "present_documents": 80,
+      "non_null_documents": 80,
+      "non_empty_documents": 80,
+      "types": [
+        "integer"
+      ]
+    },
+    {
+      "path": "aweme_detail.video_control.duet_ignore_visibility",
+      "present_documents": 80,
+      "non_null_documents": 80,
+      "non_empty_documents": 80,
+      "types": [
+        "boolean"
+      ]
+    },
+    {
+      "path": "aweme_detail.video_control.duet_info",
+      "present_documents": 80,
+      "non_null_documents": 80,
+      "non_empty_documents": 80,
+      "types": [
+        "object"
+      ]
+    },
+    {
+      "path": "aweme_detail.video_control.duet_info.fail_info",
+      "present_documents": 59,
+      "non_null_documents": 59,
+      "non_empty_documents": 59,
+      "types": [
+        "object"
+      ]
+    },
+    {
+      "path": "aweme_detail.video_control.duet_info.fail_info.code",
+      "present_documents": 59,
+      "non_null_documents": 59,
+      "non_empty_documents": 59,
+      "types": [
+        "integer"
+      ]
+    },
+    {
+      "path": "aweme_detail.video_control.duet_info.fail_info.reason",
+      "present_documents": 59,
+      "non_null_documents": 59,
+      "non_empty_documents": 59,
+      "types": [
+        "string"
+      ]
+    },
+    {
+      "path": "aweme_detail.video_control.duet_info.level",
+      "present_documents": 80,
+      "non_null_documents": 80,
+      "non_empty_documents": 80,
+      "types": [
+        "integer"
+      ]
+    },
+    {
+      "path": "aweme_detail.video_control.prevent_download_type",
+      "present_documents": 80,
+      "non_null_documents": 80,
+      "non_empty_documents": 80,
+      "types": [
+        "integer"
+      ]
+    },
+    {
+      "path": "aweme_detail.video_control.share_grayed",
+      "present_documents": 80,
+      "non_null_documents": 80,
+      "non_empty_documents": 80,
+      "types": [
+        "boolean"
+      ]
+    },
+    {
+      "path": "aweme_detail.video_control.share_ignore_visibility",
+      "present_documents": 80,
+      "non_null_documents": 80,
+      "non_empty_documents": 80,
+      "types": [
+        "boolean"
+      ]
+    },
+    {
+      "path": "aweme_detail.video_control.share_type",
+      "present_documents": 80,
+      "non_null_documents": 80,
+      "non_empty_documents": 80,
+      "types": [
+        "integer"
+      ]
+    },
+    {
+      "path": "aweme_detail.video_control.show_ai_corner",
+      "present_documents": 80,
+      "non_null_documents": 80,
+      "non_empty_documents": 80,
+      "types": [
+        "boolean"
+      ]
+    },
+    {
+      "path": "aweme_detail.video_control.show_progress_bar",
+      "present_documents": 80,
+      "non_null_documents": 80,
+      "non_empty_documents": 80,
+      "types": [
+        "integer"
+      ]
+    },
+    {
+      "path": "aweme_detail.video_control.show_watermark",
+      "present_documents": 80,
+      "non_null_documents": 80,
+      "non_empty_documents": 80,
+      "types": [
+        "boolean"
+      ]
+    },
+    {
+      "path": "aweme_detail.video_control.timer_info",
+      "present_documents": 80,
+      "non_null_documents": 80,
+      "non_empty_documents": 0,
+      "types": [
+        "object"
+      ]
+    },
+    {
+      "path": "aweme_detail.video_control.timer_status",
+      "present_documents": 80,
+      "non_null_documents": 80,
+      "non_empty_documents": 80,
+      "types": [
+        "integer"
+      ]
+    },
+    {
+      "path": "aweme_detail.video_game_data_channel_config",
+      "present_documents": 80,
+      "non_null_documents": 80,
+      "non_empty_documents": 0,
+      "types": [
+        "object"
+      ]
+    },
+    {
+      "path": "aweme_detail.video_labels",
+      "present_documents": 80,
+      "non_null_documents": 0,
+      "non_empty_documents": 0,
+      "types": [
+        "null"
+      ]
+    },
+    {
+      "path": "aweme_detail.video_share_edit_status",
+      "present_documents": 80,
+      "non_null_documents": 80,
+      "non_empty_documents": 80,
+      "types": [
+        "integer"
+      ]
+    },
+    {
+      "path": "aweme_detail.video_tag",
+      "present_documents": 80,
+      "non_null_documents": 80,
+      "non_empty_documents": 80,
+      "types": [
+        "array"
+      ]
+    },
+    {
+      "path": "aweme_detail.video_tag[]",
+      "present_documents": 80,
+      "non_null_documents": 80,
+      "non_empty_documents": 80,
+      "types": [
+        "object"
+      ]
+    },
+    {
+      "path": "aweme_detail.video_tag[].level",
+      "present_documents": 80,
+      "non_null_documents": 80,
+      "non_empty_documents": 80,
+      "types": [
+        "integer"
+      ]
+    },
+    {
+      "path": "aweme_detail.video_tag[].tag_id",
+      "present_documents": 80,
+      "non_null_documents": 80,
+      "non_empty_documents": 80,
+      "types": [
+        "integer"
+      ]
+    },
+    {
+      "path": "aweme_detail.video_tag[].tag_name",
+      "present_documents": 80,
+      "non_null_documents": 80,
+      "non_empty_documents": 80,
+      "types": [
+        "string"
+      ]
+    },
+    {
+      "path": "aweme_detail.video_text",
+      "present_documents": 80,
+      "non_null_documents": 80,
+      "non_empty_documents": 0,
+      "types": [
+        "array"
+      ]
+    },
+    {
+      "path": "aweme_detail.xigua_base_info",
+      "present_documents": 80,
+      "non_null_documents": 80,
+      "non_empty_documents": 80,
+      "types": [
+        "object"
+      ]
+    },
+    {
+      "path": "aweme_detail.xigua_base_info.item_id",
+      "present_documents": 80,
+      "non_null_documents": 80,
+      "non_empty_documents": 80,
+      "types": [
+        "integer"
+      ]
+    },
+    {
+      "path": "aweme_detail.xigua_base_info.star_altar_order_id",
+      "present_documents": 80,
+      "non_null_documents": 80,
+      "non_empty_documents": 80,
+      "types": [
+        "integer"
+      ]
+    },
+    {
+      "path": "aweme_detail.xigua_base_info.star_altar_type",
+      "present_documents": 80,
+      "non_null_documents": 80,
+      "non_empty_documents": 80,
+      "types": [
+        "integer"
+      ]
+    },
+    {
+      "path": "aweme_detail.xigua_base_info.status",
+      "present_documents": 80,
+      "non_null_documents": 80,
+      "non_empty_documents": 80,
+      "types": [
+        "integer"
+      ]
+    },
+    {
+      "path": "filter_detail",
+      "present_documents": 2,
+      "non_null_documents": 2,
+      "non_empty_documents": 2,
+      "types": [
+        "object"
+      ]
+    },
+    {
+      "path": "filter_detail.aweme_id",
+      "present_documents": 2,
+      "non_null_documents": 2,
+      "non_empty_documents": 2,
+      "types": [
+        "string"
+      ]
+    },
+    {
+      "path": "filter_detail.detail_msg",
+      "present_documents": 2,
+      "non_null_documents": 2,
+      "non_empty_documents": 2,
+      "types": [
+        "string"
+      ]
+    },
+    {
+      "path": "filter_detail.filter_reason",
+      "present_documents": 2,
+      "non_null_documents": 2,
+      "non_empty_documents": 2,
+      "types": [
+        "string"
+      ]
+    },
+    {
+      "path": "filter_detail.icon",
+      "present_documents": 2,
+      "non_null_documents": 2,
+      "non_empty_documents": 2,
+      "types": [
+        "string"
+      ]
+    },
+    {
+      "path": "filter_detail.notice",
+      "present_documents": 2,
+      "non_null_documents": 2,
+      "non_empty_documents": 2,
+      "types": [
+        "string"
+      ]
+    },
+    {
+      "path": "log_pb",
+      "present_documents": 82,
+      "non_null_documents": 82,
+      "non_empty_documents": 82,
+      "types": [
+        "object"
+      ]
+    },
+    {
+      "path": "log_pb.impr_id",
+      "present_documents": 82,
+      "non_null_documents": 82,
+      "non_empty_documents": 82,
+      "types": [
+        "string"
+      ]
+    },
+    {
+      "path": "status_code",
+      "present_documents": 82,
+      "non_null_documents": 82,
+      "non_empty_documents": 82,
+      "types": [
+        "integer"
+      ]
+    }
+  ]
+}

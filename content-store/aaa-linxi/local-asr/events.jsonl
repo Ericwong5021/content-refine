@@ -1,0 +1,403 @@
+{"at": "2026-08-28T09:35:11+08:00", "event": "run_started", "run_id": "2b98d4f63e5f4388860c8e660871f0d1", "item_count": 1, "device": "mps"}
+{"at": "2026-08-28T09:36:12+08:00", "event": "run_started", "run_id": "84cc1a6b074d45798ab0a108ffc280a1", "item_count": 1, "device": "mps"}
+{"at": "2026-08-28T09:36:12+08:00", "event": "anonymous_session_ready", "run_id": "84cc1a6b074d45798ab0a108ffc280a1"}
+{"at": "2026-08-28T09:36:12+08:00", "event": "item_started", "run_id": "84cc1a6b074d45798ab0a108ffc280a1", "aweme_id": "7647561990352674469", "position": 1, "pending_count": 1}
+{"at": "2026-08-28T09:36:23+08:00", "event": "model_ready", "run_id": "84cc1a6b074d45798ab0a108ffc280a1", "load_sec": 10.008}
+{"at": "2026-08-28T09:36:40+08:00", "event": "item_completed", "run_id": "84cc1a6b074d45798ab0a108ffc280a1", "aweme_id": "7647561990352674469", "chars": 1941, "audio_bytes": 3716147, "download_sec": 1.185, "asr_sec": 15.525}
+{"at": "2026-08-28T09:36:40+08:00", "event": "run_completed", "run_id": "84cc1a6b074d45798ab0a108ffc280a1", "status": "COMPLETED", "input_count": 1, "newly_completed": 1, "newly_unavailable": 0, "result_count": 1, "completed_count": 1, "unavailable_count": 0, "finished_at": "2026-08-28T09:36:40+08:00"}
+{"at": "2026-08-28T09:37:49+08:00", "event": "run_started", "run_id": "d70b2fe0ace34f3c8a861b4b26f7bd2c", "item_count": 82, "device": "mps"}
+{"at": "2026-08-28T09:37:49+08:00", "event": "anonymous_session_ready", "run_id": "d70b2fe0ace34f3c8a861b4b26f7bd2c"}
+{"at": "2026-08-28T09:37:49+08:00", "event": "item_skipped", "run_id": "d70b2fe0ace34f3c8a861b4b26f7bd2c", "aweme_id": "7647561990352674469"}
+{"at": "2026-08-28T09:37:49+08:00", "event": "item_started", "run_id": "d70b2fe0ace34f3c8a861b4b26f7bd2c", "aweme_id": "7673577276156433913", "position": 1, "pending_count": 81}
+{"at": "2026-08-28T09:37:59+08:00", "event": "model_ready", "run_id": "d70b2fe0ace34f3c8a861b4b26f7bd2c", "load_sec": 9.623}
+{"at": "2026-08-28T09:38:17+08:00", "event": "item_completed", "run_id": "d70b2fe0ace34f3c8a861b4b26f7bd2c", "aweme_id": "7673577276156433913", "chars": 1434, "audio_bytes": 2834195, "download_sec": 2.352, "asr_sec": 15.206}
+{"at": "2026-08-28T09:38:17+08:00", "event": "item_started", "run_id": "d70b2fe0ace34f3c8a861b4b26f7bd2c", "aweme_id": "7638279848310361009", "position": 2, "pending_count": 81}
+{"at": "2026-08-28T09:38:29+08:00", "event": "item_completed", "run_id": "d70b2fe0ace34f3c8a861b4b26f7bd2c", "aweme_id": "7638279848310361009", "chars": 1265, "audio_bytes": 2439281, "download_sec": 0.7, "asr_sec": 10.292}
+{"at": "2026-08-28T09:38:29+08:00", "event": "item_started", "run_id": "d70b2fe0ace34f3c8a861b4b26f7bd2c", "aweme_id": "7673293441208795129", "position": 3, "pending_count": 81}
+{"at": "2026-08-28T09:38:51+08:00", "event": "item_completed", "run_id": "d70b2fe0ace34f3c8a861b4b26f7bd2c", "aweme_id": "7673293441208795129", "chars": 2162, "audio_bytes": 4307839, "download_sec": 1.938, "asr_sec": 19.579}
+{"at": "2026-08-28T09:38:51+08:00", "event": "item_started", "run_id": "d70b2fe0ace34f3c8a861b4b26f7bd2c", "aweme_id": "7674505376335557114", "position": 4, "pending_count": 81}
+{"at": "2026-08-28T09:39:25+08:00", "event": "item_completed", "run_id": "d70b2fe0ace34f3c8a861b4b26f7bd2c", "aweme_id": "7674505376335557114", "chars": 2786, "audio_bytes": 7009247, "download_sec": 1.028, "asr_sec": 32.825}
+{"at": "2026-08-28T09:39:25+08:00", "event": "item_started", "run_id": "d70b2fe0ace34f3c8a861b4b26f7bd2c", "aweme_id": "7671069734456233649", "position": 5, "pending_count": 81}
+{"at": "2026-08-28T09:39:44+08:00", "event": "item_completed", "run_id": "d70b2fe0ace34f3c8a861b4b26f7bd2c", "aweme_id": "7671069734456233649", "chars": 1463, "audio_bytes": 3109688, "download_sec": 1.87, "asr_sec": 15.966}
+{"at": "2026-08-28T09:39:44+08:00", "event": "item_started", "run_id": "d70b2fe0ace34f3c8a861b4b26f7bd2c", "aweme_id": "7668369954441799675", "position": 6, "pending_count": 81}
+{"at": "2026-08-28T09:40:00+08:00", "event": "item_completed", "run_id": "d70b2fe0ace34f3c8a861b4b26f7bd2c", "aweme_id": "7668369954441799675", "chars": 1403, "audio_bytes": 2829237, "download_sec": 1.955, "asr_sec": 13.736}
+{"at": "2026-08-28T09:40:00+08:00", "event": "item_started", "run_id": "d70b2fe0ace34f3c8a861b4b26f7bd2c", "aweme_id": "7669535262086909553", "position": 7, "pending_count": 81}
+{"at": "2026-08-28T09:40:20+08:00", "event": "item_completed", "run_id": "d70b2fe0ace34f3c8a861b4b26f7bd2c", "aweme_id": "7669535262086909553", "chars": 1496, "audio_bytes": 3232568, "download_sec": 2.157, "asr_sec": 17.107}
+{"at": "2026-08-28T09:40:20+08:00", "event": "item_started", "run_id": "d70b2fe0ace34f3c8a861b4b26f7bd2c", "aweme_id": "7670309610209497787", "position": 8, "pending_count": 81}
+{"at": "2026-08-28T09:40:41+08:00", "event": "item_completed", "run_id": "d70b2fe0ace34f3c8a861b4b26f7bd2c", "aweme_id": "7670309610209497787", "chars": 2012, "audio_bytes": 3980463, "download_sec": 1.477, "asr_sec": 19.344}
+{"at": "2026-08-28T09:40:41+08:00", "event": "item_started", "run_id": "d70b2fe0ace34f3c8a861b4b26f7bd2c", "aweme_id": "7668373084122170553", "position": 9, "pending_count": 81}
+{"at": "2026-08-28T09:40:59+08:00", "event": "item_completed", "run_id": "d70b2fe0ace34f3c8a861b4b26f7bd2c", "aweme_id": "7668373084122170553", "chars": 1803, "audio_bytes": 3456901, "download_sec": 1.901, "asr_sec": 15.741}
+{"at": "2026-08-28T09:40:59+08:00", "event": "item_started", "run_id": "d70b2fe0ace34f3c8a861b4b26f7bd2c", "aweme_id": "7667735558396166650", "position": 10, "pending_count": 81}
+{"at": "2026-08-28T09:41:24+08:00", "event": "item_completed", "run_id": "d70b2fe0ace34f3c8a861b4b26f7bd2c", "aweme_id": "7667735558396166650", "chars": 2534, "audio_bytes": 4652705, "download_sec": 2.661, "asr_sec": 22.03}
+{"at": "2026-08-28T09:41:24+08:00", "event": "item_started", "run_id": "d70b2fe0ace34f3c8a861b4b26f7bd2c", "aweme_id": "7668871805768447418", "position": 11, "pending_count": 81}
+{"at": "2026-08-28T09:41:47+08:00", "event": "item_completed", "run_id": "d70b2fe0ace34f3c8a861b4b26f7bd2c", "aweme_id": "7668871805768447418", "chars": 1721, "audio_bytes": 3808420, "download_sec": 1.997, "asr_sec": 19.19}
+{"at": "2026-08-28T09:41:47+08:00", "event": "item_started", "run_id": "d70b2fe0ace34f3c8a861b4b26f7bd2c", "aweme_id": "7663243701540856433", "position": 12, "pending_count": 81}
+{"at": "2026-08-28T09:42:01+08:00", "event": "item_completed", "run_id": "d70b2fe0ace34f3c8a861b4b26f7bd2c", "aweme_id": "7663243701540856433", "chars": 1264, "audio_bytes": 2644026, "download_sec": 2.3, "asr_sec": 11.951}
+{"at": "2026-08-28T09:42:01+08:00", "event": "item_started", "run_id": "d70b2fe0ace34f3c8a861b4b26f7bd2c", "aweme_id": "7661803843525096635", "position": 13, "pending_count": 81}
+{"at": "2026-08-28T09:42:21+08:00", "event": "item_completed", "run_id": "d70b2fe0ace34f3c8a861b4b26f7bd2c", "aweme_id": "7661803843525096635", "chars": 2017, "audio_bytes": 3965874, "download_sec": 1.676, "asr_sec": 17.981}
+{"at": "2026-08-28T09:42:21+08:00", "event": "item_started", "run_id": "d70b2fe0ace34f3c8a861b4b26f7bd2c", "aweme_id": "7665159402169023419", "position": 14, "pending_count": 81}
+{"at": "2026-08-28T09:42:44+08:00", "event": "item_completed", "run_id": "d70b2fe0ace34f3c8a861b4b26f7bd2c", "aweme_id": "7665159402169023419", "chars": 2573, "audio_bytes": 4736289, "download_sec": 2.041, "asr_sec": 19.992}
+{"at": "2026-08-28T09:42:44+08:00", "event": "item_started", "run_id": "d70b2fe0ace34f3c8a861b4b26f7bd2c", "aweme_id": "7661169287754860977", "position": 15, "pending_count": 81}
+{"at": "2026-08-28T09:43:06+08:00", "event": "item_completed", "run_id": "d70b2fe0ace34f3c8a861b4b26f7bd2c", "aweme_id": "7661169287754860977", "chars": 1852, "audio_bytes": 3836101, "download_sec": 2.46, "asr_sec": 18.484}
+{"at": "2026-08-28T09:43:06+08:00", "event": "item_started", "run_id": "d70b2fe0ace34f3c8a861b4b26f7bd2c", "aweme_id": "7663241712110852773", "position": 16, "pending_count": 81}
+{"at": "2026-08-28T09:43:26+08:00", "event": "item_completed", "run_id": "d70b2fe0ace34f3c8a861b4b26f7bd2c", "aweme_id": "7663241712110852773", "chars": 1560, "audio_bytes": 3466508, "download_sec": 2.321, "asr_sec": 17.106}
+{"at": "2026-08-28T09:43:26+08:00", "event": "item_started", "run_id": "d70b2fe0ace34f3c8a861b4b26f7bd2c", "aweme_id": "7663223699977346233", "position": 17, "pending_count": 81}
+{"at": "2026-08-28T09:43:45+08:00", "event": "item_completed", "run_id": "d70b2fe0ace34f3c8a861b4b26f7bd2c", "aweme_id": "7663223699977346233", "chars": 2245, "audio_bytes": 4226779, "download_sec": 0.836, "asr_sec": 17.992}
+{"at": "2026-08-28T09:43:45+08:00", "event": "item_started", "run_id": "d70b2fe0ace34f3c8a861b4b26f7bd2c", "aweme_id": "7663219400774338683", "position": 18, "pending_count": 81}
+{"at": "2026-08-28T09:44:12+08:00", "event": "item_completed", "run_id": "d70b2fe0ace34f3c8a861b4b26f7bd2c", "aweme_id": "7663219400774338683", "chars": 1601, "audio_bytes": 3558931, "download_sec": 1.336, "asr_sec": 24.858}
+{"at": "2026-08-28T09:44:12+08:00", "event": "item_started", "run_id": "d70b2fe0ace34f3c8a861b4b26f7bd2c", "aweme_id": "7662666926325915642", "position": 19, "pending_count": 81}
+{"at": "2026-08-28T09:44:38+08:00", "event": "item_completed", "run_id": "d70b2fe0ace34f3c8a861b4b26f7bd2c", "aweme_id": "7662666926325915642", "chars": 1887, "audio_bytes": 3611546, "download_sec": 2.648, "asr_sec": 22.8}
+{"at": "2026-08-28T09:44:38+08:00", "event": "item_started", "run_id": "d70b2fe0ace34f3c8a861b4b26f7bd2c", "aweme_id": "7656204261777334629", "position": 20, "pending_count": 81}
+{"at": "2026-08-28T09:44:56+08:00", "event": "item_completed", "run_id": "d70b2fe0ace34f3c8a861b4b26f7bd2c", "aweme_id": "7656204261777334629", "chars": 1541, "audio_bytes": 2978338, "download_sec": 1.804, "asr_sec": 15.911}
+{"at": "2026-08-28T09:44:56+08:00", "event": "item_started", "run_id": "d70b2fe0ace34f3c8a861b4b26f7bd2c", "aweme_id": "7655357966699688549", "position": 21, "pending_count": 81}
+{"at": "2026-08-28T09:45:16+08:00", "event": "item_completed", "run_id": "d70b2fe0ace34f3c8a861b4b26f7bd2c", "aweme_id": "7655357966699688549", "chars": 1904, "audio_bytes": 3721904, "download_sec": 2.364, "asr_sec": 16.507}
+{"at": "2026-08-28T09:45:16+08:00", "event": "item_started", "run_id": "d70b2fe0ace34f3c8a861b4b26f7bd2c", "aweme_id": "7661016101333103483", "position": 22, "pending_count": 81}
+{"at": "2026-08-28T09:45:54+08:00", "event": "item_completed", "run_id": "d70b2fe0ace34f3c8a861b4b26f7bd2c", "aweme_id": "7661016101333103483", "chars": 1684, "audio_bytes": 4107607, "download_sec": 3.212, "asr_sec": 34.891}
+{"at": "2026-08-28T09:45:54+08:00", "event": "item_started", "run_id": "d70b2fe0ace34f3c8a861b4b26f7bd2c", "aweme_id": "7653376665279694970", "position": 23, "pending_count": 81}
+{"at": "2026-08-28T09:46:32+08:00", "event": "item_completed", "run_id": "d70b2fe0ace34f3c8a861b4b26f7bd2c", "aweme_id": "7653376665279694970", "chars": 1585, "audio_bytes": 3240816, "download_sec": 1.851, "asr_sec": 34.735}
+{"at": "2026-08-28T09:46:32+08:00", "event": "item_started", "run_id": "d70b2fe0ace34f3c8a861b4b26f7bd2c", "aweme_id": "7658487994466562746", "position": 24, "pending_count": 81}
+{"at": "2026-08-28T09:48:55+08:00", "event": "item_completed", "run_id": "d70b2fe0ace34f3c8a861b4b26f7bd2c", "aweme_id": "7658487994466562746", "chars": 2474, "audio_bytes": 4970764, "download_sec": 1.481, "asr_sec": 141.324}
+{"at": "2026-08-28T09:48:55+08:00", "event": "item_started", "run_id": "d70b2fe0ace34f3c8a861b4b26f7bd2c", "aweme_id": "7658489785451351717", "position": 25, "pending_count": 81}
+{"at": "2026-08-28T09:49:55+08:00", "event": "item_completed", "run_id": "d70b2fe0ace34f3c8a861b4b26f7bd2c", "aweme_id": "7658489785451351717", "chars": 2398, "audio_bytes": 5348219, "download_sec": 3.525, "asr_sec": 54.869}
+{"at": "2026-08-28T09:49:55+08:00", "event": "item_started", "run_id": "d70b2fe0ace34f3c8a861b4b26f7bd2c", "aweme_id": "7655972138499440122", "position": 26, "pending_count": 81}
+{"at": "2026-08-28T09:50:26+08:00", "event": "item_completed", "run_id": "d70b2fe0ace34f3c8a861b4b26f7bd2c", "aweme_id": "7655972138499440122", "chars": 1253, "audio_bytes": 2776950, "download_sec": 1.628, "asr_sec": 28.523}
+{"at": "2026-08-28T09:50:26+08:00", "event": "item_started", "run_id": "d70b2fe0ace34f3c8a861b4b26f7bd2c", "aweme_id": "7655395292368912057", "position": 27, "pending_count": 81}
+{"at": "2026-08-28T09:51:20+08:00", "event": "item_completed", "run_id": "d70b2fe0ace34f3c8a861b4b26f7bd2c", "aweme_id": "7655395292368912057", "chars": 1745, "audio_bytes": 3505028, "download_sec": 3.533, "asr_sec": 48.994}
+{"at": "2026-08-28T09:51:20+08:00", "event": "item_started", "run_id": "d70b2fe0ace34f3c8a861b4b26f7bd2c", "aweme_id": "7655919946677084529", "position": 28, "pending_count": 81}
+{"at": "2026-08-28T09:53:49+08:00", "event": "item_completed", "run_id": "d70b2fe0ace34f3c8a861b4b26f7bd2c", "aweme_id": "7655919946677084529", "chars": 1851, "audio_bytes": 3469526, "download_sec": 2.933, "asr_sec": 144.423}
+{"at": "2026-08-28T09:53:49+08:00", "event": "item_started", "run_id": "d70b2fe0ace34f3c8a861b4b26f7bd2c", "aweme_id": "7654611523558550779", "position": 29, "pending_count": 81}
+{"at": "2026-08-28T09:54:39+08:00", "event": "item_completed", "run_id": "d70b2fe0ace34f3c8a861b4b26f7bd2c", "aweme_id": "7654611523558550779", "chars": 1907, "audio_bytes": 3930031, "download_sec": 1.94, "asr_sec": 46.608}
+{"at": "2026-08-28T09:54:39+08:00", "event": "item_started", "run_id": "d70b2fe0ace34f3c8a861b4b26f7bd2c", "aweme_id": "7655043330086400379", "position": 30, "pending_count": 81}
+{"at": "2026-08-28T09:54:52+08:00", "event": "item_completed", "run_id": "d70b2fe0ace34f3c8a861b4b26f7bd2c", "aweme_id": "7655043330086400379", "chars": 1779, "audio_bytes": 3824342, "download_sec": 1.855, "asr_sec": 10.596}
+{"at": "2026-08-28T09:54:52+08:00", "event": "item_started", "run_id": "d70b2fe0ace34f3c8a861b4b26f7bd2c", "aweme_id": "7655355835291593977", "position": 31, "pending_count": 81}
+{"at": "2026-08-28T09:55:18+08:00", "event": "item_completed", "run_id": "d70b2fe0ace34f3c8a861b4b26f7bd2c", "aweme_id": "7655355835291593977", "chars": 1312, "audio_bytes": 2695072, "download_sec": 1.328, "asr_sec": 23.685}
+{"at": "2026-08-28T09:55:18+08:00", "event": "item_started", "run_id": "d70b2fe0ace34f3c8a861b4b26f7bd2c", "aweme_id": "7654231180670334906", "position": 32, "pending_count": 81}
+{"at": "2026-08-28T09:55:58+08:00", "event": "item_completed", "run_id": "d70b2fe0ace34f3c8a861b4b26f7bd2c", "aweme_id": "7654231180670334906", "chars": 1374, "audio_bytes": 2964238, "download_sec": 2.318, "asr_sec": 36.225}
+{"at": "2026-08-28T09:55:58+08:00", "event": "item_started", "run_id": "d70b2fe0ace34f3c8a861b4b26f7bd2c", "aweme_id": "7654654307861835707", "position": 33, "pending_count": 81}
+{"at": "2026-08-28T09:56:33+08:00", "event": "item_completed", "run_id": "d70b2fe0ace34f3c8a861b4b26f7bd2c", "aweme_id": "7654654307861835707", "chars": 1550, "audio_bytes": 2949192, "download_sec": 2.318, "asr_sec": 31.796}
+{"at": "2026-08-28T09:56:33+08:00", "event": "item_started", "run_id": "d70b2fe0ace34f3c8a861b4b26f7bd2c", "aweme_id": "7653890096488052474", "position": 34, "pending_count": 81}
+{"at": "2026-08-28T09:57:22+08:00", "event": "item_completed", "run_id": "d70b2fe0ace34f3c8a861b4b26f7bd2c", "aweme_id": "7653890096488052474", "chars": 2131, "audio_bytes": 4312935, "download_sec": 2.391, "asr_sec": 46.639}
+{"at": "2026-08-28T09:57:22+08:00", "event": "item_started", "run_id": "d70b2fe0ace34f3c8a861b4b26f7bd2c", "aweme_id": "7650383284517701297", "position": 35, "pending_count": 81}
+{"at": "2026-08-28T09:57:54+08:00", "event": "item_completed", "run_id": "d70b2fe0ace34f3c8a861b4b26f7bd2c", "aweme_id": "7650383284517701297", "chars": 1671, "audio_bytes": 3266005, "download_sec": 1.795, "asr_sec": 29.354}
+{"at": "2026-08-28T09:57:54+08:00", "event": "item_started", "run_id": "d70b2fe0ace34f3c8a861b4b26f7bd2c", "aweme_id": "7652225334909087857", "position": 36, "pending_count": 81}
+{"at": "2026-08-28T09:58:16+08:00", "event": "item_completed", "run_id": "d70b2fe0ace34f3c8a861b4b26f7bd2c", "aweme_id": "7652225334909087857", "chars": 1569, "audio_bytes": 3075833, "download_sec": 1.505, "asr_sec": 19.333}
+{"at": "2026-08-28T09:58:16+08:00", "event": "item_started", "run_id": "d70b2fe0ace34f3c8a861b4b26f7bd2c", "aweme_id": "7650386623877142641", "position": 37, "pending_count": 81}
+{"at": "2026-08-28T09:59:11+08:00", "event": "item_completed", "run_id": "d70b2fe0ace34f3c8a861b4b26f7bd2c", "aweme_id": "7650386623877142641", "chars": 2910, "audio_bytes": 5692963, "download_sec": 4.669, "asr_sec": 50.068}
+{"at": "2026-08-28T09:59:11+08:00", "event": "item_started", "run_id": "d70b2fe0ace34f3c8a861b4b26f7bd2c", "aweme_id": "7641748270666502053", "position": 38, "pending_count": 81}
+{"at": "2026-08-28T09:59:48+08:00", "event": "item_completed", "run_id": "d70b2fe0ace34f3c8a861b4b26f7bd2c", "aweme_id": "7641748270666502053", "chars": 1214, "audio_bytes": 2571774, "download_sec": 1.086, "asr_sec": 35.574}
+{"at": "2026-08-28T09:59:48+08:00", "event": "item_started", "run_id": "d70b2fe0ace34f3c8a861b4b26f7bd2c", "aweme_id": "7648070053632915707", "position": 39, "pending_count": 81}
+{"at": "2026-08-28T10:00:10+08:00", "event": "item_completed", "run_id": "d70b2fe0ace34f3c8a861b4b26f7bd2c", "aweme_id": "7648070053632915707", "chars": 1298, "audio_bytes": 2741466, "download_sec": 0.698, "asr_sec": 20.974}
+{"at": "2026-08-28T10:00:10+08:00", "event": "item_started", "run_id": "d70b2fe0ace34f3c8a861b4b26f7bd2c", "aweme_id": "7643898683566478458", "position": 40, "pending_count": 81}
+{"at": "2026-08-28T10:00:38+08:00", "event": "item_completed", "run_id": "d70b2fe0ace34f3c8a861b4b26f7bd2c", "aweme_id": "7643898683566478458", "chars": 1740, "audio_bytes": 3440294, "download_sec": 1.718, "asr_sec": 25.542}
+{"at": "2026-08-28T10:00:38+08:00", "event": "item_started", "run_id": "d70b2fe0ace34f3c8a861b4b26f7bd2c", "aweme_id": "7651030160317442938", "position": 41, "pending_count": 81}
+{"at": "2026-08-28T10:01:10+08:00", "event": "item_completed", "run_id": "d70b2fe0ace34f3c8a861b4b26f7bd2c", "aweme_id": "7651030160317442938", "chars": 1905, "audio_bytes": 3912587, "download_sec": 1.5, "asr_sec": 28.938}
+{"at": "2026-08-28T10:01:10+08:00", "event": "item_started", "run_id": "d70b2fe0ace34f3c8a861b4b26f7bd2c", "aweme_id": "7651321893286891513", "position": 42, "pending_count": 81}
+{"at": "2026-08-28T10:01:39+08:00", "event": "item_completed", "run_id": "d70b2fe0ace34f3c8a861b4b26f7bd2c", "aweme_id": "7651321893286891513", "chars": 2110, "audio_bytes": 3922852, "download_sec": 2.426, "asr_sec": 25.684}
+{"at": "2026-08-28T10:01:39+08:00", "event": "item_started", "run_id": "d70b2fe0ace34f3c8a861b4b26f7bd2c", "aweme_id": "7650179880881676025", "position": 43, "pending_count": 81}
+{"at": "2026-08-28T10:02:13+08:00", "event": "item_completed", "run_id": "d70b2fe0ace34f3c8a861b4b26f7bd2c", "aweme_id": "7650179880881676025", "chars": 1174, "audio_bytes": 2453074, "download_sec": 1.221, "asr_sec": 31.843}
+{"at": "2026-08-28T10:02:13+08:00", "event": "item_started", "run_id": "d70b2fe0ace34f3c8a861b4b26f7bd2c", "aweme_id": "7650188676403874533", "position": 44, "pending_count": 81}
+{"at": "2026-08-28T10:02:45+08:00", "event": "item_completed", "run_id": "d70b2fe0ace34f3c8a861b4b26f7bd2c", "aweme_id": "7650188676403874533", "chars": 1402, "audio_bytes": 3036127, "download_sec": 1.174, "asr_sec": 29.955}
+{"at": "2026-08-28T11:47:45+08:00", "event": "run_started", "run_id": "a3ceb67c5c764275bffc8f7918fd88b4", "item_count": 1, "device": "mps"}
+{"at": "2026-08-28T11:47:46+08:00", "event": "anonymous_session_ready", "run_id": "a3ceb67c5c764275bffc8f7918fd88b4"}
+{"at": "2026-08-28T11:47:46+08:00", "event": "item_started", "run_id": "a3ceb67c5c764275bffc8f7918fd88b4", "aweme_id": "7647561990352674469", "position": 1, "pending_count": 1}
+{"at": "2026-08-28T11:47:47+08:00", "event": "asr_reused", "run_id": "a3ceb67c5c764275bffc8f7918fd88b4", "aweme_id": "7647561990352674469", "chars": 1941}
+{"at": "2026-08-28T11:47:47+08:00", "event": "item_completed", "run_id": "a3ceb67c5c764275bffc8f7918fd88b4", "aweme_id": "7647561990352674469", "chars": 1941, "audio_bytes": 3716147, "download_sec": 0.399, "asr_sec": 0}
+{"at": "2026-08-28T11:47:47+08:00", "event": "run_completed", "run_id": "a3ceb67c5c764275bffc8f7918fd88b4", "status": "COMPLETED", "input_count": 1, "newly_completed": 1, "newly_unavailable": 0, "result_count": 1, "completed_count": 1, "unavailable_count": 0, "finished_at": "2026-08-28T11:47:47+08:00"}
+{"at": "2026-08-28T11:51:44+08:00", "event": "run_started", "run_id": "c186b2c514204b798160c947ffce8dfd", "item_count": 82, "device": "mps"}
+{"at": "2026-08-28T11:51:45+08:00", "event": "anonymous_session_ready", "run_id": "c186b2c514204b798160c947ffce8dfd"}
+{"at": "2026-08-28T11:51:45+08:00", "event": "item_skipped", "run_id": "c186b2c514204b798160c947ffce8dfd", "aweme_id": "7647561990352674469"}
+{"at": "2026-08-28T11:51:45+08:00", "event": "item_started", "run_id": "c186b2c514204b798160c947ffce8dfd", "aweme_id": "7673577276156433913", "position": 1, "pending_count": 81}
+{"at": "2026-08-28T11:51:47+08:00", "event": "asr_reused", "run_id": "c186b2c514204b798160c947ffce8dfd", "aweme_id": "7673577276156433913", "chars": 1434}
+{"at": "2026-08-28T11:51:47+08:00", "event": "item_completed", "run_id": "c186b2c514204b798160c947ffce8dfd", "aweme_id": "7673577276156433913", "chars": 1434, "audio_bytes": 2834195, "download_sec": 1.967, "asr_sec": 0}
+{"at": "2026-08-28T11:51:47+08:00", "event": "item_started", "run_id": "c186b2c514204b798160c947ffce8dfd", "aweme_id": "7638279848310361009", "position": 2, "pending_count": 81}
+{"at": "2026-08-28T11:51:49+08:00", "event": "asr_reused", "run_id": "c186b2c514204b798160c947ffce8dfd", "aweme_id": "7638279848310361009", "chars": 1265}
+{"at": "2026-08-28T11:51:49+08:00", "event": "item_completed", "run_id": "c186b2c514204b798160c947ffce8dfd", "aweme_id": "7638279848310361009", "chars": 1265, "audio_bytes": 2439281, "download_sec": 1.172, "asr_sec": 0}
+{"at": "2026-08-28T11:51:49+08:00", "event": "item_started", "run_id": "c186b2c514204b798160c947ffce8dfd", "aweme_id": "7673293441208795129", "position": 3, "pending_count": 81}
+{"at": "2026-08-28T11:51:51+08:00", "event": "asr_reused", "run_id": "c186b2c514204b798160c947ffce8dfd", "aweme_id": "7673293441208795129", "chars": 2162}
+{"at": "2026-08-28T11:51:51+08:00", "event": "item_completed", "run_id": "c186b2c514204b798160c947ffce8dfd", "aweme_id": "7673293441208795129", "chars": 2162, "audio_bytes": 4307839, "download_sec": 2.071, "asr_sec": 0}
+{"at": "2026-08-28T11:51:51+08:00", "event": "item_started", "run_id": "c186b2c514204b798160c947ffce8dfd", "aweme_id": "7674505376335557114", "position": 4, "pending_count": 81}
+{"at": "2026-08-28T11:51:56+08:00", "event": "asr_reused", "run_id": "c186b2c514204b798160c947ffce8dfd", "aweme_id": "7674505376335557114", "chars": 2786}
+{"at": "2026-08-28T11:51:56+08:00", "event": "item_completed", "run_id": "c186b2c514204b798160c947ffce8dfd", "aweme_id": "7674505376335557114", "chars": 2786, "audio_bytes": 7009247, "download_sec": 3.527, "asr_sec": 0}
+{"at": "2026-08-28T11:51:56+08:00", "event": "item_started", "run_id": "c186b2c514204b798160c947ffce8dfd", "aweme_id": "7671069734456233649", "position": 5, "pending_count": 81}
+{"at": "2026-08-28T11:51:57+08:00", "event": "asr_reused", "run_id": "c186b2c514204b798160c947ffce8dfd", "aweme_id": "7671069734456233649", "chars": 1463}
+{"at": "2026-08-28T11:51:57+08:00", "event": "item_completed", "run_id": "c186b2c514204b798160c947ffce8dfd", "aweme_id": "7671069734456233649", "chars": 1463, "audio_bytes": 3109688, "download_sec": 0.718, "asr_sec": 0}
+{"at": "2026-08-28T11:51:57+08:00", "event": "item_started", "run_id": "c186b2c514204b798160c947ffce8dfd", "aweme_id": "7668369954441799675", "position": 6, "pending_count": 81}
+{"at": "2026-08-28T11:51:57+08:00", "event": "asr_reused", "run_id": "c186b2c514204b798160c947ffce8dfd", "aweme_id": "7668369954441799675", "chars": 1403}
+{"at": "2026-08-28T11:51:57+08:00", "event": "item_completed", "run_id": "c186b2c514204b798160c947ffce8dfd", "aweme_id": "7668369954441799675", "chars": 1403, "audio_bytes": 2829237, "download_sec": 0.13, "asr_sec": 0}
+{"at": "2026-08-28T11:51:57+08:00", "event": "item_started", "run_id": "c186b2c514204b798160c947ffce8dfd", "aweme_id": "7669535262086909553", "position": 7, "pending_count": 81}
+{"at": "2026-08-28T11:52:00+08:00", "event": "asr_reused", "run_id": "c186b2c514204b798160c947ffce8dfd", "aweme_id": "7669535262086909553", "chars": 1496}
+{"at": "2026-08-28T11:52:00+08:00", "event": "item_completed", "run_id": "c186b2c514204b798160c947ffce8dfd", "aweme_id": "7669535262086909553", "chars": 1496, "audio_bytes": 3232568, "download_sec": 2.07, "asr_sec": 0}
+{"at": "2026-08-28T11:52:00+08:00", "event": "item_started", "run_id": "c186b2c514204b798160c947ffce8dfd", "aweme_id": "7670309610209497787", "position": 8, "pending_count": 81}
+{"at": "2026-08-28T11:52:02+08:00", "event": "asr_reused", "run_id": "c186b2c514204b798160c947ffce8dfd", "aweme_id": "7670309610209497787", "chars": 2012}
+{"at": "2026-08-28T11:52:02+08:00", "event": "item_completed", "run_id": "c186b2c514204b798160c947ffce8dfd", "aweme_id": "7670309610209497787", "chars": 2012, "audio_bytes": 3980463, "download_sec": 1.734, "asr_sec": 0}
+{"at": "2026-08-28T11:52:02+08:00", "event": "item_started", "run_id": "c186b2c514204b798160c947ffce8dfd", "aweme_id": "7668373084122170553", "position": 9, "pending_count": 81}
+{"at": "2026-08-28T11:52:04+08:00", "event": "asr_reused", "run_id": "c186b2c514204b798160c947ffce8dfd", "aweme_id": "7668373084122170553", "chars": 1803}
+{"at": "2026-08-28T11:52:04+08:00", "event": "item_completed", "run_id": "c186b2c514204b798160c947ffce8dfd", "aweme_id": "7668373084122170553", "chars": 1803, "audio_bytes": 3456901, "download_sec": 1.678, "asr_sec": 0}
+{"at": "2026-08-28T11:52:04+08:00", "event": "item_started", "run_id": "c186b2c514204b798160c947ffce8dfd", "aweme_id": "7667735558396166650", "position": 10, "pending_count": 81}
+{"at": "2026-08-28T11:52:07+08:00", "event": "asr_reused", "run_id": "c186b2c514204b798160c947ffce8dfd", "aweme_id": "7667735558396166650", "chars": 2534}
+{"at": "2026-08-28T11:52:07+08:00", "event": "item_completed", "run_id": "c186b2c514204b798160c947ffce8dfd", "aweme_id": "7667735558396166650", "chars": 2534, "audio_bytes": 4652705, "download_sec": 2.4, "asr_sec": 0}
+{"at": "2026-08-28T11:52:07+08:00", "event": "item_started", "run_id": "c186b2c514204b798160c947ffce8dfd", "aweme_id": "7668871805768447418", "position": 11, "pending_count": 81}
+{"at": "2026-08-28T11:52:11+08:00", "event": "asr_reused", "run_id": "c186b2c514204b798160c947ffce8dfd", "aweme_id": "7668871805768447418", "chars": 1721}
+{"at": "2026-08-28T11:52:11+08:00", "event": "item_completed", "run_id": "c186b2c514204b798160c947ffce8dfd", "aweme_id": "7668871805768447418", "chars": 1721, "audio_bytes": 3808420, "download_sec": 2.944, "asr_sec": 0}
+{"at": "2026-08-28T11:52:11+08:00", "event": "item_started", "run_id": "c186b2c514204b798160c947ffce8dfd", "aweme_id": "7663243701540856433", "position": 12, "pending_count": 81}
+{"at": "2026-08-28T11:52:12+08:00", "event": "asr_reused", "run_id": "c186b2c514204b798160c947ffce8dfd", "aweme_id": "7663243701540856433", "chars": 1264}
+{"at": "2026-08-28T11:52:12+08:00", "event": "item_completed", "run_id": "c186b2c514204b798160c947ffce8dfd", "aweme_id": "7663243701540856433", "chars": 1264, "audio_bytes": 2644026, "download_sec": 1.279, "asr_sec": 0}
+{"at": "2026-08-28T11:52:12+08:00", "event": "item_started", "run_id": "c186b2c514204b798160c947ffce8dfd", "aweme_id": "7661803843525096635", "position": 13, "pending_count": 81}
+{"at": "2026-08-28T11:52:16+08:00", "event": "asr_reused", "run_id": "c186b2c514204b798160c947ffce8dfd", "aweme_id": "7661803843525096635", "chars": 2017}
+{"at": "2026-08-28T11:52:16+08:00", "event": "item_completed", "run_id": "c186b2c514204b798160c947ffce8dfd", "aweme_id": "7661803843525096635", "chars": 2017, "audio_bytes": 3965874, "download_sec": 2.561, "asr_sec": 0}
+{"at": "2026-08-28T11:52:16+08:00", "event": "item_started", "run_id": "c186b2c514204b798160c947ffce8dfd", "aweme_id": "7665159402169023419", "position": 14, "pending_count": 81}
+{"at": "2026-08-28T11:52:19+08:00", "event": "asr_reused", "run_id": "c186b2c514204b798160c947ffce8dfd", "aweme_id": "7665159402169023419", "chars": 2573}
+{"at": "2026-08-28T11:52:19+08:00", "event": "item_completed", "run_id": "c186b2c514204b798160c947ffce8dfd", "aweme_id": "7665159402169023419", "chars": 2573, "audio_bytes": 4736289, "download_sec": 2.431, "asr_sec": 0}
+{"at": "2026-08-28T11:52:19+08:00", "event": "item_started", "run_id": "c186b2c514204b798160c947ffce8dfd", "aweme_id": "7661169287754860977", "position": 15, "pending_count": 81}
+{"at": "2026-08-28T11:52:19+08:00", "event": "asr_reused", "run_id": "c186b2c514204b798160c947ffce8dfd", "aweme_id": "7661169287754860977", "chars": 1852}
+{"at": "2026-08-28T11:52:19+08:00", "event": "item_completed", "run_id": "c186b2c514204b798160c947ffce8dfd", "aweme_id": "7661169287754860977", "chars": 1852, "audio_bytes": 3836101, "download_sec": 0.125, "asr_sec": 0}
+{"at": "2026-08-28T11:52:19+08:00", "event": "item_started", "run_id": "c186b2c514204b798160c947ffce8dfd", "aweme_id": "7663241712110852773", "position": 16, "pending_count": 81}
+{"at": "2026-08-28T11:52:21+08:00", "event": "asr_reused", "run_id": "c186b2c514204b798160c947ffce8dfd", "aweme_id": "7663241712110852773", "chars": 1560}
+{"at": "2026-08-28T11:52:21+08:00", "event": "item_completed", "run_id": "c186b2c514204b798160c947ffce8dfd", "aweme_id": "7663241712110852773", "chars": 1560, "audio_bytes": 3466508, "download_sec": 1.716, "asr_sec": 0}
+{"at": "2026-08-28T11:52:21+08:00", "event": "item_started", "run_id": "c186b2c514204b798160c947ffce8dfd", "aweme_id": "7663223699977346233", "position": 17, "pending_count": 81}
+{"at": "2026-08-28T11:52:22+08:00", "event": "asr_reused", "run_id": "c186b2c514204b798160c947ffce8dfd", "aweme_id": "7663223699977346233", "chars": 2245}
+{"at": "2026-08-28T11:52:22+08:00", "event": "item_completed", "run_id": "c186b2c514204b798160c947ffce8dfd", "aweme_id": "7663223699977346233", "chars": 2245, "audio_bytes": 4226779, "download_sec": 0.122, "asr_sec": 0}
+{"at": "2026-08-28T11:52:22+08:00", "event": "item_started", "run_id": "c186b2c514204b798160c947ffce8dfd", "aweme_id": "7663219400774338683", "position": 18, "pending_count": 81}
+{"at": "2026-08-28T11:52:25+08:00", "event": "asr_reused", "run_id": "c186b2c514204b798160c947ffce8dfd", "aweme_id": "7663219400774338683", "chars": 1601}
+{"at": "2026-08-28T11:52:25+08:00", "event": "item_completed", "run_id": "c186b2c514204b798160c947ffce8dfd", "aweme_id": "7663219400774338683", "chars": 1601, "audio_bytes": 3558931, "download_sec": 2.599, "asr_sec": 0}
+{"at": "2026-08-28T11:52:25+08:00", "event": "item_started", "run_id": "c186b2c514204b798160c947ffce8dfd", "aweme_id": "7662666926325915642", "position": 19, "pending_count": 81}
+{"at": "2026-08-28T11:52:26+08:00", "event": "asr_reused", "run_id": "c186b2c514204b798160c947ffce8dfd", "aweme_id": "7662666926325915642", "chars": 1887}
+{"at": "2026-08-28T11:52:26+08:00", "event": "item_completed", "run_id": "c186b2c514204b798160c947ffce8dfd", "aweme_id": "7662666926325915642", "chars": 1887, "audio_bytes": 3611546, "download_sec": 0.144, "asr_sec": 0}
+{"at": "2026-08-28T11:52:26+08:00", "event": "item_started", "run_id": "c186b2c514204b798160c947ffce8dfd", "aweme_id": "7656204261777334629", "position": 20, "pending_count": 81}
+{"at": "2026-08-28T11:52:26+08:00", "event": "asr_reused", "run_id": "c186b2c514204b798160c947ffce8dfd", "aweme_id": "7656204261777334629", "chars": 1541}
+{"at": "2026-08-28T11:52:26+08:00", "event": "item_completed", "run_id": "c186b2c514204b798160c947ffce8dfd", "aweme_id": "7656204261777334629", "chars": 1541, "audio_bytes": 2978338, "download_sec": 0.112, "asr_sec": 0}
+{"at": "2026-08-28T11:52:26+08:00", "event": "item_started", "run_id": "c186b2c514204b798160c947ffce8dfd", "aweme_id": "7655357966699688549", "position": 21, "pending_count": 81}
+{"at": "2026-08-28T11:52:29+08:00", "event": "asr_reused", "run_id": "c186b2c514204b798160c947ffce8dfd", "aweme_id": "7655357966699688549", "chars": 1904}
+{"at": "2026-08-28T11:52:29+08:00", "event": "item_completed", "run_id": "c186b2c514204b798160c947ffce8dfd", "aweme_id": "7655357966699688549", "chars": 1904, "audio_bytes": 3721904, "download_sec": 1.965, "asr_sec": 0}
+{"at": "2026-08-28T11:52:29+08:00", "event": "item_started", "run_id": "c186b2c514204b798160c947ffce8dfd", "aweme_id": "7661016101333103483", "position": 22, "pending_count": 81}
+{"at": "2026-08-28T11:52:31+08:00", "event": "asr_reused", "run_id": "c186b2c514204b798160c947ffce8dfd", "aweme_id": "7661016101333103483", "chars": 1684}
+{"at": "2026-08-28T11:52:31+08:00", "event": "item_completed", "run_id": "c186b2c514204b798160c947ffce8dfd", "aweme_id": "7661016101333103483", "chars": 1684, "audio_bytes": 4107607, "download_sec": 1.62, "asr_sec": 0}
+{"at": "2026-08-28T11:52:31+08:00", "event": "item_started", "run_id": "c186b2c514204b798160c947ffce8dfd", "aweme_id": "7653376665279694970", "position": 23, "pending_count": 81}
+{"at": "2026-08-28T11:52:31+08:00", "event": "asr_reused", "run_id": "c186b2c514204b798160c947ffce8dfd", "aweme_id": "7653376665279694970", "chars": 1585}
+{"at": "2026-08-28T11:52:31+08:00", "event": "item_completed", "run_id": "c186b2c514204b798160c947ffce8dfd", "aweme_id": "7653376665279694970", "chars": 1585, "audio_bytes": 3240816, "download_sec": 0.098, "asr_sec": 0}
+{"at": "2026-08-28T11:52:31+08:00", "event": "item_started", "run_id": "c186b2c514204b798160c947ffce8dfd", "aweme_id": "7658487994466562746", "position": 24, "pending_count": 81}
+{"at": "2026-08-28T11:52:34+08:00", "event": "asr_reused", "run_id": "c186b2c514204b798160c947ffce8dfd", "aweme_id": "7658487994466562746", "chars": 2474}
+{"at": "2026-08-28T11:52:34+08:00", "event": "item_completed", "run_id": "c186b2c514204b798160c947ffce8dfd", "aweme_id": "7658487994466562746", "chars": 2474, "audio_bytes": 4970764, "download_sec": 2.356, "asr_sec": 0}
+{"at": "2026-08-28T11:52:34+08:00", "event": "item_started", "run_id": "c186b2c514204b798160c947ffce8dfd", "aweme_id": "7658489785451351717", "position": 25, "pending_count": 81}
+{"at": "2026-08-28T11:52:36+08:00", "event": "asr_reused", "run_id": "c186b2c514204b798160c947ffce8dfd", "aweme_id": "7658489785451351717", "chars": 2398}
+{"at": "2026-08-28T11:52:36+08:00", "event": "item_completed", "run_id": "c186b2c514204b798160c947ffce8dfd", "aweme_id": "7658489785451351717", "chars": 2398, "audio_bytes": 5348219, "download_sec": 1.723, "asr_sec": 0}
+{"at": "2026-08-28T11:52:36+08:00", "event": "item_started", "run_id": "c186b2c514204b798160c947ffce8dfd", "aweme_id": "7655972138499440122", "position": 26, "pending_count": 81}
+{"at": "2026-08-28T11:52:37+08:00", "event": "asr_reused", "run_id": "c186b2c514204b798160c947ffce8dfd", "aweme_id": "7655972138499440122", "chars": 1253}
+{"at": "2026-08-28T11:52:37+08:00", "event": "item_completed", "run_id": "c186b2c514204b798160c947ffce8dfd", "aweme_id": "7655972138499440122", "chars": 1253, "audio_bytes": 2776950, "download_sec": 0.519, "asr_sec": 0}
+{"at": "2026-08-28T11:52:37+08:00", "event": "item_started", "run_id": "c186b2c514204b798160c947ffce8dfd", "aweme_id": "7655395292368912057", "position": 27, "pending_count": 81}
+{"at": "2026-08-28T11:52:38+08:00", "event": "asr_reused", "run_id": "c186b2c514204b798160c947ffce8dfd", "aweme_id": "7655395292368912057", "chars": 1745}
+{"at": "2026-08-28T11:52:38+08:00", "event": "item_completed", "run_id": "c186b2c514204b798160c947ffce8dfd", "aweme_id": "7655395292368912057", "chars": 1745, "audio_bytes": 3505028, "download_sec": 0.172, "asr_sec": 0}
+{"at": "2026-08-28T11:52:38+08:00", "event": "item_started", "run_id": "c186b2c514204b798160c947ffce8dfd", "aweme_id": "7655919946677084529", "position": 28, "pending_count": 81}
+{"at": "2026-08-28T11:52:40+08:00", "event": "asr_reused", "run_id": "c186b2c514204b798160c947ffce8dfd", "aweme_id": "7655919946677084529", "chars": 1851}
+{"at": "2026-08-28T11:52:40+08:00", "event": "item_completed", "run_id": "c186b2c514204b798160c947ffce8dfd", "aweme_id": "7655919946677084529", "chars": 1851, "audio_bytes": 3469526, "download_sec": 2.234, "asr_sec": 0}
+{"at": "2026-08-28T11:52:40+08:00", "event": "item_started", "run_id": "c186b2c514204b798160c947ffce8dfd", "aweme_id": "7654611523558550779", "position": 29, "pending_count": 81}
+{"at": "2026-08-28T11:52:42+08:00", "event": "asr_reused", "run_id": "c186b2c514204b798160c947ffce8dfd", "aweme_id": "7654611523558550779", "chars": 1907}
+{"at": "2026-08-28T11:52:42+08:00", "event": "item_completed", "run_id": "c186b2c514204b798160c947ffce8dfd", "aweme_id": "7654611523558550779", "chars": 1907, "audio_bytes": 3930031, "download_sec": 1.506, "asr_sec": 0}
+{"at": "2026-08-28T11:52:42+08:00", "event": "item_started", "run_id": "c186b2c514204b798160c947ffce8dfd", "aweme_id": "7655043330086400379", "position": 30, "pending_count": 81}
+{"at": "2026-08-28T11:52:45+08:00", "event": "asr_reused", "run_id": "c186b2c514204b798160c947ffce8dfd", "aweme_id": "7655043330086400379", "chars": 1779}
+{"at": "2026-08-28T11:52:45+08:00", "event": "item_completed", "run_id": "c186b2c514204b798160c947ffce8dfd", "aweme_id": "7655043330086400379", "chars": 1779, "audio_bytes": 3824342, "download_sec": 1.711, "asr_sec": 0}
+{"at": "2026-08-28T11:52:45+08:00", "event": "item_started", "run_id": "c186b2c514204b798160c947ffce8dfd", "aweme_id": "7655355835291593977", "position": 31, "pending_count": 81}
+{"at": "2026-08-28T11:52:47+08:00", "event": "asr_reused", "run_id": "c186b2c514204b798160c947ffce8dfd", "aweme_id": "7655355835291593977", "chars": 1312}
+{"at": "2026-08-28T11:52:47+08:00", "event": "item_completed", "run_id": "c186b2c514204b798160c947ffce8dfd", "aweme_id": "7655355835291593977", "chars": 1312, "audio_bytes": 2695072, "download_sec": 1.649, "asr_sec": 0}
+{"at": "2026-08-28T11:52:47+08:00", "event": "item_started", "run_id": "c186b2c514204b798160c947ffce8dfd", "aweme_id": "7654231180670334906", "position": 32, "pending_count": 81}
+{"at": "2026-08-28T11:52:49+08:00", "event": "asr_reused", "run_id": "c186b2c514204b798160c947ffce8dfd", "aweme_id": "7654231180670334906", "chars": 1374}
+{"at": "2026-08-28T11:52:49+08:00", "event": "item_completed", "run_id": "c186b2c514204b798160c947ffce8dfd", "aweme_id": "7654231180670334906", "chars": 1374, "audio_bytes": 2964238, "download_sec": 1.954, "asr_sec": 0}
+{"at": "2026-08-28T11:52:49+08:00", "event": "item_started", "run_id": "c186b2c514204b798160c947ffce8dfd", "aweme_id": "7654654307861835707", "position": 33, "pending_count": 81}
+{"at": "2026-08-28T11:52:53+08:00", "event": "asr_reused", "run_id": "c186b2c514204b798160c947ffce8dfd", "aweme_id": "7654654307861835707", "chars": 1550}
+{"at": "2026-08-28T11:52:53+08:00", "event": "item_completed", "run_id": "c186b2c514204b798160c947ffce8dfd", "aweme_id": "7654654307861835707", "chars": 1550, "audio_bytes": 2949192, "download_sec": 3.093, "asr_sec": 0}
+{"at": "2026-08-28T11:52:53+08:00", "event": "item_started", "run_id": "c186b2c514204b798160c947ffce8dfd", "aweme_id": "7653890096488052474", "position": 34, "pending_count": 81}
+{"at": "2026-08-28T11:52:53+08:00", "event": "asr_reused", "run_id": "c186b2c514204b798160c947ffce8dfd", "aweme_id": "7653890096488052474", "chars": 2131}
+{"at": "2026-08-28T11:52:53+08:00", "event": "item_completed", "run_id": "c186b2c514204b798160c947ffce8dfd", "aweme_id": "7653890096488052474", "chars": 2131, "audio_bytes": 4312935, "download_sec": 0.15, "asr_sec": 0}
+{"at": "2026-08-28T11:52:53+08:00", "event": "item_started", "run_id": "c186b2c514204b798160c947ffce8dfd", "aweme_id": "7650383284517701297", "position": 35, "pending_count": 81}
+{"at": "2026-08-28T11:52:54+08:00", "event": "detail_retry", "aweme_id": "7650383284517701297", "attempt": 1, "error": "HTTPError('403 Client Error: Forbidden for url: https://www.douyin.com/aweme/v1/web/aweme/detail/?aweme_id=7650383284517701297')"}
+{"at": "2026-08-28T11:52:58+08:00", "event": "asr_reused", "run_id": "c186b2c514204b798160c947ffce8dfd", "aweme_id": "7650383284517701297", "chars": 1671}
+{"at": "2026-08-28T11:52:58+08:00", "event": "item_completed", "run_id": "c186b2c514204b798160c947ffce8dfd", "aweme_id": "7650383284517701297", "chars": 1671, "audio_bytes": 3266005, "download_sec": 1.495, "asr_sec": 0}
+{"at": "2026-08-28T11:52:58+08:00", "event": "item_started", "run_id": "c186b2c514204b798160c947ffce8dfd", "aweme_id": "7652225334909087857", "position": 36, "pending_count": 81}
+{"at": "2026-08-28T11:53:00+08:00", "event": "asr_reused", "run_id": "c186b2c514204b798160c947ffce8dfd", "aweme_id": "7652225334909087857", "chars": 1569}
+{"at": "2026-08-28T11:53:00+08:00", "event": "item_completed", "run_id": "c186b2c514204b798160c947ffce8dfd", "aweme_id": "7652225334909087857", "chars": 1569, "audio_bytes": 3075833, "download_sec": 1.949, "asr_sec": 0}
+{"at": "2026-08-28T11:53:00+08:00", "event": "item_started", "run_id": "c186b2c514204b798160c947ffce8dfd", "aweme_id": "7650386623877142641", "position": 37, "pending_count": 81}
+{"at": "2026-08-28T11:53:03+08:00", "event": "asr_reused", "run_id": "c186b2c514204b798160c947ffce8dfd", "aweme_id": "7650386623877142641", "chars": 2910}
+{"at": "2026-08-28T11:53:03+08:00", "event": "item_completed", "run_id": "c186b2c514204b798160c947ffce8dfd", "aweme_id": "7650386623877142641", "chars": 2910, "audio_bytes": 5692963, "download_sec": 2.114, "asr_sec": 0}
+{"at": "2026-08-28T11:53:03+08:00", "event": "item_started", "run_id": "c186b2c514204b798160c947ffce8dfd", "aweme_id": "7641748270666502053", "position": 38, "pending_count": 81}
+{"at": "2026-08-28T11:53:04+08:00", "event": "asr_reused", "run_id": "c186b2c514204b798160c947ffce8dfd", "aweme_id": "7641748270666502053", "chars": 1214}
+{"at": "2026-08-28T11:53:04+08:00", "event": "item_completed", "run_id": "c186b2c514204b798160c947ffce8dfd", "aweme_id": "7641748270666502053", "chars": 1214, "audio_bytes": 2571774, "download_sec": 1.101, "asr_sec": 0}
+{"at": "2026-08-28T11:53:04+08:00", "event": "item_started", "run_id": "c186b2c514204b798160c947ffce8dfd", "aweme_id": "7648070053632915707", "position": 39, "pending_count": 81}
+{"at": "2026-08-28T11:53:07+08:00", "event": "asr_reused", "run_id": "c186b2c514204b798160c947ffce8dfd", "aweme_id": "7648070053632915707", "chars": 1298}
+{"at": "2026-08-28T11:53:07+08:00", "event": "item_completed", "run_id": "c186b2c514204b798160c947ffce8dfd", "aweme_id": "7648070053632915707", "chars": 1298, "audio_bytes": 2741466, "download_sec": 1.805, "asr_sec": 0}
+{"at": "2026-08-28T11:53:07+08:00", "event": "item_started", "run_id": "c186b2c514204b798160c947ffce8dfd", "aweme_id": "7643898683566478458", "position": 40, "pending_count": 81}
+{"at": "2026-08-28T11:53:09+08:00", "event": "asr_reused", "run_id": "c186b2c514204b798160c947ffce8dfd", "aweme_id": "7643898683566478458", "chars": 1740}
+{"at": "2026-08-28T11:53:09+08:00", "event": "item_completed", "run_id": "c186b2c514204b798160c947ffce8dfd", "aweme_id": "7643898683566478458", "chars": 1740, "audio_bytes": 3440294, "download_sec": 1.6, "asr_sec": 0}
+{"at": "2026-08-28T11:53:09+08:00", "event": "item_started", "run_id": "c186b2c514204b798160c947ffce8dfd", "aweme_id": "7651030160317442938", "position": 41, "pending_count": 81}
+{"at": "2026-08-28T11:53:11+08:00", "event": "asr_reused", "run_id": "c186b2c514204b798160c947ffce8dfd", "aweme_id": "7651030160317442938", "chars": 1905}
+{"at": "2026-08-28T11:53:11+08:00", "event": "item_completed", "run_id": "c186b2c514204b798160c947ffce8dfd", "aweme_id": "7651030160317442938", "chars": 1905, "audio_bytes": 3912587, "download_sec": 1.948, "asr_sec": 0}
+{"at": "2026-08-28T11:53:11+08:00", "event": "item_started", "run_id": "c186b2c514204b798160c947ffce8dfd", "aweme_id": "7651321893286891513", "position": 42, "pending_count": 81}
+{"at": "2026-08-28T11:53:11+08:00", "event": "asr_reused", "run_id": "c186b2c514204b798160c947ffce8dfd", "aweme_id": "7651321893286891513", "chars": 2110}
+{"at": "2026-08-28T11:53:11+08:00", "event": "item_completed", "run_id": "c186b2c514204b798160c947ffce8dfd", "aweme_id": "7651321893286891513", "chars": 2110, "audio_bytes": 3922852, "download_sec": 0.121, "asr_sec": 0}
+{"at": "2026-08-28T11:53:11+08:00", "event": "item_started", "run_id": "c186b2c514204b798160c947ffce8dfd", "aweme_id": "7650179880881676025", "position": 43, "pending_count": 81}
+{"at": "2026-08-28T11:53:13+08:00", "event": "asr_reused", "run_id": "c186b2c514204b798160c947ffce8dfd", "aweme_id": "7650179880881676025", "chars": 1174}
+{"at": "2026-08-28T11:53:13+08:00", "event": "item_completed", "run_id": "c186b2c514204b798160c947ffce8dfd", "aweme_id": "7650179880881676025", "chars": 1174, "audio_bytes": 2453074, "download_sec": 1.241, "asr_sec": 0}
+{"at": "2026-08-28T11:53:13+08:00", "event": "item_started", "run_id": "c186b2c514204b798160c947ffce8dfd", "aweme_id": "7650188676403874533", "position": 44, "pending_count": 81}
+{"at": "2026-08-28T11:53:15+08:00", "event": "asr_reused", "run_id": "c186b2c514204b798160c947ffce8dfd", "aweme_id": "7650188676403874533", "chars": 1402}
+{"at": "2026-08-28T11:53:15+08:00", "event": "item_completed", "run_id": "c186b2c514204b798160c947ffce8dfd", "aweme_id": "7650188676403874533", "chars": 1402, "audio_bytes": 3036127, "download_sec": 1.769, "asr_sec": 0}
+{"at": "2026-08-28T11:53:15+08:00", "event": "item_started", "run_id": "c186b2c514204b798160c947ffce8dfd", "aweme_id": "7648839572881457530", "position": 45, "pending_count": 81}
+{"at": "2026-08-28T11:53:32+08:00", "event": "model_ready", "run_id": "c186b2c514204b798160c947ffce8dfd", "load_sec": 15.05}
+{"at": "2026-08-28T11:53:53+08:00", "event": "item_completed", "run_id": "c186b2c514204b798160c947ffce8dfd", "aweme_id": "7648839572881457530", "chars": 1703, "audio_bytes": 2947102, "download_sec": 1.537, "asr_sec": 21.019}
+{"at": "2026-08-28T11:53:53+08:00", "event": "item_started", "run_id": "c186b2c514204b798160c947ffce8dfd", "aweme_id": "7648836763835064817", "position": 46, "pending_count": 81}
+{"at": "2026-08-28T11:54:15+08:00", "event": "item_completed", "run_id": "c186b2c514204b798160c947ffce8dfd", "aweme_id": "7648836763835064817", "chars": 1457, "audio_bytes": 3073743, "download_sec": 1.638, "asr_sec": 19.494}
+{"at": "2026-08-28T11:54:15+08:00", "event": "item_started", "run_id": "c186b2c514204b798160c947ffce8dfd", "aweme_id": "7646266528501929978", "position": 47, "pending_count": 81}
+{"at": "2026-08-28T11:54:16+08:00", "event": "item_unavailable", "run_id": "c186b2c514204b798160c947ffce8dfd", "aweme_id": "7646266528501929978", "filter_detail": {"aweme_id": "7646266528501929978", "detail_msg": "因作品权限或已被删除，无法观看，去看看其他作品吧", "filter_reason": "status_self_see", "icon": "https://p3.douyinpic.com/aweme-server-static-resource/reflow_notice_icon1.png~tplv-obj.image", "notice": "抱歉，作品不见了"}}
+{"at": "2026-08-28T11:54:16+08:00", "event": "item_started", "run_id": "c186b2c514204b798160c947ffce8dfd", "aweme_id": "7646252166591682425", "position": 48, "pending_count": 81}
+{"at": "2026-08-28T11:54:35+08:00", "event": "item_completed", "run_id": "c186b2c514204b798160c947ffce8dfd", "aweme_id": "7646252166591682425", "chars": 1157, "audio_bytes": 2529921, "download_sec": 2.108, "asr_sec": 16.749}
+{"at": "2026-08-28T11:54:35+08:00", "event": "item_started", "run_id": "c186b2c514204b798160c947ffce8dfd", "aweme_id": "7646828643305684347", "position": 49, "pending_count": 81}
+{"at": "2026-08-28T11:55:20+08:00", "event": "item_completed", "run_id": "c186b2c514204b798160c947ffce8dfd", "aweme_id": "7646828643305684347", "chars": 3043, "audio_bytes": 6208760, "download_sec": 4.825, "asr_sec": 39.517}
+{"at": "2026-08-28T11:55:20+08:00", "event": "item_started", "run_id": "c186b2c514204b798160c947ffce8dfd", "aweme_id": "7646248363017229937", "position": 50, "pending_count": 81}
+{"at": "2026-08-28T11:55:20+08:00", "event": "detail_retry", "aweme_id": "7646248363017229937", "attempt": 1, "error": "HTTPError('403 Client Error: Forbidden for url: https://www.douyin.com/aweme/v1/web/aweme/detail/?aweme_id=7646248363017229937')"}
+{"at": "2026-08-28T11:56:03+08:00", "event": "item_completed", "run_id": "c186b2c514204b798160c947ffce8dfd", "aweme_id": "7646248363017229937", "chars": 2019, "audio_bytes": 4044958, "download_sec": 2.334, "asr_sec": 37.492}
+{"at": "2026-08-28T11:56:03+08:00", "event": "item_started", "run_id": "c186b2c514204b798160c947ffce8dfd", "aweme_id": "7646232261083966395", "position": 51, "pending_count": 81}
+{"at": "2026-08-28T11:56:19+08:00", "event": "item_completed", "run_id": "c186b2c514204b798160c947ffce8dfd", "aweme_id": "7646232261083966395", "chars": 1035, "audio_bytes": 1915547, "download_sec": 1.224, "asr_sec": 14.852}
+{"at": "2026-08-28T11:56:19+08:00", "event": "item_started", "run_id": "c186b2c514204b798160c947ffce8dfd", "aweme_id": "7645439106923425530", "position": 52, "pending_count": 81}
+{"at": "2026-08-28T11:56:42+08:00", "event": "item_completed", "run_id": "c186b2c514204b798160c947ffce8dfd", "aweme_id": "7645439106923425530", "chars": 1397, "audio_bytes": 2762364, "download_sec": 1.531, "asr_sec": 20.596}
+{"at": "2026-08-28T11:56:42+08:00", "event": "item_started", "run_id": "c186b2c514204b798160c947ffce8dfd", "aweme_id": "7646888035271809529", "position": 53, "pending_count": 81}
+{"at": "2026-08-28T11:57:08+08:00", "event": "item_completed", "run_id": "c186b2c514204b798160c947ffce8dfd", "aweme_id": "7646888035271809529", "chars": 1376, "audio_bytes": 2854257, "download_sec": 1.611, "asr_sec": 23.045}
+{"at": "2026-08-28T11:57:08+08:00", "event": "item_started", "run_id": "c186b2c514204b798160c947ffce8dfd", "aweme_id": "7646230119371921401", "position": 54, "pending_count": 81}
+{"at": "2026-08-28T11:57:32+08:00", "event": "item_completed", "run_id": "c186b2c514204b798160c947ffce8dfd", "aweme_id": "7646230119371921401", "chars": 1656, "audio_bytes": 3357845, "download_sec": 1.228, "asr_sec": 22.649}
+{"at": "2026-08-28T11:57:32+08:00", "event": "item_started", "run_id": "c186b2c514204b798160c947ffce8dfd", "aweme_id": "7655758185437216497", "position": 55, "pending_count": 81}
+{"at": "2026-08-28T11:57:32+08:00", "event": "item_unavailable", "run_id": "c186b2c514204b798160c947ffce8dfd", "aweme_id": "7655758185437216497", "filter_detail": {"aweme_id": "7655758185437216497", "detail_msg": "因作品权限或已被删除，无法观看，去看看其他作品吧", "filter_reason": "status_self_see", "icon": "https://p3.douyinpic.com/aweme-server-static-resource/reflow_notice_icon1.png~tplv-obj.image", "notice": "抱歉，作品不见了"}}
+{"at": "2026-08-28T11:57:32+08:00", "event": "item_started", "run_id": "c186b2c514204b798160c947ffce8dfd", "aweme_id": "7646158372903779771", "position": 56, "pending_count": 81}
+{"at": "2026-08-28T11:57:54+08:00", "event": "item_completed", "run_id": "c186b2c514204b798160c947ffce8dfd", "aweme_id": "7646158372903779771", "chars": 1402, "audio_bytes": 2780278, "download_sec": 2.089, "asr_sec": 18.218}
+{"at": "2026-08-28T11:57:54+08:00", "event": "item_started", "run_id": "c186b2c514204b798160c947ffce8dfd", "aweme_id": "7645334836353526437", "position": 57, "pending_count": 81}
+{"at": "2026-08-28T11:59:39+08:00", "event": "item_completed", "run_id": "c186b2c514204b798160c947ffce8dfd", "aweme_id": "7645334836353526437", "chars": 1738, "audio_bytes": 3496718, "download_sec": 3.366, "asr_sec": 99.983}
+{"at": "2026-08-28T11:59:39+08:00", "event": "item_started", "run_id": "c186b2c514204b798160c947ffce8dfd", "aweme_id": "7645434866285604793", "position": 58, "pending_count": 81}
+{"at": "2026-08-28T12:00:40+08:00", "event": "item_completed", "run_id": "c186b2c514204b798160c947ffce8dfd", "aweme_id": "7645434866285604793", "chars": 1141, "audio_bytes": 2454746, "download_sec": 1.163, "asr_sec": 58.994}
+{"at": "2026-08-28T12:00:40+08:00", "event": "item_started", "run_id": "c186b2c514204b798160c947ffce8dfd", "aweme_id": "7644401369890503419", "position": 59, "pending_count": 81}
+{"at": "2026-08-28T12:01:21+08:00", "event": "item_completed", "run_id": "c186b2c514204b798160c947ffce8dfd", "aweme_id": "7644401369890503419", "chars": 1810, "audio_bytes": 3492846, "download_sec": 1.826, "asr_sec": 38.376}
+{"at": "2026-08-28T12:01:21+08:00", "event": "item_started", "run_id": "c186b2c514204b798160c947ffce8dfd", "aweme_id": "7640947433228984817", "position": 60, "pending_count": 81}
+{"at": "2026-08-28T12:01:42+08:00", "event": "item_completed", "run_id": "c186b2c514204b798160c947ffce8dfd", "aweme_id": "7640947433228984817", "chars": 1443, "audio_bytes": 3118047, "download_sec": 1.775, "asr_sec": 18.378}
+{"at": "2026-08-28T12:01:42+08:00", "event": "item_started", "run_id": "c186b2c514204b798160c947ffce8dfd", "aweme_id": "7643698433697602745", "position": 61, "pending_count": 81}
+{"at": "2026-08-28T12:02:09+08:00", "event": "item_completed", "run_id": "c186b2c514204b798160c947ffce8dfd", "aweme_id": "7643698433697602745", "chars": 1479, "audio_bytes": 3287739, "download_sec": 1.911, "asr_sec": 24.267}
+{"at": "2026-08-28T12:02:09+08:00", "event": "item_started", "run_id": "c186b2c514204b798160c947ffce8dfd", "aweme_id": "7642462215992680113", "position": 62, "pending_count": 81}
+{"at": "2026-08-28T12:02:38+08:00", "event": "item_completed", "run_id": "c186b2c514204b798160c947ffce8dfd", "aweme_id": "7642462215992680113", "chars": 1783, "audio_bytes": 3355030, "download_sec": 1.035, "asr_sec": 25.869}
+{"at": "2026-08-28T12:02:38+08:00", "event": "item_started", "run_id": "c186b2c514204b798160c947ffce8dfd", "aweme_id": "7640934659875115385", "position": 63, "pending_count": 81}
+{"at": "2026-08-28T12:03:02+08:00", "event": "item_completed", "run_id": "c186b2c514204b798160c947ffce8dfd", "aweme_id": "7640934659875115385", "chars": 1603, "audio_bytes": 3059533, "download_sec": 1.648, "asr_sec": 21.872}
+{"at": "2026-08-28T12:03:02+08:00", "event": "item_started", "run_id": "c186b2c514204b798160c947ffce8dfd", "aweme_id": "7640931552348934649", "position": 64, "pending_count": 81}
+{"at": "2026-08-28T12:03:31+08:00", "event": "item_completed", "run_id": "c186b2c514204b798160c947ffce8dfd", "aweme_id": "7640931552348934649", "chars": 1227, "audio_bytes": 2456836, "download_sec": 1.971, "asr_sec": 25.574}
+{"at": "2026-08-28T12:03:31+08:00", "event": "item_started", "run_id": "c186b2c514204b798160c947ffce8dfd", "aweme_id": "7641685038484398585", "position": 65, "pending_count": 81}
+{"at": "2026-08-28T12:04:00+08:00", "event": "item_completed", "run_id": "c186b2c514204b798160c947ffce8dfd", "aweme_id": "7641685038484398585", "chars": 1249, "audio_bytes": 2694654, "download_sec": 0.734, "asr_sec": 27.357}
+{"at": "2026-08-28T12:04:00+08:00", "event": "item_started", "run_id": "c186b2c514204b798160c947ffce8dfd", "aweme_id": "7641100822009580453", "position": 66, "pending_count": 81}
+{"at": "2026-08-28T12:04:30+08:00", "event": "item_completed", "run_id": "c186b2c514204b798160c947ffce8dfd", "aweme_id": "7641100822009580453", "chars": 1356, "audio_bytes": 3854909, "download_sec": 2.328, "asr_sec": 26.598}
+{"at": "2026-08-28T12:04:30+08:00", "event": "item_started", "run_id": "c186b2c514204b798160c947ffce8dfd", "aweme_id": "7640302879823111921", "position": 67, "pending_count": 81}
+{"at": "2026-08-28T12:04:54+08:00", "event": "item_completed", "run_id": "c186b2c514204b798160c947ffce8dfd", "aweme_id": "7640302879823111921", "chars": 1664, "audio_bytes": 3087118, "download_sec": 1.597, "asr_sec": 22.699}
+{"at": "2026-08-28T12:04:54+08:00", "event": "item_started", "run_id": "c186b2c514204b798160c947ffce8dfd", "aweme_id": "7640300114988683889", "position": 68, "pending_count": 81}
+{"at": "2026-08-28T12:05:13+08:00", "event": "item_completed", "run_id": "c186b2c514204b798160c947ffce8dfd", "aweme_id": "7640300114988683889", "chars": 1083, "audio_bytes": 2560907, "download_sec": 1.738, "asr_sec": 16.727}
+{"at": "2026-08-28T12:05:13+08:00", "event": "item_started", "run_id": "c186b2c514204b798160c947ffce8dfd", "aweme_id": "7639939766688417531", "position": 69, "pending_count": 81}
+{"at": "2026-08-28T12:05:37+08:00", "event": "item_completed", "run_id": "c186b2c514204b798160c947ffce8dfd", "aweme_id": "7639939766688417531", "chars": 1287, "audio_bytes": 2879392, "download_sec": 1.66, "asr_sec": 21.581}
+{"at": "2026-08-28T12:05:37+08:00", "event": "item_started", "run_id": "c186b2c514204b798160c947ffce8dfd", "aweme_id": "7638764114966133233", "position": 70, "pending_count": 81}
+{"at": "2026-08-28T12:05:50+08:00", "event": "item_completed", "run_id": "c186b2c514204b798160c947ffce8dfd", "aweme_id": "7638764114966133233", "chars": 843, "audio_bytes": 1726243, "download_sec": 1.033, "asr_sec": 11.109}
+{"at": "2026-08-28T12:05:50+08:00", "event": "item_started", "run_id": "c186b2c514204b798160c947ffce8dfd", "aweme_id": "7638469246976880037", "position": 71, "pending_count": 81}
+{"at": "2026-08-28T12:06:14+08:00", "event": "item_completed", "run_id": "c186b2c514204b798160c947ffce8dfd", "aweme_id": "7638469246976880037", "chars": 1581, "audio_bytes": 3002690, "download_sec": 0.847, "asr_sec": 21.645}
+{"at": "2026-08-28T12:06:14+08:00", "event": "item_started", "run_id": "c186b2c514204b798160c947ffce8dfd", "aweme_id": "7638762219970364282", "position": 72, "pending_count": 81}
+{"at": "2026-08-28T12:06:48+08:00", "event": "item_completed", "run_id": "c186b2c514204b798160c947ffce8dfd", "aweme_id": "7638762219970364282", "chars": 2107, "audio_bytes": 4351863, "download_sec": 3.744, "asr_sec": 29.947}
+{"at": "2026-08-28T12:06:48+08:00", "event": "item_started", "run_id": "c186b2c514204b798160c947ffce8dfd", "aweme_id": "7638703770792894585", "position": 73, "pending_count": 81}
+{"at": "2026-08-28T12:07:09+08:00", "event": "item_completed", "run_id": "c186b2c514204b798160c947ffce8dfd", "aweme_id": "7638703770792894585", "chars": 1507, "audio_bytes": 2996839, "download_sec": 0.881, "asr_sec": 19.185}
+{"at": "2026-08-28T12:07:09+08:00", "event": "item_started", "run_id": "c186b2c514204b798160c947ffce8dfd", "aweme_id": "7637963686207831738", "position": 74, "pending_count": 81}
+{"at": "2026-08-28T12:07:41+08:00", "event": "item_completed", "run_id": "c186b2c514204b798160c947ffce8dfd", "aweme_id": "7637963686207831738", "chars": 2429, "audio_bytes": 4473489, "download_sec": 1.999, "asr_sec": 29.562}
+{"at": "2026-08-28T12:07:41+08:00", "event": "item_started", "run_id": "c186b2c514204b798160c947ffce8dfd", "aweme_id": "7637537704767864505", "position": 75, "pending_count": 81}
+{"at": "2026-08-28T12:08:03+08:00", "event": "item_completed", "run_id": "c186b2c514204b798160c947ffce8dfd", "aweme_id": "7637537704767864505", "chars": 1583, "audio_bytes": 2902798, "download_sec": 1.727, "asr_sec": 19.612}
+{"at": "2026-08-28T12:08:03+08:00", "event": "item_started", "run_id": "c186b2c514204b798160c947ffce8dfd", "aweme_id": "7637226613721151089", "position": 76, "pending_count": 81}
+{"at": "2026-08-28T12:08:26+08:00", "event": "item_completed", "run_id": "c186b2c514204b798160c947ffce8dfd", "aweme_id": "7637226613721151089", "chars": 1508, "audio_bytes": 3003526, "download_sec": 1.815, "asr_sec": 20.03}
+{"at": "2026-08-28T12:08:26+08:00", "event": "item_started", "run_id": "c186b2c514204b798160c947ffce8dfd", "aweme_id": "7636909478159709625", "position": 77, "pending_count": 81}
+{"at": "2026-08-28T12:08:55+08:00", "event": "item_completed", "run_id": "c186b2c514204b798160c947ffce8dfd", "aweme_id": "7636909478159709625", "chars": 2109, "audio_bytes": 3857417, "download_sec": 2.294, "asr_sec": 25.799}
+{"at": "2026-08-28T12:08:55+08:00", "event": "item_started", "run_id": "c186b2c514204b798160c947ffce8dfd", "aweme_id": "7636569351151308401", "position": 78, "pending_count": 81}
+{"at": "2026-08-28T12:09:23+08:00", "event": "item_completed", "run_id": "c186b2c514204b798160c947ffce8dfd", "aweme_id": "7636569351151308401", "chars": 1907, "audio_bytes": 3619598, "download_sec": 2.544, "asr_sec": 24.721}
+{"at": "2026-08-28T12:09:23+08:00", "event": "item_started", "run_id": "c186b2c514204b798160c947ffce8dfd", "aweme_id": "7636518473635641573", "position": 79, "pending_count": 81}
+{"at": "2026-08-28T12:09:47+08:00", "event": "item_completed", "run_id": "c186b2c514204b798160c947ffce8dfd", "aweme_id": "7636518473635641573", "chars": 1689, "audio_bytes": 3162769, "download_sec": 3.608, "asr_sec": 20.626}
+{"at": "2026-08-28T12:09:47+08:00", "event": "item_started", "run_id": "c186b2c514204b798160c947ffce8dfd", "aweme_id": "7636181612330744314", "position": 80, "pending_count": 81}
+{"at": "2026-08-28T12:10:15+08:00", "event": "item_completed", "run_id": "c186b2c514204b798160c947ffce8dfd", "aweme_id": "7636181612330744314", "chars": 1770, "audio_bytes": 3448235, "download_sec": 1.933, "asr_sec": 25.023}
+{"at": "2026-08-28T12:10:15+08:00", "event": "item_started", "run_id": "c186b2c514204b798160c947ffce8dfd", "aweme_id": "7635822162120848817", "position": 81, "pending_count": 81}
+{"at": "2026-08-28T12:10:27+08:00", "event": "item_completed", "run_id": "c186b2c514204b798160c947ffce8dfd", "aweme_id": "7635822162120848817", "chars": 818, "audio_bytes": 1525623, "download_sec": 0.943, "asr_sec": 10.596}
+{"at": "2026-08-28T12:10:28+08:00", "event": "run_completed", "run_id": "c186b2c514204b798160c947ffce8dfd", "status": "COMPLETED", "input_count": 82, "newly_completed": 79, "newly_unavailable": 2, "result_count": 82, "completed_count": 80, "unavailable_count": 2, "finished_at": "2026-08-28T12:10:28+08:00"}
+{"at": "2026-08-28T13:07:59+08:00", "event": "run_started", "run_id": "85167f936b364fe3b4ee10246796aa4a", "item_count": 82, "device": "mps"}
+{"at": "2026-08-28T13:07:59+08:00", "event": "anonymous_session_ready", "run_id": "85167f936b364fe3b4ee10246796aa4a"}
+{"at": "2026-08-28T13:07:59+08:00", "event": "item_skipped", "run_id": "85167f936b364fe3b4ee10246796aa4a", "aweme_id": "7647561990352674469"}
+{"at": "2026-08-28T13:07:59+08:00", "event": "item_skipped", "run_id": "85167f936b364fe3b4ee10246796aa4a", "aweme_id": "7673577276156433913"}
+{"at": "2026-08-28T13:07:59+08:00", "event": "item_skipped", "run_id": "85167f936b364fe3b4ee10246796aa4a", "aweme_id": "7638279848310361009"}
+{"at": "2026-08-28T13:07:59+08:00", "event": "item_skipped", "run_id": "85167f936b364fe3b4ee10246796aa4a", "aweme_id": "7673293441208795129"}
+{"at": "2026-08-28T13:07:59+08:00", "event": "item_skipped", "run_id": "85167f936b364fe3b4ee10246796aa4a", "aweme_id": "7674505376335557114"}
+{"at": "2026-08-28T13:07:59+08:00", "event": "item_skipped", "run_id": "85167f936b364fe3b4ee10246796aa4a", "aweme_id": "7671069734456233649"}
+{"at": "2026-08-28T13:07:59+08:00", "event": "item_skipped", "run_id": "85167f936b364fe3b4ee10246796aa4a", "aweme_id": "7668369954441799675"}
+{"at": "2026-08-28T13:07:59+08:00", "event": "item_skipped", "run_id": "85167f936b364fe3b4ee10246796aa4a", "aweme_id": "7669535262086909553"}
+{"at": "2026-08-28T13:07:59+08:00", "event": "item_skipped", "run_id": "85167f936b364fe3b4ee10246796aa4a", "aweme_id": "7670309610209497787"}
+{"at": "2026-08-28T13:07:59+08:00", "event": "item_skipped", "run_id": "85167f936b364fe3b4ee10246796aa4a", "aweme_id": "7668373084122170553"}
+{"at": "2026-08-28T13:07:59+08:00", "event": "item_skipped", "run_id": "85167f936b364fe3b4ee10246796aa4a", "aweme_id": "7667735558396166650"}
+{"at": "2026-08-28T13:07:59+08:00", "event": "item_skipped", "run_id": "85167f936b364fe3b4ee10246796aa4a", "aweme_id": "7668871805768447418"}
+{"at": "2026-08-28T13:07:59+08:00", "event": "item_skipped", "run_id": "85167f936b364fe3b4ee10246796aa4a", "aweme_id": "7663243701540856433"}
+{"at": "2026-08-28T13:07:59+08:00", "event": "item_skipped", "run_id": "85167f936b364fe3b4ee10246796aa4a", "aweme_id": "7661803843525096635"}
+{"at": "2026-08-28T13:07:59+08:00", "event": "item_skipped", "run_id": "85167f936b364fe3b4ee10246796aa4a", "aweme_id": "7665159402169023419"}
+{"at": "2026-08-28T13:07:59+08:00", "event": "item_skipped", "run_id": "85167f936b364fe3b4ee10246796aa4a", "aweme_id": "7661169287754860977"}
+{"at": "2026-08-28T13:07:59+08:00", "event": "item_skipped", "run_id": "85167f936b364fe3b4ee10246796aa4a", "aweme_id": "7663241712110852773"}
+{"at": "2026-08-28T13:07:59+08:00", "event": "item_skipped", "run_id": "85167f936b364fe3b4ee10246796aa4a", "aweme_id": "7663223699977346233"}
+{"at": "2026-08-28T13:07:59+08:00", "event": "item_skipped", "run_id": "85167f936b364fe3b4ee10246796aa4a", "aweme_id": "7663219400774338683"}
+{"at": "2026-08-28T13:07:59+08:00", "event": "item_skipped", "run_id": "85167f936b364fe3b4ee10246796aa4a", "aweme_id": "7662666926325915642"}
+{"at": "2026-08-28T13:07:59+08:00", "event": "item_skipped", "run_id": "85167f936b364fe3b4ee10246796aa4a", "aweme_id": "7656204261777334629"}
+{"at": "2026-08-28T13:07:59+08:00", "event": "item_skipped", "run_id": "85167f936b364fe3b4ee10246796aa4a", "aweme_id": "7655357966699688549"}
+{"at": "2026-08-28T13:07:59+08:00", "event": "item_skipped", "run_id": "85167f936b364fe3b4ee10246796aa4a", "aweme_id": "7661016101333103483"}
+{"at": "2026-08-28T13:07:59+08:00", "event": "item_skipped", "run_id": "85167f936b364fe3b4ee10246796aa4a", "aweme_id": "7653376665279694970"}
+{"at": "2026-08-28T13:07:59+08:00", "event": "item_skipped", "run_id": "85167f936b364fe3b4ee10246796aa4a", "aweme_id": "7658487994466562746"}
+{"at": "2026-08-28T13:07:59+08:00", "event": "item_skipped", "run_id": "85167f936b364fe3b4ee10246796aa4a", "aweme_id": "7658489785451351717"}
+{"at": "2026-08-28T13:07:59+08:00", "event": "item_skipped", "run_id": "85167f936b364fe3b4ee10246796aa4a", "aweme_id": "7655972138499440122"}
+{"at": "2026-08-28T13:07:59+08:00", "event": "item_skipped", "run_id": "85167f936b364fe3b4ee10246796aa4a", "aweme_id": "7655395292368912057"}
+{"at": "2026-08-28T13:07:59+08:00", "event": "item_skipped", "run_id": "85167f936b364fe3b4ee10246796aa4a", "aweme_id": "7655919946677084529"}
+{"at": "2026-08-28T13:07:59+08:00", "event": "item_skipped", "run_id": "85167f936b364fe3b4ee10246796aa4a", "aweme_id": "7654611523558550779"}
+{"at": "2026-08-28T13:07:59+08:00", "event": "item_skipped", "run_id": "85167f936b364fe3b4ee10246796aa4a", "aweme_id": "7655043330086400379"}
+{"at": "2026-08-28T13:07:59+08:00", "event": "item_skipped", "run_id": "85167f936b364fe3b4ee10246796aa4a", "aweme_id": "7655355835291593977"}
+{"at": "2026-08-28T13:07:59+08:00", "event": "item_skipped", "run_id": "85167f936b364fe3b4ee10246796aa4a", "aweme_id": "7654231180670334906"}
+{"at": "2026-08-28T13:07:59+08:00", "event": "item_skipped", "run_id": "85167f936b364fe3b4ee10246796aa4a", "aweme_id": "7654654307861835707"}
+{"at": "2026-08-28T13:07:59+08:00", "event": "item_skipped", "run_id": "85167f936b364fe3b4ee10246796aa4a", "aweme_id": "7653890096488052474"}
+{"at": "2026-08-28T13:07:59+08:00", "event": "item_skipped", "run_id": "85167f936b364fe3b4ee10246796aa4a", "aweme_id": "7650383284517701297"}
+{"at": "2026-08-28T13:07:59+08:00", "event": "item_skipped", "run_id": "85167f936b364fe3b4ee10246796aa4a", "aweme_id": "7652225334909087857"}
+{"at": "2026-08-28T13:07:59+08:00", "event": "item_skipped", "run_id": "85167f936b364fe3b4ee10246796aa4a", "aweme_id": "7650386623877142641"}
+{"at": "2026-08-28T13:07:59+08:00", "event": "item_skipped", "run_id": "85167f936b364fe3b4ee10246796aa4a", "aweme_id": "7641748270666502053"}
+{"at": "2026-08-28T13:07:59+08:00", "event": "item_skipped", "run_id": "85167f936b364fe3b4ee10246796aa4a", "aweme_id": "7648070053632915707"}
+{"at": "2026-08-28T13:07:59+08:00", "event": "item_skipped", "run_id": "85167f936b364fe3b4ee10246796aa4a", "aweme_id": "7643898683566478458"}
+{"at": "2026-08-28T13:07:59+08:00", "event": "item_skipped", "run_id": "85167f936b364fe3b4ee10246796aa4a", "aweme_id": "7651030160317442938"}
+{"at": "2026-08-28T13:07:59+08:00", "event": "item_skipped", "run_id": "85167f936b364fe3b4ee10246796aa4a", "aweme_id": "7651321893286891513"}
+{"at": "2026-08-28T13:07:59+08:00", "event": "item_skipped", "run_id": "85167f936b364fe3b4ee10246796aa4a", "aweme_id": "7650179880881676025"}
+{"at": "2026-08-28T13:07:59+08:00", "event": "item_skipped", "run_id": "85167f936b364fe3b4ee10246796aa4a", "aweme_id": "7650188676403874533"}
+{"at": "2026-08-28T13:07:59+08:00", "event": "item_skipped", "run_id": "85167f936b364fe3b4ee10246796aa4a", "aweme_id": "7648839572881457530"}
+{"at": "2026-08-28T13:07:59+08:00", "event": "item_skipped", "run_id": "85167f936b364fe3b4ee10246796aa4a", "aweme_id": "7648836763835064817"}
+{"at": "2026-08-28T13:07:59+08:00", "event": "item_skipped", "run_id": "85167f936b364fe3b4ee10246796aa4a", "aweme_id": "7646266528501929978"}
+{"at": "2026-08-28T13:07:59+08:00", "event": "item_skipped", "run_id": "85167f936b364fe3b4ee10246796aa4a", "aweme_id": "7646252166591682425"}
+{"at": "2026-08-28T13:07:59+08:00", "event": "item_skipped", "run_id": "85167f936b364fe3b4ee10246796aa4a", "aweme_id": "7646828643305684347"}
+{"at": "2026-08-28T13:07:59+08:00", "event": "item_skipped", "run_id": "85167f936b364fe3b4ee10246796aa4a", "aweme_id": "7646248363017229937"}
+{"at": "2026-08-28T13:07:59+08:00", "event": "item_skipped", "run_id": "85167f936b364fe3b4ee10246796aa4a", "aweme_id": "7646232261083966395"}
+{"at": "2026-08-28T13:07:59+08:00", "event": "item_skipped", "run_id": "85167f936b364fe3b4ee10246796aa4a", "aweme_id": "7645439106923425530"}
+{"at": "2026-08-28T13:07:59+08:00", "event": "item_skipped", "run_id": "85167f936b364fe3b4ee10246796aa4a", "aweme_id": "7646888035271809529"}
+{"at": "2026-08-28T13:07:59+08:00", "event": "item_skipped", "run_id": "85167f936b364fe3b4ee10246796aa4a", "aweme_id": "7646230119371921401"}
+{"at": "2026-08-28T13:07:59+08:00", "event": "item_skipped", "run_id": "85167f936b364fe3b4ee10246796aa4a", "aweme_id": "7655758185437216497"}
+{"at": "2026-08-28T13:07:59+08:00", "event": "item_skipped", "run_id": "85167f936b364fe3b4ee10246796aa4a", "aweme_id": "7646158372903779771"}
+{"at": "2026-08-28T13:07:59+08:00", "event": "item_skipped", "run_id": "85167f936b364fe3b4ee10246796aa4a", "aweme_id": "7645334836353526437"}
+{"at": "2026-08-28T13:07:59+08:00", "event": "item_skipped", "run_id": "85167f936b364fe3b4ee10246796aa4a", "aweme_id": "7645434866285604793"}
+{"at": "2026-08-28T13:07:59+08:00", "event": "item_skipped", "run_id": "85167f936b364fe3b4ee10246796aa4a", "aweme_id": "7644401369890503419"}
+{"at": "2026-08-28T13:07:59+08:00", "event": "item_skipped", "run_id": "85167f936b364fe3b4ee10246796aa4a", "aweme_id": "7640947433228984817"}
+{"at": "2026-08-28T13:07:59+08:00", "event": "item_skipped", "run_id": "85167f936b364fe3b4ee10246796aa4a", "aweme_id": "7643698433697602745"}
+{"at": "2026-08-28T13:07:59+08:00", "event": "item_skipped", "run_id": "85167f936b364fe3b4ee10246796aa4a", "aweme_id": "7642462215992680113"}
+{"at": "2026-08-28T13:07:59+08:00", "event": "item_skipped", "run_id": "85167f936b364fe3b4ee10246796aa4a", "aweme_id": "7640934659875115385"}
+{"at": "2026-08-28T13:07:59+08:00", "event": "item_skipped", "run_id": "85167f936b364fe3b4ee10246796aa4a", "aweme_id": "7640931552348934649"}
+{"at": "2026-08-28T13:07:59+08:00", "event": "item_skipped", "run_id": "85167f936b364fe3b4ee10246796aa4a", "aweme_id": "7641685038484398585"}
+{"at": "2026-08-28T13:07:59+08:00", "event": "item_skipped", "run_id": "85167f936b364fe3b4ee10246796aa4a", "aweme_id": "7641100822009580453"}
+{"at": "2026-08-28T13:07:59+08:00", "event": "item_skipped", "run_id": "85167f936b364fe3b4ee10246796aa4a", "aweme_id": "7640302879823111921"}
+{"at": "2026-08-28T13:07:59+08:00", "event": "item_skipped", "run_id": "85167f936b364fe3b4ee10246796aa4a", "aweme_id": "7640300114988683889"}
+{"at": "2026-08-28T13:07:59+08:00", "event": "item_skipped", "run_id": "85167f936b364fe3b4ee10246796aa4a", "aweme_id": "7639939766688417531"}
+{"at": "2026-08-28T13:07:59+08:00", "event": "item_skipped", "run_id": "85167f936b364fe3b4ee10246796aa4a", "aweme_id": "7638764114966133233"}
+{"at": "2026-08-28T13:07:59+08:00", "event": "item_skipped", "run_id": "85167f936b364fe3b4ee10246796aa4a", "aweme_id": "7638469246976880037"}
+{"at": "2026-08-28T13:07:59+08:00", "event": "item_skipped", "run_id": "85167f936b364fe3b4ee10246796aa4a", "aweme_id": "7638762219970364282"}
+{"at": "2026-08-28T13:07:59+08:00", "event": "item_skipped", "run_id": "85167f936b364fe3b4ee10246796aa4a", "aweme_id": "7638703770792894585"}
+{"at": "2026-08-28T13:08:00+08:00", "event": "item_skipped", "run_id": "85167f936b364fe3b4ee10246796aa4a", "aweme_id": "7637963686207831738"}
+{"at": "2026-08-28T13:08:00+08:00", "event": "item_skipped", "run_id": "85167f936b364fe3b4ee10246796aa4a", "aweme_id": "7637537704767864505"}
+{"at": "2026-08-28T13:08:00+08:00", "event": "item_skipped", "run_id": "85167f936b364fe3b4ee10246796aa4a", "aweme_id": "7637226613721151089"}
+{"at": "2026-08-28T13:08:00+08:00", "event": "item_skipped", "run_id": "85167f936b364fe3b4ee10246796aa4a", "aweme_id": "7636909478159709625"}
+{"at": "2026-08-28T13:08:00+08:00", "event": "item_skipped", "run_id": "85167f936b364fe3b4ee10246796aa4a", "aweme_id": "7636569351151308401"}
+{"at": "2026-08-28T13:08:00+08:00", "event": "item_skipped", "run_id": "85167f936b364fe3b4ee10246796aa4a", "aweme_id": "7636518473635641573"}
+{"at": "2026-08-28T13:08:00+08:00", "event": "item_skipped", "run_id": "85167f936b364fe3b4ee10246796aa4a", "aweme_id": "7636181612330744314"}
+{"at": "2026-08-28T13:08:00+08:00", "event": "item_skipped", "run_id": "85167f936b364fe3b4ee10246796aa4a", "aweme_id": "7635822162120848817"}
+{"at": "2026-08-28T13:08:01+08:00", "event": "run_completed", "run_id": "85167f936b364fe3b4ee10246796aa4a", "status": "COMPLETED", "input_count": 82, "newly_completed": 0, "newly_unavailable": 0, "result_count": 82, "completed_count": 80, "unavailable_count": 2, "raw_field_count": 678, "finished_at": "2026-08-28T13:08:01+08:00"}
