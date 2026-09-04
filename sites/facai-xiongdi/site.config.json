@@ -1,12 +1,12 @@
 {
   "id": "facai-xiongdi",
-  "title": "发财兄弟｜聊赚钱",
-  "subtitle": "把观点还给原文，把知识连成一本书",
+  "title": "发财兄弟｜商业破局实操手册",
+  "subtitle": "从穷人思维到生产资料，从一人闭环到终身事业",
   "author": "发财兄弟",
   "brandMark": "财",
   "theme": "amber",
-  "dek": "从认知觉醒到生产资料，从一人闭环到终身事业——一份普通人的财富跃迁地图。",
-  "description": "商业、赚钱、认知：基于博主 35 个公开视频整理的第一人称全景书与可追溯逐字稿。",
+  "dek": "普通人财富跃迁战案指南：真实算账、避坑红线、轻资产一人闭环与终身复利资产。",
+  "description": "基于发财兄弟 35 个公开视频真实知识提炼的商业破局战案全书。",
   "vercel": {
     "projectId": "prj_qg0q6CcqoNrGXc6cvehNp1ip2RC6",
     "projectName": "facai-xiongdi-ebook"
